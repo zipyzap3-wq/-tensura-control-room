@@ -25,4 +25,6 @@ https://zipyzap3-wq.github.io/-tensura-control-room/
 
 ## Deployment
 
+GitHub Actions is configured to publish this site when a commit is pushed to `main`.
+
 The workflow in `.github/workflows/pages.yml` publishes the root `index.html` through GitHub Pages when changes are pushed to `main`.

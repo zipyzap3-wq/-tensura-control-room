@@ -18,3 +18,20 @@ Do not treat this dashboard as automatically connected to the story repository. 
 
 ## Prompt checklist
 A generated chapter prompt should remind the writer to read the actual previous chapter, check canon and character knowledge, choose POV, plan scene changes, preserve approved decisions, and run a continuity review.
+
+## Character creation and appearance modules
+Before creating or substantially revising a major or recurring character, read:
+- `WRITING_METHOD/ENGINES/CHARACTER_FORGE.md`
+- `WRITING_METHOD/ENGINES/LIVING_APPEARANCE_METHOD.md`
+
+These are required companion modules to the LSM master protocol, not optional inspiration.
+
+For each newly created major character, produce and maintain:
+1. A **Character Forge dossier** covering motives, contradictions, independent agency, goals, worldview, limits, skills, history, relationships, behavior under pressure, voice fingerprint, arc, narrative function, and continuity.
+2. A **Full Appearance Dossier** with concrete physical details and stable visual anchors.
+3. A **Reader-Facing Description** that introduces the character naturally through the active viewpoint, not as a pasted checklist.
+4. A **Visual Reference Specification** for consistent illustrations or image generation when visual references are useful.
+
+Do not leave appearance at generic labels such as “handsome,” “beautiful,” “sharp eyes,” or “black hair.” Define facial structure, hair construction and texture, body proportions, complexion, movement, wardrobe, distinguishing features, and continuity locks at the level appropriate to the project. Do not invent details that contradict source canon or locked project facts. Mark unknowns as unknown rather than silently deciding them.
+
+Use full dossiers as reference material, not as prose to dump into a chapter. Reveal details selectively through the viewpoint character's attention, action, proximity, and scene purpose. Track outfit, injury, grooming, transformation, and other temporary or permanent changes across chapters. Project canon, user-approved designs, source-canon constraints, and existing character locks override generic craft advice.

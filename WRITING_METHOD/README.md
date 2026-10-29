@@ -14,3 +14,10 @@ This repository carries a local, portable copy of **The Living Story Method (LSM
 
 ## Versioning
 The copies currently identify themselves as LSM 1.0.0. Keep the master protocol consistent across repositories when updating the method. Project adapters are intentionally different because each repository has its own constraints.
+
+
+## Character and appearance engines
+- [Character Forge](ENGINES/CHARACTER_FORGE.md): build characters with specific psychology, independent agency, goals, contradictions, skills and limits, relationships, voice, pressure responses, and meaningful arcs.
+- [Living Appearance Method](ENGINES/LIVING_APPEARANCE_METHOD.md): create detailed appearance dossiers, natural viewpoint-filtered descriptions, visual reference specifications, and continuity locks.
+
+For major new characters, use these alongside the master protocol and project adapter. Create the reference dossiers before relying on the character in long-form prose; keep the prose descriptions selective and update appearance continuity whenever the character changes.

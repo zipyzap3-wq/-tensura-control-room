@@ -28,3 +28,7 @@ https://zipyzap3-wq.github.io/-tensura-control-room/
 GitHub Actions is configured to publish this site when a commit is pushed to `main`.
 
 The workflow in `.github/workflows/pages.yml` publishes the root `index.html` through GitHub Pages when changes are pushed to `main`.
+
+## Writing method
+
+This repository includes a portable [Living Story Method guide](WRITING_METHOD/README.md), with the [master protocol](WRITING_METHOD/LSM_MASTER_PROTOCOL.md) and a [project-specific adapter](WRITING_METHOD/PROJECT_ADAPTER.md). These supplement, and do not override, the repository's existing rules.

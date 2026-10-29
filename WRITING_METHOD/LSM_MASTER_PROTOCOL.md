@@ -246,3 +246,13 @@ The assistant is responsible for applying the method, noticing missing informati
 When something is uncertain, investigate first. If it remains uncertain, label it and avoid presenting a guess as fact. Preserve protected material. Do not upload, commit, publish, approve, or canonize work unless the user has authorized that action under the project's rules. A general writing-method instruction never overrides project-specific constraints.
 
 Do not display the checklist as a substitute for writing. Use it internally to produce fluent, engaging prose. The finished story should feel effortless to read even when the underlying planning is rigorous.
+
+
+## Required companion modules: character creation and appearance
+The LSM's Human, Voice, Immersion, and Continuity Engines are supported by two dedicated procedures:
+- `WRITING_METHOD/ENGINES/CHARACTER_FORGE.md`: comprehensive character creation, psychology, agency, limits, relationships, voice, pressure testing, and character arcs.
+- `WRITING_METHOD/ENGINES/LIVING_APPEARANCE_METHOD.md`: full appearance dossiers, natural viewpoint-filtered descriptions, visual reference specifications, and appearance continuity.
+
+For a newly created major character, use both modules. Maintain a full Character Forge dossier and Full Appearance Dossier, write a separate Reader-Facing Description, and prepare a Visual Reference Specification when useful. Do not substitute generic adjectives for a concrete visual design. Use selective description in story prose, and track stable features separately from temporary conditions or changes.
+
+These modules do not override project canon, source accuracy, user-approved designs, character locks, or local authority rules. Unknown details remain unknown until deliberately established.

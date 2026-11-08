@@ -18,6 +18,7 @@ This is a clean-slate project area inside the Central Control Room repository. I
 ## Navigation
 - 04_SOURCE_MATERIAL/SOURCE_READ_LOG.md
 - 05_PROJECT_AUTHORITY/PROJECT_DIRECTION_AND_AU_INTEGRATION.md
+- 13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md
 - 13_REUSABLE_CRAFT/SOURCE_CHUNK_INTEGRATION_METHOD.md
 - 13_REUSABLE_CRAFT/CHARACTER_INTEGRITY_AND_VOICE_LOCK.md
 - 13_REUSABLE_CRAFT/LIGHT_NOVEL_SERIAL_NARRATIVE_METHOD.md
@@ -36,6 +37,13 @@ This is a clean-slate project area inside the Central Control Room repository. I
 - 10_WORKFLOW_PATH_MAP_TEMPLATE.md
 - 11_EXECUTION_CHECKPOINT.md
 - 12_FILE_LADDER_REGISTER.md
+
+## How the living ladder works
+The master ladder defines the 00-15 production stages. Every individual file carries its own local ladder: file ID/path, stage, work order in its description, prerequisites, required actions, evidence/status, predecessor and exact next destination/action. The checkpoint is the live resume pointer; the file register is the route index. Update all three after each completed work unit.
+
+Source intake is governed by `13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md`. It requires QUEUED → OPENED → READ IN FULL → EXTRACTED → BOUNDARIES CHECKED → RECONCILED → VERIFIED. The process tracks cross-chunk scenes, event beats, cast responsibilities, page gaps, character knowledge and the next exact source file. Importing a file never counts as reading it.
+
+The established writing methods are active requirements during planning, drafting and review, not passive references. The chapter packet identifies methods applied; review and audit verify their actual use.
 
 ## Project boundaries
 - No agent infrastructure, paid API dependency, autonomous agent or agent automation.

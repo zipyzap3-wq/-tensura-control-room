@@ -1,0 +1,565 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 50 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_04_Chunk_005.txt | SHA 80a4fa97b7061a345fc00b4714847ae686b2bdcd | 36972 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_04/Volume_04_Chunk_006.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 2 (continued) ===
+
+“Ahh, enough silliness! We have a platoon of elite forces on standby beyond that door. There is nothing to worry about. Plus… I doubt these visitors of ours could possibly mean us any harm. They would achieve nothing from it. If they intended to, they would’ve taken action the last time we shared a drink together,” Vaughn said, taking another swig.
+
+This was enough to either make Dolph’s concerns go away or just make him give up entirely. Either way, he plopped down to the left of King Gazel. “Let me have some, too, then!” he said, presenting an empty glass to Shuna. I wasn’t sure exactly when he emptied it, but I suppose it was too tempting for him to resist.
+
+After we enjoyed this bender for a little bit:
+
+“So, Rimuru! Before I become too inebriated, I wanted to ask: That potent magical weapon you used to defeat Charybdis; what
+
+is
+
+it, exactly? I am told you unleashed a force unlike anything seen before, more powerful than even the most fearsome of tactical-level magic attacks.”
+
+“Ah…that…”
+
+Yes, that. The thing I already explained to them but failed to get anyone to believe. That crazy-powerful attack from the demon lord Milim, the one that indirectly led to this state visit. Ah well. Let’s try giving them the truth one more time.
+
+“Hmm… Well, nobody believed me when I told them, y’know. I don’t think you quite understood what I was talking about, Dolph…”
+
+“I didn’t?”
+
+“No. That wasn’t any secret weapon of ours or anything. It was really just the power of the demon lord Milim.”
+
+“Ah, Sir Rimuru, you and your jests again…”
+
+“Well, hear him out, Dolph.” Vaughn stroked the hairs on his chin. “I’m rather curious about that question myself. As commander in chief of our armies, I know that if a hundred Pegasus Knights working in tandem can’t take down a threat, the only thing left to turn to is tactical-level magic. The most effective approach would be to neutralize the enemy’s magic defenses and deliver constant damage without giving them a moment’s rest to heal themselves. But Jaine told me herself—in her eyes, not even a nuclear-level magic strike could defeat the likes of Charybdis. The power levels needed would bend the rules of magic themselves, leading to heat-transfer problems or something—the exact details are beyond my understanding, admittedly, but in short, magic wouldn’t work, would it? So neither would magic weapons, I imagine?”
+
+Jaine was the arch-wizard of the Dwarven Kingdom, an expert in all forms of magic and someone smart enough to notice that her skills didn’t work on Charybdis. Magic, in this world, gained its energy through magicules, unique particles that floated around in the atmosphere. Charybdis had the power of Magic Interference, letting it dispel those magicules and render all magic useless. I only discovered that because I possessed that skill myself.
+
+Let’s say, for example, that a fireball attack works by heating up magicules in the air and directing that ball of heat toward your target. If I can dispel the magicules around me, that drastically reduces the transfer rate of that heat through the air. It’s possible to shut down slashing-, freezing-, and lightning-based attacks in similar ways. Pretty useful stuff.
+
+If you wanted to break through that, it’d have to be via something besides magicules. Instead of aiming right at Charybdis, perhaps we could’ve triggered a shock-wave blast that heated up the air and sent that wave hurtling toward it. Maybe we could’ve damaged it more then.
+
+We were flying by the seat of our pants out there, too focused on the fight to really notice any of this. It was too late to quibble about it now. But what
+
+was
+
+Milim’s attack, really?
+
+Understood. Two possibilities are available. Either the Magic Interference was obliterated by an even larger force, or some simpler attack was used that did not work via magicules. Due to data collection errors, the exact attack cannot be identified. However, there is a high chance that the former possibility is correct.
+
+That was the Sage’s guess. As it saw things, the presence of that unknown material it couldn’t detect the nature of indicated the second scenario was unlikely. Plus, logically speaking, it was totally possible for someone with the magical strength and energy of Milim to simply overwhelm Charybdis in a magical arm-wrestling match.
+
+Dolph shrugged. “Indeed, magic was wholly useless. But pinning everything on the demon lord Milim just seems too convenient an excuse to me. If you had a previously unknown weapon you wished to keep a secret, though, that makes it more understandable.”
+
+He was more willing to believe we had a secret doomsday bomb of some kind than that Milim actually agreed to join in combat. King Gazel gave him a thoughtful look.
+
+“But, Dolph, do you think that’s possible? Even if we made our tactical magic ten times more powerful, do you think that would have defeated the opponent? We are talking about a monster that annulled the almighty force of a high-level dryad-driven spirit. Any magical force capable of defeating it would be beyond anything I could imagine. But with Milim, the dragon princess herself, we should expect the unexpected, to be sure.”
+
+Gazel, at least, seemed familiar with her. I didn’t even know if Milim’s attack was magical or not, but either way, it obliterated Charybdis. The king was right; it really was beyond anything I could imagine.
+
+“So you think that really was Milim?” asked an excited-looking Vaughn.
+
+“Yes, well… That would explain a number of things. But why would a demon lord like her be there…? That I cannot say. If you claim Milim was with you, could you explain exactly what led to that?”
+
+Now the king had pointed the argument back at me. Dolph and Vaughn followed his gaze.
+
+“Yes, well…it’ll be a bit of a long story. But let me begin with what happened after I last took leave of this kingdom.”
+
+So I did, telling them about everything following my unceremonious removal from Dwargon. The rest listened on, consuming our brandy and finger food in silence. By the time I was done, a third of the barrel was gone. Talk about maintaining a pace. The barrel would’ve been bone-dry by now if it was beer I’d provided, no doubt.
+
+“That does seem to make sense, but…”
+
+“The very idea of taming that demon lord… Imagine!”
+
+“Hard to believe, indeed…but we do have reports of a young girl taking a central role in the battle…”
+
+The three looked at one another, exchanging their own takes. “Hmph!” Shion snorted next to them. “Sir Rimuru would never lie to anyone!” I supposed she must have been sampling some of the wares in the barrel with the rest of them. Shuna was the sole attendant responsible for keeping our cups full and our stomachs filled with something to absorb all the liquor. It certainly kept her on her feet. Very thoughtful of her.
+
+I wish Shion could learn from that a little.
+
+As I thought about that, King Gazel and his men made their conclusions.
+
+“I believe your tale, Rimuru.”
+
+“My apologies for mistrusting you. It was just rather difficult to wrap one’s mind around…”
+
+“Wah-ha-ha-ha! You are a mysterious one indeed, Sir Rimuru! Making acquaintances with the oldest demon lord in the land—and in such a short time, too!”
+
+Finally, they were seeing things my way. Which was better for me, I suppose, but either way, I was glad we were on the same page. I figured that was the end of the night’s serious discussions, but I was wrong—if anything, our summit conference disguised as a domestic drinking party was only getting started.
+
+Our conversation turned to recent events in our respective kingdoms as well as our latest research results. I also heard about an event planned for tomorrow, where we’d go before the public and formally declare friendly relations between our two countries.
+
+As the night wore on, the topic drifted over to the whiskey I’d brought.
+
+“This is
+
+such
+
+a wonderful drink. I have never tasted anything so intense before. What is it exactly?”
+
+The barrel was now less than half full, which I probably should’ve expected. This was some heavy drink, and we were having it straight on the rocks, so a little drunkenness at this point was unavoidable.
+
+“This is called whiskey. It’s made by distilling beer.”
+
+“Oh? What is this ‘distilling’?”
+
+Hoo boy. This was gonna get thorny.
+
+“Well, you’re a researcher, so I’m sure you know it’s the alcohol in beverages like these that makes you feel drunk. Alcohol has a lower boiling point than water, so if you boil a fermented compound like beer and collect the steam that results, you’ll wind up with a higher-alcohol beverage. That’s what a distilled spirit is, basically.”
+
+Gazel nodded at my executive summary. “I see. Perhaps that high-grade liquor made by the otherworlder was crafted in the same way.”
+
+“An otherworlder?!”
+
+Oooh, now
+
+this
+
+sounded like some useful information. I’d love to meet them, if we’re all from the same country.
+
+“Yes. In the capital of the Empire, there was a beverage created by an otherworlder who was presented to the emperor. Some of it was put up for sale, and given the limited supply, it’s being traded for exorbitant prices. It seems it cannot be made in large quantities; does the same apply to this whiskey?”
+
+Ah. Too bad. I wanted to check out the Eastern Empire, but they were a full-on military state, and they ran their borders pretty tightly. It’d be harder to pay a casual visit than it’d be with the Western Nations. Plus, they even had a specialized force devoted to monster slaying—not to mention monster-specific fighters in the west as well, something else I’d have to watch out for. No need to rush it—best to wait for the right opportunity to meet this Empire otherworlder.
+
+If I had to guess, the short supply was more an excuse than anything. Perhaps they didn’t have facilities large enough for mass manufacture, but money could do a lot to fix that. They probably just restricted production to retain its premium value.
+
+“Well, this
+
+is
+
+a luxury item of sorts, so we can’t make massive quantities. It’s not a technological problem, though; more of an issue with my nation’s food situation. Remember how we didn’t even have beer to offer you at your visit? We’ve finally finished growing some test samples for the wheat and barley we’d need for that. We’ll begin brewing in earnest starting next year, but depending on how much grain we harvest, there’s only so much we can devote to high-end distillation like this.”
+
+So as I told them, we can only make enough to enjoy for ourselves.
+
+“Ah, is that so? Yes, we rely on Farmus or the Empire for much of the food we import as well…”
+
+“Indeed. Our low food self-sufficiency is our kingdom’s single weakness.”
+
+“And you can’t use magic teleportation to send food long distances, unlike weapons and armor. You’re forced to work through merchant middlemen. Which is partly why we’ve made ourselves into a successful free-trade city, but…”
+
+Hmm. Interesting. Their nation was built from the ground up for self-defense, but large-scale crop production couldn’t be very easy in underground caverns. It wasn’t completely shut off from sunlight, but it wasn’t really suited for food production, either. That’s why they decided to tackle that obstacle by polishing their tech skills and encouraging trade. Being a free-trade city pushes more merchants to stop by, strengthens economic bonds with other countries, and makes them a more valuable asset to the world at large—hence why the Dwarven Kingdom was such a force in this land by now. I’d love to learn from that and build our own economic links.
+
+But something else about that grabbed my attention.
+
+“Hey, can I ask a question?”
+
+“Mm?”
+
+“When you said you can’t use magic to transport food—?”
+
+“Ah, yes, about that—”
+
+Dolph explained it all in King Gazel’s stead. As he put it, transportation magic wasn’t a cure-all—using it to teleport organic matter could transform it, due to all the magicules it’d get exposed to. Things like fur pelts might just have their quality affected a little bit, but food would be mutated into something wholly inedible. Gobta had mentioned to me that the Dwarven Kingdom had transport offices in place; I was hoping to research them a bit to see if they could help with our own logistics. Hearing about
+
+this
+
+issue sounded like a big setback.
+
+“But you can transport people all day with teleport magic,” I mused. Dolph and Vaughn immediately seized on that point.
+
+“Exactly. Jaine tells us that teleportation works on wholly different principles and levels of magical force consumed. She mentioned it during a military conference where we discussed more effective methods of troop transport.”
+
+“Ha-ha-ha! I thought it’d be nice if we could teleport an army division directly behind the enemy with magic. But apparently another nation tried that once and wound up killing several thousand soldiers in the blink of an eye. It was meant to be a last-ditch tactical maneuver, but it wound up wiping the nation off the map.”
+
+“Hold it there, you!” King Gazel bellowed. “Are you drunk? That
+
+is
+
+confidential military intelligence…!”
+
+“Ah! I—I apologize, Your Majesty!”
+
+“Aye, shouldn’t have let that one slip. Sorry, sorry. Forget about it.”
+
+“Normally, I’d court-martial you for that one. Honestly…”
+
+The king was forceful in his words, but his demeanor didn’t indicate much offense. Dolph and Vaughn just smiled and expressed their regret, no doubt recognizing this.
+
+“I see, though,” I ventured. “I suppose we’ll need to build our trade routes the old-fashioned way. We’re on our way to procuring an import source for fruit, too…”
+
+“Oh? Somebody besides us has tried to build ties with you?”
+
+“More or less. Not a humanoid kingdom anyway.”
+
+“What? Which country, then?”
+
+“We’ve only exchanged envoys at this point, but the Beast Kingdom of—”
+
+“No! Eurazania?!”
+
+“Ridiculous! That domineering Beast Master, reasoning peacefully with other nations?!”
+
+“I find that very,
+
+very
+
+hard to believe…”
+
+This came as more of a shock than I expected. I felt a little proud at so thoroughly flooring them like that. I gave them a grin, basking in it.
+
+“Oh, believe it! I had the chance to get acquainted with the demon lord Carillon. He kind of owed me a favor, so I suggested we open up some trade ties, and he gladly agreed to it. So we sent teams of envoys to each other.”
+
+“So not just Milim but the Beast Master as well, you…? If that’s a lie, then you’re the greatest impostor this century has ever known. But…”
+
+“It doesn’t seem like one to me.”
+
+“If so, then Tempest is suddenly more important than ever. You may be sitting right at the center of world trade before long!”
+
+“So, Rimuru, what do you intend to trade with each other?”
+
+Despite their surprise, King Gazel and his team had opted to believe me. I suppose they analyzed it in their heads and decided it must’ve been the truth. Gazel’s eyes were back in “king” mode now, searching for ways his nation might profit from this. I was ready for it.
+
+“Well, they have a good supply of fruit and other luxury goods—befitting the magic-driven country they are, I suppose. A far cry from a nation like ours, still scrambling to feed ourselves. There’s only enough fruit and such from the forests to keep our own plates full. If we can get enough trade going with that, we’ll be able to shift more supply over to our liquor manufacturing efforts.”
+
+“Ah! Fruit? Could you distill some of that as well?!”
+
+“Of course we could. Shuna?”
+
+“Yes, Sir Rimuru?”
+
+Right on cue, Shuna presented a different bottle, this one filled with our scarce secret stash of apple brandy.
+
+“Try some.”
+
+She passed out new glasses to everyone—her elegant hands filling each one halfway with a clear liquid. Shion had been silent for much of the past while, focused wholly on the drinking effort. I worried a little about her.
+
+“Hohh! What a sweet-smelling concoction
+
+this
+
+is!”
+
+The scent was thicker and mellower than the whiskey from before. King Gazel was immediately in love with it, letting just a few drops fall upon his tongue to sample it before proceeding.
+
+“I…cannot believe this. This is even better than that drink from the Empire I mentioned…”
+
+He’s
+
+had
+
+some of that?! I resisted the urge to ask. Unlike that otherworlder’s liquor, I had the Sage’s Analyze and Assess skills to help me craft the best distillation process possible. It was then aged in barrels made from magical trees harvested from the treants’ village, ensuring all the beneficial traits of the original ingredients were matured to their fullest. Keeping the latent flavors, in other words, while imparting aromas from the barrel itself created exquisite harmonies that only deepened the final flavor.
+
+The result was this transparent liquor here—aging didn’t give it a whiskey-like amber hue; it remained crystal clear. Amber would make it
+
+look
+
+more like fancy liquor, but that was really a matter of personal preference.
+
+This
+
+tasted a hell of a lot better. If I had started from scratch on this, I would’ve had to spend years sifting through and selecting the finest ingredients. Relying on my magic skills instead felt a bit like cheating, but nobody could say that the final product loses out at all.
+
+“I do hope your overtures with him succeed,” King Gazel whispered to me. I could tell there was a flood of emotions behind that statement. Dolph and Vaughn both eagerly nodded their agreement—everyone must’ve really liked that brandy.
+
+Suddenly, Shion stood up. “No need to worry about that!” she shouted. “Sir Rimuru is bound to solve all our problems. It is now a given that we enjoy a wealth of delicious food on our tables on a daily basis. Having it be joined by good drink is all but promised to us!”
+
+She accentuated her point by draining her glass, settling back down, and immediately falling into a pleasant, self-satisfied sleep.
+
+“……”
+
+I found myself at a loss. “You’re making
+
+me
+
+handle all this now?” I wanted to yell at her, but she was already far off into dreamland.
+
+It’s just every time with you, isn’t it, Shion? Geez.
+
+Still, it was weird. Whenever I had Shion avowing her trust in me, I felt like I could do pretty much anything. I’d bitch and moan about it, but I’d always try to make her wishes come true.
+
+“Well,” I offered, “if that’s what Shion here’s expecting, I’ll do my best, I suppose.”
+
+“Hee-hee! How reassuring to hear,” Gazel said. “I’d expect nothing less from a fellow pupil of Hakuro like yourself, Rimuru. I hope you will be generous with this when the time comes.”
+
+Hakuro doesn’t have anything to do with this, man. And I know I readily agreed to it, but the Beast Kingdom of Eurazania wasn’t exactly right next door. Maybe we could blaze a rough track, but paved-over gravel was out of the question for a while.
+
+“We’ll need to build some kind of transport path first, of course.”
+
+“Ah, about that… The hard work your crew has been putting in is nothing short of astonishing. They work several times faster than the best of our engineer corps, and seeing them build a road practically before my eyes sends shivers down my spine.”
+
+“Yeah, I’m pretty impressed, too.”
+
+“But are you sure you are content with this? We are providing you with no support at all. I didn’t expect you to come up with such a splendid highway for us…”
+
+“Hey, don’t worry about it. That’s what we promised you. And actually, I have another offer for you, so if you’d be willing to give it some thought going forward…”
+
+I gave him a satisfied grin.
+
+Step one, put your partner in a good mood. Step two, move on to the main issue. All according to plan. It was now time for me to sell the king on our Low Potions and procure a doctor or two from them—my two biggest goals here. The result: a total success, as I extracted a promise that he would give both offers ample thought.
+
+With the night now behind us, today was the big day of our friendly bilateral relations pact.
+
+I felt fine, of course, but King Gazel seemed totally unaffected by all the whiskey he drank. Dolph, on the other hand, was looking a bit green around the gills, and I heard Vaughn was still sleeping it off in his room. Wasn’t he supposed to be an admiral paladin in the Dwargon force? Could he get away with that? It wasn’t my place to criticize how they do things in foreign lands, but come on.
+
+Gazel whispered at me to keep smiling, so I did. The ceremony came and went, and while I was still nervous throughout, nothing terrible happened. Not until just before the end of it, when I was expected to say a few words.
+
+I pored over the speech in my brain before my turn came up. Rigurd and Kaijin had offered some feedback before I left, so after several rewrites, I had it memorized.
+
+I can do this. Let’s rock!
+
+In another few moments, King Gazel wrapped up. I was in slime form now, and Shion held me up to the skies in front of the lectern.
+
+“Umm, hello, everyone. I am Rimuru Tempest, lord and overseer of the Jura-Tempest Federation, or just Tempest for short. To tell the truth, I am, as you see, a slime, and one who was actually born rather recently. Through various twists and turns of circumstance, I came to know and foster a close relationship with Yohm, the champion. When the orc lord threatened to conquer the Forest of Jura, we both worked together to fight off and defeat this menace. Here, in this wonderful land called the Armed Kingdom of Dwargon, man and monster work together to create what is truly an ideal and prosperous coexistence. It is an ideal I wish to pursue for ourselves, as we attempt to build a nation in the Forest of Jura that serves as a bridge between the human and monster races. King Gazel has given his stamp of approval to my dream, which I cannot thank him enough for. Going forward, I want to maintain the mutually beneficial relationship we have. In order to do that, we will need help from each and every one of you. There are a great number of monsters in my nation, myself included. In fact, it would be fair to call ourselves a land of monsters. However, at our core, we are no different from any of you. Instead of fearing us as monsters, I hope you will accept us as new friends. I hereby swear to you that everything I have said is the unvarnished truth, and with that, I conclude my address to you.”
+
+It was short, but I still put as much firm emotion behind it as I could, hoping it would reach the hearts of Dwargon’s people. I was trying to be honest; it wasn’t like I was capable of pulling a bunch of crap out of nowhere for a speech like this. I also didn’t forget to casually note my relationship with Yohm, who was starting to become a legend in his own time.
+
+To me, the speech was pretty well perfect…but King Gazel still gave me an earful about it afterward. One, it was too short; two, it was too self-effacing; three, it was too much of an emotional appeal. To him, it was a near-perfect zero, but it’s not like I would get Gazel-style feedback from the likes of Rigurd or Kaijin.
+
+I’ll let it slide and tackle things in earnest next time.
+
+A leader was someone who governed his country; it therefore wasn’t advisable for one to depreciate himself in public, it seemed. That was all the more applicable when addressing a foreign audience, since that could lead to them writing you off as a pushover.
+
+Most important of all, however, was that ruling a nation under the concept of “Wouldn’t it be nice if…?” was strictly prohibited. As Gazel put it: “I won’t ask you not to expect great things from your people. But if you speak like that, could you blame them if they betray you later? A leader is treated as a leader because he
+
+leads
+
+. He’d be wholly unsuited for government if he can’t even believe what he’s thinking. Truly wonderful happenings won’t simply come running up to you. You need to grab them for yourself.”
+
+I suppose that advice came from the heart; he’d never need to say it otherwise. I accepted it with my utmost appreciation. I had lived wholly outside the realm of politics, but now I had (somehow or other) become the head of a nation. I had to stop crying about things and start
+
+doing
+
+things.
+
+In a way, building the kind of relationship with King Gazel where he kept looking out for me like this… Could I have asked for a better stroke of luck? I wanted to harness that luck as much as I could, no matter how much our personal interests got involved.
+
+That wrapped up all the major events at Dwargon. Beyond a few casual meetings, I’d be devoting the next few days to tourism and the like.
+
+Dolph would be leading me around. He headed the Pegasus Knights, but that job was classified; officially, he led the civil servants who filled the government’s bureaucracy, which chiefly meant he was King Gazel’s assistant.
+
+“So was there someplace you wanted to see? I’ll be happy to fill your requests to the best of my ability.”
+
+I didn’t hold anything back. I wanted to check out every facility here in Dwargon that could teach me something to improve on back home. Dolph was accommodating to it all, thankfully, and we spent several days going through all the Dwarven Kingdom’s most famous spots. Production workshops, large-scale transport facilities, even cavern air-purification setups—the works. A lot of it would be helpful to us later, I was sure, especially the air-conditioning facilities and such. I definitely wanted to get something like that set up for Vester and the rest of the gang conducting research underground.
+
+“Regular people aren’t allowed inside here, though, are they?” I asked Dolph.
+
+“Ha-ha-ha! Not normally, no, but we have a technology-sharing agreement with you. You already know about things even more classified than this; there’s no point hiding anything more from you.”
+
+That was a relief. It also showed exactly how much Gazel trusted me.
+
+We finished up most of the touring over the next few days. But of course, there was one place in the Dwarven Kingdom I’d never want to omit. That’s right—the Night Butterfly.
+
+Ah, nightlife! I was rudely interrupted by a highly agitated Vester last time I paid a visit, but that was no worry this time.
+
+“Gobta.”
+
+“Yes sir!”
+
+“You sure you’re fully prepared?”
+
+“Of course, sir!”
+
+“Well, then…in that case, shall we head over to the place I promised you?”
+
+“Ooh, finally, sir! Can’t wait!”
+
+We smiled and chuckled at each other.
+
+Gobta and I had been discussing things in great depth to prepare. I would retire early to bed, use Replication to keep a version of myself in there, then head back out to rendezvous with Gobta so we could hit the club together. Kaijin and the others were aware of our plans and would meet us there. There was no need to worry about unwelcome visitors since we had reserved the entire place for ourselves tonight. I was covering all the expenses; I’d been saving up for it, and I still had some of the gold from last time, so I doubted I’d get cleaned out.
+
+It was gonna
+
+rock
+
+.
+
+I mean, I wasn’t anticipating much, but Gobta and the rest of the gang were so excited, I didn’t want them to be a pain on the staff or anything. I was…
+
+chaperoning
+
+, that’s it! A grown-up conscience for the rest of the crew. Convincing myself this was true, I waited for the night.
+
+Once night finally came, I snuck out of my room, beside myself with anticipation. My body double was in bed, and I knew what Shuna and Shion were doing. They, of course, were my biggest obstacles to enjoying my night. Shion was engaging in some night training with Dolph and Vaughn, with whom she had hit it off, and luckily, the session was set to run exactly as long as our reserved time at the Butterfly. Shuna, meanwhile, was meeting with the palace cooks to organize the going-away banquet tomorrow night.
+
+God had truly blessed us with perfect timing. Without this opportunity, I’d never have had a moment to myself. It was little wonder that I couldn’t wait for night to fall.
+
+“Gobta, you there?” I whispered.
+
+“Yes sir! Right here, sir!” he whispered back.
+
+I gave him a nod of approval—a spring in our step as we walked.
+
+“Sure gonna be fun, huh?” Gobta asked for the millionth time. He was really attached to this place; he’d been bugging me about coming there for ages. He probably couldn’t be happier now, as his massive smile suggested.
+
+Our preparations fully complete, we followed the familiar path without fail to the club. The moment we opened the door, we were eagerly greeted.
+
+“Oh! Hello! It’s the big slime himself! Hey, everybody, he’s here!”
+
+“““Good evening!!”””
+
+“Eeeeee! I’ve been waiting forever for you!”
+
+“Wait! I get to hold him this time!”
+
+“What?! Since when do we have a rule like that?”
+
+“Welcome back!” the owner shouted. “Everything been good with you?”
+
+“You bet, sir! How ’bout all of you?”
+
+Oops. I let a little bit of Gobta slip in there.
+
+“Oh, of course! The rest of your friends are already here.”
+
+We had the whole place to ourselves, so my “friends” meant Kaijin and the dwarves. Led inside, we saw them in the main lounge, each with a female companion and in their own respective states of bliss.
+
+“Rimuru! Hey, Boss, this place is spectacular!”
+
+“Yeah, thanks for inviting me today, too, Sir Rimuru!”
+
+“Why wouldn’t I, Kaido? You’ve been a lot of help to me—at least let me spot this for ya. We’re outta here in two days, and you probably won’t see Kaijin too often after that, either. So let’s kick back and chat, okay?”
+
+“Sounds good to me!”
+
+“Hah! What’re you, crazy? A club like this, and you wanna chat with other guys?! C’mon, we got all these fine ladies here—let’s have some fun, too!”
+
+“Yeah, Kaido! Kaijin’s right!”
+
+“Right. Tonight I brought along some necklaces I made for you ladies as souvenirs. Take whichever ones you like!”
+
+“…!!”
+
+Good to see Kaijin was being Kaijin. The three brothers seemed to enjoy themselves well enough, too. But yeesh, Dold, when did you make those necklaces for these ladies? Trying to earn some brownie points? I can’t take my eye off this guy for a single moment.
+
+“Hey! No fair! You’re tryin’ to get a head start on us!”
+
+“What? This is a battlefield, man. Only the strong survive!”
+
+It was an incredibly cool way for Dold to fend off the accusation, I thought, although other people’s mileage may vary. The women seemed to enjoy the presents well enough, though, so Dold’s tactics certainly won out tonight.
+
+At the moment, I was on the knees of the owner, a familiar boinging sensation making itself known behind me. Yes.
+
+This
+
+is it.
+
+This
+
+is it! This is what men go wandering in the vast wastelands for—this oasis, this fleeting sanctuary.
+
+It filled me with such deep emotion that I offered her a drink. The club had all the usual items—beer, wine, milk, assorted fruity things—but I had a sneaking suspicion it’d be offering more mature selections—say, whiskey and brandy before long.
+
+“Ooh, what’s this?”
+
+“Ah, a new product we’re planning to make. We’ll be providing King Gazel with a supply, but we’ll let you guys have a bit as well, so offer it to your regulars and see what they think. I’d love to hear whatever feedback you get.”
+
+“My! Are you sure it’s all right?”
+
+“Oh, no problem. We can’t make very much, though, so it’s not the kinda thing we can ramp up production on for money. Maybe if you could comp your regulars one glass each, then see how much they’re willing to pay after that? I’d like to do some test marketing.”
+
+“Well, aren’t
+
+you
+
+a shrewd little rascal, Sir Slime! I can’t believe this is the same slime who gave that stiff speech in the main plaza earlier!”
+
+The owner smiled warmly and laughed. Realizing she was in the audience filled me with embarrassment. And here I thought she’d be asleep during the day since she works the night shift.
+
+“Yeah, well, that…was kind of an act, you know? I probably looked like a total amateur, didn’t I?”
+
+“Hee-hee-hee! Yes, let’s just go with that.” She smiled at my bashfulness. “But you know, I really liked it! You sounded really sincere. That’s the kind of thing that attracts people, I think. In that respect, you were a perfect ten. I was like ‘I can
+
+totally
+
+trust this slime!’ And I’d just love to see a nation like that—people and monsters living in peaceful harmony.”
+
+This made me happy. Now I knew there was someone out there who took my heartfelt speech seriously and didn’t just laugh it off as a delusion.
+
+“Well, thanks.”
+
+That was about all the reply I could muster, though.
+
+The night was an enjoyable one for everyone involved. Gobta was all nerves at first, but now they were all egging him on to perform some acrobatics for their entertainment. The ladies had him wrapped around their fingers, but he seemed to be basking in it, so I didn’t intervene.
+
+Soon, our reserved time slot was almost up.
+
+“Well, time to head out pretty soon.”
+
+“Yeah. I wouldn’t wanna bother these girls all night.”
+
+“Oh, you’re not a bother!”
+
+“Aww, you’re leaving now?”
+
+“Ha-ha-ha! Sorry, ma’am! I promise we’ll be back!”
+
+I was reluctant to go; still, I had to get back. My Replication double was still active, but if
+
+they
+
+found out about this, I’d be in deep crap.
+
+Kaido had cleaned up the home Kaijin and the dwarves used to live in, so they’d be staying there for the night. It’d be ready for use whenever they came back, too. Gobta and I, meanwhile, were headed back to our staterooms in the palace.
+
+“Now listen, guys, make sure nobody sees you on the way back home, all right? This whole night’s my little secret!”
+
+No point hammering the point home yet again, but I did so anyway. Just to make sure we all had operational security in mind. But then, one of the hob-gobs sitting on the far end of the lounge spoke up.
+
+“Oh? Um, Lady Shuna asked me where I was goin’, so I told ’er everything, sir, but…”
+
+Wh-what?!
+
+The rest of the group stared at him. Gobta went pale and clammy, and the rest of his team was unable to hide their agitation.
+
+“Whoa, whoa, whoa, you told her
+
+everything
+
+?”
+
+“Seriously?! Gobzo, what have you done?!”
+
+“That, um. Yikes.”
+
+“W-well, Boss,” Kaijin said, already stone-cold sober, “we, um, we’re going home. Best of luck with today and, y’know, Shuna and things…”
+
+He headed for the door with the other dwarves, leaving us to pick up the pieces.
+
+“Gobtaaaaaa!! What kind of training have you been giving these idiots?!”
+
+“I-I’m sorry, sir!”
+
+With tears in his eyes, Gobta apologized profusely. But this wasn’t the kind of problem a bit of sobbing could solve—and losing my temper would help even less.
+
+Then I heard it.
+
+“
+
+You
+
+look like you’ve been enjoying yourselves tonight.”
+
+“You were so late coming back, we came to pick you up, Sir Rimuru!”
+
+Shuna’s frigid voice and Shion’s resentful one.
+
+It’s all over.
+
+The dwarves sat themselves meekly on the floor, preparing for the end. They didn’t quite make it out in time.
+
+Time for me to give up all resistance, I suppose.
+
+“““W-we’re so sorry!!”””
+
+“Hmm? There’s nothing to apologize about.”
+
+“Exactly. We certainly aren’t angry that you didn’t invite us!”
+
+Their hatred ran
+
+deep
+
+this time. And thus, like perhaps a lot of evenings here at the Night Butterfly, ours ended with us wailing and apologizing to the most fearsome women in our lives.
+
+Gobzo, one of Gobta’s Goblin Riders, had put all of us in the doghouse. I thought Gobta was enough of a lost cause, but Gobzo was even worse. Better keep an eye on him.
+
+The next day, after wrapping up our final dinner banquet, I was called into King Gazel’s personal chamber.
+
+“Rimuru,” he said, “I have decided to accept your offer.” He handed me a stack of documents outlining a potential transfer of medical staff to our city. “This is just a draft, so I’d like word on how much you’re willing to accept as soon as possible.”
+
+“All right. I’ll bring this home with me and discuss it with my team.”
+
+Fortunately for us, he seemed willing to take on what I had offered him. It was a nice way to end our stay in Dwargon, not to mention begin our journey back.
+--- END PRESERVED SOURCE BODY ---

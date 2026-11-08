@@ -1,0 +1,723 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 53 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_04_Chunk_008.txt | SHA 432dabda61bf0137255d7c338b2232f52ef2ff10 | 45757 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_04/Volume_04_Chunk_009.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 4 ===
+
+CHAPTER 4
+
+THE KINGDOM OF BLUMUND
+
+Blumund. A smaller kingdom, population under a million. It consisted mainly of little villages, collected into regions ruled by noble lords. The only big settlement to speak of was the capital. It was seriously a
+
+super
+
+-tiny country.
+
+Guided by my trio of friends, we proceeded to a rural village. The tranquil sight of it, surrounded by fenced-in fields, greeted us past the forest.
+
+Our first mission was to reach the Blumund office of the Free Guild in the capital. There, I planned to meet up with Fuze and have him write an invitation to see grand master Yuuki Kagurazaka. No way would they let me just walk up and see the man; I figured I’d need some kind of reference. Fuze had already sent word that he’d be okay with this, so presumably, he’d get that thing written up once I arrived.
+
+There was a regular passenger route from this village to the city, serviced by two stagecoaches a day. It took less than three hours to reach our destination. It was a small kingdom and thankfully one with a pretty decent road infrastructure. Transport didn’t seem to be a problem.
+
+Reaching the village just before noon, we had lunch at the local inn and tavern. As we relaxed in there, I suddenly heard someone bragging in a loud voice.
+
+“So y’know what I did? I took my Great Axe and—
+
+Fwam!
+
+I smashed that sucker to the ground! And
+
+here’s
+
+what I got t’show for it!”
+
+“Wow! That’s incredible, Bydd!”
+
+“This’s a pretty strong monster, ain’t it, Bydd? You beat it all by yourself?”
+
+“Yeahhh, you could say that. After all, the likes of a Horned Bear ain’t no threat to me!”
+
+It sounded like he had whipped some powerful monster pretty well. Curious, I took a glance in their direction—only to find the massive corpse of…
+
+something
+
+sprawled out on a table, almost wholly covering it.
+
+I thought I was going to spit out a mouthful of food right there. I was expecting the Horned Bear of the story—this wasn’t it. A total fake; a regular bear with the horn from a Horned Hare lodged in its skull.
+
+It could admittedly be tricky to tell the difference between regular animals and monsters. Throw in creatures that’re mystic or magical in nature, and they get even trickier to categorize. Ranga, for example, would probably be classified as demonic, since he relied mainly on magicules for sustenance—if he were carnivorous or herbivorous, that’d be more in the realm of magical. But then, of course, he’d been known to chow down on some prey now and then, too. The whole exercise gets a little meaningless after a certain point.
+
+There was, however, one pointed difference between animals and monsters: strength. Technically speaking, magical beasts become magical in the first place once an animal is infused with magicules; it was a given that this led to certain physical boosts. As a result, it’s actually quite easy to classify a cadaver as magical or not—just examine its musculature and the composition thereof. My magic-driven analysis skills made it simple, although maybe not quite as much for the average village bumpkin. Not unless the corpse coughs up a magic crystal for them.
+
+“Hey, he’s trying to pass off a fake Horned Bear on those guys. Is that, like, okay?”
+
+“Hmm?” Kabal took a peek. “Ooh, you’re right. Well spotted, Boss.”
+
+Elen had to stifle a laugh. “Ahh, they stuck a Horned Hare one on it! Anyone who’s had more than half an hour’s magic practice could tell that right off.”
+
+“Wow, it’s that obvious to you guys? So what’s the point of doing that? If
+
+you
+
+saw right through it, I’m sure the guild would, too.”
+
+“Nah, Boss, I think he’s got different motives. He’d get branded a charlatan the moment he dragged that thing to the capital, but in a village like this? He’s the hero of the day! So in a few seconds, I’m sure he’ll be all like ‘I’ll guard this village for ya, so how ’bout some room and board?’”
+
+Aha. Gido’s theory made sense. So this was just a swindler, then. You never know what kind you’ll run into.
+
+I was prepared to leave the guy alone, chalking it up as a learning moment for me, when:
+
+“Whoa, whoa, hang on a minute. You think I can’t hear you bastards mumblin’ about how you think this’s a fake? You wanna mess with me, you better be prepared to pay for it!”
+
+Bydd, the swindling braggart, stood up and walked our way. Why is it always the guys like
+
+these
+
+who have excellent hearing? It’s like they’re just itching to cause trouble. Plus, there was another side effect to this—it drew the attention of the entire tavern to our table.
+
+“Hey, isn’t that Kabal…?”
+
+“Elen’s there, too!”
+
+“And that’s gotta be Gido, then!”
+
+In a few moments, we were surrounded by well-wishers. It was enough to make Bydd hesitate, his face growing visibly paler by the moment.
+
+“What…? Ahh, you three are so mean! If you’ve come back home, you should’ve at least said as much!”
+
+He sidled up to Kabal, so close that I thought he’d shortly be giving him a backrub, and launched a flurry of polite bows at him. It was quite the flip-flop.
+
+“Sorry, you were…?”
+
+“Aw, c’mon, it’s Bydd! The guy you beat up over in the capital a while back? I sure learned a lot from that session, Kabal!”
+
+Their last encounter reportedly involved Bydd trying to steal some of their possessions. Now he’d changed professions from thief to con man. He never quits, I suppose—or never learns.
+
+Still… Whoa, Kabal and his friends are pretty famous around here, huh? This swindler isn’t exactly on a first-name basis with Kabal, but he definitely knows and respects this trio.
+
+The rest of the tavern stared at them, positively dazzled.
+
+I was sure Kabal didn’t appreciate being respected by underworld elements like
+
+this
+
+guy, but this kind of notoriety was a surprise to me. It sounded like their recent rise through the adventuring ranks had earned them some fame. Which meant…
+
+Ooh, that’s not entirely thanks to me letting them bring back monster parts we didn’t need around town, is it?
+
+I gave the three of them judgmental stares, and they hurriedly turned their eyes elsewhere. Ah well—better not pursue it right now. Everyone has little nits they’d prefer people didn’t pick at.
+
+So I won’t get into it. Not right now.
+
+“You guys… You know why I’m looking at you?”
+
+“““Y-yes, sir!!”””
+
+All three responded in unison, of course.
+
+Well, good. Now, if I ever need some help, I’m guaranteed to have them at my beck and call. Next, let’s tackle Bydd.
+
+“And you, too—if you want people to think you’re cool or whatever, then why don’t you actually help them out when they need you? I think you’ll find people will treat you a lot differently once you do.”
+
+“…Yeah, I’ll try.”
+
+I let him go with just that warning. I was technically Kabal’s guest here, so I didn’t want to make things awkward for his band later. Bydd
+
+did
+
+seem genuinely sorry, so there was no need to go beyond that.
+
+Apart from that run-in, the journey was going pretty smoothly.
+
+Soon, we were walking down the street in the capital of Blumund. To me, the buildings seemed old-fashioned but solidly made. A throwback to the good old days—I couldn’t say how good they actually were, but definitely that romantic sort of medieval-European feel. Kind of a neat contrast to our own city, which boasted a great deal of Japanese-style homes.
+
+Everyone we passed by seemed bright and cheerful. The atmosphere certainly wasn’t gloomy or downtrodden. According to Kabal, the government had sent out an alert previously to prepare for a large influx of monsters, but that was now lifted, which meant nobody had to worry about their homes being wrecked.
+
+Regardless, this was still a largish city in an otherwise rural nation, and even here on the streets, I couldn’t help but notice how many passersby were armed. Many were also rather, shall we say,
+
+suspect
+
+in appearance. Even with my mask on, I still felt like just part of the crowd, which I was glad for. It’s all very, well,
+
+fantasy
+
+.
+
+One thing did stick out, though. As I Analyzed and Assessed my surroundings, I noticed that much of the weapons and armor I spotted were in very poor condition. In that way, it seemed fitting for the people around us, none of whom seemed capable of putting up a decent fight. The adventurers I saw in the Dwarven Kingdom seemed a lot better equipped than this.
+
+“Well, that goes without sayin’, Boss,” Kabal explained. “We don’t have too many talented blacksmiths in this city, y’see.”
+
+“Yeah, it can be a pain for us to assemble a full set of battle gear in this joint. It’s not the sort of thing money can even buy sometimes.”
+
+“Ooh yeah, I’d like to get a new magical staff, but I just can’t find the right one…”
+
+No wonder the three were so shocked to find dwarven artisans working with us. It might’ve seemed natural to me, but it must’ve bowled over those guys.
+
+Still, experiencing my first taste of an established town in a while was supremely exciting. I brought a grilled skewer of meat from a roadside stand, taking bites from it as we walked. Even the presence of stalls like that filled me with nostalgia for my old daily grind. I couldn’t tell what kind of meat it was, but I liked it. I could Assess it, I suppose, but I won’t.
+
+Instead, I turned my magical eye to the sauce, Analyzing the recipe as I tasted it on my tongue. Now Shuna had something else to add to her cookbook.
+
+In the midst of our walk, we arrived at the Blumund office of the Free Guild, a solemn-looking stone building. It was five whole stories tall, a rarity given that the highest structure I’d seen so far was two.
+
+Being constructed in a great hollow underneath a mountain, the Dwarven Kingdom had certain height limits you could build up to. That applied as much to the royal palace as it did to some low-rent hovel. The idea of building vertically didn’t really exist over there.
+
+They
+
+did
+
+have an astonishing amount of sunlight, powered by magic-driven daylight windows dotted throughout the kingdom. But I had thought the whole concept of multi-floor buildings didn’t really exist here yet.
+
+The building seemed to be temperature-controlled somehow, as it was quite pleasant inside. I wasn’t affected by temperature myself, but with Sense Heat Source, I could tell the ambient temps were markedly lower than outside. There must have been some sort of magic climate-control feature in this building.
+
+Maybe this world’s more high tech than I’ve given it credit for. Maybe the presence of magic has just made it advance and progress in a different direction from my old one. If it weren’t for things like monsters or demon lords, maybe we’d have an even loftier magic-driven civilization around here. Though, to put it another way, all the developmental energy they could use for that is instead being consumed by handling the monster threat, I suppose.
+
+That’s how much it took to stay alive in this world. Harsh place.
+
+Right now, the demon lords were granted fairly bountiful tracts of land in order to avoid riling them, but who knows? Maybe the humans around here would decide to invade the more monster-laden realms before long. And maybe monsters had the strength advantage for now, but there was no telling what the future held. Human desires can be limitless, and we’d need to address that back home if I wanted my own nation to keep its privileges.
+
+Now, I was glad I came here. I wasn’t planning to antagonize my neighbors, but if relations ever
+
+did
+
+sour between us, it was important that I know how the other side lives. Seeing human towns and knowing how their inhabitants lived would have a major impact on our future direction. I wanted to see and learn from as much as I could.
+
+But no point just standing here. I let the trio guide me farther inside into a chamber that looked a bit like the front lobby at city hall. I spotted a long counter, like the luggage drop-off at the airport, with
+
+SALES
+
+written above it. I couldn’t read it myself; it was the Great Sage who made me literate around here. Good thing for that.
+
+This counter was divided into three sections. There was the sales department, like I said; the general-affairs department, accessible to all guild members; and then an “expert” window accessible only to guild adventurers.
+
+Sales, as the name implied, was where they picked up and processed anything earned from quests or otherwise meant for guild delivery. The general counter was largely for beginners or guild members who lived in town; it was where you went to join or leave the guild as well. The final “expert” section was only for guild-accredited adventurers, which were in turn divided by specialty—retrieval, exploration, or monster slaying. This was mainly for members engaged in out-of-town activities, who were generally all referred to as “adventurers.” This meant that if you wanted to be an adventurer, you had to at least be able to defend yourself.
+
+How did all this work in practice? Well, for example, there was a department of the guild that specialized in magic. This was open to anyone who could handle magic spells, but that alone only granted you access to general-affairs services. It took more than just magic to reach the expert tier; you also needed to belong to a retrieval, exploration, or monster-slaying department and have actual field experience doing one of those three.
+
+That
+
+made you an adventurer.
+
+Kabal, Elen, and Gido were each a member of a different department—monster slaying, retrieval, and exploration, respectively. That made it easier to divide up duties among them. Maybe they were a lot more talented than I thought, actually. The way it’s been described to me, only a select few out there can earn that adventurer title and keep it.
+
+What were the merits of that title? Above anything else, freedom—part of the origin of the Free Guild’s title. All Free Guild members had to declare which country they belonged to, but adventurers were free to switch whenever they wanted. Changing your residence to a different town, or a different country for that matter, was allowed with relative ease if you liked. There were restrictions, of course, such as during times of war, but as long as you went through a third nation for the move, it was all good.
+
+Traveling between nations always leads to hassles with identification and the like. For an adventurer, though, that was all covered as long as the nation in question had agreements with the guild, making it a snap. Adventurers could act freely without ever being bound by borders, a sign of the respect given to them as protectors against the threat of monsters.
+
+Of course, I say all this, but it wasn’t like adventurers changed their declared home nation very often. If they did, it was more frequently so they could choose the country where they were obligated to pay taxes. Freedom comes with responsibility, so I suppose if everyone had the chance, they’d prefer to set up shop someplace where they had it easiest.
+
+This was the rundown they gave me.
+
+I had to head for the kingdom of Englesia after this, so I was definitely hoping I could gain some guild accreditation instead of having to deal with a bunch of immigration nonsense. With that in mind, the trio took me to the general-affairs counter.
+
+“Registration’s right over there, Boss.”
+
+“Ooh, I’m sure they’ll put you in the adventurer ranks in no time flat, Rimuru!”
+
+“I don’t even think they’d make you take the test, for that matter.”
+
+It was just before evening by the time we got in line. Apparently, the front lobby would soon be swarming with people. It was pretty chill in the afternoons, but at night, it’d get packed with people returning from the field. If we wanted to get this done soon, we had to hurry.
+
+“I’d like to register as an adventurer, please.”
+
+“…How old are you?” the woman on the other side gently asked. “Being a general member’s one thing, but aren’t you a little young to be an adventurer?”
+
+“Hey, hey, no need for that,” Kabal said as he stepped in. “This guy here, Rimuru… Lemme tell ya, he’s
+
+way
+
+more of a performer than he looks. Is my word good enough for ya?”
+
+I was expecting this, given my looks. Kabal’s team and I had discussed this in advance, and they had agreed to help me with whatever it took to get added.
+
+“He performs enough to impress you, Kabal? Well, the test can be quite a dangerous thing, however…”
+
+“Not a problem. I don’t mind.”
+
+With the three begging her in stereo, the counter clerk finally (if reluctantly) agreed to run through the registration paperwork. I filled out the sheet handed to me—name, age, special skills, birthplace, and so on. Just whatever I could fill out was fine, she said, so I simply wrote my name and
+
+SWORDSMANSHIP
+
+under the skills section.
+
+That was all it took for a general-purpose membership. Now I needed to decide which department to join. In terms of my achievements, I was qualified for all three, which made the selection process tough. I decided to start out with monster slaying. Retrieval would require me to head into the forest and search for a given target item to fetch; exploration required me to take a test in a man-made ruin in Englesia to assess my investigational skills. Monster slaying was the only test I could do right there.
+
+As I filled all this out, I heard people shouting at us.
+
+“Hey! Lookin’ good, Kabal!”
+
+“Elen’s looking just as beautiful today as always!”
+
+“What are you, blind? Anyone who isn’t amazed at Gido’s pure manliness is just an idiot!”
+
+None of that made sense to me.
+
+Why are Kabal and his friends so revered? They’re just as much celebrities here as they were back at the village.
+
+I pondered that as I wrapped up the entry sheet.
+
+“Are you sure about this? Monster slaying might be the most accessible, but it’s also the most dangerous department.”
+
+“Oh, he’s fine!” Elen insisted. “Honestly, we couldn’t defeat him even if all three of us took him on at once!”
+
+“Very true,” added Gido. “We couldn’t hold a candle to ’im.”
+
+This made everybody in the lobby stare at me, sizing me up. And while I hadn’t paid them much attention as I filled out the sheet, they had been talking about me for long before now.
+
+“Whoa, that little kid wants to take the exam?”
+
+“He’s crazy! He’s gonna be way over his head.”
+
+“You’d have to be messed up in the head to take those odds!”
+
+“I haven’t seen a katana like the one on his belt before, though. Must be pretty rare…”
+
+“Hey, you never know, maybe he’s capable, after all!”
+
+“Maybe. Those three are sure treating him nice anyway.”
+
+They certainly weren’t shy in their assessments. But when Elen declared to the world that I could whip my friends soundly, that only added to the crowd’s running commentary.
+
+“Are you kidding me? That kid’s stronger than Kabal?”
+
+“I can’t believe it, but…if they’re treating him the way they are, then it’s gotta be true.”
+
+“Enough! Settle down, you guys! I’m sorry, Boss, this ain’t exactly a polite bunch…”
+
+“Oh, it’s fine, Kabal. So how do we get this test under way?”
+
+The counter lady, stunned into silence at all this, briskly nodded. “Umm… Yes, well, I hereby grant you permission to take the examination. You must attain a rank of at least D in order to become an adventurer, so I do not recommend this exam for anyone not specialized in combat. The monster-slaying department’s exam is particularly trying, so it’s not recommended unless you’re at least a D-plus, preferably a C. Are you sure you wish to take it?”
+
+I nodded my approval. It took real strength to cut it outside of town, I suppose. But even that swindler Bydd was an adventurer with a D-plus rank, I heard. It couldn’t have been
+
+that
+
+hard.
+
+This ranking system, by the way, was also devised by Yuuki Kagurazaka. You were assigned the rank of F the moment you joined the guild and upgraded to E once you gained some battle experience. After enough time on the field, you were assigned rank D and gained the ability to call yourself an adventurer. Different guild jobs were assigned different ranks that corresponded to this, and you were also allowed to take a quest one rank higher than yours, as long as you banded with a team of several people. This was all set up in detail to prevent accidents and provide for an ample safety margin.
+
+“I’m ready when you are.”
+
+So I was all set for the test. As long as it wasn’t written, I wasn’t worried at all.
+
+The woman stood up, went into her office, and brought back a man who I assumed was the examiner.
+
+“Hmmm! You, taking the test? And stronger than Kabal, even? Well, all right. Follow me.”
+
+He certainly acted full of himself. He gave my friends a mean-looking glare on the way, too. Was there some history between them?
+
+“Hey, why’s he sneering at you?”
+
+“Ahh…” Kabal paused. “Thegis has been acting all jealous ever since we got famous. He’s retired from the field and all, so…”
+
+His eyes were turned toward the legs of Thegis the examiner. One was a prosthetic. Retired was right.
+
+“Quit gabbing and follow along,” Thegis rumbled. I followed his instructions, exiting out the back door toward another building.
+
+The test site was in a building best described as a gymnasium. There was me, Thegis, Kabal and team, and a few guild members looking to kill time by watching us. The lack of entertainment options in this world must have made something like this seem like an epic occasion.
+
+This was where the guild also held examinations to decide whether to boost a member’s rank or not. The jobs you were offered were strictly based on your rank, so the results of these tests directly connected to your wages. They were thus offered six days a week, whenever the test takers were ready for it.
+
+Examiners were assigned to each guild branch to allow for this. These examiners needed the ability to step in and provide assistance if needed, so their ranks were mostly filled with ex-adventurers who made it to A-minus rank or so. Thegis must have joined them once he lost his leg.
+
+“Let me say this first,” he briskly began. “Once you earn an E rank, you’ll have the chance to immediately try passing the D, then the C-ranked exam as well. If you fail, however, you will not be able to take another rank-upgrade challenge until you regain your current rank and earn enough points in your work to do so. Do you understand?”
+
+In other words, if I failed a ranking test, I’d have to start over from one rank below that. I appreciated how better ranks offered a better range of jobs, but this struck me as kind of a pain. They probably set this up to keep would-be adventurers from bothering the examiners all day with tests they couldn’t possibly pass.
+
+“Sounds good,” I replied. Thegis nodded, then turned to Kabal.
+
+“Hmph. I look forward to seeing exactly
+
+how
+
+you’re more powerful than Kabal and his team. Let’s just hope you don’t wind up being a sheep in wolf’s clothing, hmm?”
+
+I couldn’t blame him for doubting them, what with the monster-parts racket they were pursuing with me at the moment. Padding your point tally as quickly as they had would make anyone the target of haters. It was their fault, too.
+
+Then Thegis pointed toward the floor. “We will hold the examination inside this magic circle. We have a safety barrier over it, but don’t rely on that
+
+too
+
+much, all right? If you’re willing to risk your life for this, step inside and give me a signal when you’re ready.”
+
+I looked where he pointed. There was a broad circle drawn on the floor, maybe sixty or seventy feet across. The geometric shapes stacked atop one another inside it indicated this was a magic circle. A semicircle-shaped barrier materialized the moment I walked in. The audience watched carefully, waiting for my response.
+
+“All right!” I said, trying not to sound too worked up.
+
+“Right. Defeat the enemy before you!”
+
+Thegis released the magic he had previously chanted. The test had begun.
+
+He was using summon magic to stage this exam. As Elen mentioned to me, he was a summoner by trade, calling forth monsters to fight the enemy in his place. If I recalled correctly, summoning monsters stronger than yourself could only be done under a number of conditions, so one could guess at what’d come out based on the level of the caller.
+
+The first monster Thegis brought out was a Hunter Hound, a low-ranked monster I had never seen before. It was well trained, but that was about it. Before it could even let out a yelp—or even feel any fear, I suppose—I lopped its head off with a slash of my katana. That awarded me rank E. Super-easy.
+
+“’Kay, all done. Next, please.”
+
+The room fell silent. “Whoa,” I could hear someone whisper. Thegis was less than impressed.
+
+“Oh-
+
+ho
+
+? Well, you handled that, at least. Let your guard down, though, and you’ll pay dearly for it later. You’re ready to take the next challenge?”
+
+“Mm-hmm. I kinda wish we could skip to rank A, really.”
+
+“A? You think you can get away with being
+
+that
+
+cocky? Just because you can beat a party like Kabal’s doesn’t mean you can act like you’re king of the world. Here we go!”
+
+I started to feel like he was angry at me now.
+
+I was just trying to be honest, but… Ah well. Let’s just get this over with.
+
+Even as Thegis seethed, he summoned my next opponent—a jet-black Dark Goblin, fully armed and ripped with muscles.
+
+“Ummm… Isn’t that Thegis’s main servant?”
+
+“He’s got full armor on! I think that’d be tough for even a C rank to beat…”
+
+Before I could process these audience whispers, the examiner’s bellowing silenced them all.
+
+“Begin!!”
+
+They said this would challenge a C rank, but this is the D-ranked exam, right? Ah well. No challenge for me, either way.
+
+“And there you go. Next, please.”
+
+I had slashed the goblin to a heap with a single strike. It made Thegis quiver in anger.
+
+“Oh-
+
+hohhh
+
+! Not bad. All right—next it is, then!”
+
+The air fell silent once more—the audience being much more gripped with tension than I was.
+
+“You’ll need experience in group combat as well. Are you ready for that?”
+
+He summoned three Giant Bats.
+
+Ooh, they sure bring me back. When was the last time one of those attacked me?
+
+It seemed like ages ago.
+
+“Sure, sure, just get it started.”
+
+Our small clutch of onlookers looked like they wanted to comment on this, but they were drowned out by Thegis’s signal. Not that it mattered to me. I swiped the bats down from the air, one after another. There wasn’t even any need to rev up my perception for this, like before—they appeared frozen in the air to me anyway.
+
+The audience watched this wordlessly, enraptured by the performance. I doubted they could even follow it with their eyes. The moment the Giant Bats approached, a single flash of my blade downed them.
+
+“Okay, so there’s rank C wrapped up. Next, please.”
+
+My request brought Thegis back to his senses.
+
+“Not even my
+
+own
+
+eyes could see it…?!” Now he was starting to lose his composure. “Heh-heh-heh-heh… Well done. There is no doubt in my mind that you could defeat Kabal’s band now. Very well. I challenge you to face the trial of the B-ranked challenge!”
+
+Oh, so now it’s a trial, not an exam? I could see the veins in Thegis’s eyes bulging as he began chanting once more, this time with clear rays of magic shooting up and down his arms. The observers looked on silently. “I, uh, I’m gonna get the guild master,” shouted one before running off—but before anyone took notice, Thegis’s summon was complete.
+
+An evil creature appeared before me. It was a Lesser Demon, a monster with four wriggling arms. I hadn’t seen a demon-type creature like this before. My impulse was to consume it and take its skills.
+
+And for that matter, that wasn’t a Summon Monster spell just now, was it? It was Summon Demon.
+
+That’d
+
+come in helpful, too…
+
+Report. The summoning magic Summon Demon…successfully earned.
+
+Oh, whoops. That wound up being easier than I thought. It was funny how arts took forever and a day to master, but magic was just a quick snap of the fingers. It came that easy because he unleashed it right in front of me, yes, but it hardly seemed real sometimes.
+
+So I had that in hand, but now was no time to think about it.
+
+“This monster is a Lesser Demon! It has the ability to nullify simple melee strikes.
+
+Now
+
+what will you do? If you want to give up, better say so soon!”
+
+Thegis was getting excited now, even as I was musing about how unfair this easy magic access was. His objectives were completely changed. He hated Kabal and his friends, and he wanted to take it out on me. This was definitely
+
+not
+
+the kind of monster you carted out for a B-ranked exam.
+
+Someone had just run out to fetch the guild master, which I assumed to be Fuze. Hopefully, I could get a retest without having to defeat this guy, but…well, I was pretty sure I’d win anyway.
+
+In the midst of this, I started to overhear the audience again.
+
+“…Hey, isn’t that kind of a team-based exam subject?”
+
+“You know, I was just thinking the exact same thing, actually.”
+
+“Whoa, he wants him to beat that dude single-handed? That’d be rough even for a B-plusser.”
+
+Even they could see this was a tad unusual. And if
+
+they
+
+could, Kabal and friends knew way before now.
+
+“Um, Thegis, isn’t this going a little too far? Not to brag, but with a Lesser Demon, it’d take all three of us to finally knock ’im out for good, wouldn’t it?”
+
+“Yeah!” Elen chimed in. “You can’t even damage demon-type monsters with regular weapons!”
+
+“Exactly. I hate to admit, but I’d be useless against one. All I could really do is distract it and try to earn the front lines some more healing time!”
+
+Thegis had no time for any of this griping. “Hmph! I believe it’s the little one in that mask taking the exam? If he’s going to play chicken just because things are a little dangerous, he was never suited for adventuring work in the first place! Well? Do you want me to cancel it?”
+
+He was acting all tough, but take another look, and you’d realize something was off. He was sweating bullets, doing everything he could to focus himself. Turning my eye toward the Lesser Demon, it looked ready to escape its restraints and take off at any moment. Thegis was starting to lose control—which made sense, if you think about it. He’d been using his magic nonstop for several summons in a row. It would be hard for anyone to concentrate that long, especially when it required so much physical force.
+
+Let’s make things a little easier for him.
+
+“I see a few problems, but I’ll work them out. Let’s go.”
+
+Thegis opened his eyes wide, looking like he wanted to say something but stopping himself just before. He had already dived into the deep end. He poured even more magical force into the demon before shouting bombastically at me.
+
+“Well said, you! Let me see you survive this one final trial!”
+
+Huh? Final trial?
+
+The moment the thought popped into my head, the Lesser Demon was unleashed. The “trial” for rank B had begun.
+
+What should I do, though?
+
+I didn’t want to show off too much of my magic or skill arsenal.
+
+As I worried over this, the Lesser Demon’s eyes flickered a bright red as it began to intone a magic spell.
+
+Four fireballs flew toward me. That’s a demon for you. Magic’s their bread and butter. I could just eat them with Glutton, and that’d be it, but I didn’t want to bust that out in front of an audience.
+
+Instead, I dodged all four. They exploded against the barrier behind me in spectacular fashion. I had Cancel Flame Attack on me, so it wasn’t much of a threat, but emerging
+
+completely
+
+unscathed would’ve looked fishy, too. I tried to flail around a little, acting like I was panicking as I began casting a spell of my own.
+
+“Icicle Lance!”
+
+The freezing magic I launched neutralized part of the flames that now burned within the barrier, creating a safe zone. The screams around me turned into cheers, but I paid it no mind as I readied my sword. A flash of light. I guess demons really
+
+are
+
+pretty resistant to melee damage. The strike felt a little strange to me as I carried it out.
+
+Report. Melee attacks are ineffective against spiritual life-forms.
+
+I’d best remember this feeling. Whenever I get
+
+this
+
+odd bit of feedback from my blade, that means I’m not damaging anything.
+
+To sum it up, this Lesser Demon had what’s called a fully formed magical corpus, a form made completely of magicules. As opposed to the replicated versions of ourselves Soei and I could construct, this could immediately regenerate itself from most physical damage since its “creator” was right there. I hadn’t injured it in the first place, and I wasn’t going to this way.
+
+It was said that a spiritual life-form like this became a full-fledged demon with intelligence upon receiving a physical body to inhabit.
+
+That
+
+would make it more melee susceptible…but that didn’t really apply right now.
+
+The Lesser Demon, perhaps huffy about me dodging its fireballs, began attacking with all four arms at once. Solid as steel, each one swung downward over and over. Its speed was nothing to sniff at, but the limbs still looked frozen in time to me.
+
+This would end
+
+so
+
+much quicker if I could just eat this guy. What should I do? Icicle Lance seemed like it’d damage the demon but not decisively so, I didn’t think.
+
+Demons have a lot of magical resistance, too…
+
+Oh, hang on.
+
+Magic was simply the embodiment of whatever you pictured in your mind. If the Icicle Lance was the embodiment of taking heat from the body, fireballs had to be all about burning something. Meanwhile, Modelwill—one of the arts I’d learned—took your aura (your fighting force) and converted it directly into offensive power.
+
+That ought to work against a spiritual life-form—and since I knew how to lodge magical projectiles by now, it was just as easy for me to control my aura.
+
+But ooh, if I start busting out my aura, everyone would know I was a monster. Which means…
+
+…Well, let’s test something out.
+
+Carefully summoning a bit of my aura, I converted it back into magical force, combining it with the magicule energy one normally uses to launch magic. For a human being with few magicules flowing through their veins, they would need to gather the required energy from the atmosphere at this point. As a monster, though, I could skip that. I had a supply I could tap at any time.
+
+So I took this fresh quantity of pure magical force and applied it directly to my sword, as if wrapping it in paper. In my mind, I pictured strengthening, slicing, destroying. It began to emit a faint light, telling my instincts that it was set to go.
+
+Report. Extra skill Magic Aura obtained.
+
+That turned out to provide even more than I had pictured. Basically, Magic Aura was a skill that let me easily add magical effects to attacks with my own aura. A sort of combination of magic and arts. Now all I have to do is get slashin’.
+
+The moment my sword touched the Lesser Demon, it split completely in half, dissipating into dust and disappearing.
+
+“And there you have it. Did I pass the B-ranked exam?”
+
+The onlookers snapped out of their trance.
+
+“Wowwwwwwww!! That was
+
+soooo
+
+cool!”
+
+“Whoa, whoa, whoa, whoa, whoa! That dude’s just too damn strong!!”
+
+“Are you kidding me?! He ripped a Lesser Demon apart all by himself…?”
+
+“Hey, take that mask off a sec! I wanna see your face!”
+
+“Oh, what’s the matter?! Hey, ignore that idiot! Let’s party it up later tonight, okay?”
+
+It was quite an uproar.
+
+One quickly silenced by the appearance of a single person.
+
+“Enough of this, all of you!!”
+
+One shout from Fuze was enough to halt the ruckus. He ignored the crowd as he walked up to me.
+
+“Sir Rimuru, you are…all right, I take it? If something happened to you, it would portend terrible things for us all.”
+
+He looked at me for just a moment, relieved, before bottling that up and turning to Kabal.
+
+“And
+
+what
+
+are you people doing…? I told you a million times, didn’t I, to just bring Sir Rimuru directly to me? Not to make any side trips? So why do I find him in
+
+this
+
+state of affairs, hmm?”
+
+Blue veins appeared to pop above his forehead as he scowled at the trio. It was quite impressive, and it made the three freeze in place, giving excuses like “Um” and “Well, you know” and “I tried to stop them…” He wasn’t buying it.
+
+“Silence, you fools! From this moment forward, you will hereby be referred to as the Three Fools of Blumund!!”
+
+“Well, wait a second…”
+
+“That’s just mean! Rimuru said he wanted to become an adventurer, so…”
+
+“…Could we maybe get a better name, please?”
+
+The plaintive request was turned down.
+
+“You idiots! I could have used my guild master privileges to simply award Sir Rimuru a B-ranked license without going through any of this!!”
+
+This was turning into a good scolding. It also told the crowd I was Fuze’s personal guest and a pretty powerful dude.
+
+It wasn’t long before I was back in Fuze’s office. The Three Fools kneeled meekly on the floor as Fuze sat there, running a hand up and down his forehead in agony. Thegis was standing right next to him, looking incredibly awkward.
+
+“…I have to say, Sir Rimuru, you really could have done better than to stick out like a sore thumb immediately upon your arrival. There can’t be more than a handful of people in this world who can defeat a Lesser Demon with a single sword strike. Was that some kind of magical weapon? An enchantment or the Aura Sword art wouldn’t produce
+
+that
+
+much force in one blow. Ah, I imagine the rumor mill will be working overtime in the taverns tonight…”
+
+“…Was it that bad an idea? Like, if you were watching, you could’ve stopped me…”
+
+“I wasn’t exactly provided the
+
+time
+
+for that, Sir Rimuru!” Fuze sighed. “But what’s done is done. An art that applies magic itself to a weapon is a high-level ability indeed, but I understand that paladins are capable of such a feat. A few A-ranked adventurers in the Free Guild headquarters have unique skills of their own along those lines—such things are not unheard of. But being able to slay demons with it? Unless you want a crowd of people harassing you wherever you go, I would recommend being careful with that move. You may regret being known for it.”
+
+It was Fuze’s opinion that this was all the result of Kabal’s trio failing to follow his orders. But as he put it, there was one silver lining: “The crowd was all a bunch of C ranks and below, so I’m sure they didn’t even realize what they were seeing.”
+
+Magical swords—or in my case, Magic Aura–infused swords—were best used where there weren’t any eyewitnesses, it seemed. Good thing I found that out sooner than later.
+
+“Well, thanks. I’ll watch myself with that.”
+
+Kind of a pity, though. One more test, and I could’ve been in the A ranks. If Fuze was going to make me an honorary B-grade adventurer, I would’ve loved a shot at going all the way. There were also Special A and S ranks, but being an A alone made people treat you quite a bit differently.
+
+“Too bad I was so close to the A rank, though,” I muttered.
+
+“Ahh, that wouldn’t have been possible,” Thegis replied. “Not because you weren’t strong enough for it, Sir Rimuru, but because regulations state a guild branch can only award ranks up to B. You’ll need to take on work and achieve a rank of B-plus before you have the right to tackle that.”
+
+When going from E to D to C to B, you were free to skip ranks and take on a higher one if you’re up for it. Fail that exam, though, and you’ll need to build up enough points before tackling it again. However, qualifying for the A exam required having an established portfolio of work on the field, and it was only offered at the Free Guild HQ in Englesia. Examiners up to A-minus could handle any test up to rank B, but when it came to an A-ranked test, that needed to be held by someone ranked A or higher. Which made sense.
+
+I’ll just have to follow Thegis’s guidance and build up my score.
+
+“Still,” Thegis said, head bowed, “your strength is nothing short of exemplary, Sir Rimuru. I thought this was all a trick, given it was Kabal referring you to me…but I see I was very wrong about you.”
+
+“Aw, don’t be so mean, Thegis!”
+
+“You really don’t trust us that much?”
+
+“Cut me a break, sir!”
+
+So Thegis and I came to know each other better, regardless of how much the trio over there whined about it. Hopefully, they’ll be driven to restore their good name by looking out for me a bit more during the rest of our journey.
+
+So that night, we set out to devise our future plans. It was me, my adventuring friends, Fuze, and Thegis. My main mission, of course, was to meet with Yuuki Kagurazaka, whom I believed I shared a homeland with. Fuze had already written the letter of introduction I asked for via Kabal; I gratefully accepted it and placed it in my Stomach, lest I lose it somewhere. If they could just produce some ID documentation for me, I’d be all set.
+
+“I think your papers will be ready for you tomorrow morning. Tell the person at the counter that I know you, and I’m sure they’ll expedite it.”
+
+“That lady at the counter was in the crowd, too, Boss, I think. I bet she’s a total fan by now!”
+
+“Ooh, could be. Who wouldn’t be after
+
+that
+
+kind of performance?”
+
+“Yep. It was a treat to watch.”
+
+“It chagrins me as an examiner, but that was some masterful fighting.”
+
+All this praise from Thegis and Kabal’s crew was starting to embarrass me.
+
+“And
+
+that
+
+,” Fuze mentioned, “is why I was hoping to preemptively award you your accreditation, so you could keep your strength a secret. You’re going to stand out no matter what you do, besides.”
+
+Kabal shrugged. “Yeah, uh, sorry about that.”
+
+““We’re sorry!”” Elen and Gido shouted in unison.
+
+But really, I should have been more considerate myself. Being in a big human town got me so excited, I must have lost my head a little.
+
+“I’ll try not to be so rash next time, either, so hopefully, you’ll forgive them for all this, Fuze.”
+
+For now, the guild master seemed willing to let it slide in the long run.
+
+Our plan, then, was to finish up the prep work by the end of tomorrow and get moving as soon as possible…but Fuze had other ideas. “Actually,” he told us, “the king of Blumund wanted to have a confidential talk with you.”
+
+My arrival must have already reached his ears. Apparently, he was interested in holding a conference in three days. I readily agreed to this. Before that, we planned to have a chat with a well-placed nobleman Fuze knew, in order to discuss the practical issues around our nations’ relationship. The royal summit would then focus on these issues—this would keep it from being “bogged down and rudderless,” as Fuze put it, since meeting the king with no itinerary at all would be a waste of our time. Royal decrees would occasionally come down directly from the king when time was of the essence, but this was rare, and we were in no hurry, so the king just wanted to discuss the more big-picture stuff.
+
+I had no problem with that. If I had three days to kill before the king, I needed to fill that up with something anyway. Plus, I probably would’ve been an unprepared ball of nerves anyway, so knowing what to expect in advance helped me out a lot.
+
+So that took care of tomorrow and three days from now. Our talks continued well into the night, so late we wound up staying in the guest room of Fuze’s guild branch.
+
+One more thing I should add: Despite the novelty of being in a human town and all the experiences I’d already had inside, I sadly did not explore any new frontiers with my dreams that night.
+
+This well-placed noble was a man named Veryard, a baron. He lived in a quiet, unassuming manor in the middle of a neighborhood lined with fancy buildings; apparently, he was too low-level of a noble to have an entire domain to rule over. He thus spent his days working within his house, or castle, or whatever.
+
+“Let me tell you—and promise me you won’t go telling him this—but the man practically lives and breathes his work.”
+
+That was Fuze’s assessment, and I intended to keep my promise. It would apparently be uncomfortable for the guild and nobility if people found out they had underground connections to one another.
+
+So I followed Fuze to the manor. We passed through the eye-catching and well-kept front gardens before entering the foyer, where an old man who looked every bit like your stereotypical butler type greeted us. Maids stood by on each side of the chamber, their heads politely bowed. This was a
+
+low-level
+
+noble’s house? I worried that this meeting would be a lot more formal than I had planned.
+
+I went to a maid café once in my old world, but these were
+
+real
+
+maids. It was deeply moving, somehow. Funny that it took me going to another world to discover this air of elegance, this graceful demeanor. The real thing sure is different. Watching them had the odd effect of calming my nerves.
+--- END PRESERVED SOURCE BODY ---

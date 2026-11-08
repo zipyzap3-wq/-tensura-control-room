@@ -8,8 +8,8 @@
 **Prerequisites:** Source coverage matrix.
 **Required actions:** Update each file only after actual reading; record page coverage and uncertainties.
 **Completion evidence:** All required chunks have a reading entry and chronology mapping.
-**NEXT DESTINATION:** 04_SOURCE_MATERIAL/SOURCE_CHRONOLOGY.md
-**NEXT ACTION:** Begin source chronology after the inventory is verified.
+**NEXT DESTINATION:** 04_SOURCE_MATERIAL/VOLUME_06/00_README_AI_CHUNKS.txt
+**NEXT ACTION:** Begin the actual ordered source read and update this log only after reading each file.
 
 # Source Read Log
 | # | Source file | Imported? | Opened/read in full? | Page range verified? | Beat map created? | Uncertainties recorded? | Status |

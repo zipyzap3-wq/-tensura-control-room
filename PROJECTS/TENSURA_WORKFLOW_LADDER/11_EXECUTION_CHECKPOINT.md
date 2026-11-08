@@ -26,9 +26,13 @@
 - Story premise/canon: none approved
 - Agent infrastructure: excluded
 - Chapter draft first-location order: unresolved, decision PD-008; do not draft chapter prose until user confirms
-- Current stage: 01 source intake complete; transition to Stage 02 chronology research
-- Current file: 04_SOURCE_MATERIAL/SOURCE_CHRONOLOGY.md
-- Next file: 04_SOURCE_MATERIAL/SOURCE_UNCERTAINTY_LOG.md
+- Current stage: 01 source intake and verification IN PROGRESS
+- Completed subtask: all 54 source files imported and coverage inventory checked
+- Pending subtask: read/verify source content and record page/chunk coverage
+- Stage 02 chronology mapping: NOT STARTED
+- Current file: 04_SOURCE_MATERIAL/SOURCE_READ_LOG.md
+- Next file: 04_SOURCE_MATERIAL/VOLUME_06/00_README_AI_CHUNKS.txt
+- Next action: begin ordered source reading; mark each file read only after actual inspection
 
 ## Session summary
 Project structure, Workflow Ladder, source archive, reusable craft methods, planning/continuity templates, approval records, self-evolution loop and two-draft audit protocol have been created. Source import is complete; actual source reading is not.

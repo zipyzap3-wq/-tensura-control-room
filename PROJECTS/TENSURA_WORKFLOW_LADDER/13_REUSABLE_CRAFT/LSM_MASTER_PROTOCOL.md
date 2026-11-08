@@ -1,13 +1,19 @@
 > # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
 > Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 first review → 10 matching ChatGPT draft → 11 independent audit → 12 path evidence → 13 user approval → 14 canon promotion only after approval → 15 self-evolution feedback loop.
-> FILE POSITION: Stage 01-03, source verification and chronology research.
-> REQUIRED: Read actual source files, preserve uncertainty, record exact evidence and next file. Do not mark research complete before inspection.
-> NEXT DESTINATION: 04_SOURCE_MATERIAL/SOURCE_CHRONOLOGY.md
+> FILE POSITION: Stage 06-11, active craft gate for planning, drafting and review.
+> WORK ORDER / PURPOSE: Apply the Living Story Method to chapter packets, scenes, chapters and revisions; test character presence, causality, emotional movement, scene purpose and serial handoff.
+> PREREQUISITES: Verified source chronology, relevant canon, character dossiers and chapter packet.
+> REQUIRED ACTIONS: Consult this protocol before prose; apply relevant checks during drafting and record failures during review.
+> STATUS: REQUIRED CRAFT GATE.
+> COMPLETION EVIDENCE: Chapter plan and audits show which LSM checks were applied and what changed.
+> PREVIOUS FILE: 07_PLANNING/CHAPTER_PACKET_TEMPLATE.md
+> NEXT DESTINATION: 08_DRAFTS/CHAPTER_DRAFT_TEMPLATE.md
+> NEXT ACTION: Draft only after the upstream chapter packet is approved and complete.
 
 > # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
 > Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 first review → 10 matching ChatGPT draft → 11 independent audit → 12 path evidence → 13 user approval → 14 canon promotion only after approval → 15 self-evolution.
 > FILE ID: TWL-013 | Stage: 04-07, 09-11 | Status: REUSABLE CRAFT REFERENCE.
-> PURPOSE: Reusable craft method. It is generic writing guidance, not old story canon.
+
 > REQUIRED: Use as craft guidance only; verify every story fact independently against this project's source and approved canon.
 > NEXT DESTINATION: 06_RESEARCH/CHARACTER_DOSSIERS/ or 07_PLANNING/ as relevant.
 > STOP: This document does not authorize story decisions or canon changes.

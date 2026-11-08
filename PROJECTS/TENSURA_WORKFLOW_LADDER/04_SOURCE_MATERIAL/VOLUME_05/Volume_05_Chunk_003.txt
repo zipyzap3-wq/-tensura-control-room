@@ -1,0 +1,699 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 63 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_05_Chunk_003.txt | SHA d08601a33446a5dcfea50dc120e144f9ce4be8d9 | 18582 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_05/Volume_05_Chunk_004.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 1 (continued) ===
+
+But even if I used Cast Cancel on my own, it’d only work up to midlevel magic.
+
+Any serious attempt might be doomed to fail…
+
+Mjurran’s body contained more of the magicules that provided energy for all her spells, but trying to outclass him in strength seemed like a struggle to her.
+
+The sight of it all unfolding
+
+did
+
+make this nonsense seem worth it to her, though.
+
+Hakuro was targeting Gruecith, not the cautious Mjurran.
+
+Before neutralizing the magic-caster, he first wanted to defeat the biggest obstacle out of the group.
+
+In other words, Hakuro didn’t consider her magic to be an impediment.
+
+A bit insulting, but so be it.
+
+Sir Hakuro could likely handle anything I could throw at him, here in my human form.
+
+I wish I could have hit him with
+
+something
+
+, though…
+
+Following her pregame analysis, Mjurran had prepared three small explosive spells, meant to be triggered in a staggered arrangement.
+
+The first went off before Hakuro’s eyes as he struck down Gruecith—not a lethal bomb but a blindness strike that plunged the two of them into darkness.
+
+“Ngh?!”
+
+It was enough to produce a surprised grunt from Hakuro.
+
+But he pressed right on, unwavering.
+
+Gruecith had a keen enough sense of smell that blindness wouldn’t affect him in battle—that was the whole backbone behind this plan—but Hakuro didn’t rely on that sense much, either.
+
+So much for that.
+
+Can he read people’s presences, or…?
+
+Of course, Mjurran had guessed in advance that blindness wouldn’t slow him.
+
+Without flinching, she launched her second magic.
+
+This was a Flashbang, a spell that created a flash of light and a deafening noise to paralyze the target’s sight and hearing.
+
+It was one of her antihuman spells, effective in or out of doors, and she expected the blindness bomb would only accentuate the effect.
+
+And again, she was right.
+
+Just before the magic took effect, she saw Hakuro edge backward for a brief moment in his darkness.
+
+He was within point-blank range of the light and noise, but he paid it no attention at all as he sprang back into action.
+
+I knew it…!
+
+I suppose Hakuro knows Magic Sense as well…
+
+The reaction to that Flashbang was something shown only by those who could read the flow of magic—the movements of magicules.
+
+The blast itself, too, had no impact on him whatsoever.
+
+Just like Mjurran, he based his decisions in battle off Magic Sense.
+
+That meant he could read all magic before it happened, and
+
+that
+
+meant Mjurran would’ve had to bust out the big guns immediately if she wanted to impact this fight at all.
+
+Ignoring her and tackling Gruecith first was an extremely sensible decision.
+
+She had focused on keeping him safe from status ailments rather than trying to cast magic directly herself, but Magic Sense made all that moot.
+
+The operation was upended at its very roots.
+
+If anything, it hurt Mjurran’s ego, seeing her magic be so dismissively tossed aside like that.
+
+That was no fun
+
+, she thought.
+
+I was never too enthusiastic about this, but if he thinks he can pick on a wizard, let me show him what that costs!
+
+So she turned her eyes toward Gruecith—and then she lost all interest.
+
+“Arrrhhh!
+
+My—my eyes; my ears!!”
+
+“What are you
+
+doing
+
+, you fool?!”
+
+She could be excused for yelling at her comrade.
+
+That Flashbang had been pointed in a single direction.
+
+It shouldn’t have affected Gruecith that badly.
+
+The idiot must have stared right at it.
+
+She
+
+told
+
+them all beforehand what magic she intended to use.
+
+She could conclude only that Gruecith was the kind of lycanthrope who, if you told him
+
+not
+
+to do something, would immediately try that out first.
+
+Mjurran threw her arms up in surrender.
+
+This is just ridiculous.
+
+I thought the way lycanthropes are so stupidly straightforward with people would make them easy to use.
+
+But it’s the exact opposite, isn’t it?
+
+“If that did nothing to you, then we have lost.
+
+I doubt Gruecith will make any further contributions to our cause.”
+
+“Ho-ho-ho!
+
+You are quick to read the tides of battle, my good lady—at least, much more than this rotten trio.
+
+So you will not use your final spell?”
+
+“No.
+
+I doubt it would make any difference.”
+
+The final spell was Sleep Mist, her trump card.
+
+Putting Hakuro fully to sleep was likely impossible, but if she could slow his thought process
+
+just
+
+a bit as he locked swords with Gruecith, that would provide just the chip in the armor into which to potentially drive the sword of victory.
+
+Even if it didn’t, Mjurran figured the surprise factor would throw off his game.
+
+But the sight of Gruecith vaguely sort of floating atop the liquefied soil drained her will to continue.
+
+So she sighed and unraveled the spell.
+
+“…Their eyes telegraphed it from the start.”
+
+Mjurran rolled her eyes when he said it just now.
+
+All the prep work she’d done to ensure the magic could never be spotted, and Gobta and Gruecith had their eyes on the ground the whole time.
+
+There you go, then
+
+, she thought with a sigh.
+
+It’s all but opening your mouth and telling him, “Ohhh, hey, something’s here.”
+
+Yohm was stout enough to resist the urge, at least, but he’s only human.
+
+Nothing from him would work on Hakuro.
+
+“Ho-ho-ho!
+
+You may be a fine strategist, my lady, but without a keen insight into your allies’ personalities, one can never hope for truly effective teamwork.
+
+No hastily put-together team could ever defeat me.”
+
+Mjurran nodded at the condolences.
+
+“It’s been a lesson for me, yes.
+
+I’d like to begin by examining them further in depth.”
+
+“Mm.
+
+Yes.
+
+A good idea.”
+
+Hakuro nodded, then turned to his three kneeling opponents.
+
+“So may I suggest you answer me now?
+
+Before I decide to switch blades from wood to metal?”
+
+The avuncular smile he’d given Mjurran was a thing of the past.
+
+Now he was back in full demonic form.
+
+“Pah!”
+
+“Whoa?!”
+
+“Waaaaaait!”
+
+Three hours later, they were still there, legs numb from all the kneeling.
+
+Hakuro was making them stay until he was
+
+damn
+
+sure they wouldn’t pull any more malarkey like that.
+
+Mjurran gave them a passing glance as she returned to her bedroom, promising herself that she’d never join them on a “plan” like this again.
+
+“Now, I say this just in case, mind you, but promise me you won’t try to ‘test’ Sir Rimuru like that, please?”
+
+“What’re you talking about?”
+
+Gobta pleaded to the rather concerned-looking Hakuro.
+
+“No way any of that would work on Sir Rimuru!”
+
+“…Oh?
+
+Because, to be honest with you, I think it might have more than an outside chance of working…”
+
+“Ha-ha-ha!
+
+Come on, Gramps.
+
+Don’t you think you’re worrying too much?
+
+Someone like Rimuru, he’s not about to fall for a trick play!”
+
+“Hopefully not,” Hakuro said.
+
+“If he did, we would all be in trouble.”
+
+His three pupils shuddered at the thought.
+
+“Y-yeah… We weren’t planning to, but definitely not
+
+now
+
+, no.”
+
+“Gobta said it.
+
+He and that other girl, too.
+
+The violent one.”
+
+“You mean Shion?”
+
+Gobta asked.
+
+“Or, wait, not Mili—”
+
+“Whoa, stop right there, Gobta.”
+
+The hobgoblin nodded at the panicked-looking Yohm.
+
+Gruecith failed to follow this conversation but understood well enough that he should stay out of it.
+
+A smart move, although he may not have realized it.
+
+“All right,” Hakuro gravely intoned.
+
+“Soei is too prudent to fall for that, but Sir Rimuru and Sir Benimaru… They have their quirks, shall we say?
+
+Sir Rimuru seems to be restraining his Magic Sense, too, to some extent.”
+
+“Why’s he doing that, sir?”
+
+asked Gobta.
+
+“Who knows,” Yohm replied, looking at him.
+
+“I couldn’t even guess how that Magic Sense stuff works.”
+
+“Well,” interjected Gruecith, “I certainly see why Lord Carillon accepted Rimuru as an equal.
+
+Placing limiters upon his own strengths like that… A constant, never-ending cycle of training!”
+
+“Huh?!”
+
+“Wow, is that it?
+
+Boy, Sir Rimuru sure is great!”
+
+“Huh.
+
+Man, his mind works on a whole different plane from ours, eh?”
+
+This, along with Hakuro’s later approval, led to a new fad around Tempest where monsters deliberately limited the release of their skills to better hone them.
+
+It had nothing to do with Rimuru, but if he were around, they hoped he would approve.
+
+All that slogging through liquefied soil and getting rapped soundly by swords had made the three of them very muddy.
+
+It wasn’t long before they discussed entering the town’s famous bathing facilities together.
+
+“Boy,” Gobta observed, “that lady sure knows how to use her magic.
+
+She’s pretty, too!”
+
+“Yeah, ain’t she?
+
+And she’s got personality, too.
+
+It ain’t just looks.”
+
+“I have no argument with that.
+
+Her name is Mjurran, right?
+
+It’d be nice if she could give birth to my child…”
+
+“Whoa there, Gruecith.
+
+Ya can’t go talking like that.
+
+She’s one of my officers.”
+
+“What does that have to do with anything, Yohm?
+
+When it comes to romance, I’m free to do whatever I want.
+
+First come, first served.”
+
+“Wow, really?
+
+I’ll keep that in mind!”
+
+“Don’t
+
+you
+
+start, Gobta!”
+
+Gruecith snickered at the wailing Yohm.
+
+“Maybe I should talk to her myself, hmm?”
+
+“Damn it, Gruecith, I go first!
+
+I’m your boss!”
+
+“Are you crazy?
+
+I just told you: Romance is all about freedom!”
+
+“Yeah, Yohm!”
+
+It was turning into quite a heated argument by the time they reached the bathhouse.
+
+The moment they washed off and settled into the hot bath, Gobta’s eyes began to emit a sinister twinkle once more.
+
+“I just remembered Kabal said something to me when he was here last,” he began.
+
+“They say there are some baths in the world with a ‘mixed gender’ rule.
+
+He said Sir Rimuru told him about it… And, you know, Sir Rimuru’s word is law, isn’t it?”
+
+“Hang on, Gobta.
+
+If that’s an order from Rimuru himself, then we gotta make sure it’s enforced, yeah?”
+
+“Uh-huh!
+
+I think so, too!”
+
+“What?
+
+Gobta, what do you speak of?
+
+Tell me more of this…mixed genders.”
+
+“Hee-hee-hee!
+
+You like it, too, huh, Gruecith?
+
+Well, it’s like this…”
+
+He went over the topic in detail, growing more excited with every syllable.
+
+“So you mean…not only Mjurran but Lady Shuna and Shion as well…?”
+
+“You gotta be kiddin’ me, Gobta.
+
+I had no idea those were the rules around here!”
+
+The pleasant sensation of the hot mountain-spring soak was putting the trio’s minds at great ease.
+
+It also raised their voices high, their schemes echoing around the chamber.
+
+Not all of it bounced back, however.
+
+Some of the sound waves wriggled their way right through the wall—and into the ears of Shuna and Shion, who had invited Mjurran to enjoy the women’s bath with them.
+
+“I wonder if we should develop a potion to banish the stupid from their minds?”
+
+“Do not worry, Lady Shuna.
+
+I will beat it out of them until they cry for mercy and their willpower is retempered!”
+
+“I’ll be glad to help,” Mjurran added.
+
+Records, sadly, did not exist to say what happened to the men afterward.
+
+“Mjurran, can we have a talk?”
+
+Several weeks had passed, enough time for Mjurran to get fully used to life with Yohm and his crew, when her leader spoke to her.
+
+“Certainly.
+
+What about?”
+
+“Not…
+
+here
+
+, if you don’t mind.”
+
+“Oh?”
+
+That struck her as odd, but not queer enough to turn down his request.
+
+She followed Yohm out of town and toward a deserted patch of forest.
+
+Hmm?
+
+Uh-oh.
+
+Did he find out who I am?
+
+I don’t sense any traps or ambushes up ahead…
+
+The rest of Yohm’s team was still garrisoned in town; Mjurran knew all their exact positions.
+
+She didn’t much like the look Yohm had exchanged with Gruecith when he called her to him, but it still seemed like her cover was safe.
+
+So what is it, then…?
+
+She remained baffled right up to the entrance into Forest of Jura land.
+
+“Have we walked enough, then?
+
+What is—?”
+
+“Mjurran!”
+
+The interruption made warning flags shoot up in her mind.
+
+No!
+
+Really?!
+
+So had he found out after all?
+
+Had he told anyone else yet?
+
+Or was Yohm the only one to ferret her out so far?
+
+Either way, she had to come up with urgent countermeasures before—
+
+“I love you!
+
+I swear: I fell in love with you the first time my eyes met yours!”
+
+Her mind stopped.
+
+…What?!
+
+What did he say?
+
+“Huh?”
+
+Assorted questions popped in and out of her mind, but that was the only response she could muster.
+
+Simply returning Yohm’s gaze took all her mental fortitude.
+
+Looking back, Mjurran
+
+had
+
+always felt a pair of eyes upon her.
+
+It was true ever since she’d infiltrated his force.
+
+It belonged to Yohm, and when their eyes met, she found herself averting hers out of awkwardness several times.
+
+It made her a tad nervous, perhaps wondering why he was so watchful of her.
+
+But maybe her misgivings were really about something else entirely.
+
+“Are you serious?”
+
+“Yes.
+
+I promise I’ll make you a happy woman.
+
+I promise!”
+
+The sheer frankness of the confession made Mjurran’s cheeks flush.
+
+The last time she was (chronologically) a young woman, it was a good seven centuries ago.
+
+Her memories of it were vague at best.
+
+No memories of anyone else back then.
+
+To her, romance was a completely novel experience.
+
+Unexplored land.
+
+Anxiety won out over happiness in her head.
+
+That, and:
+
+…He’ll make me a happy woman?
+
+The demon lord Clayman’s used Marionette Heart to make me his personal puppet.
+
+If I can’t get my real heart back, I can never be free—and there’s no way to do that.
+
+And how could a human ever love me?
+
+They all die far too quickly…
+
+So she opted to delay her response.
+
+The logical part of her brain told her to say no and get on with life, but somehow, she didn’t quite have the courage for that.
+
+Four hundred years of life as a magic-born, and it was the first time she had ever felt so anxious about herself.
+
+Even after the confession, life went on as usual.
+
+Yohm was usually fairly shallow personality-wise, but—perhaps out of respect for her feelings—he made no further advance upon Mjurran.
+
+The feeling was no doubt mutual.
+
+Whether circulating around villages on monster hunts or relaxing back at town, Yohm showed concern for her, but he never did anything to squeeze a reply out of her.
+
+I… What should I even do?
+
+As long as Clayman lives and breathes, there’s no way his dream could ever come true…
+
+Somewhere along the line, Mjurran began to have daydreams of herself more closely united with Yohm.
+
+The logical part of her brain denied it could ever be a possibility, but she just couldn’t bring herself to abandon the thought.
+
+Her mind gradually began to open itself to it, enthralling her so deeply that she didn’t even notice Gruecith staring at her, a troubled, lonely expression on his face.
+
+Life was good—and now, within a week’s time, it would be destroyed.
+
+“It has been a while, Mjurran.
+
+Are you doing well?”
+
+The magical communiqué from Clayman arrived out of the blue.
+
+It made her panic a bit.
+
+“L-Lord Clayman!
+
+What motivates you to contact me?”
+
+To her, Clayman was unworthy of her loyalty.
+
+If she could, she’d murder him in his sleep.
+
+She didn’t because it was so obvious to both parties that she’d fail.
+
+The last time she’d reported back to him, Clayman had been in oddly high spirits.
+
+The same was true this time.
+
+Mjurran’s instincts sounded the alarm.
+
+It creeped her out.
+
+Clayman almost never showed emotion to his underlings—if he was so obviously enjoying himself now, things must be going exactly the way he wanted.
+
+It did not seem like good news to her—and it wasn’t.
+
+“Thanks to the intel you provided me,” Clayman told the cautious Mjurran, “things are going quite well over here.
+
+You’ve done a superb job.
+
+Why, I’m even starting to think it’s time to return this heart in my hand and set you free.”
+
+Mjurran paused, confused at the proposal.
+
+For just a moment, Yohm’s face appeared in her mind.
+
+She could feel her spirit leap with excitement, but she still managed to keep her voice calm.
+
+Clayman must never learn of her true feelings.
+
+He was a demon lord, a devious Marionette Master perfectly willing to deceive his own servants.
+
+“Thank you very much, sir.
+
+This sudden suggestion is quite a surprise to me.
+
+Does this mean you no longer require my services?”
+
+“Haaa-ha-ha-ha!
+
+Ah, you never change, Mjurran.
+
+There is hardly any need for such modesty.
+
+Why would I ever want to do away with such a talented pawn?
+
+I do hope you’ll still be able to serve a role for me, yes.”
+
+“I see.
+
+I am glad to hear—”
+
+“Mjurran,” the demon lord quietly interjected before she could finish her wary answer.
+
+“There is no need for alarm.
+
+I simply want you to perform one final piece of work for me.
+
+You won’t turn me down, will you?
+
+I’m sure you aren’t ready to die yet, and I’m sure you don’t want to see the man you love die before your eyes!”
+
+She could feel the blood drain from her head.
+
+“I—I have no love for…?!”
+
+“For any man, is it?
+
+You give me far too little credit, Mjurran.
+
+All you have to do is follow my orders, and everything will be fine.
+
+I showed you the sweet dream of release there; I wouldn’t mind a little appreciation for that.
+
+Just sit tight until I provide your orders, if you could?”
+
+Then he shut off the link.
+
+Mjurran, sadly, had nothing to counter with.
+
+No matter how unhappy it made her or anyone else, the only road to salvation was to serve him.
+
+The only thing that remained in her heart was the demon lord’s final words: “When it is all over, I will release you.
+
+Your dream of living with the man you love may not be a dream before long.”
+
+Was this a trap?
+
+—No, it had to be one.
+
+But all Mjurran could do was trust in his words.
+
+If she ever doubted them, it’d lead to potential tragedy for both Yohm and her.
+
+Far better for her to just do what Clayman said and hope for another passing whim in her favor.
+
+Just as it always was, the only option available for Mjurran was to wait for her orders.
+
+But if it really
+
+did
+
+lead to her release—
+
+Could I ever really accept him?
+
+She had to explore the thought, no matter how much she knew it was unforgivable.
+
+If this dream can come true, it’ll likely mean selling my soul to the devil.
+
+It was settled.
+
+Mjurran was resolute now.
+
+And then, as if nothing had just happened, she was back in action.
+--- END PRESERVED SOURCE BODY ---

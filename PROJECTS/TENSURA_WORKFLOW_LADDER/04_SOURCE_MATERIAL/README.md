@@ -6,16 +6,15 @@
 > **GATE:** Do not mark a stage complete without concrete evidence. If blocked, stop and record the blocker.
 
 **File ID:** TWL-004 | **Stage:** 01 | **Status:** IN PROGRESS
-**Purpose:** Entry point for Volume 6 and Volume 7 source archive.
+**Purpose:** Entry point for Volume 1 through Volume 7 source archives.
 **Prerequisites:** Stage 00 setup and source register.
-**Required actions:** Confirm 35 Volume 6 files and 19 Volume 7 files, ordering and provenance. Read actual source chunks required per chapter.
+**Required actions:** Confirm 127 source files across Volumes 1–7 (73 chunks V1–5; 35 V6 files; 19 V7 files), ordering and provenance. Read actual source chunks required per chapter.
 **Completion evidence:** SOURCE_COVERAGE_MATRIX.md and SOURCE_UNCERTAINTY_LOG.md.
 **Next destination:** SOURCE_COVERAGE_MATRIX.md | **Next action:** Compare imported files against original repository tree.
 
 # Source Material Archive
 Origin: zipyzap3-wq/Gobta-s-tensura-, main, source_material/volume_6 and source_material/volume_7.
-Volume 6: 33 numbered page chunks plus 2 guide/readme files (35 total).
-Volume 7: 17 narrative/frontmatter files plus 2 guide/readme files (19 total).
-Expected total: 54 files.
+Volume 1: 15 chunks + 2 guides (17 files). Volume 2: 14 + 2 (16). Volume 3: 15 + 2 (17). Volume 4: 15 + 2 (17). Volume 5: 14 + 2 (16). Volume 6: 33 chunks + 2 guides (35). Volume 7: 17 narrative/frontmatter + 2 guides (19).
+Expected total: 127 source files.
 
 These are source references, not this project's AU or story canon. Each source copy retains its original body after a provenance/workflow header. Read the actual contiguous source range plus sufficient look-ahead for setup and payoffs. Summaries and crosswalks are navigation aids, not substitutes for required source reading. OCR defects, missing pages, ambiguous boundaries and translation uncertainty must be logged, never silently repaired.

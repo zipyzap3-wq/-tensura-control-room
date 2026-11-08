@@ -9,7 +9,7 @@
 **Purpose:** Single source of truth for the production ladder.
 **Prerequisites:** None.
 **Required actions:** Read the complete sequence before project work. Every branded header must match this version.
-**Completion evidence:** Session checkpoint references version 1.0.0 and current stage.
+**Completion evidence:** Session checkpoint references version 1.1.0 and current stage.
 **Next destination:** 02_FILE_BRANDING_STANDARD.md | **Next action:** Apply the header protocol to every participating file.
 
 # Master Workflow Ladder

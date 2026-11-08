@@ -1,5 +1,5 @@
 > # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
-> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 first review → 10 matching ChatGPT draft → 11 independent audit → 12 path evidence → 13 user approval → 14 canon promotion only after approval → 15 self-evolution feedback loop.
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 first review → 10 matching ChatGPT draft → 11 independent audit → 12 path evidence → 13 user approval → 14 canon promotion only after approval → 15 self-evolution feedback loop.
 > FILE POSITION: Stage 00-15, file branding compliance audit.
 > REQUIRED: Verify first-block branding, version, file position, next destination, source provenance and register coverage. Report limits honestly.
 > NEXT DESTINATION: 12_FILE_LADDER_REGISTER.md

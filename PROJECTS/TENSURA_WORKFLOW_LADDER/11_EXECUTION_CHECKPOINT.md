@@ -1,36 +1,37 @@
 > # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
-> **Workflow version:** 1.0.0 | **Project status:** setup / non-canon | **Authority:** PROJECTS/TENSURA_WORKFLOW_LADDER/01_MASTER_WORKFLOW_LADDER.md
-> **MANDATORY:** Read this block first. Identify this file's exact stage, satisfy prerequisites, record evidence, then follow its named next destination. Never skip a gate because memory or a summary seems sufficient.
-> **FULL LADDER:** 00 Project control → 01 Source intake and verification → 02 Source chronology/event mapping → 03 Canon and continuity examination → 04 Character/time-state research → 05 AU integration and story direction → 06 Arc planning → 07 Chapter planning/scene outline → 08 GitHub first draft → 09 GitHub self-review/correction → 10 matching ChatGPT polished draft → 11 independent second audit → 12 workflow-path/evidence verification → 13 user review/approval → 14 canon promotion only after explicit approval → 15 self-evolution and preventive-rule integration (feedback also runs after stages 09, 11 and 12).
-> **FILE POSITION:** See file-specific fields immediately below.
-> **GATE:** Do not mark a stage complete without concrete evidence. If blocked, stop and record the blocker.
-
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 first review → 10 matching ChatGPT draft → 11 independent audit → 12 path evidence → 13 user approval → 14 canon promotion only after approval → 15 self-evolution feedback loop.
+> FILE POSITION: Stage 01 source intake and verification.
+> REQUIRED: Record import, provenance, file count, integrity checks and actual reading progress. Do not claim source research complete until actual source files have been read and mapped.
+> NEXT DESTINATION: 04_SOURCE_MATERIAL/SOURCE_COVERAGE_MATRIX.md
 **File ID:** TWL-011 | **Stage:** 00-15 | **Status:** LIVE CHECKPOINT
 **Purpose:** Current progress and exact next action.
 **Prerequisites:** Read master ladder and file register.
-**Required actions:** Update at session start/end and each stage transition. Name exact current and next files.
+**Required actions:** Update at session start/end and each stage transition.
 **Completion evidence:** Timestamped session log and consistent status.
-**Next destination:** 12_FILE_LADDER_REGISTER.md | **Next action:** Verify all participating files are branded and routed.
+**NEXT DESTINATION:** 12_FILE_LADDER_REGISTER.md
+**NEXT ACTION:** Verify the complete file list and header compliance.
 
 # Execution Checkpoint
 - Workflow version: 1.0.0
 - Repository: zipyzap3-wq/-tensura-control-room
-- Branch: main
+- Branch: main (no new branch)
 - Project root: PROJECTS/TENSURA_WORKFLOW_LADDER/
-- Story canon: NONE APPROVED
-- Current phase: initial setup and source intake
-- Current stage: 00/01
-- Current file: README.md
-- Next file: 01_MASTER_WORKFLOW_LADDER.md
-
-## Status definitions
-NOT STARTED; IN PROGRESS; BLOCKED; COMPLETE; NEEDS REVIEW.
-A checkbox is not proof. Evidence must state what was read, what was checked, the result and where recorded.
+- Current setup: project skeleton and source import
+- Source files imported: 54/54 (Volume 6: 35; Volume 7: 19)
+- Source import status: complete
+- Initial body-integrity spot check: passed for Volume 6 chunk 1 (exact source-body match)
+- Full per-file integrity audit: pending
+- Source reading/chronology research: not yet complete
+- Story premise/canon: none approved
+- Agent infrastructure: excluded
+- Current stage: 01, source intake verification
+- Current file: 04_SOURCE_MATERIAL/SOURCE_COVERAGE_MATRIX.md
+- Next file: 04_SOURCE_MATERIAL/SOURCE_CHRONOLOGY.md
 
 ## Session log
-| Session | Stage | Files read/created | Completed work | Blockers | Next exact action |
+| Session | Stage | Files/work | Evidence | Status / blocker | Next action |
 |---|---|---|---|---|---|
-| Initial setup | 00-01 | Central Control Room tree; source repository tree | Correct control room identified; 54 source files inventoried | Source transfer and file register pending | Import sources and complete register |
+| Initial build | 00-01 | Core workflow docs, 54 source copies, reusable craft methods, research/planning/continuity scaffolds | Source tree shows 35 Volume 6 and 19 Volume 7 files; coverage matrix has 54 rows; one exact source-body spot check passed | Header audit and full source reading remain pending | Verify source inventory, then begin chronology research |
 
-## Reminders
-No old story canon imported. No agents. No chapter before planning. Chapter is first composed in ChatGPT, then copied as same non-canon GitHub draft. First review, matching presentation, independent second audit and path map are mandatory. User approval precedes canon promotion.
+## Hard reminders
+No old story canon imported. No agent infrastructure. No chapter before planning. Chapter first composed in ChatGPT, then stored as matching non-canon GitHub draft. First review, matching presentation, independent second audit and Workflow Path Map are mandatory. User approval precedes canon promotion.

@@ -1,0 +1,474 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 74 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_05_Chunk_014.txt | SHA ade4b16647d9dd11c2d1c3879e7dc36ee35289f2 | 14776 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_05/README.md
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== EPILOGUE ===
+
+EPILOGUE
+
+THE STRING-PULLER IN THE SHADOWS
+
+The anger was writ clear upon the demon lord Clayman’s face.
+
+He had come so far, and now one plan after another was falling apart on him.
+
+He schemed to have Carillon be attacked by Milim—and then she just flew over, declared war, and flew on back.
+
+Learning of Farmus’s ambitions, he ordered Mjurran to wreak even more havoc—only to have Rimuru, leader of the monsters, return to the scene and erase the Farmus military from the face of the Earth.
+
+Clayman planned to use all this chaos to awaken himself and become the “true demon lord” he knew he could be.
+
+But none of this made sense to him.
+
+Damn all of them!
+
+And after that kind benefactor set everything up for my awakening…
+
+The frustration made him grind his teeth.
+
+But his efforts weren’t a complete failure.
+
+Mjurran, one of his pawns, had been killed by Rimuru—and he could always use that as a pretext to declare war.
+
+That was the original plan, and Mjurran was always meant as a sacrifice toward that end.
+
+Now, though, there was another problem:
+
+In the end, can I actually win?
+
+That was a serious issue.
+
+Among the weak human states that dotted the continent, the Kingdom of Farmus was among the more decently powerful ones.
+
+For this campaign, they had a legion of nothing but knights, numbering twenty thousand strong—a figure not even Clayman could afford to ignore.
+
+And it took just one magic-born, one Rimuru, to slay them all.
+
+The unbelievable news left the demon lord in a daze for a few moments.
+
+Even worse, Pironé—the little finger of the “five fingers” that formed Clayman’s closest, most faithful confidants—had died in the midst of an espionage operation.
+
+Unlike Mjurran, the ring finger, Pironé had been eminently useful when it came to infiltrating deep into human society.
+
+How annoying this is.
+
+Of all the coincidences, the Nuclear Cannon strike that demon deflected landing a direct hit on my own agent…
+
+The unexpected loss of a vital pawn in his strategy irked him.
+
+But the next ebullient dispatch he received made all the dark clouds in his mind evaporate away.
+
+—The demon lord Milim had dispatched Carillon, putting an end to the Beast Kingdom of Eurazania.
+
+Now, finally, Clayman had something to rejoice about.
+
+He hadn’t managed to bring Carillon under his own control, but in terms of daunting the other demon lords, this would serve well enough.
+
+Any demon lord who didn’t bend to his will was just trash in his way.
+
+Milim alone was powerful enough to overwhelm someone as strong as Carillon, and with her on his side, he doubted he needed to beef up his offenses any further.
+
+The news came by way of the demon lord Frey, elegantly sipping her tea as she delivered her tidings.
+
+There was no reason to doubt it.
+
+The demon lord Carillon was dead.
+
+Milim Nava had had no problem dealing with him.
+
+And now she was Clayman’s.
+
+Ten demon lords controlled the vast majority of power in this world.
+
+Three of them, counting himself, were now on the same side, and one was out of the picture.
+
+It pained Clayman that his planned “awakening” had failed, but Milim had more than made up for this shortcoming.
+
+“Heh-heh-heh… I think we can alter my plans to point matters back in a beneficial direction.”
+
+“Oh, you think so?
+
+Well, glad to be of service, then.”
+
+With that less-than-heartfelt endorsement, Frey stood up.
+
+“I have nothing further to report—and with that, I’ve fulfilled my duty to you.
+
+I’m going home, but what are you going to do with Milim?
+
+She’s so worked up about the battle that she ripped apart the magic-born sent to take care of her.”
+
+Clayman responded with an exasperated grunt.
+
+“Then you take care of her.
+
+She’s our friend either way.”
+
+“As I told you,” Frey coldly replied, “I’ve fulfilled my duty.
+
+I helped you trick Milim, and I have no obligation to aid you any further.”
+
+But Clayman simply gave her a thin smile.
+
+“Heh-heh-heh… You appear to be mistaken, Frey.
+
+Listen to me.
+
+I am giving an order to you.
+
+Go back, take Milim with you, and take care of her.
+
+Or would you like to be Milim’s next opponent?”
+
+Frey gave him a stern look in response.
+
+She had anticipated this, in a way, and it didn’t disturb her.
+
+“…Aha.
+
+I see.
+
+So that was your goal from the start, was it, Clayman?”
+
+“Haaa-ha-ha-ha!
+
+Well spotted.
+
+So I imagine I know the answer I should expect…?”
+
+“…All right.
+
+I don’t want to wind up like Carillon, no.”
+
+“There you go.
+
+Very good.
+
+That’s very intelligent of you, Frey.
+
+I will leave Milim in your hands, then.
+
+Take her along with you.
+
+Wouldn’t want my
+
+own
+
+castle destroyed in the process, now would we?”
+
+Frey gave this an exaggerated rolling of her eyes.
+
+“And you think I want
+
+my
+
+home wrecked?
+
+Not that you’ll listen to me…”
+
+“I’m glad we have an understanding, then.
+
+You may go.”
+
+The attitude indicated to the world that he no longer saw the demon lord Frey as an equal.
+
+He was calling the shots, and she carried them out.
+
+Frey voiced no great displeasure at this as she gave Clayman a final cold glance and left the room.
+
+Once he saw she was gone, Clayman closed his eyes and began to think.
+
+The situation had changed so extensively now that he would have to revise his plans.
+
+Losing his chance at an awakening hurt, but it wasn’t an issue.
+
+With Milim’s powers, he decided, he could ram headlong into any human force and expect a likely victory out of it.
+
+Her strength would spread death and destruction across the land, reaping souls the entire way.
+
+That, Clayman thought, should be enough to elevate him to true demon lord status without lifting a finger.
+
+His original plan—to set up an orc lord as a new demon king, providing him with all the backing he needed—was nice, but
+
+this
+
+was much more interesting.
+
+With Milim, the ultimate trump card, in his hands, there was no longer any need to fear his fellow demon lords.
+
+Heh-heh… Now I can
+
+finally
+
+get Leon out of the picture.
+
+Simply picturing it made a joyous smile creep across his face.
+
+But before Leon—
+
+He would have preferred to put his own priorities first, but that wasn’t going to happen.
+
+He needed to evaluate matters and see what required the most urgent attention.
+
+After all, it was what motivated his benefactor that mattered the most.
+
+Their enemies could be divided into three camps: the demon lord Leon, his rival these many years; the leader of the Forest of Jura,
+
+proving more powerful than he first guessed; and the ever-enigmatic
+
+Western Holy Church, along with the Holy Empire of Lubelius that existed above it.
+
+At the moment, direct conflict among demon lords was prohibited.
+
+The downfall of Carillon would likely be filed as yet another case of Milim going crazy.
+
+Maybe some of them would notice Clayman lurking in the shadows, but he didn’t picture any of them making a public issue out of it.
+
+Anyone who pursued that question would quickly be making Clayman their enemy.
+
+These demon lords were all far too selfish to work together as a group.
+
+And if anyone
+
+did
+
+pursue him, he could handle it.
+
+The ultimate trump card made none of them seem worth worrying about any longer.
+
+The real issue was the Western Holy Church.
+
+Clayman’s sworn friend Laplace was still planted in their bureaucracy, and this incident provided both of them with immense backing.
+
+The magic-born Rimuru killed twenty thousand Farmus soldiers, something the Church couldn’t afford to ignore.
+
+So why not pit them against each other on the battlefield and profiteer from the results?
+
+They could wait until both sides reached the limits of their fatigue, toss Milim in there, and
+
+bam
+
+—they’d both be gone, practically without a fight.
+
+Clayman could awaken himself that way, too, maybe.
+
+That scenario was exactly what his benefactor wanted—the only master Clayman ever truly served in his life.
+
+And if Clayman could pull it off, he could then declare war on Leon and stamp out that anxiety for good.
+
+The smile on his face widened.
+
+Several mistakes had been made, but fixing them wouldn’t be a problem.
+
+Now he just had to report back to his benefactor and await the final decision.
+
+He laughed loudly and boldly, there in his room, already picturing his lifelong dream finally coming true.
+
+
+=== AFTERWORD ===
+
+AFTERWORD
+
+Hello!
+
+Here we are with Volume 5 of
+
+That Time I Got Reincarnated as a Slime
+
+, a mere month after the previous volume came out in Japan.
+
+As always, quite a bit of this volume is original material that wasn’t in the web version—hopefully you’ve found it up to snuff.
+
+I’ve been given a decent number of pages for this afterword, so I’m having trouble figuring out what to say.
+
+Maybe I’ll go into some behind-the-scenes stuff about the production?
+
+It might include some spoilers, so I’d recommend reading the whole book first before proceeding further!
+
+As a rule, the general plot of the light novel edition of
+
+Slime
+
+is the same as the web version.
+
+However, in order to maintain integrity with the original material, there have been a few small changes, not to mention a few bigger ones thanks to the new characters appearing.
+
+Volume 2 was mostly just editing and revision, but from Volume 3 on, I started adding new content and such.
+
+The same was true for Volume 4.
+
+If I’d been running at the same pace as the web version, I would’ve had Rimuru saving the kids in Volume 3 and evolving into demon lord form at the end of Volume 4.
+
+However, I selfishly wanted to flesh out Volume 3 to talk more about how the town was developing, and my editor was kind enough to agree to the edits.
+
+This called for a change in plans.
+
+The original idea was to have Volume 4 end in a cliff-hanger as we see Hinata for the first time, and with Volume 5 coming out right afterward in Japan, that’s where Rimuru would wrap up the encounter, become a demon lord, and then there’d be a bit about his meeting up with the other demon lords.
+
+However, as I wrote Volume 4, I began to feel like,
+
+This ain’t gonna happen, is it?
+
+Here, from memory, is the phone conversation I had with Mr.
+
+I, my editor.
+
+“Hello.
+
+Do you have a free moment?”
+
+“Sure, what’s up?”
+
+“Well, ummmmm… Regarding Volume Four, I think I’m gonna have a ton more new content than I was planning for…”
+
+“Again?!
+
+Didn’t you say the same thing for Volume Three?”
+
+“Yeah… I’ve been cutting out a lot, but if this keeps up, I dunno if I’ll be able to fit the Hinata battle in or not.”
+
+“…Well, let’s do it!
+
+Just keep on writing!
+
+We’ll add in more pages if we have to!”
+
+“Huh?
+
+Are you sure?
+
+I’m talking a
+
+whole lot
+
+of stuff here, so…”
+
+“Sure, it’s fine.
+
+I’ve kind of resigned myself to the fact that this is how it’s gonna be with
+
+Slime
+
+, so don’t worry about it!”
+
+“Um… Well, all right!
+
+Talk to you later!”
+
+That kind of thing.
+
+At this point, my thought was that Volume 4 would be a bit expanded,
+
+but Volume 5 would remain mostly the same length.
+
+But!
+
+Thanks to being given carte blanche to expand as much as I wanted, Volume 4 wound up having a lot of…um, volume.
+
+This was even after I cut out a whole section involving an expedition to the Dwarven Kingdom.
+
+Thus, by the time I was into the second half of the book, the reality was that I was way the hell over my word count.
+
+Bad news, probably.
+
+Time for another phone call.
+
+“Hello?
+
+This is Fuse calling.
+
+I wanted to talk to you about something, but did you have a moment?”
+
+“Sure, what is it?”
+
+“Wellllll, I think Volume Four’s gonna be a lot bigger by the time I get done writing it, but the real issue is with Volume Five.”
+
+“How so?”
+
+“If we’re gonna cover everything we planned to, I think we’re gonna have some serious trouble on our hands.”
+
+“Oh?
+
+But if we round out Volume Five with the evolution to a demon lord, that’s gonna be kind of thin content-wise, isn’t it?
+
+There won’t be a lot of quantity at all, I don’t think.”
+
+“Yeah, that’s what I’m a little worried about.
+
+It might get a bit thin on that front, but there’s this bonus arc that I wanted to write at around this point in the plot, so I was wondering if I could add that to the book…”
+
+“Hmm…”
+
+So Mr.
+
+I and myself fleshed out what we wanted to do in detail.
+
+And the result…is the very book you have in your hands right now.
+
+Bonus arc?
+
+you may ask.
+
+What bonus arc?
+
+No, it’s not your imagination, as anyone who’s read the book—or even the table of contents!—would know.
+
+Why not?
+
+Well, it happened again.
+
+By the time I finished writing, the number of pages was through the roof.
+
+How did this happen?
+
+Oh, the usual way—more dialogue, more scenes added, more of this and more of that, and it just sort of turned out that way.
+
+You’ll get that bonus arc in the next volume.
+
+—Not that I know exactly what the next volume is gonna cover yet.
+
+And getting back to that content…
+
+Oh dear, we’re starting to gradually diverge from the web version more and more over time, aren’t we?!
+
+People familiar with both versions would certainly have noticed this by Volume 4.
+
+The Church is in a rather different position from the one it takes in the web plot, and with that change, it only follows that other changes trickle down, affecting future developments.
+
+I think I’ll have to deal with more problems like that in the next volume, too.
+
+I mean, is it okay if I just, like, ignore the web version from now on?!
+
+I’m starting to imagine the devil whispering something along those lines into my ear.
+
+When Rimuru officially declares himself a demon lord, you know the other lords won’t take that sitting down.
+
+The Western Holy Church—and Hinata, its most powerful of paladins—will be making moves, too.
+
+We have a few people behind the scenes as well, and every nation will have its own reaction that we’ll want to know about.
+
+For people who’ve read the web version, maybe they’ve taken some solace in the fact that they know how things will turn out.
+
+But there are no absolutes in this world.
+
+In fact, I can no longer deny that our assumption back at the start—that the web and light novel editions will follow the same general plot—might be falling apart.
+
+Maybe, just maybe…
+
+So I know all of this is irresponsible and capricious of me, but I’m thinking very intently about the story content, trust me.
+
+Even if that assumption falls to pieces, you know, the web version’s always gonna be there for you!
+
+(But come on…)
+
+Anyway, not to end it on a weird note like that, but here’s hoping you’ll continue to support
+
+That Time I Got Reincarnated as a Slime
+
+.
+--- END PRESERVED SOURCE BODY ---

@@ -1,5 +1,5 @@
 > # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
-> **Workflow version:** 1.0.0 | **Project status:** setup / non-canon | **Authority:** PROJECTS/TENSURA_WORKFLOW_LADDER/01_MASTER_WORKFLOW_LADDER.md
+> **Workflow version:** 1.1.0 | **Project status:** setup / non-canon | **Authority:** PROJECTS/TENSURA_WORKFLOW_LADDER/01_MASTER_WORKFLOW_LADDER.md
 > **MANDATORY:** Read this block first. Identify this file's exact stage, satisfy prerequisites, record evidence, then follow its named next destination. Never skip a gate because memory or a summary seems sufficient.
 > **FULL LADDER:** 00 Project control → 01 Source intake and verification → 02 Source chronology/event mapping → 03 Canon and continuity examination → 04 Character/time-state research → 05 AU integration and story direction → 06 Arc planning → 07 Chapter planning/scene outline → 08 GitHub first draft → 09 GitHub self-review/correction → 10 matching ChatGPT polished draft → 11 independent second audit → 12 workflow-path/evidence verification → 13 user review/approval → 14 canon promotion only after explicit approval → 15 self-evolution and preventive-rule integration (feedback also runs after stages 09, 11 and 12).
 > **FILE POSITION:** See file-specific fields immediately below.
@@ -23,12 +23,12 @@
 7. All drafts are non-canon. User approval is the only route to canon promotion.
 8. This is a manual ChatGPT workflow, not an agent system.
 
-## The ladder, gates and outputs
+## Source-scope expansion (v1.1.0)\nStage 01 and Stage 02 now cover source Volumes 1–7, not only 6–7. Read and map in volume order (1→7); preserve each volume's independent chunk sequence. Earlier-volume source knowledge must not be projected into a character's later or earlier time-state without a chronological anchor. The 127-file intake consists of V1–5 (73 chunks + 10 guides), V6 (35 files), and V7 (19 files).\n\n## The ladder, gates and outputs
 | Stage | Name | Required work | Exit evidence / next destination |
 |---|---|---|---|
 | 00 | Project control | Read project entry, master ladder, authority, checkpoint and register; verify repository and version. | Session checkpoint; source intake. |
 | 01 | Source intake | Verify provenance, chunk coverage, page ranges, OCR gaps, duplicates and ordering. Read actual required chunks. | Source inventory/read log; chronology. |
-| 02 | Source chronology | Build timeline, event map, page/chunk crosswalk, transitions, omissions and uncertainties for Volumes 6-7. | Source chronology; canon review. |
+| 02 | Source chronology | Build timeline, event map, page/chunk crosswalk, transitions, omissions and uncertainties for Volumes 1-7. | Source chronology; canon review. |
 | 03 | Canon/continuity | Read approved story canon and relevant prior chapters. Initial clean-slate state must explicitly record that no story canon is approved. | Authority register and baseline; character research. |
 | 04 | Character/time-state research | Build source-grounded, time-appropriate dossiers; separate facts, inference, unknowns and later-volume knowledge. | Character dossier set; AU integration. |
 | 05 | AU integration/story direction | Record user premise, divergence points, limits, source rails, knowledge barriers and unresolved decisions. Never invent approval. | Direction register; arc planning. |

@@ -16,7 +16,7 @@
 Project root: PROJECTS/TENSURA_WORKFLOW_LADDER/
 
 ## Directory plan
-- 04_SOURCE_MATERIAL/VOLUME_06 and VOLUME_07: preserved copied source chunks with provenance banners.
+- 04_SOURCE_MATERIAL/VOLUME_01 through VOLUME_07: preserved copied source chunks with provenance banners.
 - 04_SOURCE_MATERIAL/SOURCE_COVERAGE_MATRIX.md, SOURCE_CHRONOLOGY.md, SOURCE_UNCERTAINTY_LOG.md.
 - 05_PROJECT_AUTHORITY: canon authority, decisions, approval register.
 - 06_RESEARCH/CHARACTER_DOSSIERS and TIME_STATE_CARDS; knowledge matrix.
@@ -29,4 +29,4 @@ Project root: PROJECTS/TENSURA_WORKFLOW_LADDER/
 - 13_REUSABLE_CRAFT: LSM master protocol, Character Forge and Living Appearance Method.
 
 ## Isolation
-This is a self-contained workspace. Do not import old story chapters, old Gobta character sheets, old AU state, old continuity or prior draft material as canon. Volumes 6-7 are source references only. Reusable craft methodology may be adapted without story-specific assumptions. Do not overwrite parent dashboard/LSM files. Work on existing main branch; no new branch is requested.
+This is a self-contained workspace. Do not import old story chapters, old Gobta character sheets, old AU state, old continuity or prior draft material as canon. Volumes 1-7 are source references only. Source reading and chronology must cover Volumes 1-7 in order; older volumes establish earlier character states and world events. Reusable craft methodology may be adapted without story-specific assumptions. Do not overwrite parent dashboard/LSM files. Work on existing main branch; no new branch is requested.

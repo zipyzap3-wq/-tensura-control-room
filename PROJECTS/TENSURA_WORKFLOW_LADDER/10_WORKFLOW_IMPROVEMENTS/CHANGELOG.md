@@ -26,3 +26,11 @@ Future changes must state version, date/session, files changed, reason, behavior
 - Strengthened the per-file living ladder: every file must carry its own work order in its purpose/description, prerequisites, actions, evidence/status, predecessor and exact next destination/action.
 - Updated the checkpoint, source read log, file template, README and register route to point to the new protocol and first Volume 1 guide.
 - No source file body, story canon or chapter prose was changed. Source reading and chronology mapping remain pending.
+
+
+## 1.1.1 - Volume 1 working arc plan integrated
+- Added 07_PLANNING/ARC_PLANS/VOLUME_01_GOBTA_SECOND_LIFE_AU_ARC_PLAN.md (TWL-022) with the user's complete Volume 1 Gobta second-life AU plan and an underlined Workflow Ladder brand block.
+- Updated 05_PROJECT_AUTHORITY/PROJECT_DIRECTION_AND_AU_INTEGRATION.md to record the user-defined premise and constraints, clearly marked as working direction rather than approved canon.
+- Updated the master Stage 06 route, file register and execution checkpoint to point to the new plan.
+- Stage 06 remains blocked because source intake, chronology and Stages 01–05 are not yet evidenced as complete. The live Stage 01 checkpoint and source-reading next action remain unchanged.
+- No chapter prose, source-original body or approved canon was changed.

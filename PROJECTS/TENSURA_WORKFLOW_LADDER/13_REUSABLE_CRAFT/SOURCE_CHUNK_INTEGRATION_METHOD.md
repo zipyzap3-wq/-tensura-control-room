@@ -10,6 +10,9 @@
 **Next destination:** 04_SOURCE_MATERIAL/SOURCE_CHRONOLOGY.md | **Next action:** Build the chronological source map.
 
 # Source-Chunk Integration Method
+## Mandatory operating companion
+Before processing any source chunk, use `CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md` (TWL-021). That protocol controls queue order, full-reading states, extraction records, cross-chunk carryover, reconciliation, verification and live handoff. This file controls how verified source information is adapted faithfully. Both are required.
+
 ## Core principle: source as event track, adaptation as a new layer
 The source controls the order and substance of canonical events within its verified range. The adaptation may add viewpoint, dialogue, reactions, tactics, consequences, transitions and emotional texture, but additions must fit around the source rather than replace, contradict or pre-empt it. Preserve major event order, causal logic, participants, demonstrations and outcomes unless a divergence is explicitly approved.
 
@@ -46,3 +49,7 @@ Compare draft against source beat by beat:
 
 ## Hard gate
 No source verification, no drafting. Required artifacts: exact source inventory, event/beat ledger, cast ledger, explicit divergence overlay, post-draft source audit and handoff. If a source conflict cannot be resolved, record it and stop the affected scene rather than inventing an answer.
+
+
+## Required living handoff
+After each source range, update the source read log, coverage matrix, beat/cast ledgers and execution checkpoint. The next pointer must identify the exact next source file and action. A source range is not complete until TWL-021 marks it VERIFIED.

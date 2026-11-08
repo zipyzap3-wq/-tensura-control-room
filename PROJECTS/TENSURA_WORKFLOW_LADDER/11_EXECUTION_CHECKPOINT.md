@@ -24,6 +24,7 @@
 - Source reading and chronology mapping: pending; no source file marked read
 - Project story premise/canon: none approved
 - Agent infrastructure: excluded
+- Chapter draft first-location order: UNRESOLVED (PD-008). Do not begin chapter prose until user confirms ChatGPT-first or GitHub-first.
 - Current stage: 01, source intake verification
 - Current file: 04_SOURCE_MATERIAL/SOURCE_READ_LOG.md
 - Next file: 04_SOURCE_MATERIAL/SOURCE_CHRONOLOGY.md

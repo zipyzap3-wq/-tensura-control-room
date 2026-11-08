@@ -13,7 +13,7 @@
 **Next destination:** 08_SELF_EVOLUTION_LOOP.md | **Next action:** Feed audit findings into preventive rules.
 
 # Draft Synchronization and Audit
-One draft, two locations. GitHub is the working copy; ChatGPT is where the chapter is initially composed and later presented. The content must be identical. Do not create two divergent creative drafts.
+One draft, two locations. The exact order of first composition is unresolved (ChatGPT-first versus GitHub-first); PD-008 records the conflict. Do not begin chapter prose until the user confirms the order. After both locations contain the draft, the text must be identical. GitHub is the working file for the first review/correction, and ChatGPT presents the polished matching text for the independent second audit. Do not create two divergent creative drafts.
 
 Each draft records chapter ID, version (D0/D1/D2...), revision date, GitHub path, word count, and sync status. A cryptographic hash may be claimed only if actually computed. Otherwise use exact text comparison or line-by-line verification and state the method.
 

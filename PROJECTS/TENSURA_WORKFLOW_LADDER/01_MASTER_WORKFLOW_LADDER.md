@@ -34,7 +34,7 @@
 | 05 | AU integration/story direction | Record user premise, divergence points, limits, source rails, knowledge barriers and unresolved decisions. Never invent approval. | Direction register; arc planning. |
 | 06 | Arc planning | Plan macro structure, source sequence, adaptation points, consequences, promises/payoffs and re-entry anchors. | Arc plan and coverage map; chapter planning. |
 | 07 | Chapter planning | Read ahead in source and prior canon; define purpose, POV, cast, knowledge, scene goals, turns, consequences and ending. | Chapter packet/approved outline; drafting. |
-| 08 | GitHub first draft | Compose creative draft in ChatGPT first, after upstream gates. Create a separate non-canon GitHub draft file with that exact text. | GitHub draft and version identity; first review. |
+| 08 | First draft location (sequence pending user confirmation) | The user gave both ChatGPT-first and GitHub-first instructions. Do not begin the first chapter until the order is explicitly resolved. Whichever location is chosen, the second location must hold the same non-canon draft. | Confirmed draft order and matching draft identity; first review. |
 | 09 | GitHub self-review | Review source, characterization, continuity, staging, POV, prose and workflow. Correct GitHub draft and verify sync. | Corrected draft and first report; ChatGPT presentation. |
 | 10 | Matching ChatGPT draft | Present the corrected GitHub draft in ChatGPT. Texts must match; record actual comparison method. | Sync confirmation; independent audit. |
 | 11 | Independent second audit | Re-read chapter against source, canon, packet, dossiers and workflow. Look for escaped errors and regression from edits. | Independent audit; evidence verification. |

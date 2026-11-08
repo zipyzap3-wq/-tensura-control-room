@@ -16,7 +16,8 @@
 - Draft version:
 - Status: NON-CANON DRAFT
 - GitHub working path:
-- ChatGPT originating draft:
+- First-draft location order: UNRESOLVED until PD-008 is approved
+- ChatGPT presentation path/status:
 - Source anchor:
 - Word count:
 - Sync status:

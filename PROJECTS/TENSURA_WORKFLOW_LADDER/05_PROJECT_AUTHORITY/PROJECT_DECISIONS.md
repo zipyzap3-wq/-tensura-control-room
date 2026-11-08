@@ -28,4 +28,6 @@
 | PD-006 | First review, second independent audit, Workflow Path Map | APPROVED | User requested review and proof of workflow path | Mandatory chapter evidence | Draft templates | Enforce all gates |
 | PD-007 | Self-evolution loop | APPROVED | User wants review findings converted to preventive workflow improvements | Improvement register and rules | Workflow docs | Run after review gates |
 
+| PD-008 | First-draft location order | OPEN / CONFLICTING INSTRUCTIONS | User said both that drafting starts here in ChatGPT and that the first draft is made in GitHub before the polished draft is created here | Must be resolved before first chapter prose; both locations must hold identical text | 06_CHAPTER_PRODUCTION_WORKFLOW.md; 07_DRAFT_SYNC_AND_AUDIT.md | Ask user to choose ChatGPT-first or GitHub-first |
+
 Future story decisions must be added here and marked PROPOSED until explicitly approved.

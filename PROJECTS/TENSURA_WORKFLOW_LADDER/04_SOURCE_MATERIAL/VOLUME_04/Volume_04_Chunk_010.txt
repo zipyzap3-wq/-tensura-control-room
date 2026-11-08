@@ -1,0 +1,743 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 55 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_04_Chunk_010.txt | SHA 8d3526300ce02fd838b9c76dd32e07b308eb9d4e | 46030 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_04/Volume_04_Chunk_011.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 5 ===
+
+CHAPTER 5
+
+THE SUMMONED CHILDREN
+
+He gave his visitor a warm smile, deftly showing him to a seat.
+
+“Ay, what a pain! Our strategy ended in a complete failure. It might be a little while longer before Clayman awakens to become the first
+
+true
+
+demon lord, sadly.”
+
+Laplace, the visitor in question, sat down and gave him the news. Failure, after years of effort. He didn’t sound too broken up about it.
+
+“Hmm. And here I thought an orc lord on the rampage would guarantee us at least ten thousand or so deaths.”
+
+The master of the room seemed to take the news pretty lightly.
+
+“But I suppose obtaining the power needed won’t come that easily to us. There are other conditions to worry about.”
+
+“Yeah.
+
+He’s
+
+strong enough, though, without having to dabble in any crazy stuff. Although I think he has it in for Leon, a bit…”
+
+“He still has much to learn, that Clayman. So—was that all you came here to say?”
+
+Laplace defiantly grinned at the room’s owner. “Oh, of course not! That was just a side note. I bet you heard all about it from Clayman already, hmm? All I did was help out a bit, so I don’t know the whole story myself. But enough about that—I’ve been going undercover to keep tabs on the paladins’ movements lately. They’re really out to start something, y’know that? Now that they’re pretty sure Veldora’s gone for good.”
+
+“Hmm? You think so? Do you know what they’re after?”
+
+“It’d be a hell of a lot easier for us if I did, huh? I tell you, the Western Holy Church is one mean group to get involved with.”
+
+Laplace shrugged. The mask hid his expression, but despite his pessimism, his attitude was just as bold and invincible as ever.
+
+“You sure are right. Passing themselves off as righteous guardians of the weak or whatnot. I highly doubt they’re acting out of sheer goodwill. They’re an enigma to me.”
+
+“Yeah, aren’t they? But if they’re starting to get more active, y’know, that’s our chance to catch ’em by the tail, too, yeah? They’ve been around since time immemorial, so I can’t wriggle my way into the upper management. But in their
+
+current
+
+operations, I might have a way in, y’know?”
+
+He smiled once again.
+
+“So I’m thinkin’ it’s time for me to get a bit more serious about infiltrating the operation. That’ll probably put me out of contact for a while, but you okay with that?”
+
+“No, fine by me. Oh, but if you
+
+do
+
+find out what’s behind the Holy Church, I’ll be glad to grant you a wish.”
+
+Laplace greeted this news with a hearty laugh. “Really?! Well,
+
+that’s
+
+a nice little motivation!”
+
+“I’ll bet. But don’t overdo it. I don’t want you messing
+
+this
+
+up.”
+
+“No need to remind me! In that case…” Laplace stood up, preparing to leave.
+
+“Oh, one more thing,” a relaxed voice said behind him. “The main cause behind your most recent failures is traveling in the Western Nations right now. Things are about to become rather interesting, I’d say.”
+
+“Wh-whaaaaa—? What the heck for? That dopey-looking slime’s supposed to be the grand pooh-bah of the Forest of Jura! What’s it doing bumping around human lands?!”
+
+“Ha-ha-ha-ha! It surprises you that much? You really
+
+are
+
+a unique little monster, aren’t you…er, what was his name again?”
+
+“Umm… It was Rimuru, I believe.”
+
+“Ah, right. Well, no doubt about it, then. He entered the Kingdom of Blumund several days ago.”
+
+This stunned Laplace into silence.
+
+“…Well, fine. Ain’t got a thing to do with me. I mean, I haven’t seen a monster who posed
+
+less
+
+of a threat to me in my life.”
+
+With that, Laplace left the room.
+
+The master of the room gave a contented smile.
+
+“Given his strange behavior…he’s no normal monster, that much is for sure. Which means…maybe he’s got memories of his
+
+past
+
+life? Perhaps I can take advantage of that. It’d be worth testing out a little, at least…”
+
+The Forest of Jura was surrounded by a number of nations. There was the Kingdom of Blumund, which I just left. There was Farmus, the much larger kingdom adjacent to it. Then there was Englesia and a number of other smaller countries.
+
+All these nations came together to form what was known as the Council, which consisted of representatives elected by each country. Most important decisions affecting the region were managed by this Council. Each nation had its own methods for electing representatives, but for the most part, the seats were taken by lower-level nobility without much in the way of inheritance rights.
+
+The Council of the West (as it was formally called) was originally founded as a sort of monster-fighting co-op, before growing into a force devised to keep the Eastern Empire in check. Not every nation in the area was part of it—the powerful Sorcerous Dynasty of Thalion was one of the exceptions, for example—but this was rare. In a world this brutal to its inhabitants, you had to pool your resources for a chance at survival, I suppose.
+
+The Kingdom of Englesia lay at the core of this Council—and for good reason. Geographically, Englesia was the easiest central point for Council members to assemble at. It naturally followed that the Free Guild would set up its headquarters here as well. You could say that the most powerful Council member nation was the Kingdom of Farmus, but in order to prevent any one nation from having too much clout over the assembly, the nations agreed to set up in Englesia for logistical reasons.
+
+Partly because of this, relations between Farmus and Englesia were apparently frosty at best. And there was another reason: Englesia was the only Council member nation that didn’t share a border with the Forest of Jura, giving it an extra measure of stability and protection from monsters. That was another factor that led to its selection as Council HQ.
+
+But what does the Council
+
+do
+
+, exactly? To put it broadly, it acted as a mediator between nations, weighing each member’s interests against the others’ and managing them to prevent conflict. It held power in both economic and political circles, making it a strikingly influential group in this region—sort of like the United Nations of my old world, with a lot more force to take action.
+
+Much like the United Nations, the Council had no standing military force. It didn’t need one. That’s because, in a way, the Council formed the higher bureaucracy of the Free Guild itself. The money paid to adventurers for slaying monsters came from Council funding—and in exchange, the Council had the right to give orders to the guild.
+
+This funding came from contributions provided by each member nation, which varied depending on how much speaking rights each one had. Refusing to pay these meant leaving the Council. It was a way for the Council to gain a louder voice in local affairs, using the shield of security it offered members. Many nations relied almost wholly upon the guild for monster management, and that meant there was no choice for them but to support the Council.
+
+Speaking of security, I heard another interesting story: The main thing that kept the Western Nations strongly connected to one another was religion.
+
+In this world, where monsters were a real, tangible threat, religion provided more than just spiritual support—it was a sort of last bastion for survival. Thus, you had the Western Holy Church, the font of all regional religious activity, with Luminus as its sole and absolute deity. To put it another way, the Western Nations were the Church’s main sphere of influence, and the Holy Empire of Lubelius the “holy land” of the Church.
+
+Confusingly, this didn’t necessarily mean the Western Holy Church ran Lubelius. It was an independent religious organization. However, the leader of Lubelius
+
+was
+
+called the Holy Emperor, defined to be the pope-like mortal spokesperson of divinity whose orders had to be followed without fail.
+
+So was Lubelius a kind of puppet state for the Church? Yes and no. It was too complex for me to really get from what Fuze told me, and I’m not sure he really knew, either. “It’s just, you know, that sort of thing,” as he put it, and I guess he’s right.
+
+The Western Holy Church wasn’t the only religion in this world. There were other indigenous ones that worshipped a variety of different gods and goddesses. But in terms of followers, Luminus had the overwhelming majority. And that’s simply because this particular deity had the paladins, the most powerful knightly warriors on this planet.
+
+These formed the so-called Crusader groups, armies of knights whose strength went beyond A rank, and their numbers totaled over three hundred. They were considered the saviors of mankind, monster-slaying experts tasked with eradicating them all from the landscape. I was told they were formed by “virtuous” inspiration to protect the Western Nations, although I don’t know how true that is. Some people even gave them enough respect to call them defenders of righteousness.
+
+The thing was, though, this Luminus apparently didn’t accept any other gods. The One God Luminus, as the full name went. As a result, practitioners of other religions were not qualified to receive his salvation. There were several Council nations that didn’t designate Luminism as their national religion, and paladins were never deployed over there. I guess I can’t blame them—if you think someone’s unworthy of salvation, then of course you aren’t gonna risk your life for them—but that didn’t sound too “righteous” to me. Just my take, though.
+
+The Sorcerous Dynasty of Thalion, by the way, had no state religion. Its imperial family claimed to be the descendants of gods, so no other religion was officially designated. On the other hand, its people enjoyed full freedom of religion, making it a pretty unique nation in its approach. They also steadfastly refused to join the Council, making it a fully independent force in the region. Their borders weren’t
+
+entirely
+
+shut, but they had no interest in playing nice with others. It was really interesting; I wanted to check it out sometime, especially since it sounded a little bit like the Japan of my old life.
+
+That rounded out the new knowledge I had gained from my time in Blumund. The Western Nations were propped up by the economy on one side, religion on the other, helping it form strong bonds from country to country. A pretty neat setup, I thought. In a world with so many things trying to kill you, I didn’t think you saw too many wars between human nations, though.
+
+Oh, and I learned something rather surprising about Hinata Sakaguchi. It turned out she was the chief of the paladins, the main officer running the Crusaders.
+
+I think Veldora mentioned that otherworlders often tended to gain special abilities when they came to this world. Maybe that power let her lead the greatest knight force known in the land? She was already a pretty tough cookie when she left Shizu—I couldn’t guess how strong she was now.
+
+Thinking about it, I was a monster presently. If I just casually strode up to her, she might decide to target me. Better not try anything too untoward.
+
+I’ll just keep my distance, I think, until I gain a better grasp of who exactly this Hinata person is.
+
+And to that end, I needed to gather some more information.
+
+The journey to Englesia went smoothly. It was time to bust out the wolf wagon again. There was a road set up, although it wasn’t paved. Of course it wasn’t. It’d take a huge amount of time and money to pave every road around here…via
+
+normal
+
+means, that is.
+
+I had Ranga pulling the wagon in slightly shrunken form. He didn’t look much different from a regular old black wolf, so I figured it wouldn’t be a problem. Having him sprint at full speed would break the wagon apart, so he was going at a light jog at the moment. Doing around twenty-five, maybe? We couldn’t risk going much faster on these unfinished roads. As Kabal and his gang put it, though, it couldn’t have been a more comfortable ride.
+
+We encountered several mounted soldiers on patrol along the path. They all claimed that I wouldn’t expect to see much in the way of strong monsters around here. There
+
+were
+
+robbers and brigands to content with, but we never got involved with any. Which, I mean, twenty-five didn’t seem
+
+that
+
+fast to us, but it’s not like they could have caught up to us on foot. A horse could, but not for the long distances Ranga could pull off on a lark.
+
+So things went well for the mere three days it took to reach the capital of Englesia.
+
+The gate had an even stricter entry process than the Dwarven Kingdom’s. There were three levels of inspections, the first of which required identification. Anyone who couldn’t produce papers on the spot was forced to the back of a ponderously long line for level two; mess
+
+that
+
+up and you were on to level three, where you were all but treated as a criminal. By that point, once they were done with you, you’d
+
+seriously
+
+begin to wonder why you tried to enter in the first place. But a lot of people were willing to risk it. That’s how attractive this nation was.
+
+Thanks to my guild papers, I didn’t have to care about any of that. Good thing, too. If I didn’t have them, I’d be waiting in line longer than I did for the dwarves.
+
+My only complaint:
+
+“Whoa, whoa, you’re an adventurer, li’l lady? This isn’t some kind of joke you’re playing on us, is it?”
+
+The guards treated me like some spoiled girl.
+
+“I’m not a lady, thanks. Just check the papers.”
+
+“Heh. Guess you’re about the age when you wanna act all grown-up, huh? You got that cute voice, but between that mask and the way you talk…”
+
+The griping continued as they ran the papers through some kind of magical device. Then their attitude changed.
+
+“Oh, my apologies! Sir Rimuru, adventurer rank B? Welcome to the Kingdom of Englesia!!”
+
+Well, that was easy. It sure didn’t seem so from the way Kabal’s party bumbled around, but being ranked B earned you a lot of social status, I guess.
+
+“Don’t let it bother you, Boss,” commented Kabal once he was through. “The guards didn’t mean anything personal by it.”
+
+I wasn’t angry in particular, but getting the “li’l lady” treatment struck me as needlessly cruel. But… My voice, huh? No wonder everybody mistook me for a girl. I didn’t expect that, given the mask covering my face and all, but my voice made me out to be a child, huh? It didn’t bother me at all before—although, come to think of it, I got similar treatment in Blumund, didn’t I? Maybe I should try altering the pitch on it to sound more mature?
+
+A bit too late for that
+
+, I thought.
+
+Let’s just stick with the current one.
+
+My body was maybe four foot three anyway, so I’d try passing myself off as kind of a stunted young man. I was innocent at heart, after all, so it’s fine. A Masked Boy of Mystery would work just fine in this world. It’s already filled with demon lords and Heroes; why not toss in another fantasy trope while I’m at it?
+
+The first thing that surprised me about the city was how advanced it was. It was fairly large in size, yes, but it was also surrounded by outer walls that seemed to extend to the horizon, with entry provided by only two gates. I couldn’t imagine how much time and cash it took to build a wall covering this much terrain.
+
+Going inside, however, the view was even more stunning. There weren’t skyscrapers lining the streets, exactly, but the buildings
+
+were
+
+much higher than anything Blumund had to offer. I spotted five-story stone buildings all over the place, along with a variety of brick and wood structures. But more impressive than anything was the chalky-white castle that loomed in the center, easily visible from each of the city’s well-planned neighborhoods. Basking in its majesty made it clear that the capital had a legion of talented architects. That’s how beautiful it was.
+
+Another thing that caught my eye was the castle’s location. There was a large lake in the middle of the city, and the edifice was built right in the center, making it appear to rise straight up from the waters. It certainly wowed visitors. Four roads spread out from it in each direction, connecting it to the rest of town. During emergencies, these roads could have their bridges removed to prevent outside forces from invading. It was an impressive sight, an ostentatious display of Englesia’s power. I had to hand it to them; it was awesome.
+
+Security around the capital was handled by knights stationed at important points. You’d have to be pretty desperate to attempt a crime around here. I’d expect nothing less from the home of the Council, really. Any issues involving representatives would spark an international incident, so they couldn’t be lazy about that.
+
+I had Ranga dive into my shadow before we approached the capital, sticking the wagon back into my Stomach. Something told me the guards wouldn’t like wolves running around the streets—I wasn’t
+
+that
+
+crazy, so I didn’t want to push it.
+
+Thus, nobody bothered us as we walked around, taking in all the sights. It was our first leisurely stroll in a while—and as I discovered, the most amazing thing wasn’t the city views, but its culture. We discovered a large sports arena, next to what looked like an outdoor amphitheater. There was artwork prominently displayed throughout town—posters, apparently, for stage plays. Paper was relatively cheap around here, and I even saw people handing out flyers advertising this or that product or event.
+
+The
+
+big city
+
+. I could taste it in the air, for the first time in ages. But the thing that
+
+really
+
+made me think “Are you kidding me?” were the glass-lined buildings I saw. Merchandise was lined up inside, a bit like a department store’s display windows. In fact, they
+
+were
+
+display windows—the only difference being the weapons and armor on the shelves inside.
+
+In a fancier city block near the castle, I found a shop featuring dresses and other clothing. It sure wasn’t a place for the masses. Simply living inside the city walls probably meant you were at least somewhat well-off, but owning a house close to the castle was apparently a right reserved exclusively for the nobility. The disparity was like night and day. The more you paid in taxes, I suppose, the better treatment you got. Plus, being nobility usually meant a job inside the castle, so it was probably a given that you could enjoy first-class housing within walking distance.
+
+Once we made our initial rounds, we looked for an inn to spend the night. Broadly speaking, the city was divided into four sections—commercial, tourist, industrial, and residential quarters. The castle was at the nexus of all four, with the rest of the city radiating out from it, and the closer you were to the center, the more upscale it got. Pretty easy to figure out.
+
+Following Kabal’s lead, we quickly made our way to the tourist quarter, finding a wealth of inns (and alleyways full of taverns in the rear) to serve us. I could feel my heart soar, but sadly, we weren’t there to drink that day. I frowned a bit at that as we worked out room arrangements.
+
+We set out the next morning for the Free Guild headquarters.
+
+The closer you got to the city walls in the tourist quarter, the more tiny shops and public performances you ran into. There was a wide selection of food stalls on offer, too. Toward the center, however, you saw more diplomatic residences, conference centers, schools, and other municipal buildings. It was the most well policed of the four quarters, and toward dead center, we found the Free Guild HQ.
+
+“Right this way, Boss.”
+
+“Boy, there sure are a lot of people, huh? It’s like a real city.”
+
+“Hey, watch out for pickpockets, all right? This place is crawlin’ with guards, but that’s how a lot of people get lulled into a false sense of security.”
+
+Gido had a point, but all my important stuff was in my Stomach, so I was fine. If anyone needed to worry, it was Elen.
+
+Kabal guided us closer to the center. The ivory castle’s overbearing presence made it impossible to get lost.
+
+The HQ building was a large, grand, modern-looking structure, a far cry from the medieval norm. The US had steel skyscrapers with a dozen or so floors in the nineteenth century, back when Japan was still mostly single-story wood structures. That was how powerful a nation it was by comparison, and the Kingdom of Englesia started looking similar to me.
+
+Adjacent to the guild was a tall building that had just as grandiose a presence, adorned with a statue of a goddess and a large holy cross on the roof.
+
+“Is that the Church?”
+
+“Sure is,” replied Gido. “The Englesia branch of the Western Holy Church—well, the headquarters of the whole thing, really.”
+
+Ah, the Church—the one thing I had to be the most careful with around here.
+
+“The headquarters?”
+
+“Well, it’s a bit of a story, actually…”
+
+As Gido put it, the official Church headquarters were located over in the Holy Empire of Lubelius. However, it was chiefly used for religious ceremonies and the like, with most of the actual work taking place here in the Englesian capital. “They don’t allow regular folks in here,” he said, “and I’m sure that’s the way the Church wants it in this city.”
+
+I didn’t have any business with the Church—I’m an atheist, if anything—so I sincerely hoped I wouldn’t get involved with them during my life. They see monsters as
+
+the enemy
+
+, after all. And no matter how I wanted to approach Hinata, I couldn’t risk any moves that would attract their attention.
+
+Kind of funny to see them right next door to the Free Guild, though. The mask was hiding my aura; I didn’t think I’d get spotted. No point worrying about it. If I
+
+did
+
+, I’d figure something out.
+
+The guild HQ entrance was protected by a pair of glass doors that must’ve cost a fortune to install. Now that’s something I
+
+never
+
+expected to see in this world. The otherworlders around here must have been quite an influence—I bet they went out of their way to get these made, too. Where there’s a will, there’s a way, I guess. I still had a while to go. Instead of worrying about “can,” I should just “do.”
+
+Something to learn from
+
+, I thought as I stood before the doors. As I did, I felt something searching about my body. At the same time, the doors opened. Holy crap,
+
+really
+
+? There’s some kind of sensor that automatically opens the doors? Talk about high tech being used for the most trivial things! Seeing this piece of Earth tech replicated here was a shock, especially compared to the wooden Church building next door with its plain old push handles. It felt like the architect just wanted something as
+
+different
+
+from the neighbors as possible.
+
+“It sure has changed in two years,” Elen remarked. Well, I wasn’t gonna lose out. If
+
+this
+
+is what I’m batting against, I better start planning out a high-rise or two when I get home.
+
+Stepping inside, we felt several pairs of eyes upon us. They all appeared fairly high-level at a glance. It was only natural that the HQ would be full of the best people they’ve got.
+
+“Welcome! How can I help you today?” said a woman stationed by the door. Her greeting, perfectly timed between breaths, made it feel like the lobby of a five-star hotel. Not to be rude, but it was a
+
+far
+
+cry from the Blumund capital branch.
+
+“Yeah, we’re here to see the grand master. Here’s our letter of introduction.”
+
+I handed it to her.
+
+“Certainly. Please give me one moment while we confirm.”
+
+She stepped away as another man approached us.
+
+Uh-oh…
+
+“Hey, hey, what’s a kid like you doin’ in here?”
+
+I knew it!
+
+Someone wanting to start trouble. First impressions were everything here. If I let them screw with me, I was done. But just as I was set to fire back—
+
+“Whoa! Hey, Grassé! You reach rank B, too?”
+
+Kabal spoke up, tossing him a few kind words. It made Grassé freeze in place.
+
+“Ahh! Well, look at you, Kabal! Sure haven’t seen
+
+you
+
+lately!”
+
+What a letdown. I was all ready to make him see how powerful I was, too. Of course, I had a tendency to screw that up anyway, so maybe it’s for the better.
+
+A few other guild members were starting to notice my friends. Soon, they were all trading nostalgic banter with one another, which segued into retelling stories of past glories on the field,
+
+blah, blah, blah
+
+. I sat down on a sofa and waited. An attendant brought me some tea. It was all just
+
+too
+
+perfect.
+
+Enjoying the aroma, I decided to ask about something bothering me.
+
+“Hey, Kabal, how’d you know Grassé was a B-ranked adventurer?”
+
+“Whoa, whoa,” Grassé shot back, “watch your manners! That’s
+
+Sir
+
+Kabal to you, li’l lady! You must be a beginner if you don’t know how things work around here, huh? How ’bout you show some respect to your elders?”
+
+“Hey, I wouldn’t mouth off at Sir Rimuru like that—”
+
+“You should really show some more discipline to that kid, Kabal. You know we don’t allow any guild members under rank B in here, and look at the attitude she’s giving off! If you keep spoiling her like that, what’s she gonna do when she has to fend for herself?”
+
+“Knock it off! This guy’s here on his own merits! …I’m sorry, I’ll fill him in later, so…”
+
+Kabal gave me a regretful bow. I didn’t mind as long as people stopped picking on me, but this “li’l lady” stuff was starting to get old. Ah well. This particular form of mine, magic-free and carried out strictly by my own body, was the most comfortable thing for me anyway.
+
+“I’m not a kid, all right? Or a lady. Try to remember that.”
+
+Still, Grassé did answer a few questions for me. Our IDs were all checked at the door to confirm our qualifications. Not good enough? Then you didn’t get in. I suppose that was why the HQ didn’t seem all that heavily guarded. As Elen explained, members below B rank used a branch office near the main entrance, which offered cheaper lodging and was more convenient for day-to-day activity. Good thing I went through all that effort to earn a B, then.
+
+As all this unfolded in my mind, the woman from before returned. “Thanks for waiting,” she said with a smile. “I was told that only you were allowed in, Sir Rimuru, so if you would follow me, please…”
+
+This sent a jolt of tension across the lobby.
+
+“The grand master’s gonna see ’im…?!”
+
+“So that letter was real…?”
+
+“Real or not, how often does the grand master give an audience to some guy off the street?”
+
+“That’s why I’m
+
+telling
+
+you guys, Sir Rimuru’s not some guy off the street!”
+
+Kabal proudly boasted about me to the suddenly interested audience.
+
+I wish he’d stop that; it’s embarrassing.
+
+“I’ll be back in a bit,” I said as we walked off.
+
+The woman directed me down a deeper hallway before knocking on a certain door. There was no response, but she opened it and went in anyway, inviting me to follow.
+
+Going inside, I immediately noticed a magic circle drawn on the floor, much like the one Vester had drawn. Probably from the same family. Invited to step inside, I stood alongside the woman, feeling her activate the magic behind it for just a single moment. We must not have been teleported very far.
+
+This new room, a sort of informal reception chamber, felt airtight to me—that circle might have taken us somewhere underground. These were probably all anti-spy measures, I figured, and the thoroughness of it all left me with a lot to learn from.
+
+The woman, well used to this procedure, gave me a bow before teleporting herself back. Left alone, I sat on a chair and waited. After a couple minutes, a door opened, revealing a single young man. He was fairly handsome, with black hair and black eyes, but there was still more than a trace of youth to his countenance—young enough that I’d believe him if he said he was in high school.
+
+“Welcome,” he began, smiling. “I am grand master Yuuki Kagurazaka. It’s nice to meet you, Rimuru. I’ve heard quite a lot about you! Feel free to call me Yuuki.”
+
+“It’s good to meet you, too. My name’s Rimuru Tempest, and I am the leader of the newly established nation of Tempest in the Forest of Jura. Just
+
+Rimuru
+
+is fine with me, too.”
+
+Thus, I had my first encounter with Yuuki Kagurazaka.
+
+After introducing ourselves, we settled down to a little Q&A session. It began with a bit of idle chitchat as we probed each other’s motivations and such, but it wasn’t long before I was totally at ease with Yuuki.
+
+He was just a kind, good-natured guy, supposedly in his late twenties but not even looking out of his late teens. I asked him why; he said it was a type of curse. He didn’t obtain any special or unique skills on the way to this world, apparently, but the journey did grant him massively upgraded physical abilities.
+
+“It was really just, like…” He scratched his head. “Like, what should I do? And really, it took me about five years until I realized that something weird was going on with me.”
+
+His eternally boyish looks, among other things, meant he had never been in a relationship. I couldn’t help but laugh and cheer him up. I was starting to like the guy.
+
+“Wow, really? Ooh, that’s too bad, ha-ha-ha! But, hey, you’ll get luck on your side eventually!”
+
+“That’s really not helping…”
+
+Yuuki sounded a little huffy about it, but I’m sure I was just imagining it.
+
+Either way, we quickly broke the ice.
+
+“Still, I have to hand it to you… A monster building an entire city?”
+
+“Oh? It’s not that rare of a thing, is it?”
+
+“Well, I mean,
+
+I
+
+sure haven’t heard of it…and I kinda doubt I will again, after you.”
+
+“You think?”
+
+“Yeah…”
+
+We stared at each other for a bit.
+
+What’s the big deal with monsters building cities? Yuuki’s getting too bogged down in the little things.
+
+I let it slide as the topic turned to our current situations, and once that conversation ran its course, Yuuki brought up his main concern.
+
+“So, Rimuru… You’re a monster, right? That’s how Fuze described you to me, but I’m pretty surprised that you went right through the barrier we have over the headquarters building. How did you transform yourself like that?”
+
+“Mm? Oh. Yeah, I’m a monster. A slime, to be exact. Keep this between us, but I’ve got a skill called Universal Shapeshift that does this for me. I can imitate any monster I’ve consumed. That, and this mask contributes a lot, too.”
+
+I removed the mask. I knew I’d be dealing with the grand master for a while to come. If we ever got hostile, I’d have a hell of a time getting accepted by people in this nation. This was a do-or-die moment. I couldn’t let him think my city was some house of horrors. Let’s just go out with the whole truth, right now.
+
+“Imitate monsters you’ve… Wait. Is that Miss Shizu?!”
+
+A murderous look crossed Yuuki’s face. A beat—and then he disappeared from the opposite side of the table. We exchanged a pair of kicks. The resulting shock wave split the table in two. It was a tremendous blow—heavy, furious, like nothing a human could launch. I might not ever feel pain, but for just a moment, my leg felt too numb to move.
+
+“Calm down, kid—” I said, cool as a cucumber.
+
+Looking back, Shizu managed to spot me purely on the atmosphere I exuded around her. A pretty amazing feat, now that I think about it. It took a lot of imagination to picture an otherworlder who wound up turning into a slime.
+
+The rage was gone from Yuuki’s eyes, but he was still on his feet, ready to continue. “Could you explain this to me in detail?” he asked, his gaze fixed upon me.
+
+We sat across from each other once more, leaving the broken table where it was.
+
+“Well, all right. Look, to be honest with you, I’m an alien from a faraway planet—”
+
+“What are you talking about? I want you to be serious with me! Honestly, I’m impressed you think this is a great time to goof off!”
+
+Yikes. Yuuki looked pretty pissed. I figured a little joke would help ease the tension, but maybe not…
+
+“All right, all right. I’ll be serious now, so just chill out a little…”
+
+“You come all the way here, and that’s the joke you go for? That’s the first time I’ve heard
+
+that
+
+one. Are you by any chance…?”
+
+Yuuki guessed it before I could even say it. I decided to start from the beginning.
+
+“So…I was attacked by this guy on the street…”
+
+I spent the next while going into minute detail about what happened.
+
+“Ah… So you
+
+are
+
+Japanese, huh, Rimuru…?”
+
+Heh-heh. Just as planned.
+
+I make a joke that only someone with my background would understand, and he was instantly on my side. It made him angry at first, but, hey, it worked! The quickest way to make him realize who I really was! (Whether he believed that was my intention is another issue, but, um, it worked!)
+
+Once we got through with that, we talked about all kinds of things. What we’d been up to in this world. Our trials and tribulations. Shizu’s final moments.
+
+“That’s how she decided to go…? I have to admit, she often told me about how much she didn’t like this world…”
+
+Yuuki closed his eyes.
+
+No point dwelling on dreary topics. I brought up other things from our old world. He demonstrated a particularly keen interest in how his favorite manga and anime wound up ending.
+
+“Aw, come on! You gotta tell me what happened after that!”
+
+“Hee-hee-hee! You wanna know? Well, guess what—? Pretty much all the manga and anime you mentioned ended by the time I left! And you
+
+know
+
+I kept up with all of it. A true gentleman always makes sure to cover all the bases!”
+
+“That’s amazing! Please, sir! Please, give me your knowledge!”
+
+He was starting to sound frantic. It made the woman from before almost drop her tray of tea and snacks when she teleported back in. Maybe I took it a little too far.
+
+“Well, here, I’ll show you, then. Do you have a piece of paper?”
+
+“Paper?”
+
+“Yeah.”
+
+Yuuki gave me a doubtful look as he provided me with one. I swallowed it into my stomach—
+
+“There, all set.”
+
+—and took out my finished work, handing it to Yuuki.
+
+“Wh-whoaaaaaaa!! What kind of magic trick is this, sir?!”
+
+I couldn’t blame him for his surprise. I had just handed him a neatly bound volume of manga.
+
+This was the result of me wringing everything I could out of the Great Sage. I basically took the paper and copied the images I replayed from my memory upon it. Talk about a waste of a great talent. Real effective, though.
+
+“Right! If you want to read more, I’ll need some more paper to work with!”
+
+Without a word, Yuuki stood up and ordered another woman to bring some paper. His face was dead serious, so the woman quickly stepped up to bring a few reams down. I spent the next little bit burning all my memories upon them, making sure to keep the extra sheets for myself. Paper was still a high-end product—what I took was worth a small fortune. Never hurts to have some. I had some actual, non-stupid uses for it, too.
+
+Plus, Yuuki sure wasn’t complaining. I bet not being able to catch up on his favorite series was a big disappointment for him. Getting that chance in
+
+this
+
+world, he had nothing to complain about.
+
+“Thank you so much, sir!”
+
+Of course, some of the series he requested hadn’t gone much of anywhere plot-wise, much less wrapped up publication. It sucks how
+
+those
+
+are often the most engaging series.
+
+I
+
+wanted to know how some of those turned out, too. Hopefully another Japanese otherworlder will show up in, like, ten years or so to fill me in.
+
+“You know, Rimuru, I wanted to ask you…”
+
+“Oh? What’s that?”
+
+“When you signed on for the guild, how did you fill out the entry form? You didn’t have any time to learn the language in this world, did you?”
+
+Oof. Talk about hitting you where it hurts.
+
+“Hee-hee-hee! Well, about that. It’s because I studied this language, of course! After days of unbending effort, I should add!”
+
+The Sage was deciphering and copying everything I needed for me, actually. But Kabal and the gang
+
+did
+
+teach me the basic alphabet, and the rest came quickly after that.
+
+“Really? You didn’t use some magic cheat or anything…? Because learning the language was one of the toughest things I dealt with, coming here.”
+
+“Oh, um, ummm, don’t be silly! No matter how old you get, studying never stops being important!”
+
+I wavered a bit, but I think I managed to keep the facade going. It hurt a little, seeing Yuuki show me such respect, but I wasn’t strictly lying, so it’s all good. The Sage was what let me read and understand things, but, hey—that’s my ability. Just because I omitted that fact didn’t make it any less true.
+
+Over dinner, our conversation drifted back toward more serious topics—in particular, about what we’d both do next.
+
+“So you risked your life to travel here, Rimuru, because Miss Shizu said we’re both from Japan? I mean, I’d love to keep helping you going forward, but was that your only motive?”
+
+“How do you mean?”
+
+“Oh, I just thought you might have some other reason. Like, maybe you’re trying to find a way back home or something?”
+
+Back home.
+
+Yes, I had thought about it. But I gave up on it. I was already dead over there; I was sure they’d cremated my body long ago. There wasn’t really anyplace for me to return to. I’d just make everyone’s lives chaotic. If they thought about me now and then, reflecting on the good old days, I was okay with that. To younger otherworlders, however, I’m sure getting back home was their number-one priority.
+
+“Do you think it’s possible?” I asked. I was greeted with silence. Not that easy, I guess. He would’ve done it already if it was. That’s about what I figured.
+
+“Well,” Yuuki said, “it kinda looks like a one-way street. That’s because this world is…I guess you could call it semi-physical.”
+
+He went into detail on what he knew so far. Essentially, our old planet was a purely physical world—a world free of magicules. The opposite of that is a purely spiritual world—one teeming with spirits, demons, angels, and other mystic life-forms; one full of mysterious and astonishing energy. The two were polar opposites but still retained some deep, important connections.
+
+Which led to this world—a world of chaos. An extremely unique entity—one that shared properties from both the physical and spiritual worlds. Its atmosphere was packed with magicules, allowing fairies, ghouls, and other spiritual life-forms to manifest themselves—something Yuuki figured out via his own experimentation.
+
+Traveling from a physical world to this one meant that our own bodies had to be broken down once, then rebuilt in semi-physical form. That, he explained, was likely why we couldn’t go back to a purely physical world again.
+
+“However,” he added, “I don’t think it’s a zero-chance possibility. Japan’s full of stories about demons and monsters and things, and you see the same kinds of tales and myths all over the world. So if we’re able to get the conditions just right, I’m thinking that maybe we can, you know?”
+
+He sounded right to me. I had my own thoughts about it, too. It all felt like a vague fever dream at this point, but I definitely remembered hearing the World Language from pretty much the moment I was stabbed. There was definitely
+
+some
+
+kind of connection between Earth and this world it had to ride on.
+
+“Plus… You can cast magic, can’t you, Rimuru?”
+
+“Yeah,” I replied to the sudden topic change, “I had a spell or two taught to me.”
+
+Yuuki squinted at me, jealous. “That sure is nice… I was really excited about magic, too, at first…”
+
+As he put it, when he first came to this world, he both lamented his plight and fostered a deep fascination for the unknown force of magic. I was the same way. Anyone who’s a fan of manga and anime must have wished they could toss around magic at least once in their lives.
+
+“I wanted to learn some, but for some reason, I just couldn’t do it. I think it’s because of the way my body changed. It felt so, like,
+
+romantic
+
+, too, but no…”
+
+Yep. Something adventurous to it, isn’t there? If something’s right there at your fingertips, of course you’ll wanna try it out. But Yuuki just didn’t have the right characteristics for it. Reality sucks sometimes.
+
+“Still, I can perform research into it. And what I found was that in this world, magic is the power to interfere with the laws of nature. There’s a mysterious set of laws to this world—people call them the World Language—and when you earn a new power, or the value of your life rises in some way, like when you evolve, then that’s how nature tells you about it. Magic runs under the same rules as this World Language; when you cast the spell, it turns that nonphysical phenomenon into real life. And if you look at it the other way…”
+
+Yuuki paused. I tried to guess where this was going. Look at it the other way…
+
+“Everything has a cause and an effect, and if you figure out the laws behind all that, you might even be able to find a way home…is what you’re saying?”
+
+I was familiar with the World Language. My skill, the Great Sage, used the term when talking to me. It was my familiarity with it that led me to that conclusion.
+
+“…Right. That’s very good, Rimuru. I’m surprised… You understood a concept that I had to spend years researching.”
+
+Take the concept of “returning home,” render it into a set of laws, and translate it into the World Language. Easy for
+
+me
+
+to say, but trying to discover those laws would take a lifetime of research. Even with that much effort, it may not be possible at all.
+
+But if you were able to interfere with the World Language on a deeper level…
+
+……………………………………
+
+The Sage was silent. No, a skill like that’s just a fairy tale. Guess we’d just have to keep plugging away on that research.
+
+Yuuki gave me a wry grin. “Of course, I’d never have enough time to uncover all of it, I guess. I’d have to decipher and evaluate each of the laws, one by one.”
+
+And that’s probably his main goal. I’m sure he’ll keep up his research.
+
+“Well, I’ll definitely help you with whatever I can, and I’ll try doing a little research on my side, too.”
+
+I had to volunteer to pitch in. I just had to give a shout-out to his spirit.
+
+“But anyway, if you aren’t trying to return home, what brought you here, Rimuru?”
+
+Now he was getting back on topic. I figured he deserved a full answer.
+
+“Well, if I can kick back and chill out a little in this life, that’s all I really want. I’ve got a town pretty well built up, and basically, I’m just in this to have fun with my friends. But there’s something that’s been bothering me lately…”
+
+My other mission. I needed to purchase magic stones and check out the cities, figuring out how advanced their civilization was—that was important. But I hadn’t forgotten the biggest one. The children I saw in my dreams.
+
+“…I see. Miss Shizu must have been really worried for them. But those kids are… Well, if that’s what she wants you to do, then I trust you are up to it.”
+
+He then dived into a long story, telling me about the children I saw in detail.
+
+After the end of our long conversation, I walked out of the guild headquarters, offering to treat my friends to dinner for making them wait so long. “Oh, don’t worry about it,” they all said, but it was already early evening—Yuuki and I had been talking practically from dawn till dusk. I wasn’t expecting the meeting to go on for so long, so I felt bad for them.
+
+We went to a restaurant with a famed reputation across the city, a far cry from our lodging. As we greedily tucked into the gourmet dishes ferried to us, I went over everything Yuuki and I had agreed to.
+
+“So yeah, starting a week from now, I’ve agreed to become a schoolteacher.”
+
+“Huh?”
+
+“Where did
+
+that
+
+come from?”
+
+“You sure are a joker, Boss!”
+
+Neither Kabal nor his cohorts were ready to believe it at first. Sheesh. Better start from the beginning.
+
+“Basically, I’m gonna be living in an empty room in the school dorm starting tomorrow. I told you about the dreams I’ve been having, right? Yuuki thinks he knows them, so he’s setting me up to work as their teacher.”
+
+They responded with several questions, which I answered in order. I had succeeded in convincing them by the time we finished dinner, although they still couldn’t hide their exasperation.
+
+“Wow, Boss. A teacher, though, huh…?”
+
+“Pretty hard to imagine…”
+
+“I’m worried for those kids.”
+
+What’re you looking at me like that for, Gido?
+
+“Yeah, so as far as it goes for you guys, today marks the end of you guiding me around on this journey.”
+
+“…Kinda sudden, Boss.”
+
+“I thought we were contracted to stick with you until we were back?”
+
+“Oh, I’ll be fine! That’s why I set up that teleportation circle, right? Because I figured something like this might happen. This way, I can go back to Tempest or Blumund in the blink of an eye. Gonna be a bit harder for you guys, though, huh? Good luck out there!”
+
+“Whoa, whoa, are you serious? I thought we’d be taking that wolf wagon back, man…”
+
+“Yeah, really! Ugh, just
+
+thinking
+
+about the journey now makes me so depressed!”
+
+“Aw, c’mon, Kabal,” chided Gido. “And you, too, Elen. You guys are getting too used to life on easy street, aren’tcha? Not that I’m lookin’ forward to getting battered and bruised on a regular wagon again, but…”
+--- END PRESERVED SOURCE BODY ---

@@ -1,0 +1,623 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 58 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_04_Chunk_013.txt | SHA 1518c3085e710b2905fa4be5f0df8a01bc5c5c1f | 33860 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_04/Volume_04_Chunk_014.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 6 (continued) ===
+
+This involved providing some of your magicules in exchange for borrowing the power of the spirits to do things. Such elemental magic required no casting time; forge a pact with a spirit, and anyone could pull it off. That pact, however, required earning the trust of an elemental, and the one you chose could affect the power of the resulting magic. Humans didn’t have a lot of magicules by default, so without training, your average person couldn’t wield a whole lot of force. Still, even if it was only a bit more powerful than household magic, it was still magic, and it’d be enough to protect you from criminal activity, I suppose.
+
+Mastering spirit magic like this could reward the user with an offensive arsenal that rivaled any other. After yet more training, one could even summon elementals themselves. Building stronger connections with elementals like this let you take advantage of their powers more fully, ruling over them and controlling them freely. It was certainly a lot more powerful than simply having one lend you a hand.
+
+Ur-Gracia was a nation the spirits seemed to love a lot. As a result, legal custom called for a pact-themed ceremony held for everyone at the end of their tenth year of age. This ceremony, once completed, qualified you as a citizen of the country and was also the reason why literally everyone was a shaman.
+
+Anyone who failed to forge a pact with an elemental was exiled from the nation at the age of twenty, losing all rights as a citizen—but with all the many spirits out there, it was rare to be completely unable to find one to partner with. The hostess I met that night apparently dodged it on purpose so she could see more of the outside world, but apart from exceptions like her, pretty much everyone succeeded.
+
+Elemental spirits tended to dislike people with evil intent, so if you committed a crime in Ur-Gracia, it’d get spotted almost immediately. That was why the people around here were all pretty chill.
+
+Having an entire nation of shamans naturally made it a threat to its neighbors. It was not widely known to the Western Nations, but its next-door neighbors in Thalion were well aware of them. That was why they had formal, equal diplomatic relations, despite Thalion being much larger and masters of its own brand of elemental magic. Thanks to the disposition of most Ur-Gracians, relations were friendly and trustworthy between the two, allowing them both to advance their civilizations and grow.
+
+That was about how the lady at the nightclub described it. Now the kids and I were here, and our mission was clear—summon some elementals.
+
+According to the theory I (really, the Great Sage) came up with, Ifrit fused with Shizu’s body to avoid a physical breakdown caused by magical energy gone out of control. A high-level elemental like Ifrit could keep a massive amount of magicules in check—if I could get some to fuse with these kids, that should hopefully solve the problem.
+
+Fortunately, I had the unique skill Deviant, which let me Separate and Synthesize things. I wasn’t sure how the fusion process worked, but hopefully I could just smash the two sides together and see what happened. If the demon lord Leon could do it, I probably could, too.
+
+The one problem that cropped up at a time like this was how the elementals feel about it. Few of these spirits had wills of their own. Possessing one at all was enough to deem an elemental as high-level.
+
+In the hostess’s village, it was said there were two places to forge pacts with spirits. One was the altar in the main square, where local citizens performed their pact rituals. No high-level elementals had ever been found there. If you wanted to forge a pact with one of those, you needed to go to the
+
+other
+
+place.
+
+These
+
+spirits often had, shall we say, attitudes; they would never accept you unless you passed a trial of their liking. Such pacts could only be forged in a place called the Dwelling of the Spirits.
+
+The question was, were the hostess and Treyni talking about the same place? As the hostess put it, nobody who ventured forth to find the Dwelling had ever come back. The rumors about it kept circulating, though, which she found strange. They called it a sort of maze that spread out underground, or up in the sky, with the Dwelling itself found only at the other end.
+
+Only the “entrance” existed in Urgr Nature Park—a simple door blocked by a large boulder, as if connected to another dimension. We were here to find some high-level spirits, and that meant we had to go that way.
+
+We spent an evening resting up and preparing. I wasn’t wholly sure I could use a Warp Portal to get back outside from whatever was beyond that door. I had a feeling I couldn’t, but just in case, I drew a magic circle on the ground in an inconspicuous section of the park. Just a bit of insurance. It’d be nice if it worked.
+
+I sized up the children.
+
+“You guys ready? Once we go in, we might not be able to get back out. Do you think you’re prepared for that?”
+
+They all briskly nodded at me.
+
+“Of course!”
+
+“We’ll be fine.”
+
+And so forth, from one kid to the next.
+
+Good. At least they’re not scared. It feels like they’ve been friendlier with me, trusting in me a lot more lately. That little dragon hunt a while back must’ve had the intended effect.
+
+I had earned their trust. It was time to go.
+
+There wasn’t any information on this spot in any of the books I scanned at the library. Unfortunately, I had no idea what monsters might be lurking on the other side. It was described as a trial, so it had to be pretty dangerous. But how come nobody ever came back? There were other elementalists out there besides just Shizu, after all, capable of taking full control over high-level spirits. I couldn’t make contact with any of them, but Yuuki had said as much to me, so it had to be true.
+
+There was at least a touch of concern in my mind over whether Ranga and I could keep the children protected. If it looked hopeless, I intended to fall back and ask Benimaru and the other ogre mages for backup…assuming, of course, we could get out that easily.
+
+Either way, it was with a sense of firm resolve that I grasped the door handle. Slowly, carefully, I stepped inside. It was strange—the sun shouldn’t be able to reach in, but the entire area was bathed in a dim light. I tried it out before letting the kids in, but it was bright enough to keep things visible without using Magic Sense. Nothing bad in the air, either.
+
+At my signal, all five went inside. We had just taken our first steps into the labyrinth.
+
+The moment all of us were in, the door closed. I immediately tried out my Warp Portal. Just as I thought, it failed to activate. I suppose this maze or whatever was set up so spatially oriented magic wouldn’t work in it. Ranga’s Shadow Motion failed, too, so I was pretty sure that was it.
+
+Better give up on escaping for now and switch gears to solving this trial. We proceeded inside. It wasn’t really much of a labyrinth—more of a single corridor.
+
+Nothing you can really get lost in
+
+, I thought as we carefully pressed forward.
+
+………
+
+……
+
+…
+
+Good thing my brain’s got a map function.
+
+It
+
+looked
+
+like a single path, but it was packed with traps designed to throw off your sense of direction. Try to go back, and the light would adjust itself to hide your previous path in the shadows. Even going forward, a path that looked completely plain would be hiding branching paths at the outer edge of the light.
+
+Yep. It sure
+
+was
+
+a labyrinth, one a regular human’s directional skills would never work inside. You might not even be able to go back, for that matter. Pretty scary setup they got here.
+
+Just then:
+
+(Oh dear, oh dear, oh dear…)
+
+(He noticed, he noticed.)
+
+(Oh, my, my, my, my, my…)
+
+(Tee-hee-hee-hee-hee!)
+
+Suddenly, voices echoed in my mind. A very powerful form of telepathy?
+
+(You bore us, guest!)
+
+(Be more scared for us!)
+
+(Be more frightened for us!)
+
+They babbled on at me. I saw Kenya and Ryota look around searchingly; they could all hear the same voices, no doubt. Chloe hung on to my clothing, refusing to let go. Alice was acting defiant, but she, too, was staying right by me.
+
+Gail had his sword out, seeking to keep everyone safe. His job as the oldest, I suppose. It was the sword I gave him, a child-size one I asked Kurobe to forge for me. Small but made of pure magisteel and capable of changing its shape to match the wielder’s habits. I was hoping he wouldn’t have to use it, but…
+
+(Good, good!)
+
+(Be more afraid!)
+
+(That’s it, that’s it! It’s too boring otherwise!)
+
+Hmm. Now I know where it’s coming from.
+
+All this selfish chatter was getting on my nerves.
+
+“Hey, do you guys live here? Are you elementals? We’re here on a mission. We need to talk to some high-level elementals. If you don’t mind, could you lead us forward instead of getting in our way?”
+
+I figured I’d give it a try. How would they respond to it?
+
+(Ah-ha-ha-ha-ha-ha!)
+
+(Ee-hee-hee-hee-hee!)
+
+(What a funny thing to say!)
+
+(Interesting. More so than being surprised. More so than being scared.)
+
+(Good, good!)
+
+(Let me tell him.)
+
+(But, but—)
+
+(Before that!!)
+
+Another pathway of light appeared in the corridor in front of us. Apparently, we were being invited. We had to go.
+
+The path of light was no problem to walk on. Proceeding across it, we found ourselves in a large, open chamber that housed a big standing statue, a giant of steel looming over us.
+
+(Let me explain the rules of the trial!!) a telepathic voice boomed. As it did, the eyes on the giant statue glowed red.
+
+What is it with creepy monsters all having eyes that glow red like that?
+
+I don’t know why that thought struck me, but it did.
+
+“Whoa, wait. By ‘trial,’ do you mean I gotta beat this statue thing?”
+
+(Uh-huh!)
+
+(Yep!)
+
+(You got it!)
+
+Well, that’s easy.
+
+“Shall I?”
+
+“No, Ranga. I’ll do it. You stand guard for them.”
+
+I stepped forward. It was my job to deal with the worst. And if we had to run for it, I wanted Ranga in healthy shape.
+
+(Hmm? Hmm? Hmmmmmm?)
+
+(Doing this by yourself?)
+
+(Too much confidence is a dangerous thing!)
+
+They were worried about me? I sure wasn’t too concerned.
+
+I ran Analyze and Assess on the statue in front of me.
+
+And I almost choked. It was…nuts. A golem, built in magisteel from head to toe, with enough magical energy to put it beyond A rank. Stronger than the Sky Dragon I beat earlier. It was nearly ten feet tall, looking dignified and massive—I’d have to guess it weighed over thirty tons. Simply falling on me would be a strike I’d have trouble dealing with. I had Resist Melee Attack, sure, but it wouldn’t help much if I got squashed flat as a pancake.
+
+As I racked my brain figuring out what to do, the statue shuddered. I immediately sped up my thought process, following its moves. It went nimbly, quickly, like a master swordsman. At that size and with this speed, it was an incredibly dangerous foe. It could bump into me, and I’d look like the victim of an especially gruesome highway accident.
+
+You call this a trial?
+
+“H-hey! Hey! What’s with this guy?! This isn’t any kinda trial at all! You’re trying to kill me!”
+
+The elementals erupted in laughter.
+
+(Tee-hee-hee-hee-hee!)
+
+(Yes, yes we are, exactly!)
+
+(Think you can win? Think you can win?)
+
+Were these really elementals? Because they seemed downright evil to me. Plus…that attitude, treating me like a baby. They were really starting to piss me off. Like…
+
+really
+
+.
+
+The rage from the pit of my stomach made me start to get for-real serious about this—a rarity for me.
+
+Hoo boy. Can’t let that happen. I need to retain my dignity around these kids.
+
+I never got angry about much—something they already knew. I was a role model for them, and I needed to show that losing your cool was a negative.
+
+Right. Deep breaths. I retained my composure and tried to look as casual as possible as I took a battle stance.
+
+No need to go crazy here. Just don’t let it hit me, and I’ll be fine. The statue’s pretty fast, but I’m much faster. I’m a guy who can break the speed of sound, even.
+
+But just running all day wouldn’t get me closer to beating it…
+
+I had a feeling Dark Thunder wouldn’t work on it. It was steel, after all. The electricity would just get sent to the ground. A few spells from the magic books I pored through seemed like they had potential, but they were too large-scale in effect to be suitable. Water Blade and magic fireballs wouldn’t be enough to break through the statue’s armor, either. Hacking at it with a sword would be pointless; I’d chip the blade long before I’d ever cut through. I might even break it, which would suck.
+
+Like, seriously, a giant walking hunk of magisteel? Cut me a break. A golem made out of the hardest metal on the planet, moving this flexibly… There were so few weak points, I didn’t know where to begin.
+
+Only one thing left I can think of. Burn the thing down. Burn it but keep the flames limited to reduce any collateral damage.
+
+“Hey, if you’re gonna apologize to me, better do it soon. If you don’t, I’m gonna destroy this thing. You okay with that?”
+
+(Ah-ha-ha-ha-ha-ha!)
+
+(That’s funny! Very funny!)
+
+(Ooh, a big, strong boy!)
+
+(Good, good. Very good!)
+
+(Let’s see if you can!)
+
+Hnnnnng.
+
+Come on. I’m a grown-up. I’m fine. I won’t let a bunch of telepathic brats get me angry.
+
+I’m sure the way the veins in my forehead felt like they would explode was just my imagination. I didn’t even
+
+have
+
+any veins.
+
+Well, at least I had their permission.
+
+Sayonara, golem. I’d love to take you home and use you as a toy…er, I mean as research.
+
+“Demonwire Bind!”
+
+This was a Soei move, but I was trained in it by now, the result of regular efforts over time. Plus, my Sticky Steel Thread had grown stronger, far more than it was before. It was a cinch to wrap it around the statue and keep it from moving.
+
+(No way?!)
+
+(I cannot believe it!)
+
+(The Elemental Colossus?!)
+
+Then an ebony darkness covered the statue. Ignoring the surprised elementals, I launched a Hellflare at it. Again, a move I mastered from Benimaru. Focusing my concentration to a razor’s edge, I kept its range as small as possible. Such focus wasn’t necessary if I was just using it normally, but defining a specific range required full control over a massive amount of magicules.
+
+A dome about ten feet in radius, a size so compact not even Benimaru could conjure it, covered the statue. Even this was something I could only pull off with the help of the Great Sage. There was a massive
+
+foom
+
+sound, and when the dark dome disappeared, nothing remained.
+
+According to the Sage’s calculations, the temperature inside the dome exceeded several hundred million degrees, enough to create a burning hell that vaporized everything in an instant. Even my own Cancel Temperature would be worthless against that.
+
+It was the strongest attack skill in existence, one nobody could ever resist. Not too useful against oversize monsters like Charybdis, but still. Its main weakness was how easily avoidable it was; it took long enough to create that simply running away worked pretty well. You couldn’t just throw around an attack with an inherent weakness like this, or else your opponents would figure out how to deal with them. I had to save the big guns for situations like these.
+
+Of course, binding my foe in advance took care of that weakness pretty handily. Either way, though, this was one of the attack skills I hardly ever wanted to show anyone.
+
+(No!!)
+
+(I don’t believe it…)
+
+(In one strike…?!)
+
+Some very flustered-sounding messages rattled in my brain. It would seem they had had absolute confidence in that golem. I couldn’t blame them. The children all had their jaws to the floor as well; it must’ve been quite a shock. Exactly why I didn’t want to show them, but ah well.
+
+Those elementals had screwed with me for long enough.
+
+I hope they’re ready for me now. It’s my turn to hand out some punishment.
+
+After burning away the Elemental Colossus, I let an evil grin spread across my face. Heh-heh-heh-heh. I think I had a negotiation advantage by this point.
+
+“Right, then. Come on out! Unless
+
+you
+
+guys wanna be burned to ashes next. I know where you’re hiding!”
+
+I didn’t, of course. I had a general idea, but the telepathy-based blocks made an exact location hard to pinpoint. It’d save me a lot of trouble if they came out voluntarily.
+
+“Yes! Yes, yes, yes!! I have humbly been called upon!!”
+
+What then flew out was a cute little girl (?), looking a bit like a poseable doll with dragonfly’s wings attached. Not a dwarf, but more like a fairy-tale sprite. Her hair, a mix of gold-based green and black, was braided, and she wore a flared dress with white-and-green patterns over a black background. It was a pretty flashy outfit, full of fancy frills and the like, and it was opened in the back to make room for the dragonfly wings. Behind this fairy were several others like her, though dressed much more plainly.
+
+“Ta-daaaaaa! Behold, for I am the mazzh… Ahem!”
+
+It sounded like she just tripped over her words in a script. Should I poke fun at her for that?
+
+I guess they’re so used to telepathic speech that her vocal cords are out of practice.
+
+“…You all right?”
+
+She waved a hand to dismiss the question. “Behold, for I am the majestic Ramiris of the Labyrinth, one of the Ten Great Demon Lords!! Bow down be… Um, before me!!” Then she cocked her head at me, like she was king of the world. I had no idea how she kept pushing my buttons like this.
+
+I think someone here needs a karate chop.
+
+“Oww! Wh-what was that for? You scared me!!”
+
+She dodged it. Darn.
+
+(That’s mean, isn’t it? Isn’t it?)
+
+(Can we beat him up? Can we beat him up?)
+
+(But, but, but, but he beat our Elemental Colossus!)
+
+(We can’t. We can’t. He’ll kill us!)
+
+Oh, shut up.
+
+“Besides, you’re cheating! Why doesn’t Spirit Control work on you?! I haven’t seen someone as tuned out as you in ages!!”
+
+They were certainly working themselves into a lather over me. My unconscious resistance to Spirit Control or whatever it was might have been the cause of a lot of their anger right there.
+
+But that’s not the only reason. I had the sense they wanted dearly to deceive me about something. No way this little pixie was a demon lord. Why were they telling such an obvious lie to trick me? Or were they still making fun of me?
+
+“If you’re gonna lie to my face, you really oughtta come up with a better story. How could a little kid fairy like you be a demon lord?”
+
+“I’m not a kid! You really
+
+are
+
+rude. And what am I, exactly, if I’m
+
+not
+
+a demon lord?!”
+
+“Huh? You’re that dumb? I have a real demon lord as a friend, you know. Her name’s Milim. That’s how I know you’re making that up. You’re so weak, it’s not even worth comparing you two.”
+
+“You’re so stuuuuuuupid! Stupid, stupid, stupid!! A big stupid man!!”
+
+Ramiris had to pause a moment to catch her breath after all that shouting. She continued on.
+
+“Listen, you,” she growled. “You know what they call Milim? The call her the most ridiculous demon lord in the universe. She tries to solve every problem she runs into with her fists. It’s pretty rude comparing someone so ridiculous with sweet li’l old me, don’t you think? Because if you don’t understand that, we’re gonna have problems, mister! Besides, aren’t you a little messed in the head anyway? Like, what’s with that attack? It’s crazy! And dangerous, too! Don’t you need to combine a bunch of special skills together to create something like that? I wish you wouldn’t be so reckless, you!”
+
+She had concerns about how dangerous Hellflare was.
+
+I wish she would stop being so reckless with me, actually.
+
+“So you really do know Milim?” she asked.
+
+“Uh-huh! We just became friends recently.”
+
+“…Oh. Well… Wait a second. Are you, um, that slime who became the new leader of the Forest of Jura?!”
+
+“Yeah, but how do you know about that?”
+
+“Ahhh, I
+
+knew
+
+it!! She stopped by for the first time in a while and bragged about this new friend she had, so I laughed her right out of this place…”
+
+Ramiris gave me a surprised look, beating her wings in a rhythm in the air. So she wasn’t lying.
+
+She’s really a demon lord, though…?
+
+“Well, glad my reputation precedes me. I’m Rimuru, Milim’s friend. And I’m here because I had a request.”
+
+“Oh, all right. I guess you really
+
+are
+
+someone Milim knows, so I’ll believe you. So stop looking at me so suspiciously! I’m a demon lord, I mean it!”
+
+Guess she could tell I didn’t believe her.
+
+Ah well. She seems harmless. Might as well accept her story for now.
+
+I decided to relax and hear her out with a calm mind.
+
+For some reason, I was the one providing tea and food. She had been calling me a guest for a while now, but doesn’t it usually work the other way around? Whatever. The children made fast friends with the fairies, enjoying a few cookies together in a scene I could only describe as darling.
+
+Ramiris’s aim was to try to scare us with that big statue. Once they watched it happen and had a big laugh about it, they would then step in to offer assistance, earning our profound respect and appreciation. She claimed they had no intention of killing or hurting us.
+
+All those rumors about adventurers and travelers never returning got their start because they usually dumped them into an exit connected to some faraway land. “Maybe they’re just taking their time getting home?” she remarked nonchalantly.
+
+This was the reason she was so whiny about me destroying her Elemental Colossus. Really, more vaporized instead of destroyed, I suppose. Sure can’t repair it now. Either way, though, she really had it coming.
+
+“Dahh,” she said over and over again, “after we spent all that time tinkering with that toy I picked up, we finally got it done, and now…”
+
+Well, sorry. My take on it was kill or be killed.
+
+“Besides, you know, that thing had a
+
+lot
+
+of features! It had earth elementals controlling its weight, water elementals working all the joints, fire elementals powering its engines, and wind elementals adjusting its heat level. A big elemental party! All the top names in spirit engineering worked on it, too…”
+
+She just
+
+refused
+
+to drop the damn subject.
+
+Maybe I shouldn’t have destroyed it, after all
+
+, I almost caught myself thinking. But then I’d be indulging her too much.
+
+Spirit engineering, though…? I
+
+was
+
+curious about that. Maybe it was related to the magical soldiers Kaijin discussed?
+
+“Is that like the magic-armor soldier project the dwarves were working on with the elves?”
+
+“
+
+Ding-ding-ding-ding!
+
+I’m impressed you knew that! But that failed because they couldn’t make the spirit-magic core that served as its heart. No way you can just make that out of plain steel and expect it to withstand an elemental’s force. So thanks to them using a bunch of shoddy parts like that, it went berserk and got all broken up. They just threw out its outer shell, so I brought it back home and fixed it up! I guess you could say I’m kind of a genius, huh? Isn’t that great?”
+
+It was, although I didn’t care for her boasting. Thinking about it, spirit engineering was based around the power of elemental spirits, so it made sense that a fairy so intimately familiar with elemental powers would better understand it.
+
+Listening to Ramiris gave me a general outline of that magic-armor soldier project; it was apparently meant as a way to produce so-called “crucial golems,” driven by elemental power and controllable by a regular person. A sort of ultimate weapon in this world, you could say.
+
+It was really crazy, this thing King Gazel was trying to make. Magicules ran up and down its body like blood vessels, working the same way as oil pressure on a car to spring it into motion. Its weight could even be controlled by magic, allowing it to fly—on paper anyway.
+
+Whether the project failed or not, though, were the dwarves really that keen on boosting their military…? Well, maybe so, actually. It was just taking a different approach from the pack. Instead of relying on otherworlders like their rival nations, they were using their technological supremacy to create a would-be death robot. That made sense—and it showed all over again how enormous, and lethal, a threat magic was in this world.
+
+Still, though, she had succeeded where Kaijin and his team failed, in her own way. She looked like an idiot, but this demon lord Ramiris might actually be someone real special. She transformed the concept into a golem that worked on given orders, but it was a fully complete machine.
+
+“All right. I’ll admit it, that golem was pretty impressive. And that’s why I have a request for you!”
+
+“Huhh? Why do I have to listen to…?”
+
+Sensing she was about to turn me down, I stopped her by summoning a little Dark Flame in my right hand.
+
+“…I…
+
+could
+
+be interested in hearing you out, I think, yes!”
+
+Right. That’s a good girl.
+
+“I appreciate that. Thank you. I won’t ask you to do it for free, either. If you’ll help me out, I can have a new golem made for you!”
+
+“Let’s hear it!”
+
+She sure was fickle. Dropping the right bait her way made it easy to change her mind. Which was great. Now I could finally get down to business.
+
+I explained the kids’ situation to her. The whole, honest story, not hiding anything. The children meekly listened.
+
+“So that’s why we’re here. We want to go to the Dwelling of the Spirits that lies beyond here.”
+
+“Ah-haaaaa.” Ramiris sighed, watching the children as the fairies chased them around. “These kids have been through a lot, huh?”
+
+“They have, haven’t they?” I drew closer to drive my point across. “That’s why I want to introduce them to the Spirit Queen. We’ve got to get some high-level elementals on our side.”
+
+“Oh, didn’t I tell you? The Spirit Queen’s me! I’m it!”
+
+“Huhh?”
+
+This was rather sudden.
+
+“I’m not really in the mood for jokes…”
+
+“How rude! It’s not a joke at all. It’s real!!”
+
+So this fairy calling herself a demon lord was now claiming to be the queen of all elementals?
+
+“Um, look, why is a demon lord working as the Spirit Queen?”
+
+“It’s the other way
+
+aroooouuund
+
+! I, the Spirit Queen, went to the dark side and got demoted to demon lord!!”
+
+Now
+
+that’s
+
+her story? I couldn’t expect much from this stupid kid, but if she claimed to be the Spirit Queen, I had to hear her out.
+
+“In that case,” I continued, wondering if it was really okay to do this, “I want to summon some high-level elementals. Can you help me with that?”
+
+“Hmm, right, right. Now I remember. Someone else who came here and made it past the trial… Oh! Leon! That was Leon! And
+
+then
+
+, he had the nerve to up and become a demon lord, too. Can you believe that? An ex-human doing that? I could KO him in one punch, you know! Easy! I mean it.”
+
+This was obviously a lie. You could see it in the way her eyes darted around. But enough about Ramiris. Let’s go back to Leon for a second.
+
+He
+
+was here? She didn’t exactly answer my question, but I couldn’t let that topic slide, either.
+
+Keeping my cool, I asked her for more details, and here’s what she told me: Leon, as a human child, paid a visit. For whatever reason, Ramiris’s Spirit Control didn’t work on him—in fact, he almost brought her under his thrall, which made her panic. She was gifted in elemental-oriented illusory magic, but none of it managed to fool Leon. So, her options exhausted, she listened to his tale.
+
+“And like, you were the same, too, but if my illusory magic doesn’t work, I’m done, you know? I don’t have anything else to throw at ’em, right? It means that sweet, helpless, li’l old me has nothing to defend herself with. That’s why I made that Elemental Colossus for a little extra muscle, right? And here I thought I could get back at all those mean demon lords who laughed at me…”
+
+Here we go again.
+
+“I
+
+told
+
+you, I can make you another one!”
+
+“Hee-hee-hee! I’m looking forward to it!”
+
+Nothing like a little bait to steer this simpleminded girl back on topic.
+
+“So anyway, I wound up helping Leon out a bit.”
+
+Utterly defeated, this non–demon lord Leon forced her to cooperate. He was apparently seeking information on something and asked her to summon an ancient high-level elemental who would know about it. Then, surprisingly enough, he forged a pact with the spirit.
+
+“Now
+
+that
+
+certainly startled me! That was a light elemental, practically my right-hand man around here, and it just sidled right up to Leon. It recognized him as its master and popped right into his body.”
+
+Having little other choice, Ramiris officially named Leon a Hero and offered him the divine protection of the spirits.
+
+“Wait a second. Why did someone who was named a Hero become a demon lord?”
+
+“Who knows? Maybe he fell to the dark side, too. Following in my footsteps, you know?”
+
+I doubted that, but I didn’t mention it. Ramiris apparently didn’t have much idea how Leon became a demon lord; I’d have to ask the man himself about it. This world, though… Heroes could become demon lords, just like that? Heroes here were bound by fate, granted astounding powers in exchange… If anything, it made me worry that Leon was an even more formidable foe than I gave him credit for.
+
+If you give it a little thought, it looks like I might be the one who pays for it when we ever meet. Maybe I’m lucky I got to learn about this facet of him here. Better brace myself for anything with him. I can’t let my guard down.
+
+Ramiris’s story continued. She had hoped that would be the last of Leon she’d see, but it proved not to be the case. Even with the high-level elemental’s knowledge, the man still didn’t find any of the clues he needed. This angered him so much that, out of spite, he went back here and stripped away a high-level fire elemental.
+
+“That shameless young man was being
+
+so
+
+unreasonable. He wanted me to summon a certain person from another world. He
+
+knows
+
+I can’t do that. Like, how stupid can you get? Then he gave me a look like he was about to cry. In fact, he
+
+did
+
+cry! Yeah, it’s not lying to say he cried. Not only was he a crybaby, but so self-centered, too! What a doofus!!”
+
+The memory was getting Ramiris worked up. It must’ve been frustrating for her, but to me, it sounded more like she was just being a sore loser. Milim was a handful herself, but at least she exuded real presence as a demon lord. At first anyway.
+
+Is this fairy sure she should say all this, though? If certain people find out about her complaints, they could make her disappear, no?
+
+If
+
+I
+
+discovered people were talking about
+
+me
+
+this way, I could easily vaporize ’em.
+
+“Hey, you aren’t thinking about something really rude right now, are you?”
+
+“No? Not at all.”
+
+Her eyes doubted me, but she was too ditzy to see through my ruse. I could see why she was on alert, though. I wanted her to summon some high-level elementals, and she was no doubt worried she’d be repeating mistakes from the past.
+
+“Well, I promise I won’t do anything like that to you, so don’t worry about that.”
+
+“For real? For really real?”
+
+“I promise!”
+
+That was the key that finally made her agree to help out. I wasn’t without my concerns about this, but I decided to just believe in her for now.
+
+“All right. Could you take us over to the Dwelling of the Spirits, then?”
+
+Ramiris gave me a serious and thoughtful look. Then she flew over toward the children, peering intently into their faces. I had no idea she could express herself this way, actually—with that kind of real and very non–demon lord affection.
+
+“Mmm. You know, I’m a demon lord, but I’m also a guide for the holy. I am a fairy resident of this labyrinth, and I was also the Spirit Queen. My job is to instill the protection of the spirits into Heroes, just as I did with Leon. So don’t worry. I always play it fair with people. Because I—yes,
+
+I
+
+!—am the one who maintains the balance in this world!!”
+
+The other elementals flitted happily around in the air. Blessed light filled the chamber. It was a very solemn, very divine series of events. Her ditziness was now gone and replaced with true dignity.
+
+Ramiris turned to each of us and smiled. “All right. Let me help you with the summoning! Let’s see if we can get a buncha nice ones for ya!” she declared.
+
+She began by giving me a crash course on elementals, helping me understand what they were a lot more.
+
+Higher-level spirits had sentience; summoning them successfully was more dependent on their own whims. One way around this, however, was to siphon some energy off one of the greater elementals, creating a new high-level elemental with it.
+
+“So, like, if you can’t call for one, you can just have a new one made?”
+
+Ramiris gave me a broad nod. Birthing a new spirit, as she put it, eliminates a lot of unknowns from the equation. She thought she’d be able to pull that off before she ran out of time.
+
+It wouldn’t be easy. There was the issue of compatibility with each of the children. Ideally, it’d be better to find elementals that volunteered to join their bodies…but we’d have to do what needed to be done.
+
+I looked at the children. They all returned my gaze with firm looks.
+
+“You guys okay with this?”
+
+“““Yeah!”””
+
+It was a stupid question. Now, we’d just have to try it out and believe.
+--- END PRESERVED SOURCE BODY ---

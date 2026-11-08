@@ -1,0 +1,973 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 38 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_7/02a_chapter1_part1_pages15-37.txt | Original blob SHA: 4c8a9797cf85ca18de285ac923ae2757ea522f78 | Original size: 63762 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_07/02b_chapter1_part2_pages38-60.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+                                       Chapter 1
+
+                          A Deal With the Devil
+
+
+
+“Octagram” will be our official title in the future—
+     Guy’s subordinates, namely his maids, the green-haired Mizeri and blue-haired Raine, are
+preparing delicate meals for everyone. Their dark maid outfits are of very good taste, and the
+same can be said about the dishes produced under their phenomenal culinary skills.
+     Just as Ramiris had said, the Walpurgis Banquet was meant for the Demon Lords to com-
+municate and also to exchange intelligence. Perhaps it is for such a reason that they’ve prepared
+an additional venue for the sole purpose of leisure.
+     However, there doesn’t seem to be a rule stating that everyone has to be there for refreshment
+activities.
+     Some left as soon as the meeting ended, while others stayed behind to enjoy the delicious
+food prepared by the staff. The remainder split into small groups to discuss topics of their own.
+The Demon Lords are all attending to their own interests.
+     I personally find this opportunity to be rare and decided to taste the food. To be honest, I’m
+quite interested in Guy’s diet considering his ruler status among the Demon Lords.
+     As it turns out, the food is delicious beyond belief.
+     I enjoyed the world-renowned cuisines to my heart’s content—
+     «Report. Component analysis complete. It is now possible to re-create the recipes black
+tiger stew, grilled sage rooster, golden peach sherbet, and roast earthdweller dragon steak.»
+     And at the same time, I am also secretly learning the recipes.
+     What? Me? Despicable? Cunning?
+     What do you mean by that? I don’t get it.
+     It’s too harsh to call my actions “corporate espionage.” It is, after all, an important part of
+intelligence gathering!
+     The ingredients are all from monsters above Rank A, so it would be difficult to collect them
+all. But I have already recorded the recipes, so we can take care of that one way or another.
+     Lastly, they served a mixed fruit platter.
+     There are a total of six Demon Lords who remained to attend the feast itself—Guy, Milim,
+
+
+                                                15
+Ramiris, Dino, Dagruel and myself. Valentine and Leon left long ago.
+     While Milim was devouring the assorted dishes, I went to complain to her about deceiving
+me. She tried to play dumb, but I wasn’t having any of it.
+     As for Karion and Frey, we decided to discuss our future plans on another occasion. Once
+the post-war settlements have been resolved, I am also willing to advise them on the reconstruc-
+tion of their cities and any other issues that may come up. Their respective kingdoms’ structure
+has been renewed with Milim as their new leader. Hopefully, this works out well for us too.
+     Ramiris is still being stubborn about wanting to live in my kingdom despite my firm denial,
+but… I can tell from her eyes that she is willing fight my decision to the bitter end. She also
+seems to think Treyni-san will come to her aid, since she seems to really adore Ramiris.
+     Treyni-san has been spoiling Ramiris with everything she has, so I probably can’t expect
+much from her. I will have to keep note of this in the future.
+     Dagruel and Veldora are having a good chat, and so are Guy and Dino, who are having a
+cheerful discussion about their daily lives.
+     Before the feast, I offered them a special product from the Tempest Federation—Brandy
+distilled from grape wine.
+     It’s one of my tactics to improve our image, which is to spread the words of our unique
+product and have an upper hand in diplomacy.
+     This strategy appears to be very effective—even against Demon Lords.
+     “Delicious.”
+     “Oh, this is great—”
+     “Cough cough, t-this stuff is way too strong…”
+     Dino coughs painfully on the side while Guy and Dagruel sang their praises. On another
+note… Veldora-kun, could you please refrain from drinking all of our products in one go?
+     Even though I still have a bunch of them stored in my “Stomach,” those aren’t for you.
+     As for Milim, let’s just say I won’t be letting her drink anytime soon.
+     The situation would undoubtedly spiral out of control if I let her drink. And considering the
+fact that she tricked me before, I’m not particularly keen on allowing Milim to drink.
+     “Then I shall take the drink!”
+     Within the blink of an eye Ramiris plastered herself onto the wine glass (being so smol) and
+became dead drunk in an instant.
+     Beretta and Treyni-san came forth wearing panicked expressions, so I decided to leave
+Ramiris in their care. She’s been pestering me to return to Tempest with her, so it may even be
+good for me if she falls asleep.
+     With that being said, the feast concludes, and we decide to leave before Ramiris wakes up.
+     I was worried about the type of situation I might run into, but as it turns out, I was able to
+make it through the Walpurgis Banquet safe and sound.
+     What a busy day.
+     The Walpurgis Banquet started at midnight and ended at noon of the next day.
+     I left the meeting and returned to Tempest.
+
+                                               16
+     I was able to ignore traveling and instantly teleport with “Dimension Domination.”
+     Upon returning, I was reassured that the country was still intact and that everyone was
+obeying my orders to increase security.
+     Everyone was making an effort to tighten the security on the streets.
+     There isn’t a single flaw. The guard force built using the blueprint of a police force has been
+pretty successful.
+     A thought suddenly crosses my mind—Could our country’s military be already strong
+enough that any normal country is incapable of standing a chance against us?2
+     After all, even our reserved personnel for defense alone have all reached Rank B.
+     Normal beasts and demons wouldn’t even dare to approach us.
+     Our nation’s security is relatively good. But I am worried about whether the monsters who
+we’ve now staved off will go on to cause harm in other regions.
+     Perhaps I should run an investigation regarding the issue—I think as I travel alongside
+Veldora and Shion, entering the city upon Ranga’s back.
+     As soon as I enter the town, the residents and the patrolling soldiers begin to kneel down
+on the side of the streets gradually opening up a path.
+     Their movements are all well-coordinated, most likely from training that I was not aware
+of.
+     What are they doing? As I observe skeptically, Diablo saunters towards us from the end of
+the road.
+     His expression is overflowing with joy as he flashes a bright smile.
+     Diablo then exchanges looks with Rigurd—
+     “Welcome back, Rimuru-sama!”
+     “Congratulations on becoming a member of the Octagram! We are most thankful for your
+safe return!”
+     Rigurd, acting as the representative, greets me respectfully, followed by Diablo’s congratu-
+latory words.
+     Wait a minute, what is going on here?! How do you know about me officially becoming a
+Demon Lord?!
+     And about that title, it should only have been revealed at that meeting with its debut. Be-
+cause it was me who came up with the…
+     I wondered while my head filled with doubts.
+     Shouldn’t Diablo be taking down the Kingdom of Farmus right now? How would he have
+the time to plan out such a specific activity?
+     I feel quite embarrassed, so I decide to ask him directly.
+     “Very simple, Rimuru-sama. I asked a favor of Veldora-sama.”
+     Diablo replies cheerfully.
+     I glance towards Veldora only to realize he was desperately averting my gaze.
+2
+    Sierra Note: That’s an interesting thought there, Slime Boy. Don’t get conceited
+
+
+
+                                                          17
+     Oi, excuse me! Mister?!
+     From his reaction alone, I could tell he did something against his conscience.
+     I got Veldora to confess after some interrogation. He seems to have made a deal with Diablo.
+Diablo, in return, offered meals and three servings of dessert. If he did, Veldora promised to tell
+him what happened during the Banquet in detail…
+     So that’s how it was.
+     That’s how he got wind of how I’ve been approved to become a Demon Lord in the meeting
+and also passed on the new title of “Octagram.”
+     Should I praise Diablo for his skillfulness in intelligence gathering?
+     Normally, one wouldn’t even dare to come up with the idea, let alone put it into practice.
+One must then have sufficient mobility and capacity to bribe someone as strong as Veldora.
+Although Veldora, who agreed to the deal, is pretty dumb, Diablo’s resolve in carrying it out
+shows he is no ordinary man.
+     And since the two are willing to give the bait and take the bait respectively, I’ll cut myself
+short on the subject.
+     With that being said—
+     “Veldora, do you even need to eat?”
+     “W-What nonsense is that, Rimuru?! Eating or not is not the point, the point is that I want
+to eat things. And if that’s really the case, you don’t need to eat either!”
+     Ouch! I got retorted.
+     But he does have a point.
+     I can’t exactly criticize without being called hypocritical on the matter. Lately, Shuna’s
+culinary skill has grown a lot, and she has also produced a large variety of desserts.
+     Now she can even recreate pastry puffs that have just been introduced at the cafe in the
+Kingdom of Ingracia . Not even pudding poses a challenge to her.
+     Moreover, with the addition of a variety of alcoholic beverages, we can now develop even
+more new desserts. The cafe manager Mister Yoshida would also aid us in the process of devel-
+oping new dishes. To gain his assistance, I prepared a variety of wines to send regularly, as that
+was his demand.
+     Mister Yoshida also said, “Now I can recreate previously impossible cuisines!” with a
+delightful expression. With all these efforts, we were able to develop several new dishes and
+incorporate them into daily meals. Veldora is probably also shocked having tasted the food after
+his resurrection at the festival.
+     Veldora, you were tempted by the food, weren’t you?
+     With that being said, Milim was also tempted by honey…
+     An idea suddenly crosses my mind—we may be able to take over the world with culinary
+supremacy.
+     My musings were suddenly interrupted by the sounds of Shion and Diablo quarrelling.
+     “Have you fulfilled your duty as Rimuru-sama’s bodyguard?”
+     “Most certainly! It has been proven that as long as I’m around, you are simply unnecessary.
+
+                                                18
+I should be the one to question you about the progress of the mission assigned to you by Rimuru-
+sama.”
+     “Kufufufufufu, it has proceeded without a flaw. In fact, I was just about to report back to
+Rimuru-sama myself.”
+     The two flashed each other bright smiles that did not quite seem to reach the eyes.
+     They simply wouldn’t let up on each other and continue to bicker.
+     “You two, behave yourselves!”
+     “That’s right. Rimuru-sama is tired as well. Haruna and the rest have been preparing food.
+Let’s relax for now and come back to this conversation later.”
+     Rigurd agrees to my view and scolds the two on my behalf.
+     As expected of Rigurd. Lately, he’s been acting more and more prestigious. Now he seems
+very dependable.
+     We were moved to another spot at Rigurd’s urging.
+     The town folk all have joyful expressions. I was hoping to start a feast as soon as possible to
+have some fun with everyone, but Benimaru and the rest have yet to return from their expedition.
+     That’s why we’ve decided to delay our celebration feast. Right now, we’ll wind things
+down and have just a bit of fun for resolving our trouble.
+     We went to take a bath in the hot spring and enjoyed the food Haruna prepared.
+     We listened to Diablo’s report after everyone settled down and got in the proper frame of
+mind.
+     With our victory against Clayman, our only issues left to tackle were building a new king-
+dom on Youm’s side and what to do with the Western Holy Church.
+     Apart from that, there’s also the issue of our future relations with Beast Kingdom Eurazania,
+Winged Nation Fulbrosia and the Dragon Worshipers who worships Milim… We could resolve
+these diplomatic issues peacefully, so there isn’t too much to worry about there.
+     I ask Diablo in a rather casual mood while sipping my postprandial black tea:
+     “So, what is it that you are doing now? Eliminating the Kingdom of Farmus and crowning
+Youm as the new king—You dropped the mission and returned, do you need any reinforcement?”
+     I casually turn back to my slime form, which I’ve been looking forward to doing. Relaxed,
+I am hugged by Shion on her lap. I probed Diablo with a question as I felt two soft mounds
+pressed against the back of my head.
+     If Diablo is in need of back-up, I plan to send Souei’s party to aid him.
+     Right now, they are very much available for order, so there is no need to force Diablo to
+fend for himself.
+     However, Shion suddenly interjects and says rather disdainfully: “A Cheap-shot nobody
+like him only deserves to make tea for Rimuru-sama. I should have been the one to attend to
+such matter!” But I ignore her since that type of job is clearly not suitable for Shion.
+     I spoke with the intention of aiding Diablo—But as it turns out, I was worried over nothing.
+     “No no no, Rimuru-sama. There is no such need. Everything has been going well according
+to plan.”
+
+                                                19
+     Diablo refills my second cup of black tea and begins his report.
+     Drinking tea in slime form is a pain, so I decide to just appreciate the fragrance of it while
+listening to his report.
+     But the previously relaxed atmosphere quickly vanished the moment Diablo began to speak.
+     “First of all, I had to restore the captives into their original states. After all, it is quite the
+inconvenience to keep them as meatloaf—”
+     MEATLOAF?!
+     Eh? Does he mean what I think it is?
+     Shion’s body suddenly shivers as she seems to have sensed the source of my disbelief.
+     That’s right… It was indeed the case. Things really won’t work out if my people keep acting
+like this.
+     I visited the interrogation room once, once! I was just planning to have a peek. But now I
+regret it greatly. It would probably have been best if I had avoided visiting at all.
+     I left the captives to Shion’s care after seeing them and reminded her to “Don’t overdo
+things” …
+     My logic then was—there was nothing to worry about as long as Shion doesn’t kill them.
+     Now it is too late for me to regret my actions.
+     While I feel unease inside but expressing my regret now would not solve anything.
+     Displaying no traces of my inner turmoil, I ask for Diablo to continue his report.
+
+
+
+
+Regarding Diablo’s first step, it was just as what he has described to Rimuru: to restore Arch-
+bishop Reyhiem and Head of Court Mage Razen to their original form.
+    There were in total two carriages traveling alongside several cavalries as they set out for
+the Kingdom of Farmus .
+    One of the carriages carried Diablo and the three captives.
+    Well, since Diablo is the only person visible in the six-seated carriage, it would be rather
+inaccurate to call the other occupants as ‘passengers.’ That is because the other three people
+have been squeezed into the luggage on the floor of the carriage.
+    —Indeed, they were squeezed in the form of living meatloaf.
+    Shion has turned them into inhuman abominations.
+    She skinned them one thin layer of skin at a time, but not so much as to kill them; their
+peeled away layers of flesh exposed the muscle underneath she then decided to slice off their
+meat piece by piece… Shion has been practicing fish skinning with living people, and she even
+ensured that the ones getting skinned won’t feel any physical pain during the process…
+    Using her Unique Skill ‘Cook,’ she was able to push the captives to the point of psycholog-
+
+                                                  20
+ical breakdown. Once they reached their (physical) limits, she would treat them with healing
+potion and reverse the process to start over.
+     To witness their own bodies having been dismembered by another while feeling no pain
+at all—having suffered such repeated torments, the sanity of the three have been completely
+obliterated.
+     Their expressions are devoid of life as they lay submerged in the pool of their own exposed
+intestines.
+     There is no way they could return to their country in this state. Bearing such thoughts,
+Diablo, although unwillingly, decided to work on reversing their curse.
+     “How troublesome… Their senses3 have been completely twisted, so healing magic won’t
+work directly …”
+     Despite his complaints, Diablo was amazed with how useful non-magical skills could be.
+     He has mastered the art of magic and learnt all about the laws of this world, yet even so,
+there still exist so many fascinating things out there (that he has yet to know).
+     This does cheer Diablo up substantially.
+     With his mood lifted, he expelled the remaining magic housed within the three left behind
+by Shion.
+     First one is Reyhiem; then Razen.
+     This was not done in any specific order. Diablo dispelled the magic with ease. But he
+stopped at Edmalis, the King of Farmus.
+     “Blessings, thank you!”
+     Reyhiem rejoiced as he expresses his gratitude towards Diablo.
+     “I am not important here, please, the king…restore the king—”
+     Razen pleaded with Diablo out of loyalty for his king.
+     Diablo slanted his eyes coldly at Razen.
+     “Kufufufufu, are you begging me? Then you should understand that such a request does
+not come cheap.” Diablo grins disdainfully.
+     A delightfully devilish smile emerges on Diablo’s face.
+     However, there is not the slightest passion4 in his eyes.
+     “…Ah… No…I…”
+     Razen went pale with fear surged from his heart. He is regretting—
+     Razen recalls now.
+     This Diablo, who has been sitting casually in front of him, is a terrifying demon.
+     An archdemon—no, he said he isn’t kind (cheap) like that.
+     On top of that, even an archdemon alone would be quite a threat. If he was to appear in
+some smaller country, he would have caused a crisis that could bring the whole nation to its
+demise.
+3
+  The principles/laws (such as pain reception) applied to their body have been changed. This is result of Shion’s
+  skill “Cook.”
+4
+  “passion” or “temperature.” I believe it’s implying how Diablo’s actions often contrast how he thinks internally.
+
+
+                                                       21
+      That’s why they are categorized as Calamity—Threat level up to Special Rank A.
+      Basic magic barriers would not stand effective. He could easily destroy a nation’s defense
+by unleashing a bit more of his Youki (demonic aura). He may even be capable of crushing his
+enemies one-sidedly using magic alone.
+      Adventurers below Rank A wouldn’t stand a chance against him. His presence alone would
+be the declaration of a death penalty. That is how terrifying the existence of an archdemon. It
+is a type of demon that even Razen wouldn’t want to antagonize or deal with alone.
+      However, Diablo’s presence is rather different.
+      He seems all too human in appearance without a trace of his demonic aura.
+      Except his eyes are arresting.
+      They are akin to a golden moon hanging in the darkness of midnight with a dash of ominous
+red in the middle.
+      The most appropriate term to describe them would be “Unforgettable” to whoever looks
+upon them.
+      Their appearances are especially unsettling.
+      Apart from his eyes, the rest of his body all looks very similar to that of a human’s—In
+other words, even though most nations would install defense mechanisms to block out monsters
+up to certain level (magicule storage), he could easily infiltrate these cities without batting an
+eye.
+      The only difference, and perhaps the only advantage humans have over monsters is their
+intelligence.
+      Some monsters are intelligent, but these monsters would often want to show off their
+strength one way or another. For instance, generously having their aura on display to
+demonstrate how large their magicule storage is.
+      That is why magic barriers which react to high magicule presence would work against them.
+      But what would happen if these types of monster decide to conceal their aura?
+      A Calamity Rank monster suddenly shows up and strolls around on the streets of human
+cities—Razen shuddered at the thought.
+      In other words, things would go like this—
+      A nation couldn’t help it if its barrier is being destroyed via brute force, but as the enemies
+tear down the barrier, the nation could reorganize its defensive force. It can then send out this
+defensive force to face the enemies.
+      However…if the enemies can completely ignore the barrier—The result is probably any-
+one’s guess.
+      These types of monsters would already be at a higher level than archdemons, Diablo is one
+of them.
+      Moreover, his real identity is one of the Primordial Demons—
+      Although in comparison…
+      There is something even more terrifying that he hasn’t considered.
+      This demon called Diablo is already serving a master.
+
+                                                22
+     That person is the master of all these monsters, the fearsome yet beautiful man with golden
+       5
+eyes and silver-blue hair.
+     Its hair gives off a feeling of transparency and it glitters like shining glass.
+     His presence might have been be momentary, yet his power was beyond one’s imagination.
+     Demon Lord.
+     It is a being truly worthy of the title.
+     The scene of him massacring the army of twenty-thousand men still sends shivers down
+Razen’s spine. But Razen was occupied by another sensation after meeting him in person.
+     When he was taken captive by others to that place—
+     The way he looked at Razen was as if he was a stone by the road.
+     When those golden eyes met his, so mesmerized was he, to the point of not only forgetting
+the excruciating pain of his torture, but for him to abandon all fear of death…
+     There are beings in this world that you simply should not antagonize.6
+     “Don’t overdo things.” — these were the words Razen heard uttered by an angelic voice.
+     It must have been a warning to Razen.
+     Telling him to not get ahead of himself.
+     There is no wonder that his country had been destroyed when they are up against such an
+opponent, who even a Primordial Demon would pledge loyalty to.
+     —if it’s that Demon Lord, he could single-handedly destroy the entire the Kingdom of Far-
+mus .
+     Such thoughts keep crossing Razen’s mind.
+     He ignores the bumping of the carriage and stands up from his seat to supplicate (kneel)
+before Diablo.
+     “Of course, I understand. Please allow me—No, please grant me the privilege to be your
+servant! My humble life would be pledged towards you. Please be magnanimous and spare the
+life of King Edmalis.”
+     Razen offers his heartened loyalty to Diablo in hope of saving the king.
+     Hearing Razen’s wish, Diablo nods rather casually.
+     “Very well then, although you are still insignificant (to us), you are still considered quite
+powerful in the human world. If that’s the case, you will be of use someday. Moreover, I
+wasn’t planning to kill him without Rimuru-sama’s order anyway. Then I should spare his life,
+however—”
+     Before restoring Edmalis’ form, he will have Razen do something for him.
+     He will display the disgusting form of the King to all the bigwigs of this nation who foolishly
+rose against his beloved Rimuru.
+     Razen gulps nervously while waiting for Diablo to speak.
+     As for Reyhiem, he has already been petrified due to fear.
+5
+    In the anime Rimuru has blue eyes, but in the LN he always had golden eyes
+6
+    Source “触れてはならぬ” Not very sure about the “should not antagonized,” I feel it is “being that cannot be
+    reached (transcendence)”
+
+
+                                                    23
+     “I shall be generous this one time. Your performances in the future shall not only determine
+the fate of the king, but whether or not the whole of Farmus will become a lifeless wasteland.”
+     He means exactly what he just implied.
+     As long as they follow Diablo’s—or rather Rimuru’s—will, then everything should be fine,
+if not…
+     Whether it is Razen, Reyhiem, or even King Edmalis who’s currently stuck in his abom-
+inable state—
+     They all understand loud and clear what Diablo meant by that.
+     The three had been foolish but were not stupid. At this point, even if they don’t want to
+admit, they all know Diablo would put such an idea into action without hesitation.
+     Their only chances of survival are to cooperate obediently with Diablo.
+     “That is without saying! I shall attend to whatever duty you demand!”
+     Reyhiem begins to grovel and kneel down. He seems to be even willing to lick Diablo’s
+shoes.
+     “I am willing to pledge my loyalty to your grace!”
+     Razen also made up his mind.
+     Whether or not the king is spared is now meaningless. However, his pride at having been
+the guardian of the Kingdom of Farmus all these years made him desire the continued survival
+of the king’s bloodline.
+     Even King Edmalis, who was overwhelmed by anguish and despair understood this.
+     Razen has given up on not just King Edmalis, but on the Kingdom of Farmus itself.
+     But it is the right choice, King Edmalis thinks to himself.
+     A country that defies a Demon Lord will be destroyed.
+     There are only two options left for King Edmalis—comply or resist and be eliminated.
+     The king isn’t foolish enough to make the wrong choice at this point. As the ruler of a
+nation, he has to carry out his last duty of selecting the correct choice.
+     “I declare, in the name of the last king of Farmus, to be submissive of whatever demands
+are requested by Diablo-dono—”
+     He gives up struggling and proclaims so.
+     Diablo has obtained the three’s verbal assurances. In that instant, he has secretly activated
+his Unique Skill ‘Tempter.’
+     As a result, the three become Diablo’s slaves…
+     “Rest assured. I won’t do anything bad as long as you obey me.”
+     The demon Diablo says so gently with a smile on his face.
+
+
+
+
+                                               24
+An unprecedented commotion dawned in the Kingdom of Farmus on this day.
+     Their ruler King Edmalis has returned, only in a miserable state.
+     The location is the hall (Throne room) of the king’s castle.
+     The top ministers of the nation all are witnessing the scene with looks of horror on their
+faces.
+     A box was carefully placed on the throne.
+     There were meatloaves in it.
+     With their king’s face buried in the center.
+     Whatever inside it is still alive. The eyes of the head may seem empty, but they are still
+conscious.
+     “Shogo, what in the world happened! How did our king end up this way?!”
+     “R-Right, what happened to the other two? Where is our nation’s army?”
+     “What has Knight Commander Folgen been up to?! How could this happen with Razen-
+sama’s company!”
+     The ministers shrieked, barely able to contain the fear and panic in their voices.
+     You can’t exactly blame them for being this way. Razen, who is now playing the role of
+Shogo (Shogo Taguchi), thinks to himself—
+     ………
+     ……
+     …
+     During the days after the regular magic communication was cut, the people remaining in
+the kingdom have been on their feet the whole time.
+     Although they believe their army of twenty-thousand men wouldn’t be defeated due to its
+overwhelming numbers, everything may have an exception. Right now, there is more than
+enough ground to plant the seed of doubt when they couldn’t even confirm the life or death of
+the king.
+     Then Razen returned to the nation alongside Archbishop Reyhiem. They showed up in the
+teleportation room within the castle through the Elemental-based Magic “Waypoint Transporta-
+tion.”
+     The patrolling soldiers were alerted to the situation as they discovered the two lying uncon-
+scious at the location, which led to the event that took place this morning.
+     The two soldiers hurried to confirm their identities.
+     One of whom is the otherworlder Shogo Taguchi.
+     The other one is the king’s close acquaintance, Archbishop Reyhiem.
+     The soldiers, while shocked, went on to take Reyhiem into care, as he has collapsed due to
+fatigue. They then discover that the young man has been hugging onto a box as if it’s a priceless
+treasure. Without much mental preparation, one of the soldiers peeked in to examine the content
+of the box.
+     This soldier belongs to the high-ranking Imperial Guards that serve within the palace, and
+normally he would never make such a horrified scream.
+
+                                               25
+     But he did just that, and the reason being the content within the box…
+     There were slimy gravy leaking out the box accompanied by a disgusting odor—The box
+contained distorted meatloaf made up of chopped up intestines.
+     This is the abominable sight of what was previously the ruler of this kingdom.
+     Seeing this, the guard began to scream out of fear, which is considered great disrespect, but
+no one is condemning him. The people who joined after hearing his scream were also scared to
+death seeing the same sight.
+     The servants, the ministers were all in panic upon seeing what their master had become.
+     Some were screaming, crying, and shouting.
+     Some began to vomit.
+     And some even fainted out of fear.
+     No one wanted to believe this is the king.
+     But this was the reality.
+     At first, some tried to confirm whether it is the real king or not.
+     And, as it turned out, it was indeed the real king.
+     “What are you all doing! Go and save the king!”
+     Some minister calls out in panic, finally spurring the crowd into mobilization.
+     All the mages remaining in the palace have been gathered to try out every available spell.
+     They even summoned high priests from the Western Holy Church to see if they can heal the
+king.
+     The sight alone was enough to invoke the deepest primal fear in people’s heart. Confronted
+with such horrific sight, people still made up their mind to try to restore their king to normal.
+Even though everyone’s face has been distorted due to fear, they still kept on working steadfastly.
+Yet none of them have been effective.
+     There is no way they could save the king.
+     ………
+     ……
+     …
+     —The time fast forwards to the present.
+     Having been informed that Shogo has awakened, the crowds bring their questions to him.
+     Razen is rather sympathetic seeing his former colleagues.
+     But nowadays Razen is Diablo’s subordinate, so he needs to betray his companions without
+hesitation. Their own choices will decide their fates. But just for a bit, for a tiny bit, Razen feels
+sorry for them.
+     Everything has been according to Diablo’s plan.
+     Faking his coma was also part of the plan.
+     As Diablo’s servant, Razen was told what would happen to this nation and what they should
+do accordingly. Razen has already come to a realization.
+     This nation is about to become a toy of the Demon Lord.
+     If the Kingdom of Farmus becomes a stage for them to toy around with human puppets, it
+
+                                                 26
+would be the end of this kingdom.
+     But this doesn’t seem to be such an unfortunate fate for the citizens.
+     As Diablo explains the Demon Lord’s plan to Razen, a sense of hope sparked within his
+heart. An image of the land of Farmus stepping towards a future of prosperity began to emerge
+in his head.
+     The ancient institution must be dismantled in order for that future to come true, Razen
+couldn’t help but to think so.
+     That’s why he is acting according to the plan.
+     “Calm down. I am Razen. I have been protecting the king and was able to escape back to
+our kingdom with the help of Hero-sama.”
+     “What? You—No, aren’t you Shogo?”
+     “Shogo, that brat… I see, so that’s the case.”
+     “But even with that being said, it is still quite confusing. We couldn’t believe that Razen-
+sama has become that arrogant Shogo.”
+     At first, no one was in the proper state to believe this, but upon recalling that Razen is a
+powerful mage, they begin to make sense of the situation. But then they start to question Razen.
+     “You mentioned that you managed to escape, does that mean the Farmus army…that our
+nation’s great army has lost to those monsters?”
+     “What really happened? How dare you all come back after your disgraceful defeat?”
+     The nobles begin to question out loud.
+     They are the pillars of this nation, but in reality, many cunning foxes among the nobles
+only wish to obtain personal gains through the banner of war. To these people, they didn’t even
+consider the possibility of sustaining financial loss as a result of defeat.
+     “Everyone, please calm down. Let’s hear what Razen-sama has to say.”
+     Someone came out at that moment to bring silence to the crowd—It’s Marquis Müller.
+     This, of course, is also part of the plan. Last night Diablo had taken action to establish
+contact with him through Fuse, the branch head of the Freedom Association in the Kingdom of
+Blumund .
+     Everything has been going according to Diablo’s plan…
+     First, to have Razen explain that “The Hero Youm has gone to negotiate the exchange of a
+cure (healing potion) with the leader of the monsters..” This will cause an order to be passed on
+to the gatekeeper to make preparations to welcome Youm’s party back into the city without the
+need of identification.
+     Next, he will explain the situation with the Farmus Army… The crowds are shocked as
+soon as he begins to explain.
+     Indeed—because of the line “Storm Dragon Veldora has been revived.”
+     “H-how could this be…”
+     “Why was that evil dragon revived at that place?”
+     “I-impossible… Hasn’t Veldora been defeated already?!”
+     “Then we must hurry and report to the Western Holy Church to request the aid of the Holy
+
+                                               27
+Knight Order (Crusader)!”
+     “We are done for now! If what Razen-sama just said is true, we won’t be able to do anything
+about it. All our reserve combat forces in the nation wouldn’t at all be sufficient to face such
+enemy.”
+     “That’s right! We have to get the (Farmus) Knight Order back as soon as possible!”
+     “Indeed. If “Magic Communication” won’t work, we will have General Folgen to relay the
+message.”
+     “There is no time for that! We should all bail now before the people catch wind of this, or
+else we won’t even have time to escape!”
+     Some have been struck in panic by fear.
+     Some are pressing to strike first.
+     Some even suggest evacuating without the citizens.
+     Everyone has a different reaction. Then, Marquis Müller gave the crowd a shout to shut
+everyone up.
+     “Silence! Even if the Knight Order is fine, the result would be the same. By the way,
+Sita-sama, would it really help if we panic like you? Where would we escape to? That “Storm
+Dragon” is a real Rank-Catastrophe monster.”
+     The ministers begin to regain their composure.
+     Razen continues his explanation after this momentary silence. He then begins to explain
+what happened on the battlefield.
+     He retells the complete defeat of the Farmus Army—The tragedy (made-up lie) that led to
+the disappearance of the entire army as a result of the resurrection of “Storm Dragon” Veldora.
+     The crowds fall into silence after Razen’s explanation.
+     Everyone is speechless.
+     The entire thing seems too ridiculous to be true. Everyone thinks that it would be obvious.
+     It is under such circumstances that some begin to raise doubts about the situation while
+Razen answers them one by one.
+     “L-Razen-sama, is this all true? Is it true that our army has disappeared without a trace?”
+     “Yes. Our army was fighting those monsters when the dragon of that land was awakened.”
+     “What nonsense is this, how strange would that be! Even the Western Holy Church has told
+us that they’ve eliminated all the dragons, are you suggesting that they’ve been lying to us?”
+     “No, that’s not the case. Veldora would disappear for a period of time. However, a “True
+Dragon” cannot be eliminated. It will eventually be reborn in some corner of the world. But
+we simply couldn’t have anticipated that the interval was so short, and that it was revived so
+nearby—”
+     “Razen-sama, what happened to the other survivors?”
+     “Y-yeah, what about General Folgen? You mentioned that all of the army has gone missing,
+but shouldn’t there at least be a few persons left?”
+     Upon being asked so, Razen responded, shaking his head.
+     In reality, they’ve all been killed by the fury of Rimuru. But Diablo has discussed this with
+
+                                               28
+Razen and ordered him to cover up the matter with the lie that the army has gone missing.
+     “What do you mean by that?”
+     “I’ve already told you; they’ve gone missing. With Veldora’s revival, both the knights and
+monsters at the scene vanished. We were the only ones who remained—”
+     “No way!”
+     “I’ll ask this one more time, there is no survivor who escaped at all…and have they really
+all gone missing?”
+     “There were supply corps behind the frontline… Are they okay?”
+     Razen falls silent.
+     His eyes fell to the ground quietly.
+     Seeing this, everyone has to take his words for it.
+     —The Knight Order has truly been annihilated.
+     A minister suddenly breaks into tears.
+     He was the one that asked about the well-being of the supply corps. Because he had sent
+his son to fight his first war.
+     He even pulled some strings to move his son to the rear to distance him from the dangerous
+frontline. Yet all of his efforts were for nothing.
+     At the end of the day, he only allowed his son to join this war because he believed there was
+a fortune to rob from the monsters, and that victory was ensured. In the face of this twisted turn
+of fate, he broke down in tears.
+     But in overview of this tragic event, he is just one of the victims.
+     The total number of people missing in action amount to an astounding twenty thousand.
+     That is an unprecedented loss of life.
+     Even though they are labeled as “missing in action,” the hope of them returning is zero.
+     They are as good as dead.
+     Everyone now can’t help but think that this has to do with Veldora’s revival. To be more
+specific, they think the vanished army was used as a live sacrifice.
+     Veldora is thus under this false accusation, which works in Rimuru’s favor.
+     Diablo’s wise plan has successfully manipulated the beliefs of the top ministers of the King-
+dom of Farmus through Razen.
+
+
+
+
+It is during this time, almost as if it is perfectly timed, sounds of footstep begin to echo in the
+throne room.
+      It is Youm’s party.
+      The ones accompanying him are his advisor Myuran, bodyguard Grucius, and Secretary
+
+                                                29
+Rommel the mage.
+     Diablo, dressed in a neat butler outfit, is the last one to enter. However, his attitude is quite
+arrogant in juxtaposition of his role as a butler.
+     The throne room of this castle is normally not accessible to people low in the social hi-
+erarchy, such as adventurers. However, with Razen’s intervention, their guides were ordered
+beforehand to lead Youm to this location.
+     “Sorry to keep you guys waiting. I’ve finally managed to convince that guy.”
+     Youm speaks to Razen while representing his party.
+     He still couldn’t quite change his rude tone and straight-forward attitude. After all, the noble
+style isn’t bred in one day, so you can’t really blame him.
+     But in the eyes of the nobles, his attitude can only be described as brusque. This led to some
+vocal discontent.
+     “Who on earth are you! How rude of you to speak in such plebeian tone!”
+     Although Youm has arrived with the medicine to cure the king—a matter that was brought
+up before, one of the ministers still reprimanded him.
+     Of course, he has heard the name of Hero Youm. He has also seen Youm’s portraits ev-
+erywhere he goes. He knows too that it is Youm who is coming. Moreover, given how special
+Youm’s full-body armor is, he won’t mistake him for another even if he had only heard of him.
+     Yet to this minister, none of these matter. This is the royal palace, and how things work here
+is different from that of the public sphere—To him it is common sense.
+     That’s why he couldn’t stand how rude Youm’s tone was.
+     However, this caused Razen to panic.
+     He looks towards Diablo to see whether the minister’s words have provoked him. After all,
+he never revealed his plans to the ministers, so the outcome, whatever it may be, will fall on
+Razen’s shoulders.
+     He understands why the minister shouted out those words. There is nothing wrong with
+such action if it’s any other day. But right now, it is simply inappropriate given the gravity of
+the situation. Razen regrets having not explained the details of some matters and decides to step
+in as the mediator.
+     “Please hold on a second, Carlos-dono. These people are our saviors. We are relying on
+them to save our King!”
+     “What? These are the people who saved you?”
+     “I can’t believe Razen, guardian of this kingdom, would say something like this. What
+really happened out there?”
+     Even though some of them are still not convinced, Razen remains, after all, the best mage
+in the Kingdom of Farmus . His power as a magic caster is unquestionable, in addition to his
+hundreds of years’ feat of guarding the kingdom. Razen’s words are no comments to pass by
+their head, the nobles then decide to take it down a notch for the time being.
+     With that being said, they are only reacting so violently due to the imminent destruction of
+their nation and the revival of Veldora. That’s why they were bluffing. Because of that, they
+
+                                                 30
+were able to get the details of how Razen was saved. They’ve now learnt whether their personal
+safety can be ensured or not.
+     Just as Razen is about to answer their doubts, someone interjects from the side.
+     “Allow me to answer that question for you.”
+     It’s Archbishop Reyhiem.
+     He is pretending that his body has just recovered, and he came to fill in the gaps of Razen’s
+story.
+     Razen celebrates internally and exchanges a look with Reyhiem, then surreptitiously glances
+at Diablo to see him smiling at how things are progressing.
+     Reassured, Razen allows Reyhiem to do the explanation.
+     “Then, could you enlighten us about how Razen-sama’s party has been saved?”
+     “With regards to the revival of “Storm Dragon,” Razen-sama has informed you of the matter.
+The two armies clashed on the war field and engaged in an intense fight. We were advantageous
+in terms of number, but those monsters had a better fortified position. The battle was harder
+fought than we imagined.”
+     The hall falls silent with only Rayhiem’s voice.
+     He eyes Diablo as he continues his explanation.
+     According to him, the chaotic aura of the war field was key to Veldora’s revival. And as
+Veldora suddenly emerges on the battlefield, he attacked indiscriminately and both sides suffered
+the consequences.
+     Razen nods in agreement and adds.
+     “I was there alongside Reyhiem-sama. We really went all out trying to protect our king.”
+     He emphasizes on his inability.
+     Reyhiem continues on top of that:
+     “Indeed, it was just like that. I was staying in the base behind the frontline alongside Razen-
+sama. We were truly desperate at the sights before us as the tragedy unfolds. We witnessed
+Death himself before our eyes as the majestic “Storm Dragon” devastated everything. We were
+both prepared to die before someone showed up between us and the “Storm Dragon.””
+     Razen peeks at Diablo.
+     He nods in satisfaction. Seeing this, Razen and Reyhiem nods to each other.
+     “—He was the leader of the Monsters, Rimuru-sama.”
+     “Indeed. Both Reyhiem-sama and I thought our death was at our doorstep. But, Rimuru-
+sama, ruler of the Monsters showed up to persuade Veldora-sama.”
+     Razen’s words bewildered and shocked the crowds.
+     “Persuaded? Could they communicate with each other?”
+     “Speaking of that, it is no different from suicide to get in the way of that evil dragon Veldora
+like that. Most creatures would be killed instantly if bathed in that concentrated amount of
+magicule.”
+     “About that, how did he—?”
+     A commotion breaks out among the nobles.
+
+                                                31
+     If they could communicate, perhaps he could truly calm Veldora down. The nobles thought
+so with much hope and expectation as they looked to Razen and Reyhiem.
+     Veldora may not invade the Kingdom of Farmus after all, but it would still be a huge mistake
+if they just sat here without taking any precautions. But, no one present has a solution to what
+they need to do next.
+     Now that they got wind of the disappearance of the twenty-thousand elite soldiers, including
+that of King’s Knight Order, no one dares to come out with a half-baked plan to battle Veldora.
+The best solution they have at the moment is to eliminate the threat of Veldora through negotia-
+tion, or so does everyone thinks.
+     “As you all know, this Rimuru-sama is the ruler of Monsters and the leader of the Jura Great
+Forest.”
+     “Didn’t he give himself that title?”
+     As one of the ministers speaks, Diablo frowns in displeasure.
+     Razen quickly interrupts the minister upon seeing this by replying:
+     “That’s not the case at all. I’ve seen the Monster Town with my own eyes, it is more than
+qualified to be called a capital of a kingdom. Moreover, even the Dryads who oversee the Jura
+Great Forest follows this Rimuru-sama.”
+     Razen explains that Rimuru was able to communicate with Veldora through the aid of the
+Dryads.
+     These words added some convincing elements to his claims.
+     The overseers of the forest are rather famous and are known to be powerful monsters that
+guard the location where Veldora slumbers. According to the ranking of Freedom Association,
+they are creatures above Rank A, presumed to be Special Rank A, a dangerous species indeed.
+     If even the Dryads decided to follow him, the power of this monster known as Rimuru is
+clearly not be underestimated. Since every noble here is of a high echelon, they all have hired
+people to gather valuable information; hence, they all started to realize this fact.
+     “I see…”
+     “It would seem we have made a mistake in making him our enemy—”
+     Upon recalling the fact that they were the ones who initiated the attack on the monster
+Kingdom, the ministers are all troubled by this, although none of them wants to admit.
+     “This is bad, even if we can negotiate with the evil dragon, we are still enemy with that
+Rimuru, not good at all…”
+     One of the ministers mentions this only to resonate the same sentiments across the board.
+But they aren’t considering the option of asking help from Rimuru to negotiate, instead they are
+worrying about whether angering Rimuru would further instigate Veldora’s tantrum.
+     It is at this moment Youm, who has previously been completely ignored, steps to the center
+of the hall. He spoke in a calm voice that garnered the attention of everyone present:
+     “I see how it is then, everyone. You need not worry about that part. When I marched against
+the Orc Lord, I once worked alongside Rimuru-san. He is a surprisingly good-natured person,
+and wishes to coexist peacefully with humans—”
+
+                                               32
+     However, Youm was cut short as he was halfway through his speech.
+     “Oh oh! If that’s the case, we shall have Youm-sama as our mediator to pass on our demands.
+We shall discuss that matter later. You may await orders in another room.”
+     The noble Carlos, who has just scolded Youm, interrupts his explanation and gives him the
+order arrogantly.
+     The difference in social status is truly troubling. Even as a warrior, Youm is still a civilian
+in his blood without even a knighthood. Most of noble descent still look down on him.
+     Carlos is a highly ranked Count and is perhaps the best example of nobles who are too
+conscious of differences in status. It may be tolerated if he displays this attitude on any other day,
+but at this instant, given several examples of this poor behavior already, it is most inappropriate
+to act in this manner.
+     A few nobles begin to stare at Carlos with discontent, incredulous at his lack of
+self-awareness.
+     “Oi oi oi, don’t get ahead of yourself now,” Youm said. “About that, the man is normally
+quite nice, but right now the circumstance is different. Surely you all understand the reason
+behind it.”
+     “What do you mean?”
+     “Aren’t you guys the ones responsible for attacking Rimuru-san‘s country, right? Bad idea.
+Some of Rimuru-san’s companions ended up dead. He was livid with indignation.”
+     “How dare a mere plebeian spit out such nonsense! Who gave you permission to meddle
+in state affairs! It is simply convenient that you happen to be on good terms with that Rimuru
+something, and as a hero, you should also do your duty to act as a mediator, so figure something
+out already!”
+     Ignoring Youm’s words, the arrogant Carlos says so without feeling a shred of shame.
+     Youm resents being talked down to.
+     Tsk, that’s why I hate nobles…
+     Youm complains to himself internally, while still maintaining a calm facade, and continues
+his explanation:
+     “Now listen here, y’all need to first listen to what I have to say. You didn’t seem to have sent
+any envoy or declaration of war prior to the invasion. Instead, didn’t you send the otherworlders
+to cause a riot there? I had indeed gone to negotiate a peace and was dumbfounded to learn of
+this this. But still, the Kingdom of Farmus is nonetheless my home. I don’t intend to see my
+homeland destroyed either, so I somehow managed to calm him down and beg him to negotiate
+for peace. Besides, Razen-san there has also asked me of the same favor.”
+     Youm suppresses his anger and finishes his explanation.
+     If the arrogant nobles decided to cause a scene just now during his explanation, the fall of
+the Kingdom of Farmus would have been assured, Youm thinks to himself having sensed the
+aura emitted by Diablo behind his back.
+     Youm only truly realized the meaning of “Evil” after meeting Diablo.
+     He knows this crowd in front of him are merely petty scoundrels.
+
+                                                 33
+     True evil would not play along the score of any authority.
+     They are true egoists who only act out of their own will.
+     Right now, the only thing keeping Diablo from lashing out is his loyalty towards Rimuru’s
+command. But if he is to lose his temper at this point, it would be bad for Youm’s coming
+kingship.
+     If he handles the nobles too kindly, it would lead to future nuisances. But if he is to kill
+them off, it will most certainly lead to a bad name among the pubic.
+     The most ideal situation is to have the opposing nobles start a conflict by themselves.
+     That’s why Diablo has kept silent and has only been observing quietly.
+     But there are still rooms for doubts.
+     If the nobles are to seriously piss off Diablo, the situation may escalate very quickly. If he
+thinks “There is no need to keep these lots alive,” then the nobles would probably be killed on
+the spot.
+     Youm has discussed about this scenario with Myuran and Grucius, they also agree about
+the possibility.
+     People who can manipulate someone as strong as Razen in their palms are powerful mi-
+norities even among Greater majins. And if such person as Diablo decides to get serious, the
+Kingdom of Farmus , which has now lost all of its military force, couldn’t at all set up a resis-
+tance.
+     Therefore, Youm’s party feels much more nervous as compared to the nobles.
+     Razen shares the same sentiment as Youm.
+     Diablo clearly doesn’t care about human lives, whether those of nobles or civilians.
+     They are of no value to him.
+     It is obvious from how he treated King Edmalis.
+     It is hard to imagine what Diablo would do if someone dares insult the Monster Ruler
+Rimuru.
+     It will be fine if the noble Carlos is the only one he inflicts his rage on. But if they don’t
+handle this well, every single citizen may be wiped out.
+     Knowing this very clearly, Razen tries his hardest to hide how daunted he felt and agrees
+with Youm’s words.
+     “Carlos-sama, please behave yourself now!”
+     “What! Razen-sama, are you siding with this damn peasant?!”
+     “I told you to shut up! Don’t butt in when you aren’t aware of the circumstances!”
+     Razen rebukes Carlos harshly.
+     Surprised to see someone as composed and calculated as Razen break down like this, even
+the other nobles decided to remain quiet and observe the situation.
+     “Listen up, everyone. What Youm-sama just spoke of is all true. We were doomed to defeat
+once Shogo and the other two were killed by the Monster lieutenants (top brass) and the “Storm
+Dragon” killed off our frontal assault. The only survivors were me, Reyhiem-sama, and King
+Edmalis. We were captured and were only released thanks to Youm-sama’s kind intervention.”
+
+                                                34
+     Razen begins to recite the prepared materials.
+     No one is doubting him and things moves on smoothly.
+     Razen, Reyhiem and Youm take turns speaking while Marquis Müller and Earl Hermann
+frequently intervene to keep things well in hand. Their play to cover each other up is able to
+convince the ministers gathered at the location.
+     “…If that’s the case, the king was cursed on the battlefield and ended up like this, right?”
+     “The Monster king only agreed to assist us after the King’s promise of peaceful co-
+existence…”
+     “How could the great kingdom of Farmus submit to the rules of monsters?”
+     “But this can’t be helped. Or else do you wish to wage war against them? If we are to fight
+against them, “Storm Dragon” would become our enemy!”
+     “No, about that…”
+     Even the trump cards otherworlders couldn’t win against the Monster Generals. On top of
+that, they would also need to deal with a revived Veldora.
+     They look down on the Monster Kingdom of “Jura Tempest Federation,” but right now their
+military might alone has outmatched the Kingdom of Farmus . It would be absolutely foolish
+trying to confront them head-on now.
+     The king must have been forced to admit defeat too—That’s what the crowds believe.
+     And then, a conclusion is reached.
+     “Let’s accept this proposal for now. Does anyone object?”
+     Most people begin to nod in agreement after hearing Marquis Müller’s words. Although
+Some may be unpleasant about the decision, none of them dared to raise their opinion. There is
+a consensus among the ministers to halt the war.
+     Just like that, the Kingdom of Farmus decided to enter negotiation with Tempest Federation.
+     With the dust settled on that matter, Diablo decides that it is time for him to take action.
+     “Kufufufufu, wise choice. Then I shall release the king as promised.”
+     With that being said, he casually steps forward.
+     “Who are you—!”
+     “My apologies. My “name” is Diablo; Subject to my majestic ruler, Rimuru-sama and his
+loyal butler.”
+     Diablo announces proudly.
+     Most ministers look confused upon hearing his name, not knowing how to respond. Diablo’s
+attitude seems all too natural for them to interject at all.
+     His self-introduction however has rendered someone in fear, that being Razen.
+     Only Razen realizes the implication of his words.
+     He understands what it means for a demon to have a “name.”
+     There are many things in this world that proves the idiom “Ignorance is bliss”—Razen
+secretly envies the ignorant ones and sighs behind everyone’s back.
+     Some people remained vigilant towards Diablo and plan to strike when the opportunity
+reveals.
+
+                                               35
+     These are the imperial knights, who have been observing everyone’s action in the dark.
+     Diablo walks straight towards the king’s throne. The knights move to block him.
+     However—
+     Diablo doesn’t even care one bit as he approaches the box on the throne.
+     Some of the imperial knights were shocked as their bodies becomes numb, rendering them
+unable to move. They couldn’t even make a sound.
+     The royal guards are considered Rank A by the standard of the Freedom Association. Even
+the ones not up to Rank A are considered elites of elites among Rank Bs. They remained in the
+royal palace to guard the members of the royal family as well as the head ministers. They can
+be considered as the strongest combat force in the Kingdom of Farmus .
+     There are around a hundred knights in the room, yet all are unable to move an inch before
+Diablo.
+     But Diablo hasn’t done anything yet.
+     It is out of fear.
+     It is out of their sharp survival instincts that they’ve realized how dangerous Diablo is.
+     “Be a doll, will you? Or do you all wish to die in vain as well?”
+     Diablo sounds clearly satisfied as he says so. He then continues to move forward in front
+of the box where King Edmalis, who has been turned into meatloaf, resides.
+     Diablo takes out the full recovery potion from his pocket and pours on the meatloaf that is
+King Edmalis. And without anyone’s notice, he removes the spell on the king casted by Shion.
+     A dramatic change takes place.
+     With the potion poured onto him, the king’s body is instantly restored to its healthy form.
+     And so, does Diablo’s plan come to fruition.
+     The doctors and mages are all amazed and begin to cheer after witnessing the king being
+transformed back to human form after they’ve exhausted all available options.
+     “W-What is this medicine…?”
+     “This is the Full Recovery Potion TM . This is our nation’s special product, top-notch healing
+potion exported only to friendly nations.”
+     Diablo answers gently to the question of one of the ministers. After all, this potion will
+become the main commodity of the Tempest Federation.
+     Full Recovery Potion—An item that could allegedly to be dug up from ruins of ancient
+magic kingdoms. It is a legendary healing potion that would even heal amputated limbs after
+consumption, whose fame is only rivaled by that of the resurrection potion.
+     The recipe for the potion has been long lost, but it is rumored that the dwarves have been
+trying to recreate it… If it can be mass-produced, there would be countless people coming after
+the potion.
+     Gabil has revealed the specifics of it to Diablo prior, and he caught wind of Rimuru’s intent
+of promoting the potion. Unlike Shion, he was able to complete the intelligence collection within
+a very short period of time.
+     It is because of Diablo’s wit that he was able to put on this dramatic and effective play under
+
+                                                36
+such circumstances by exploiting the King of Farmus.
+     His dedication can only be described as perfect.
+     One can see how Diablo never compromises in terms of his personality.
+     That’s why it is terrifying to make an enemy like him…
+     As for Razen and Reyhiem, who both feared that Diablo would massacre everyone in the
+castle, Diablo has long sensed their thoughts, but he wasn’t planning to do such thing at all.
+     If he did such things, Rimuru would no longer trust him. And since the plan of crowning
+Youm as the new king has fallen on his shoulders, Diablo would not make such a simple blunder.
+     He calculates with cunningness and uses both fear and compassion as his tools.
+     The two tactics cycled in practice; he is able to puppeteer the beliefs of these highly ranked
+nobles—the heads of this nation.
+     He believes it would be wiser to make them obedient rather than pitting them against us.
+Next, he would single out fools who picked the wrong side and eliminate them. That is the
+general direction of Diablo’s plan.
+     The crowds hold their breath as the king was restored back to his human form under every-
+one’s eyes.
+     The onlookers must have thought it was entirely the effect of the Full Recovery Potion.
+     “Are you all right?”
+     Diablo asks, while King Edmalis nods with a nervous expression.
+     “Y-yes…thank you…for saving me.”
+     The king replies in a weakened tone, partly out of genuine exhaustion.
+     He is dancing to Diablo’s score.
+     Diablo’s Unique Skill ‘Tempter’ is under the same system of law as Rimuru’s Unique Skill
+‘Heartless One.’ He is able to use his skill to achieve complete dominance over whomever
+pledges loyalty to Diablo.
+     Now that King Edmalis has already been affected by “Tempter,” if he is to have any thought
+of betrayal, Diablo would immediately be aware of it.
+     Seeing that the king has been restored, the servants quickly fetch his clothes.
+     The king got a moment to rest with his clothes on as Diablo signals him with his eyes.
+     The king nods in response.
+     “Well then, King of Farmus. My liege Rimuru-sama has a message for you.”
+     “Speak then, honorable envoy of Tempest Federation.”
+     At this instant, the King of Farmus has acknowledged the Tempest Federation to be a nation.
+     This is undoubtedly a gesture to everyone at the scene.
+     It is King Edmalis’ proclamation to them that any future affair with Tempest Federation
+would be that between nations and acknowledging Tempest Federation to be a negotiable subject
+with a functioning society.
+     As such, Diablo has been officially received as the messenger sent by a hostile nation Far-
+mus is at war with.
+     King Edmalis has welcomed him with the highest honor, but personally he did so to avoid
+
+                                                37
+
+--- END PRESERVED SOURCE BODY ---

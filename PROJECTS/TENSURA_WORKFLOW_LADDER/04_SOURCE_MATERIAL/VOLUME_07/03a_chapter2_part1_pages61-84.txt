@@ -1,0 +1,976 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 40 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_7/03a_chapter2_part1_pages61-84.txt | Original blob SHA: ff5d114e597ece637a89c6683871c6eb2e1f67af | Original size: 64194 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_07/03b_chapter2_part2_pages85-108.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+                                       Chapter 2
+
+                               Roles to Uphold
+
+
+
+The day after Diablo’s report, Shuna and Souei returned early in the morning.
+     “We’ve made it back safely!”
+     Shuna said so while rubbing me against her cheek. Her battle had depleted her mana, so
+she needed some time to recover enough mana to cast “Spatial Movement.”
+     While I could cast a large-scale “Teleportation” using “Spatial Domination,” Shuna has lim-
+ited magicule storage and can only cast it a few times per day. Souei could have used “Shadow
+Teleportation” to get back, but as a bodyguard, he couldn’t abandon his charge, so he waited for
+Shuna to recover. Right now, several “Clones” of his are securing the perimeter of Clayman’s
+base. It seems he’s having an easier time with this work than I imagined.
+     “Right, what about Hakurou?”
+     “Yes, I’ve asked him to take care of some business.”
+     Shuna replies with a smile.
+     Shion quietly averts her eyes from me. It would seem they returned early and left the clean-
+ing up to Hakurou.
+     Hakurou can’t use “Spatial Movement,” so it’s sometimes unavoidable that he gets left
+behind. However, Hakurou treats Shuna as preciously as he would to a granddaughter, so he
+probably wouldn’t mind if she’s the one asking for a favor.
+     It seems that he’s been assisting Geld in coordinating the investigation of Clayman’s castle,
+the recovery of trophies, and the management of captives.
+     That’s a lot on Hakurou’s shoulders—I feel deeply grateful to him.
+     His work is piling up, but a layman like myself would just get in the way. I should stay
+quiet until he makes a request (for assistance).
+     The following night, Benimaru’s party also returned.
+     “Eh? Is it okay for the Generalissimo to return like this?”
+     As I ask, Benimaru cracks a smile.
+     “Hehe, since the battle is already over, staying there would just be a nuisance to the others.
+So, we swiftly withdrew after leaving the command to our outstanding lieutenants.”
+
+
+                                                61
+      Benimaru says delightedly, as a man with no responsibilities.
+      In other words, he left the aftermath for the Beastketeers to deal with. I could almost see
+the frustration on Alvis’ and the rest’s faces.
+      He and Shuna are similar in this respect, but I suppose it is only expected from siblings.
+      At least try to learn from my strong sense of responsibility—
+      «Answer. It is concluded that they’ve learned this from their master.»
+      Conclusion based on what?!
+      You must have been mistaken.
+      Speaking of which, has your analysis ability degraded since your evolution from “Great
+Sage” to “Wisdom King Raphael”?
+      «Negative. No such effect is detected.»
+      And you dare to deny it.
+      It must have been the case with its evolution.
+      But I don’t stand a chance trying to argue with it, so I shall be the bigger man here and let
+it slide.
+      Not being able to win against Raphael, I decide to ask Benimaru how the aftermath was
+being handled.
+      “By the way, is Gabil still on the battlefield?”
+      “Yes. That guy got along quite well with Milim-sama’s subordinate Midley, so he decided
+to help with the wrap-up.”
+      “I see. So, Geld is at Clayman’s base, while Gabil remains on the battlefield.”
+      I see that Gabil has also stayed to deal with the aftermath.
+      Whether it is Geld or Gabil, both seem very reliable when tackling real situations.
+      The war is not over although the battle is won.
+      The aftermath is more problematic to deal with. Especially since we’ve wiped out all of
+Clayman’s underlings…
+      We have profited from the hard labor of the many captives taken from the battlefield and
+his base. Since we’ve promised to spare their lives, we need to take responsibility in taking care
+of them.
+      They are all majins, so unlike humans, they could probably put up with harsher treatment.
+But they would still hold a grudge if they aren’t provided basic welfare.
+      Resentment due to their defeat in war on the other hand, couldn’t be helped. But the after-
+math would have to be handled by the victorious side…
+      It would be quite tiresome to teleport all of the captives on the battlefield at once, so we
+have to be careful not to let any of them start an insurgency when we are not looking.
+      These majins are concerning even when disarmed.
+      When one considers the magic and skills in this world, it’s no wonder no one dares to take
+captives.
+      We’ve got to come up with a way to prevent insurgency—
+      “Oh, don’t worry about that. I’ve gathered all the captives and explained the matter with
+
+                                               62
+all of them.”
+      “O-okay.”
+      I found myself subconsciously lowering my head upon seeing Benimaru’s delightful smile.
+      I intentionally avoided asking what he said to them.
+      Some captives have probably already seen how Benimaru incinerated Charybdis. No one
+would dare to rebel so long as the message is spread.
+      Besides, there are the Beastketeers. So, I’ll leave the matter of managing captives to the
+Beastmen.
+      “I presume then Gabil won’t be back for now?”
+      “Unlikely. He can’t use “Spatial Movement,” so he would probably return with the Beast-
+keteers.”
+      I was just thinking that Gabil’s party would fly back promptly after everything was settled.
+Putting that aside for now—
+      “Eh? Are the Beastketeers coming as well?”
+      Why would the Beastketeers come?
+      Are they returning with the rescued civilians, disarmed captives, and everyone else alto-
+gether?
+      “Please consider this, hasn’t the capital of Eurazania been wiped out by Milim-sama? So,
+they decided in the end to join our reign for the time being.”
+      Benimaru told me that the Beastmen are an energetic species, so it won’t be a problem for
+them to travel long distances by marching.
+      But that is not what I intended to ask…
+      “But can we even accommodate all those people?”
+      Last time we took in twenty-thousand people it took quite a while to clear out an area for
+camping alone. Moreover, both Geld (who is a highly reliable man) and the orc tribe construction
+team are on a business trip. Even if there is additional space in the area we have explored, it will
+still be challenging to provide everyone with a place to reside.
+      “About that, I’ve discussed with Geld and Alvis. We’ve organized the captives into several
+major brigades to seek residence in different locations.”
+      Benimaru explains, telling me to not worry.
+      They seem to have filtered the members to shelter. (beastmen)
+      Those who have a village to return to will take care of themselves.
+      As for those coming to Tempest Federation, they all seem to be Beastmen wishing to learn
+about our technologies.
+      Beastmen who have stamina remaining will stay at the battlefield, along with the majins,
+to follow the orders of Geld’s troops. Under their command, they will construct on the ruins of
+the now wiped out Eurazania.
+      Karion has renounced his title of Demon Lord and become Milim’s subordinate, meaning
+Eurazania has also become Milim’s territory. There is a field of fertile land south of the Jura
+Great Forest, in the middle of Eurazania. It is likely going to be the construction ground for
+
+                                                63
+Milim’s new city.
+     Shouldn’t you just move your city altogether if you will have to rebuild it? I suggested to
+Milim after the idea sparked in my mind, and she agreed without hesitation.
+     And I thought we needed more time to discuss… Well, it’s Milim we are talking about after
+all.
+     She’s very quick to make such decisions.
+     Come to think about it, Milim doesn’t have any actual subordinates.
+     The Worshipers of Dragons may seem to be her subordinates, but in reality, they only wor-
+ship Milim; they are not under her command. Considering that, moving the capital would be
+needless.
+     Still, there’s no problem with it—Karion and Frey don’t seem to object either, so we can
+build up new cities without any hindrance, financed by Clayman’s treasure troves we collected.
+     In addition, we have the captives (who are getting split into groups at the moment) to supply
+the labor force.
+     There is no need for me to worry since Benimaru and Geld seem to have personally visited
+the sites to oversee the operation.
+     Their growth has been astonishing.
+     I recall my junior Tamura who never seemed to be able to follow my guidance despite
+repeated instruction—now even monsters are doing a better job than you!
+     According to Benimaru, Tempest Federation will be receiving less people this time around.
+     “If that’s the case, does it mean we don’t need to provide new temporary residences for
+them?”
+     “Yes, there shouldn’t be a need. But there are more than just Beastmen due to the majin
+captives. We’d better clarify this to everyone else, and just in case I’ll inform everyone to tighten
+up security.”
+     “All right. I understand, I’ll explain it to everyone.”
+     Rigurd nods in response to Benimaru’s words.
+     These two have become really capable.
+     They are able to carry out their own decisions even without my guidance.
+     Eh? Does that mean they would be fine even without me? That makes me feel somewhat
+lonely.
+
+
+
+
+It’s been several days since Benimaru’s party returned. At midnight, Diablo enters the office
+holding a dark box.
+     “Rimuru-sama, I’ve negotiated with them as planned. This box contains the peace treaty
+
+                                                64
+document as well as fifteen-hundred stellars of reparations.”
+     Diablo finishes his sentence and presents the box to me.
+     I almost forgot that today is the day we were to sign the peace treaty with the Kingdom of
+Farmus.
+     Since he said that I don’t need to attend it, it wouldn’t matter even if I did completely
+forget… But I’m still feeling somewhat diffident about it.
+     It feels as though my subordinate is working hard while I am slacking.
+     No, I am definitely not slacking.
+     Besides, my goal is “Power to the people while upholding the title of king,” so it won’t
+matter.
+     I try to give myself excuses in order to mask my fear, then I turn and nod to Diablo.
+     “Oh, that’s great. Speaking of which, there seem to be more stellars than I imagined.”
+     After all, our demand of ten thousand stellars was unreasonable in the first place. After
+some inquiry, I also learnt that it is still a mystery whether the total stellars in circulation in this
+world even adds up to ten thousand.
+     Here’s what their producer, King Gazel has to say: “The stellar can only be produced once
+a month. I’ve heard that since the creation of our nation, there has been some periods when no
+stellar at all is produced. That’s why its rarity makes for its value.” It is rumored that the amount
+of gold coins circulating is hundreds of times more than the stellars, so it is undoubtedly rare
+indeed.
+     And here before my eyes are fifteen hundred pieces of said rare stellars. I can only be
+amazed at the thought that more than ten percent of all the stellars in circulation are all gathered
+here.
+     “As expected from a powerful nation such as Farmus, they were actually able to gather so
+many of them.”
+     You can have a peek into their national reserve from the enormous amount of coins they are
+able to prepare.
+     “It is certainly impressive, however most of them came from King Edmalis. He has made
+up this amount from his own treasury.”
+     According to Diablo, most of these stellars belong to the royal treasury and have lost their
+luster without much use. They have the Dwarven Kingdom to back them up economically by
+providing a means to convert the royal treasures with much artistic values to monetary funds.
+     “Now that the Knight Order who is supposed to protect the royal family is gone, it would
+undoubtedly be robbed clean by the nobles— King Edmalis naturally understood as much.”
+     Is that why he decided to hand over all his assets to clear the national reserves?
+     “I see… Eh, won’t they be fighting each other then as planned?”
+     “Yes, that would definitely be the case. I doubt the new king would accept having the rest
+of the debts be kept in forms of ledger.”
+     Diablo-kun laughs in response.
+     He has set his eyes on the long run by considering the mind of the new king. That’s probably
+
+                                                  65
+why he chose the King’s brother Edward to inherit the throne instead of prince Edgar.
+     King Edmalis has also accepted that this is the only solution available to them now. Nor-
+mally, Edmalis would receive the treatment of a Duke, but he has refused it.
+     He gave away his crown and became a viscount. He has now moved to the small rural land
+near the territory of Earl Nedler McMunn.
+     From everyone else’s viewpoint, Edmalis has completely given up his ambition for power.
+     With that being the case—
+     «Answer. The other factions who don’t wish to take on the responsibility of repaying the
+remaining reparations would likely try to pin the rest of the responsibility on Edmalis.»
+     Of course. It seems that everything is going according to Diablo’s plan.
+     “Youm must have used Nedler’s territory as his base so you can travel there with ease as
+soon as anything occurs.”
+     “Indeed, just as you have deduced.”
+     Diablo nods with a smile on his face.
+     Shion looked pissed listening to our conversation.
+     No, it’s probably going in one ear and out the other. She must have given up thinking
+halfway through our conversation.
+     Eh, I’ll worry about Shion later.
+     Hmm hmm.
+     Nedler’s territory directly borders the Jura Great Forest. It is a middle-scale land near the
+border with a branch of the Freedom Association. Riots often break out, owing to the sheer
+number of people residing there.
+     That’s where Youm is staying. His heroic deeds are known by many, and as such, he is very
+popular among the people.
+     “Would Youm stop the him even if the new king tries to sacrifice Edmalis?”
+     “Yes. We will have Youm-san accuse the new king for being dishonest in the deal. There
+would definitely be a riot by that time.”
+     Is he trying to create a spontaneous confrontation by having Youm protect Edmalis and his
+acquaintances?
+     What a perfect plan.
+     If the new king is willing to pay the rest of the reparations, we won’t hold them further
+accountable, but we’d better have our eyes set on the long run and plan out the slow disintegration
+of the Kingdom of Farmus. However, even I can’t fully fathom Diablo’s strategy. His skillful
+manipulation will lead to ideal results.
+     Change is coming, and soon.
+     The new king would most likely take actions to eliminate Edmalis. Our plan would fall
+apart if the new king managed to take control of Edmalis. But of course, we can always ignore
+whatever they bring up, even if it would be at the cost of our international reputation.
+     Whatever you do needs to be justified— That’s the rule of human society.
+     “You must remain vigilant! Could the people manipulating the new king minimize the
+
+                                                66
+damage to the people?”
+     “If you wish so, I, Diablo, shall deliver to your expectations.”
+     You are truly talented.
+     He is a bit too smart, so much so that it is almost intimidating. But it seems Diablo can
+accomplish anything handed to him.
+     “I’ll leave the rest to you. If the military funds ever run low, you can always use these
+stellars.”
+     I store a thousand of the stellars in my “Stomach” and hand over the remaining five hundred
+to Diablo.
+     Luckily, everyone was revived, so we only need to compensate them individually. Con-
+sidering all the reparations, we have to use them to the fullest even with only a thousand coins
+claimed. We’ve gained plenty of treasure from Clayman’s base to fill in a wealthy treasury. Al-
+though city development may cost a lot of money in the future, we still have enough of a budget
+to support Youm.
+     Based on all this, I gave Diablo the suggestion of supporting him. However, he turned me
+down with a smile.
+     “Rimuru-sama, knowing your heart is there alone is delightful to me. But there is no such
+need. Our forces will be sufficient with how everything is set up. Or perhaps you would grant
+me the honor of joining the battle—”
+     “Ah, no can do. I’ll prepare some extra forces, but you have to lay low yourself.”
+     I said, cutting Diablo off midway.
+     I know best how strong Diablo truly is, so I won’t be stupid enough to misuse such power.
+Unless they encounter enemies at the level of Holy Knights, his power is simply too excessive
+(wasteful) to be used on an average human nation.
+     Doing so will only alienate the humans due to fear, and thus achieving mutual understanding
+will more difficult. We are walking on thin ice towards my goal of peaceful coexistence with
+the human societies.
+     Other than that, there is no issue with troop deployment.
+     Right now, no one would dare to go toe-to-toe against us publicly. Geld’s troops may have
+been sent to deal with construction work, but the military might of Benimaru’s troops alone
+would be more than enough. Besides, Farmus these days has lost more than half of its military
+reserves and would not pose any threat against us. Knowing that, I just need to prepare some
+reinforcement troops first. The money can be invested in building Youm’s new kingdom in the
+future.
+     “Understood. I shall stay low and completely veil myself behind the scene.”
+     Diablo immediately responds upon hearing my explanation.
+     “Shion, you should learn more from Diablo.”
+     “But why! I’ve always stayed calm and followed through with your orders!”
+     While I often remind her of her shortcomings, Shion seems to lack self-awareness.
+     Seriously.
+
+                                              67
+     I could only hope that she begins to realize things for herself and be more composed.
+     Sigh. There’s still a long way to go before I can send Shion off on a solo mission.
+     After the report, Diablo suddenly recalled something and decided to ask me a question.
+     “Rimuru-sama, the Western Holy Church is trying to establish contact with my subordinate
+Reyhiem. They seem to be summoning him in hope of uncovering the details of our battle
+against the Kingdom of Farmus… What’s your view on the matter?”
+     This Mister Reyhiem is the archbishop of the Kingdom of Farmus.
+     Right now, he seems to have become Diablo’s loyal lackey, but it would also pose an issue
+if he ignores his summoning.
+     “Hmm—It would also be problematic if we just leave things as is.”
+     “Indeed, I suggest we send him to do some explaining, just to investigate what the Church
+is planning.”
+     “Right… There were only three survivors, it is natural that the church would want to hear
+his story.”
+     Of the survivors: previous King of Farmus Edmalis, Head of Court Mages Razen, and
+Archbishop Reyhiem, it is obvious they would pick their own Archbishop for questioning. Or
+perhaps, Reyhiem is their only candidate.
+     “It may be a fact that Veldora has indeed been revived, but the timing does not align with
+our narrative. The Western Holy Church seem to be surveilling Veldora all these times, our story
+may be exposed if that’s the case…”
+     “Is that so… Then, should we let him tell the truth?”
+     I begin to ponder.
+     It may pose a hindrance to our plan depending on how the Western Holy Church acts. It
+would be best if we could steer clear from them, but their hostile doctrine regarding monsters is
+truly troublesome.
+     I want our relationship to be like that between the Church and the Kingdom of Dwargon.
+The two are not on good terms since the dwarves treat monsters equally, which conflicts with the
+doctrine of the church. But they didn’t become hostile, instead both simply ignore each other.
+     We must aim for this relationship as well.
+     I have no intention to deny such religious doctrines that have existed over thousands of
+years, but with that being said, we can’t simply just accept their demands. Surely when they
+proclaim, “All monsters deserve to die,” you can’t just simply comply by saying “You’re right.”
+We must respect and understand each other. War would be inevitable if one side could not accept
+the other’s views. For this reason, it is essential that we compromise and try to stay away from
+potential sources of conflict.
+     Although even with that being said, it will still require their cooperation. If they don’t have
+the same idea in mind, it would be just us trying this out alone.
+     If the Western Holy Church consider us as the “Nemesis of God,” then unfortunately we
+will have to put up a fight. If things turn out that way, then it leaves us no choice but the destroy
+them without mercy.
+
+                                                 68
+    But right now—
+    “All right, then we’ll try to send out a message first. Didn’t we acquire some video recording
+magic items from Clayman? Let’s put some of my messages in and see how they would react
+when Reyhiem brings it to probe the reaction of the Saints Church.”
+    “Understood.”
+    “Yes sir! I’ll go prepare now.”
+    Diablo nods as he receives my order while Shion runs off to find the crystal ball.
+    Diablo reported to me later that he had sent Reyhiem out. A few more days have passed
+since then.
+    Although the man has been sent, there hasn’t been any response from the Western Holy
+Church.
+    There seems to be a commotion on their end.
+    But it can’t really be helped.
+    After all, both Veldora was revived and a new Demon Lord was born—AKA me. They
+probably won’t be able to decide how to deal with us so fast.
+    It won’t matter either if they continue to ignore us.
+    I’ll put it on hold and observe for now before they reply.
+
+
+
+
+The Beastketeers arrived. Including the captives, the group consisting of tens of thousands of
+people arrived earlier than I expected.
+     Beastmen and majins are indeed impressive. Going by stamina alone, they are already far
+superior to humans. Moreover, since magic is real in this world, they can rely on magic when
+they run out of stamina and get back on their feet when their mana is depleted. Due to this, they
+are able to march much more efficiently and quickly. What impressed me more is that even the
+civilians are able to apply such a method. As expected from the defiant Beastmen. But I haven’t
+yet seen Gabil; he must be somewhere at the rear of all those troops.
+     My thoughts were interrupted by the greetings of the Beastketeers Alvis and Suphia. I greet
+them back only to realize that one of them is missing.
+     “Eh? Didn’t Phobio come as well?”
+     “About that, Phobio stayed back to keep an eye on the majin captives.”
+     Suphia answers.
+     While Geld was staying at Clayman’s base, he asked Phobio to keep an eye on the majins
+in case of an insurgency. In other words, he’s been stuck with the chore work.
+     Phobio-kun, RIP.
+     But in all honesty, surveillance is still necessary even with Benimaru’s warning. I appreciate
+
+                                                69
+Phobio’s self-sacrifice in taking on the tasks from the bottom of my heart on another note, the
+arrangements for their residence are complete due to Rigurd’s leadership.
+      Additionally, the allocation of work has been prepared as well. Rigurd has been talking to
+the managers of the production department, namely Kaijin and Kurobee to see how many spots
+are available for each department. Those who came here are people with a passion to learn
+technology, but sadly we can only accept limited members. That’s why we would be rotating
+the position within these departments for the people joining.
+      If that’s the case, we should try open up classrooms for cultivating professional personnel.
+Perhaps it would be a good idea to build a school to pass on these techniques.
+      Our shelter operation slowly unfolds as these ideas cross my mind.
+      As Alvis’ party enters the town, I see Gabil at the rear of the troops.
+      “Rimuru-sama, I’m back!”
+      He exclaims without a hint of fatigue as he descends from the sky.
+      “Oh, good job out there! I heard you were quite active on the battlefield.”
+      “That’s not the case, I was far from being good. Milim-sama’s subordinate Midley-san
+blasted me hard with lightning.”
+      Oh, Benimaru did mention to me that those people are extremely powerful dragonoids.
+      “Right, since they worship Milim, it is no wonder that they are war-mongers as well. Is
+your recent evolution the reason why you haven’t been able to achieve your full potential? You
+still have a long way to go.”
+      I’m not sure whether my words are comforting him or not, but I said them, nonetheless. He
+doesn’t seem quite upset by it. I’m sure Gabil must also be thinking the same thing.
+      “Yes! I shall continue to improve to meet Rimuru-sama’s expectations!”
+      My reason for believing so is the fact that Gabil responded so with a smile.
+      Afterward I took some time to comfort Gabil’s underlings. Suddenly, Gabil takes out a
+letter and presents it to me.
+      “What is this?”
+      “It’s a letter from Milim-sama. She told me to deliver it to Rimuru-sama—”
+      What is this? There seems to be an ominous aura around it.
+      She did mention she will drop by to play with me after I parted ways with her at the Walpur-
+gis Banquet…
+      As I open the letter, I lay my eyes on the exotic and charming writings (horribly written
+non-sensible symbols)—
+
+    This is Milim! Next time I visit, I’ll be bringing along some guys who just can’t seem to leave
+me the heck alone. I want you to teach them everything there is to know about cooking. This is
+an urgent request, so I figured I’d ask my buddy Rimuru for help!! Please please please!!!
+
+
+
+
+                                                70
+      Those are the words written on the letter, though one can tell the effort she put into it due
+to the sincerity of her writing.
+      If anyone likes taking care of Milim, it would be the Worshippers of Dragon, right?
+      “What’s this is supposed to mean, have you heard anything about it?”
+      “Yes, a little bit. I became quite the close acquaintance with Hermann-san from the Wor-
+shippers of Dragon and was able to get some inside news from him…”
+      According to Gabil, this Hermann seems to be a rather reasonable man unlike the warmon-
+gering Midley. He is a free-spirited fellow who has even traveled to Dwargon and the Western
+Nations. Hermann told Gabil that the Worshippers of Dragons have a very simple lifestyle.
+      “That’s why they believe that there is no need to pay too much attention in moderating
+Milim-sama’s diet. Perhaps they are like our tribe who consider food such as raw fish as the
+best type of cuisine…”
+      Gabil claims so, but I think the two may be different.
+      The Lizardmen tribe are more suited to consuming raw fish due to their taste buds. They
+also utilize methods such as smoking to flavor the food, so they are not completely ignorant of
+culinary techniques. They are also capable of other basic culinary skills and can produce some
+simple, non-fish foods. In contrast, the Worshippers of Dragon seem to lack the common sense
+of diet moderation. Although they wouldn’t go as far as eating raw meat, I feel that they only
+refrain from it in order to avoid food poisoning.
+      “…I see. Are the taste buds of dragonewts the same as humans’?”
+      “Yes. Thanks to my evolution, I’ve gained a variety of new taste sensations. Now dining
+has become a great joy for me considering how tasteless most food was in the past!”
+      “Right? That’s how one gets addicted to good food. Tasty food gives you the urge to eat
+more.”
+      Gabil nods dramatically upon hearing and agreeing with my views.
+      “I see, so that’s how it is! Perhaps Hermann-san meant that he wishes that such customs
+would enter their life as well!”
+      Gabil may have a point.
+      Whether what we do can be considered as custom is to be determined, but I have an idea
+about what Milim’s request is. It is rather contradictory to worship Milim as a god while ignoring
+said god’s will. Why Milim did not complain about these things is beyond me…
+      Perhaps Milim is pretty conscientious after all. Maybe she knew that they are doing every-
+thing for her sake out of good will. That’s why she didn’t complain and kept playing along.
+      “If that’s the case, we shall treat her to a feast during her next visit.”
+      “Yes! What a great idea!”
+      We must get the point across with subtlety without outright rejecting the worshippers’ way
+of life by creating a scenario for them to realize by themselves how to make Milim happier. This
+task seems to be harder than I imagined. Perhaps I should seek others’ opinions on the matter
+during a meeting on another day.
+      I tell Gabil to return to the cave and continue his research.
+
+                                                72
+     Nowadays even with Vesta’s aid, there are still too few researchers. Their work would be
+even harder without Gabil’s party.
+     “Then, I shall depart first.”
+     “Right. Our next meeting would discuss rewards as well, you should join too.”
+     “Yes sir!”
+     Gabil looks proud, perhaps having recalled the fact that he has become an official (execu-
+tive/lieutenant).
+     Then he delightfully leaves for his cave.
+
+
+
+
+It’s been a month since the end of the Walpurgis Banquet.
+      The town has become more and more active with more people arriving.
+      It is at this point that Geld returned using “Spatial Movement.”
+      Geld, who I’ve not seen for a long time, looks rather exhausted.
+      “G-Geld-kun. Good job out there.”15
+      I greet him out of reflex. Geld glances at me and opens up after taking a deep breath:
+      “I’ve once again experienced the greatness of Rimuru-sama.”
+      “What do you mean by that all of a sudden?”
+      I couldn’t help but ask after he blurted out those words with a serious expression. Those
+tired eyes of his seemed to gleam with a genuine sense of respect.
+      I haven’t been doing anything lately, so I don’t quite recall doing anything worthy of some-
+one else’s respect.
+      I wonder what he has gone through the past few weeks.
+      “Ah, it’s really nothing, but here’s the story…”
+      Geld begins to vividly recount the past events, although most of them were just filled with
+complaints about the new recruits. He allocated the captives into different groups and arranged
+them into different regiments. So far, nothing seemed off yet.
+      But when Geld commanded them to conduct site measurements and preparations… That’s
+when the questions started popping up. Since the orcs are able to communicate through “Telepa-
+thy Net” with their tribesman, they can carry out work easily without verbal communication.
+However, this method is not applicable to the groups of majins newly mixed into the regiments.
+      Even with verbal explanations, the majins don’t seem to understand. But it is fundamentally
+due to the fact that most of Geld’s subordinates, including himself as the worst offender, are
+horrible at communication. These orcs are more like craftsmen who don’t know how to explain
+things in a clear and orderly manner. Having the Orcs give instructions resulted in a nightmare
+15
+     Rimuru seems to be surprised at his return
+
+
+                                                  73
+of low efficiency when the construction actually started. Everyone was overworked and filled
+with anger and resentment at the situation.
+     Those majins also seem to be rather uncooperative in regard to taking orders. Even when
+Geld’s men gave physical demonstrations of how to do the work, many of the majins still refused
+to comply. Besides, even those who are willing to work have yet to master the techniques,
+leading to disappointing results…
+     I suppose that’s true.
+     Things are hardly easier with more people. The surplus of workers would mean nothing if
+none of them knew what they were doing.
+     That’s why professional training is really important.
+     —Let me demonstrate it for you, let me teach it to you; I will let you try it and I will
+compliment you for your effort. Tis how I will move your heart—16
+     These are words from a great man—Ex-Commander of the Imperial Japanese Navy Ya-
+mamoto Isoroku. I believe every leader should keep this quote dear to heart.
+     The hardship of the education and upbringing of subordinates are all in this quote. More-
+over, one would only feel proud for their work if they realize the purpose of their work.
+     Hearing Geld’s complaints brings back memories of my salaryman days.
+     Operators17 who ignored my instructions; Juniors who tried to hide their failure; Bosses
+who tried to push their responsibilities to other people.
+     My last life was not easy either. Although there were indeed happy memories, it would take
+until the end of the time for me to finish spitting out all my complaints.
+     Whenever I feel this way, I always—
+     “Right, let’s go grab a drink! Let’s not leave before getting drunk today, Geld!”
+     I said so while patting Geld on the shoulder, inviting him out for a drink. Drinking and
+having someone to chat with is the best solution to this type of situation.
+     Helping subordinates destress is also part of my duty as a leader and improving their mood
+after they complain is another part of it.
+     I should definitely spend more time on people like Geld who have a great sense of respon-
+sibility.
+     We drank for the whole night while Geld showered me with his complaints.
+     Early on next morning, I gathered all the lieutenants to have a meeting. But before that,
+I went to visit Hakurou. Since I only reached Hakurou through “Telepathy Net” last night, I
+decided to give him a personal welcome back first thing in the morning.
+     “I can’t believe Rimuru-sama would come receive me in person—”
+     He seems very grateful having received such a privilege.
+16
+   The idiom here is “やってみせ、言って聞かせて、させてみせ、ほめてやらねば、人は動かじ”。It’s
+   an idiom on how to educate other people. I couldn’t find any good (or any in general) english translation of this
+   idiom. The English speakers only know Isoroku for his activities in WWII.
+17
+   Clerks, I’m not very sure the specific rank but they are probably coworkers are people working under Rimuru
+   before he reincarnated.
+
+
+
+                                                        74
+     Hakurou doesn’t seem as tired as Geld.
+     “Good job out there.”
+     “You are too kind; I have hardly done anything worthy of such praise. There wasn’t really
+much I could do since all the captives have already been accounted for. Compared to me, Geld is
+the one that truly worked hard. There is no longer a need for me to return since I’ve transferred
+all my work to the others last night …”
+     “Geld… He really did work hard. I’ve been drinking with him ever since I contacted you
+last night. He seems really troubled. In the past, he could always put his heart to work without
+being distracted, but it seems that commanding the captives has really taken a toll on him.”
+     “Indeed. Perhaps he would benefit from some relaxation and an open mind, but Geld is
+simply too serious.”
+     Hakurou has a point. The easiest way to discipline the majins, who all have different in-
+terpretation of the situation, is through violent oppression. Granted, violent oppression would
+probably not bring about the best results since the end result is likely the product of some form
+of forced compromise.
+     Geld, as a professional craftsman, probably would not tolerate such unimpressive results.
+     “Speaking of which, Rimuru-sama, there is something I wish to report.”
+     I’ll leave Geld’s problem to his own concerns— Perhaps that was the conclusion Hakurou
+reached as he opened up to me with something unrelated.
+     “What is it?”
+     “Well, regarding Clayman’s territory of the Puppet Nation of Jistav, most of the denizens
+there seem to be slaves. There are no other races besides Dark Elves residing there. Most of
+them have roles related to the management of the castle, with a total of more than one thousand
+of them expressing a desire to serve us.”
+     “Hmm, and?”
+     “About that… I’ve heard rumors that there was once an elven kingdom in Jistav—”
+     The elves…
+     I recall that Sorcerer’s Dynasty Sarion also seems to consist of elven descendants. Could it
+be that the two share a common ancestry?
+     The two locations are quite far apart from each other, so that shouldn’t be the case.
+     “—I couldn’t believe it when the captives there told me that they were the grave keepers of
+an ancient ruin.”
+     “Eh?”
+     The long-lived dark elves are guarding a tomb— and an ancient ruin?
+     “In other words, the ruins of an ancient kingdom are located there and untouched…”
+     This new information is quite surprising.
+     There are many ancient ruins across the world, and some people would make a living out
+of treasure hunting at these locations— Professional treasure hunters often go on journeys to
+challenge these ruins for hidden treasures. However, these expeditions rarely bring back any
+good news. Moreover, the amount of ruins that have been uncovered is fairly low, so it is quite
+
+                                               75
+unlikely to discover treasures immediately.
+     And right now, we have a ruin site unknown to the public.
+     “Hakurou, keep this information confidential. We’ll make the call once we check out the
+site ourselves.”
+     “Understood.”
+     Hakurou also seems to realize the importance of the matter as he nods quietly to my re-
+sponse. The reason being that we may be able to extract Clayman’s treasures from that ruin.
+     Geld also mentioned that he’s already salvaged all sorts of magic items and treasure.
+     However, with that being said…
+     For the time being, we need to sit still and observe the situation. Information disclosed to
+the public about dark elves is extremely limited, so no one would bat an eye if we keep our
+mouths shut.
+     And after all, it is a Demon Lord’s domain. Average adventurers wouldn’t dare to step foot
+in such forbidden lands. It’s no good to rush things in one go.
+     For that reason, I decided it was best to approach the matter of the ancient ruins cautiously.
+
+
+
+
+Everyone has now gathered at the large meeting room.
+     Taking the initiative, I open up to speak to commence the meeting.
+     “Ahem— Everyone. Some of you may already be aware, but I am now officially a Demon
+Lord!”
+     I announce so while sitting in my special slime chair and taking a glance around.
+     “ “ “Congratulations!” ” ”
+     Everyone floods me with their best wishes with smiles on their faces, even the ones who
+already knew.
+     Hmm, hmm, the sensation of overcoming a huge challenge truly is delightful.
+     “You’ve finally gained your rightful position after so long!”
+     “Amazing. I’m so moved that you’ve really become a real Demon Lord.”
+     “Would this be the start of Rimuru-sama’s reign?!”
+     Rigurd… You say you’ve been waiting for so long, yet you and I haven’t even known each
+other for more than two years.
+     How much has this guy overestimated my abilities…?
+     Rigurd seems to be moved to tears unlike Shion who looks very proud instead.
+     Even I feel quite moved by it.
+     And if there is any problem remaining, it would be the reaction from the Western Holy
+Church. It would create the most ideal environment for our nation if this problem could be
+
+                                               76
+resolved.
+     Jovially, I continue with the agenda of the meeting. I have to inform every one of the
+decisions made during the Walpurgis Banquet as well.
+     “Right, I haven’t brought this up before, but it’s been decided that my territory would include
+the entirety of the Jura Great Forest. Right now, I’ve been officially titled as the ruler. Any
+objections? But anyhow, I don’t think there would be a problem anyways. But we need to
+defend ourselves should anyone invade. Moreover, how should we inform the outside world
+which territories are my domain? Is it okay for us to just leave it like this?”
+     My lieutenants seemed to become increasingly nervous the more I spoke. Some of their
+faces even sprouting looks of tension.
+     Eh? Is something amiss?
+     “About that… Do you mean the entire forest? Is it true?” Rigurd ventured.
+     “Y-yeah,” I answer with a nod.
+     “Oi oi, is this for real. Does this include the entire forest including the banks across the
+river?”
+     Benimaru asks, to which my response was “Probably.”
+     With regards to the aforementioned river, he must be referring to the Great River of Ameld.
+     The other side of the riverbank is territory under the control of the Eastern Empire, so
+unfortunately we are not very familiar with it.
+     “Is there a problem?”
+     “It won’t be a huge problem for us, but I recall that the opposite bank of the river is not
+under the administration of the Dryads. And since only the residents within the Dryads’ terri-
+tory consider Rimuru-sama as their leader, the residents opposite to the bank must be having
+headaches over the emergence of the new Demon Lord.”
+     Benimaru answers thoughtfully.
+     It doesn’t sound that bad. He seems to be implying (with a smirk) that “If they dare to
+protest, we will just annihilate them.”
+     Hold on a sec this is actually a HUGE problem!
+     “Ehh, that’s really something. Does this mean that all the Demon Lords recognize that all
+of the resources in this forest now belong to Rimuru-sama? In other words, the collection of
+resources would all be under Rimuru-sama’s control. That’s an impressive scale of operation!”
+     Kaijin exclaims excitingly, seeming to speak what was on my mind.
+     That’s exactly the case. Although, I seem to have the nagging suspicion that things may get
+out of hand big time.
+     According to Kaijin, all of our mining operations have been underground (illegal) and ev-
+eryone is in on it. The Dryad Overseers of the forest for the most part kept their eyes closed,
+rendering the entire area essentially lawless. It’s a common sight to see people in and out of
+Dwargon collect and exploit the forest resources for profit.
+     This has been the norm since there wasn’t a need to ask for permission from anyone. But
+from now on, they would need my permission for entering and residing within the forest…
+
+                                                77
+     Right now, all the denizens of the forest would need to be granted my permission to reside.
+     “Eh? If that’s the case, would there be more people coming as time moves on?”
+     “Yes. Since Rimuru-sama has officially become a Demon Lord, those who aren’t coming
+to greet you would practically be sending an open declaration of war.”
+     Shuna explains with a gentle smile on her face.
+     It can’t be wrong if even Shuna says so. But upon considering so, those residents who
+were previously living a carefree life in the forest suddenly need to get my permission. It is
+troublesome no matter how you put it.
+     “But, isn’t it too late to bring it up now? They’ve already been living in—”
+     Rigurd and Gabil respond upon hearing my mutterings.
+     “You shouldn’t put it that way. The Demon Lords possess immense power. As for Goblins,
+even the power of a Greater majin is already beyond our imagination.”
+     “Indeed, that’s exactly the case. Although the choice to decide whether to submit to Demon
+Lords and live under their protection or live a carefree life denying their authority is up to each
+individual, even us Lizard-men have to choose the former. No one would stand opposing Demon
+Lords. Only fools would ignore their presence. That’s why we normally send our greetings first
+in order to prevent antagonizing them.”
+     As Shuna mentioned before, those who aren’t willing to greet the Demon Lords would likely
+be labeled as rebels. It is said that Demon Lords will send their subordinates to annihilate said
+rebels if they deem their actions severe enough.
+     Eh, I’m not the type to rain destruction on others over such trivial matters. But the monsters
+who haven’t personally met me would probably not get the same impression…
+     “But hey, at least the Lizard-men would be present to send their regards. I’ve already in-
+formed my father of Rimuru-sama’s great deeds in becoming a Demon Lord!”
+     Gabil confidently announces.
+     Eh, when did you decide on that?
+     “Is Abil-san visiting?”
+     “Yes! I’ve told Shion-san as well, my dad said he would definitely come greet Rimuru-sama
+in person.”
+     Things seem to be getting wilder.
+     The Lizardmen are considered a major tribe within the Jura Great Forest. Such a major
+tribe’s decision to greet me would inevitably pressure the weaker ones to greet me as well.
+Those who know me would probably be delighted to visit, while those who don’t know me
+would most likely shit their pants at the notion alone.
+     They would probably only be thinking about how screwed they would be if they offended
+their new overlord. Perhaps, I should come up with a way for everyone to conduct the greeting
+ceremony in a more relaxed manner to avoid scaring them too much.
+     But those are just my thoughts …
+     I turn to Shion, who for some reason looks quite proud.
+     Why didn’t she report to me that Gabil’s father is coming? Stop acting all smug over there.
+
+                                                78
+      Shion completely fails to notice my reaction. She is the opposite of her diligent secretary
+appearance. This girl is the picture opposite of reliable.
+      What a shame.
+      “Huh huh! It is only natural when the one you are greeting is Rimuru-sama himself!”
+      Shion spills such nonsense all delighted by herself. I guess I’ll just ignore her for now.
+      It is quite comforting however that she seems to be happier when I’m the one being praised
+over herself. But telling her so would only fuel her arrogance, so it would be better to just keep
+my mouth shut.
+      To summarize, the news of my ascension to Demon Lord has spread across the lands and
+I’ll be having a lot of visitors from all over the forest soon. Perhaps they all think it is better to
+be protected under the Demon Lords than to stand against them.
+      If that’s the case, a lot of monsters are going to visit this town. We would be busy attending
+to them all. And next, we will need to investigate the Jura Great Forest and reach out to sentient
+species18 . While it won’t be a problem for them if they acknowledge my authority as the ruler
+of the region, that doesn’t mean we don’t have other things to worry about as well.
+      But regardless, we would be busy no matter what, so we should—
+      “I’m thinking, aren’t we going to inform the outside world about the news of my ascension
+to Demon Lord anyways?? If that’s the case, how about we take advantage of it and use the
+news to advertise our town? Rather than having everyone visiting one at a time, it would be
+much more convenient to invite them here altogether at once.”
+      “…What do you mean?”
+      Rigurd looks at me with doubts. So, I decide to explain the idea that I just decided on in
+layman’s terms.
+      We don’t have to make the matter too complicated.
+      This town is the capital of the Tempest Federation, and more and more monsters in the Jura
+Great Forest are becoming aware of this place. For instance, the Kobold19 Merchants led by
+Kobe. I think it’s about time to expand our population given how some have expressed their
+interest in joining.
+      The Beastmen currently studying technology in the town would eventually leave our country
+one day, so we have to find new members to fill in the void. Furthermore, we have to improve
+the efficiency of skill training to make individual training sessions more worthwhile. We’ve
+also improved the efficiency of our food production, so welcoming new citizens shouldn’t pose
+an issue. However, the main issue here is that our labor force is lacking.
+      My head floods with countless potential ideas.
+      But there just aren’t enough people at hand; that’s an issue. We must seize this opportunity
+to promote the town and encourage people to come and live here.
+      When people come to visit me, we should also use that moment to show them around town.
+18
+   The specific word here is referring to species that have been enlightened enough, implying monsters who have
+   built tribe/village.
+19
+   In this instance, it is referring to Dog-head humanoid kobold.
+
+
+                                                      79
+Some monsters may even consider migrating.
+     Killing two birds with one stone, actually, not only two—
+     “Besides, we’ve been very stressed as of late, so shouldn’t we take a break once in a while?
+That’s why I propose we should hold a festival as well!”
+     We can decide on the date of the festival later.
+     We will welcome the visitors during the time when the whole town is celebrating.
+     And since Milim has already requested me to do so, we will have to pull off a huge festival.
+     By restricting the festival to a certain time frame, we can limit the visitors to one specific
+time period and avoid having them sporadically visit us.
+     We can use our vacation time to simultaneously advertise the town.
+     In other words, taking care of everything in one go.
+     “A festival…”
+     “Amazing, that’s a wonderful idea!”
+     “Let’s do it! We will make it a grand festival!”
+     Everyone’s eyes are lit up after hearing my explanation. It seems that fighting spirits are
+burning high in everyone’s heart.
+     Since we’ve held feasts every couple of months20 , we have much experience with festivals
+and celebrations. And as it turns out, everyone’s getting better and better at holding festivals,
+with each festival grander than the one before. It would be great if for this festival we could
+have everyone contribute.
+     “We are announcing my presence to the world anyway, so we should make it worthwhile!”
+     “ “ “Yes sir!” ” ”
+     No one objects.
+     What do you mean by budget? Pfft, why should I care about budget at this point.
+     Rigurd can figure that one out. Right now, our treasury is loaded, so being extravagant once
+in a while won’t hurt.
+     Thanks to my words of encouragement, we got everything to progress rather quickly. We
+were able to quickly conclude the meeting and by the time I got back, even the plans for the
+invitations to national leaders were already sorted out.
+     Isn’t now a bit too early to send out invitations?
+     I suppose it’s fine to invite monsters, but is it really ok to invite leaders of human nations
+too? Though I guess we do have hot springs, as well as hotels for guest reception. There are
+even guesthouses to satisfy the needs of royals and nobles.
+     In fact, even prominent figures such as Duke Elalude and King Gazel are extremely satisfied
+with the service Haruna and the others provide.
+     Hmm, there shouldn’t be any problem.
+     We could shift the dates of visits of the heads of states away from the main event and change
+the venues. As long as we keep the security intact, it would be a great opportunity for the leaders
+20
+     Swadian butterlord policy
+
+
+
+                                                80
+of the world to learn about us.
+     Their master— well, that would be me— a proper Demon Lord.
+     I can very well relate to everyone’s sentiments of wanting to celebrate. I was originally a
+Japanese man who loved festivals as well. And if I’m getting serious this time, I shall show
+them the true meaning of a festival. Moreover, I’ll show the world that I am a not a bad Demon
+Lord21 .
+     And with that, the huge Tempest festival will soon be underway.
+
+
+
+
+My report ends with the details of the festival pending future discussion.
+     Next, I listen to everyone’s report of their recent activities.
+     I have a rough idea of what they’ve been up to, but not everyone knows what the other
+lieutenants are working on. I might even be able to glean some new information from the dis-
+cussion. Especially Diablo, I simply cannot fathom his train of thought. Should I call him
+lacking in common sense, or…
+     The things he deemed trivial always turn out to be important news to me. This discrepancy
+in judgement continues day after day.
+     There are many times that I alone won’t be able to make the best call. For this reason, it is
+important for everyone to share their thoughts with each other during regular meetings such as
+these.
+     From Rigurd’s report, merchants who have traded with us once are likely to return for more.
+Fuze has spread the news about the safety of our town to more people and, as a result, this town
+has seen more visitors than ever before.
+     There hasn’t been too much of a reaction from all the other nations. While they all seem
+cautious of the fact that I’ve become a Demon Lord, they are mostly just observing the diplo-
+matic relations between us and the kingdoms of Blumund and Dwargon. With how things have
+progressed, the Emperor (Empress)22 Elmesia El-Ru Sarion has decided to reach out and form
+diplomatic relations with Tempest Federation. She seems to be implying “Get the roads done
+fast” to us. But it also carries the confirmation that they are willing to provide us their powerful
+backing as support.
+     Their declaration seems to have been broadcasted with magic to the heads of other nations
+as well, which apparently has given many of them headaches. I seem to have heard of something
+similar when I was discussing it with Fuze and King Gazel.
+21
+     The actual line is: that I am a friendly Demon Lord. But why not.
+22
+     The honorific is an almost gender neutral term “先帝” - emperor
+
+
+
+                                                         81
+     “Haha, amazing! It seems that everyone has kept their word and is in turn pressuring the
+other nations around the world!”
+     Rigurd delightfully concludes his report.
+     After Rigurd, it is Souei’s turn to speak.
+     Given that much of the investigation work has been handed to Souei, the content of his
+report must be quite enlightening. Souei even has had his hand in the preparation of the road
+construction to Sorcerers’ Dynasty Sarion. He didn’t help with the construction, of course.
+Instead, I told him to do some reconnaissance.
+     I’ll determine the specific route of the road later. So, I basically had Souei investigate things
+such as whether or not there are monster tribes nearby that would interfere with the construction.
+We’ve conducted similar investigations during the construction of roads between Dwargon and
+Blumund, which is why it is so important. We can’t overlook such things; otherwise, there may
+be potential conflicts in the future.
+     While most monsters in our sphere of influence so far have been cooperative, some may
+express opposition when they are forced to move due the construction of the road.
+     Nowadays, since I’ve become a Demon Lord, any monster with just half a brain wouldn’t
+want to stand against me. But that doesn’t mean I can just do whatever I want, which I will keep
+in mind.
+     I do want to prevent violent suppression, but that’s low hanging fruit. My end goal is
+coexistence between men and monsters and to achieve racial equality at birth.
+     Hopefully, this time we won’t have any issues.
+     I’ve already asked so much from the monsters within my domain.
+     We gave shelter for people who came to us in order to prevent unnecessary— Oh yeah,
+we have to tell the residents who live in the path of the new road to move. I want to avoid
+unnecessary conflict, and it will be best for me to have them come negotiate with us nicely.
+     It won’t matter even if there are tribes on the planned construction route, I’ll just prepare
+some decent lodgings for them to move into. I hope to make such locations into the likes of
+traveling waypoints with many hotels to service both humans and monsters alike. There may be
+some issues along the way, but at the end of the day, life will be more prosperous.
+     Just like last time, and the time before that, I hope this one would go smoothly as well…
+     Such thoughts wandered in my head while I waited for Souei’s report.
+     “There weren’t any hostile monsters spotted on the planned construction route or the neigh-
+boring areas. They all approved of Rimuru-sama’s plan as soon as I explained it.”
+     Oh oh, that’s wonderful.
+     Our goal isn’t to drive them away from their homes, so we are very fortunate to have their
+understanding.
+     “Is that so? Great then. Since Geld is available now, I’ll have him do the measurements as
+well as handling some other issues.”
+     The investigative work is concluded since we finished the exploration of the construction
+site. After some security checks to ensure safety, we can send in the technical crew to do the
+
+                                                 82
+work.
+     “Another moment if you may, there is still one more issue. Since the Jura Great Forest is
+now under Rimuru-sama’s control, it will include the Coscia Mountains near the border zone. It
+is an area with dangerous rapids and steep hills, and, in addition, the hidden village of the Tengu
+tribes resides at the mountain top. This is a secret gleaned from the local residents that cannot
+be overlooked.”
+     On the southwest side of the capital of Tempest Federation, Rimuru, there is a mountainous
+region connected to Sith Lake. The region is named the Coscia Mountains, where the orcs have
+also moved to.
+     It is said that the city of Demon Lord Frey is located on land extending from the Southern
+Coscia Mountains.
+     It is a beautiful mountain range filled with steep peaks overlooking the clouds. But it is an
+extremely mysterious land that would pose quite the ordeal to anyone wishing to visit. According
+to the construction plan this time, the roads we are building would extend all the way to inside
+the territory of Sarion. There seems to be some middling-sized cities in the mountains’ vale,
+and they would likely be the destination of our construction.
+     It seems that we aren’t involved with the Coscia Mountains directly, so what is Souei wor-
+rying about?
+     “What do you mean that we cannot overlook it?”
+     “The Tengu tribe may seem to be a peaceful bunch, but they are actually innately aggressive
+fighters. Even Demon Lord Frey has avoided directly confronting them, so it would be best if
+we inform them too before proceeding—”
+     According to Souei’s report, the Coscia Mountains are strictly outside of the Jura Great
+Forest and hence outside my field of administration. It is an independent land that isn’t included
+in Frey’s territory either.
+     Even though I may proceed without informing the Tengus, given my authority as a Demon
+Lord, it is best if we are to explain the situation and prevent potential conflicts in the future.
+     Otherwise, they may suspect that the road is some devious act by an ambitious Demon Lord
+aiming to expand.
+     Souei seems almost apologetic reporting this to me; however, it is a marked improvement
+in my book. The fact that he didn’t act recklessly on his own reach out to the Tengu is commend-
+able. How cautious indeed Souei is in his acts, his report of the situation now would contribute
+a lot.
+     “Very well, then I shall—”
+     “Please hold on. If that’s the case, I shall visit there.”
+     I was just about to propose to talk to the Tengu tribe myself when Benimaru interrupted me.
+     He claims that a Demon Lord just strolling by without any proper announcements would
+raise some red flags. I immediately come to that same conclusion thanks to him pointing it out,
+so I decide to leave that matter in Benimaru’s hands.
+     “Nii sama, you’ve been quite close to Alvis-san lately, are you trying to sneak on a date
+
+                                                83
+with her?”
+      What? Benimaru’s been hitting on Alvis?
+      “What’s this all about, Benimaru-kun?”
+      If what she said is true, this would be quite the shocking development.
+      “That’s just a misunderstanding, Rimuru-sama. Shuna, please don’t spread such rumors.”
+      Benimaru calmly denies Shuna’s words.
+      He doesn’t seem to be lying given his frank attitude…
+      But given his handsome looks, there’s no doubt he is popular amongst the ladies.
+      “Please be rest assured, Rimuru-sama. It won’t matter if Benimaru is gone, Rimuru-sama
+still has me after all!”
+      “Huh? What nonsense are you talking about?”
+      “Hehe, have you been seduced by Alvis into trying to leave this country behind? Gone with
+the wind have you!”
+      “I mean, Shion, seriously. What has gone through your brain to have twisted your under-
+standing of the situation like that?”
+      Shion begins to say some bizarre things only to have provoked Benimaru’s retorts.
+      No way. Although I’m a bit jealous not having a girlfriend and all, I don’t think Benimaru
+would run and leave us behind.
+      Shion’s delusions are truly baffling.
+      “Oi, Shion, that’s just impossible.”
+      “Right, Shion. Rimuru-sama, you believe me, right?!”
+      “You are my trusted right-hand man, there is no way I will doubt you.”
+      I may have said so given how long he has followed me, but I’ve not once doubted Benimaru
+or feared his betrayal. But he is probably getting a girlfriend soon like Tamura.
+      We’ll see about that then.
+      I get the feeling that this whole conversation is quite silly, so I should just hand the real
+work to Benimaru.
+      “Right. If we continue discussing this Shion will get the wrong idea and act like an idiot
+again, so this task will be handled by Benimaru!”
+      “Yes sir, understood!”
+      Benimaru nods with a tired expression and accepts the mission.
+      Good grief.
+      But honestly, Benimaru is the most suitable candidate to be sent in my place. His position
+is just under mine and is high enough to not invite scorn. I didn’t expect there to be such a
+hidden village near our border with Sarion, so it would be best to inform them from a long-term
+perspective.
+      Benimaru would probably do a better job at it than me.
+      I think so while concluding the issue.
+
+
+
+
+                                                84
+
+--- END PRESERVED SOURCE BODY ---

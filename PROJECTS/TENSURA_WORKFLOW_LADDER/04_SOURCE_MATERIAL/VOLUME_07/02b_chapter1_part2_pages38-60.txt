@@ -1,0 +1,840 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 39 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_7/02b_chapter1_part2_pages38-60.txt | Original blob SHA: 0459fc7021c7e9c81688ff1c7422df3c2ffbd60e | Original size: 53698 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_07/03a_chapter2_part1_pages61-84.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+provoking Diablo.
+     Thanks to the King’s announcement, the opposing nobles are no longer voicing their opin-
+ions.
+     Regardless, they don’t intend to continue the conflict further. So perhaps the king’s an-
+nouncement was more to protect his own subjects rather than announcing for the sake of Diablo.
+     “Very well, allow me to deliver the message. A week from now, his grace hopes both
+kingdoms would send out representatives to sign a peace treaty here. But before we reach a
+peaceful agreement, here are the demands we propose to your nation—”
+     Diablo takes out a piece of parchment from his pocket.
+     —I shall grant you the chance to choose—
+     With this being the header, the parchment contains the written conditions for a truce de-
+manded by yours truly Rimuru—But only in name, the actual content of the conditions are, in
+reality, Diablo’s demands.
+     The content is quite excessive.
+     Option one, the king is to abdicate and compensate for the war.
+     Option two, Farmus is to surrender and be vassalized by Tempest Federation.
+     Option three, which is barely an option at all, both option one and two are rejected and the
+war would continue to burn Farmus to the ground.
+     What would appear to be the maintenance of their current status quo is, in fact, an illusion.
+Now that they’ve acknowledged the Tempest Federation as a legitimate nation, their action of
+waging war against Tempest Federation without a declaration of war wouldn’t stand justified.
+     At least not by the surrounding nations.
+     The Western Holy Church would probably be busy fighting Veldora, that’s why the crowd
+think they won’t bother to save the Kingdom of Farmus .
+     The demands are more like threats.
+     It is telling them to either agree or die. They have to make room for agreement to prevent
+the destruction of their nation.
+     Diablo intentionally raises the parchment high and recites its content dramatically. With a
+delighted expression, he joyfully awaits the nobles’ reactions.
+     As soon as he finishes reading the treaty, some minister begins to mumble to themselves
+“This is just coercion…”
+     However, that doesn’t much concern Diablo as he bows towards King Edmalis.
+     “—These are our demands. You have one week from today. Do give us your response by
+that time.”
+     “W-wait! That’s quite rush with the timing! We’ll need at least a month—”
+     “Hush. I don’t have such patience.”
+     “No, you can’t leave it like this! This is no small feat that we can decide with a palace
+meeting alone. We will have to gather nobles from around the region and decide through the
+national council of the Kingdom of Farmus —”
+     “Did I not tell you to hush? I care not in the slightest of any difficulty you may have in
+
+                                               38
+doing so. But heed this well: don’t try anything funny. I’ll not accept any excuse to delay the
+matter. If we don’t hear from you in seven days, we will consider that your nation has chosen
+option three: “War.” Consider this before giving your answer.”
+     Diablo finishes what he has to say and leaves the Farmus King and the nobles without even
+turning his head.
+     How stubborn! Someone shouts, but Diablo won’t change his mind for such a petty thing.
+He leaves Youm’s party as soon as he finishes his business here.
+
+
+
+
+After Diablo’s departure, King Edmalis issues orders to summon all of the nobles to an Imperial
+Conference7 .
+     The meeting was planned to be three days later.
+     Even with the use of magic, the available time is still quite limited for all of the nobles to
+be gathered.
+     But that really can’t be helped since Diablo has only given them a week. A solution must
+be drafted before that time.
+     The timing is indeed pressing.
+     That’s why the king has put out the order in such a rush to summon all the nobles within
+three days.
+     The king’s servants begin to hasten their movements. The scene becomes rather busy as
+everyone prepares for the meeting.
+     King Edmalis looks exhausted as he glances around the crowd.
+     “I believe my fellow ministers have realized the magnitude of the issue too. We shall draft
+a plan for the future before all the nobles are gathered. Tomorrow, we will alter the location, so
+I may share my thoughts with you all. I shall listen to your opinions then.”
+     He says so rather powerlessly while looking at his trusted subordinates.
+     What he is certain of at the moment is that the Kingdom of Farmus is stepping towards its
+demise. Because of the high stakes, there shouldn’t be any bickering among his inner circle.
+     But there would undoubtedly be endless conflicts when the conference is held.
+     That’s why the king is trying to get everyone on the same page before the Imperial Confer-
+ence is held.
+     In addition, he needed to prevent unnecessary sacrifices.
+     King Edmalis has secretly made up his mind as he plans these things out.
+7
+    Imperial conference or Gozen Kaigi is a meeting that is constitutionally required to be held when the Japanese
+    emperor wants to make an important decision. I believe only the concept of imperial conference is used here, not
+    that Farmus has the same constitution as Japan.
+
+                                                          39
+     The next day, the crowd convened in the conference hall once more.
+     The ones being summoned are all the most trusted subordinates of the king. Apart from
+them, for unknown reasons Marquis Müller, the leading figure of the centrists, and his follower,
+Earl Hermann, are also present.
+     In order to clear up the situation, King Edmalis begins to explain the ins and outs of the
+whole event.
+     Everyone listens to the king in silence.
+     Even though both Razen and Reyhiem have spoken on the issue, the ministers are now
+finally plunged into silence having recognized the frightening reality.
+     Marquis Müller suddenly opens up to ask the king:
+     “Your Majesty… Is it true? Did you say that Veldora has been revived?”
+     “Just as Razen and Reyhiem have said. In my opinion, the only issue is which one of the
+three options are appropriate for us. Moreover, we need to discuss our future plans past this
+event.”
+     King Edmalis gives his confirmation and urges the crowd to give their opinions on the
+matter.
+     They’ve been waiting for the king’s permission, so the crowd begin to express their views.
+     “Jura Great Forest is a forbidden land guarded by Veldora. Even the Eastern Empire doesn’t
+dare to march on it unprepared. It would be utmost foolishness for us to challenge it alone.”
+     “T-that’s most true! We don’t stand a chance to win. Our country would be destroyed if we
+continue fighting them!”
+     “Right. With that being said, it leaves us with option one and two…”
+     “No way can we be vassalized! We may change our stance on the matter, but we cannot
+become servants to monsters…”
+     “Don’t hammer it down so quickly. We don’t want any more conflicts.”
+     “How could this be! No landed nobility would agree to such madness.”
+     “There will be civil unrest!”
+     “Could this be the true intent of those monsters!”
+     “Perhaps we should have Your Majesty step down first and pay the reparation. But are you
+all aware of the details of the reparation? The nation would collapse.”
+     “Ten thousand stellar gold coinss8 . That exchanges to around a million gold coins. That
+would be twenty percent of our total national tax.”
+     “Impossible…”
+     “But consider our options. Isn’t it at least better than having our kingdom destroyed?”
+     “Indeed. At least they aren’t trying to drain our wallet. That means they still have some
+decency.”
+     “In the end, we still have to accept those conditions—”
+     “Hmm, I think so too.”
+8
+    stellar gold coins seems to be a universal currency in slime world. More on that in vol 9.
+
+
+
+                                                           40
+     King Edmalis remained silent throughout the period and listened carefully to what the min-
+isters and nobles have to say.
+     He thinks to himself as he listens.
+     How beautiful—That person possesses both a petit appearance of a young girl and a men-
+acing aura that affirms his presence.
+     He is the Monster ruler called Rimuru.
+     The fearsome Demon Lord.
+     Simply recalling those experiences renews the fear deep down in his heart.
+     Dignity and what-not are all overruled by fear. The king doesn’t even dare to raise an
+opposition to his enemy again.
+     Because it reminds him of the days he was turned into meatloaf and force-fed his own hands
+and feet.
+     The king does not want to experience that suffering again at any cost, that’s why he has
+made up his mind to convince the ministers.
+     After the defeat, there are still countless things under question.
+     The monsters, surprisingly, have principles.
+     With the birth of a new Demon Lord, the “Storm Dragon” was also revived.
+     King Edmalis realizes his utter defeat as he begins to accept these realities.
+     He was blinded by his desire and made the wrong judgement. Had he begun their relation-
+ship peacefully, there may be a different future they could paint.
+     But it is all too late at this point.
+     —There can’t be any missteps from now on.
+     Diablo mentioned that they can choose whichever out of the three if they so desire. In other
+words, whichever option selected would all help Diablo to reach his goal. With that being the
+case, it would be the right call to choose the option with the least potential harm.
+     King Edmalis begins to ponder on it by himself, which option would cause the least damage.
+     Option three is obviously a no go.
+     Not only the citizens, everyone would be killed.
+     Option two should be further evaluated.
+     It is an option that can ensure both the well-beings and prosperity of the citizens.
+     He has had a glance of the beautiful streets of Tempest Federation. In that kingdom, some
+adventurers are even having a good time hanging out with monsters.
+     Perhaps they are not bad in nature after all…
+     It’s a beautiful thought that’s crossed Edmalis’ head, but he still decides to not settle on that
+option.
+     It probably won’t work. Without witnessing those sights by themselves, people won’t place
+their trust in monsters. Even I would consider these to be tales of a madman had I only heard
+them in words—
+     Besides, the nobles have a duty to protect their subjects. Even if the nobles surrender un-
+conditionally, it would be impossible to have them all willingly vassalized. You simply can’t
+
+                                                 41
+force them into obeying, even with hell breaking loose.
+     It would most likely invoke protests from the neighboring nations as well, nor would the
+Monster Kingdom be recognized by the Western State Council. He would most likely end up
+being assassinated if he is to ignore these hindrances by using his authority as a king.
+     As for option one, it seems to be their safest choice.
+     Abdication of king means exactly what it says, King Edmalis must step down. A new heir
+would swear not to wage war again and would be given the throne.
+     It is rather coercive considering the amount of reparation they are demanding, but it can’t
+be helped. The cost of peace is much lower than resuming this war.
+     But that would only be the case if the monsters cease to demand more from his kingdom.
+     There is also a hidden agenda behind the two demands.
+     Diablo has also discussed in length with King Edmalis about it. He wants to crown Youm
+as the new king, and on this basis, he will build a new kingdom.
+     Edmalis has three children, his eldest daughter, youngest daughter, and eldest son.
+     Both daughters of his have been married to other kingdoms leaving the crown available
+only to his eldest son, the prince. But he has yet to even reach the age of ten and is far from
+mature. If King Edmalis is to step down now, there will likely be a struggle for the throne.
+     King Edmalis is well aware of the people who desire the throne. The head of the optimates9
+is his own little brother, Duke Edward.
+     He can easily tell Diablo’s true intent as he analyzes things this way.
+     Diablo intends to have the royalist and the optimates fight to the death over the inheritance
+of the crown.
+     Now that he thinks about it, whichever option of the three would eventually lead to conflict.
+And their evaluation of which one to choose is all just a part of Diablo’s plan.
+     —In other words, it doesn’t matter which option we choose…
+     King Edmalis sighs internally.
+     The outcome would be the same. And if that’s the case—
+     “Settle down, everyone. Please heed my thought.”
+     King Edmalis proposes so after everyone has expressed their opinions.
+     “I’ve heard that their kingdom is called “Jura Tempest Federation.” Many different races
+residing in the Jura Great Forest now follow the ruler called Rimuru. I think we could join this
+big family as well…”
+     “Are you suggesting we should be vassalized by them?”
+     “No, that is not the case. I am simply surprised by how well managed that kingdom is.”
+     Edmalis pauses upon saying so and glances looks around the crowd with determination on
+his face.
+     “This war is all my fault. I did it not for our people, but out of my own desire. Because
+of that, even god has given up on me. My arrogance has led to the awakening of Veldora to
+9
+    A person who supports that the nobles should have equal or more power over the royal family in a monarch.
+    Opposite of the royalist.
+
+
+                                                      42
+bring disaster to my kingdom Farmus. Had I listened to the advice of Marquis Müller and Earl
+Hermann, this could all have been prevented—”
+     “Sire, that is too kind of you…”
+     “I am most grateful for your highness’ praise.”
+     Edmalis replies to the two with a “hmm” sound.
+     Then he begins to spill his gut feelings:
+     “There won’t be a second chance, nor will there be a second time. It is because of him,
+Rimuru-dono, the leader of Monsters, that I was able to survive. So, this will not happen again.
+If I am to make the same mistake twice, it will not only be me who is doomed, but all of our
+people. At this point, my reputation and dignity are all irrelevant now. We should prevent our
+people from being affected by this. As for what we should do to turn things around, and what
+would be good for the people, we should all aim now to come up with such solution!”
+     The ministers are all shocked as to freeze at the scene.
+     That’s because the king, the devious and selfish king has confessed his wrongdoing. Not
+only so, he has reached out to everyone present for an ideal solution.
+     No wonder why everyone is surprised.
+     These ministers also begin to reflect upon their past actions having seen the regrets on the
+King’s face. In the end they’ve really only used their honor as an excuse to protect their own
+selfish interests. Now they’ve finally come to realize that deeply.
+     The ministers rise up from their seats and kneel before the king.
+     Then—
+     “Apologies, sire. We’ve also been foolish in the past. We shall find out the best solution,
+for… For the people of this nation!”
+     Marquis Müller speaks out for everyone at the scene. The ministers all begin to kowtow10
+without a word of complaint.
+     After which, they would invite Youm’s party as advisors to continue the meeting, without
+knowing when it will end…
+
+
+
+
+“—Just like that, I gave them some shock education.”
+    Diablo reports to me with a smile.
+    Eh, hold on, hold on! There is too much going on that I don’t even know where to start
+asking.
+    But there’s something that has been on my mind the most—
+10
+     Kowtow is a word to describe the bow in Chinese and Japanese culture where one kneels and bows their head on
+     the ground, a display of highest obedience and respect.
+
+
+                                                        43
+     “Did you really show it to them?”
+     “Yes. I think it is most effective to invoke fear.”
+     So you did… You really showed them that…
+     “That” being the meatloaf.
+     I don’t intend to praise Shion even though she looks quite happy about it.
+     No wonder they wet their pants seeing this. I would undoubtedly vomit seeing it if it was
+me from before (reincarnating).
+     It is truly that disturbing.
+     By the way, this is totally what a Demon Lord would do.
+     My image as an upstanding man with principle has now been turned into that of a blood-
+lusting monster. Never mind, you can’t rewind time to undo it. But in terms of methods, it
+does seem quite effective in winning their trust by giving them the stick before carrot… Eh, this
+sounds like how a yakuza (mafia) group would function.
+     I jump down from Shion’s laps.
+     I decide to turn back to human form and drink some black tea to restore some tranquility in
+my mind.
+     “Oh, and about the condition of a peace treaty, I proposed a reparation of ten thousand
+stellars.”
+     I spat out my black tea.
+     Ten thousand stellars, you…
+     I did order him to demand reparations to alienate the king and the nobles…but this amount
+is just ridiculously large.
+     It is so large in fact that the neighboring nations would probably not forgive such action.
+     In this world, barter economy is still the mainstream.
+     There may be transactions with currency in large cities, such as the capital of Blumund and
+Ingracia, but there are far more population in rural areas who have never seen denomination
+greater than silver coin.
+     In simpler terms, the value of currency is surprisingly high.
+     A copper coin is around ten yens in Japan, a silver coin to a thousand yens and gold coin
+to around hundred thousand. Even though this is how one would generally feel, such beliefs
+would only hold true in urban areas.
+     The reality is far different.
+     To be more specific, the average income of an urban laborer is around six silver coins a day.
+In terms of monthly income, it is around one-hundred-fifty silver coins, roughly fifteen hundred
+thousand yens.
+     Whereas in comparison, a countryfolk may make less than a hundred silver coins in a year.
+The wage gap between the rich and the poor is quite significant with the latter earning less than
+a hundred thousand yen a year.
+     However, there aren’t that many diversions in this world, so there are fewer places to spend
+the money, which renders currency to be less necessary. That’s why there is no fundamental
+
+                                               44
+difference in lifestyle between the two classes even with such a huge wage gap.
+      In other words, right now this world’s economy is still somewhat healthy without the impact
+of globalization and inflow of financial capital.
+      Now is the time to build a greater economic body.
+      Diablo’s intelligence is really something else.
+      When I revealed my plan of coexistence and growth, he seemed to have understood thor-
+oughly the structure of economic dominance. In order make commodities with different value
+flow in the market, currency is definitely warranted.
+      If one can control the flow of currency, one would hold the world economy in his grip.
+      There are many nations in this world that use national currency produced by the state, but
+right now only the general currency produced by Dwargon are mainstream in all markets.
+      In other words, it isn’t that difficult to build a global economic network by introducing a
+special currency to this world.
+      Diablo would probably do so and may have already planned this out.
+      But we are getting off track.
+      Let’s talk about the exchange rate of currency that has been settled in this country (Farmus).
+      A copper coin exchanges to around one hundred yens, a silver coin to ten thousand and a
+gold coin to approximately one million.
+      A reparation of ten thousand stellars would be demanding around one trillion yens of war
+compensation. This world is not as materially abundant as Japan from my last life, so there is
+no need for any nation to ever prepare such an enormous national budget. It is then only natural
+that such reparation would be considered a ridiculous price.
+      “Aren’t you demanding a bit too much?”
+      “Kufufufufu, no need to worry. I’ve already given them three choices, but in the end they
+can only choose one. Option three is naturally outside of their consideration while option two
+is impossible to choose. At the end of the day they will only choose the first and negotiate with
+us.”
+      But it would save some time for us if they choose option three, Diablo says so laughing.
+      Of course they have to choose the first option.
+      They may try to negotiate a discount—no, they aren’t that stupid. They are probably unable
+to pay up in one go, so they may negotiate an installment.
+      Diablo seems to have seen through me and says:
+      “A discount is not gonna happen, the Kingdom of Farmus will have to pay in full. But
+it is hard to achieve in practice. Their economy would probably stagger with all those coins
+withdrawn from the market.”
+      That’s true as well.
+      It’s clear that Diablo has some other intent.
+      “All they can do in response is to—find a scapegoat.”
+      So that’s the why.
+      Diablo’s rationale is as follows:
+
+                                                45
+      They will first vouch for a down payment and then pay up the remaining debt with other
+things than coins. Whoever pays up the remaining debt does not matter; they can go on to cut
+ties with such individuals from the Kingdom of Farmus .
+      In this way, they can argue that the Kingdom of Farmus has paid up their reparations. They
+then get to claim they’ve done their part even at the cost of provoking us.
+      Although this strategy would only work if the people they deal with remain reasonable
+afterward, but it would be truly problematic if they use it against us.
+      “What would we do if this becomes true?”
+      “We will proceed as planned. We can at least collect a thousand stellars, and it would
+conclude the first phase of our plan.”
+      Eh, hold on a second?
+      “On what ground do you conclude we would be able to collect at least a thousand stellars
+by then?”
+      “Oh, so that’s what you are asking.”
+      Diablo says, as if implying “That’s easy,” and goes on to explain regarding my question.
+      In simpler terms, the reason seems to be that the stellars cannot be directly used in transac-
+tions.
+      So that’s how it is, I finally understood.
+      I quickly come to realize with his explanation.
+      The value of one stellar would be around ten million to a hundred million yen, so exchanging
+it to gold coins would be quite troublesome. That’s why normally no one would think handing
+out these coins would cause much of any impact since they have no use unless in large scale
+transactions. Has Diablo noticed this point?
+      Gold coins are the primary currency stored for national budget expenditures whereas the
+stellars are stored like securities11 and cannot be casually exchanged.
+      There is no bank in this world, so saving them wouldn’t generate any interest. That’s why
+they would probably be more willing to compromise.
+      Diablo is one hell of a character.
+      I was just wondering whether we could at least get a hundred to three hundred stellars
+through negotiation.
+      The reparations for each casualty would be one hundred million yens.
+      On top of that, there are also expenses of destroyed buildings and other things.
+      I thought this is the bottom line that we won’t compromise on. But if we can really get
+one thousand stellars like what Diablo said, we won’t mind going into a negotiation with them
+afterward.
+      One hundred billion yen, that’s an amount far beyond my expectation.
+      But this seems hardly enough for Diablo as he also plans to invoke a civil war.
+      What a horrifying fella.
+11
+     Security in financial sense, a tradable financial asset
+
+
+
+                                                               46
+     “What do you intend to do other than having them compensate our loss?”
+     “Kufufufufu, King Edmalis may have been released, but he has already become my pawn.
+To be more specific, under the influence of my Unique Skill ‘Tempter,’ he would in a sense, act
+entirely according to my will.”
+     King Edmalis is now under the domination of Unique Skill ‘Tempter.’ Diablo thus has
+control over his life and death. Although he wouldn’t be able to force his own will onto the
+king, Diablo can still take his life if he so wishes.
+     As long as he remains loyal to Diablo, there naturally wouldn’t be any issue. But the moment
+he bears the thought of betrayal, Diablo would be instantly notified.
+     In other words, he may be killed at this very moment by Diablo… Having learned of this
+relationship, he would probably refrain from betraying.
+     What a terrifying skill that utilizes fear to manipulate others! Be a good dog and live life
+safe and sound, that’s what the skill is all about.
+     Later, Diablo mentions that he has been observing King Edmalis’ actions.
+     He seems to have satisfied all the conditions prepared by Diablo for him to step down. Right
+now, there isn’t even a need for Marquis Müller and Earl Hermann to step in and hold people
+accountable as originally planned.
+     In other words, these people are all now royalists in aid of King Edmalis… This initially
+seems to be deviating from our original plan, but as soon as one gets to the detail, one would
+realize that the situation now is far more ideal for the plan to proceed.
+     King Edmalis would step down and lead to the collapse of his authority. For this reason,
+the criticism would no doubt be directed to him and he will eventually be held accountable by
+the others.
+     “The Royal Knight Order was massacred by Rimuru-sama, leaving the royal family un-
+guarded. Right now, it is suicide for King Edmalis to stand against the nobles. He is left to his
+own devices. That is what seems to be happening, but in reality—”
+     The Knight Order that protects the royal family is gone. The nobles wouldn’t let go such a
+chance to make the King the “scapegoat” as Diablo describes, that seems to be the case.
+     A conflict is inevitable.
+     The optimates may be planning to sacrifice King Edmalis, but it seems that the King has
+realized this and has been fighting hard to avoid such fate.
+     About this, what could happen next?
+     How would the royalists without any military to back themselves up avoid their defeat
+against the optimates?
+     «Answer. Their solution would be to absorb Youm’s party and stand together against the
+tide. In this way—»
+     Oh yeah, Youm is with us.
+     King Edmalis also knows that I wish to make Youm the new king, that’s why he is assisting
+his crowning…
+     It would be too out of place to suddenly give away his throne to Youm. But if they could
+
+                                               47
+build him into a figure of their savior, they could perform the fall of royal family, and their will
+to be carried forward by Youm.
+     “King Edmalis is planning to get Youm on their side, that means we would be on the same
+boat then.”
+     “I’m afraid it is just as you predict.”
+     Diablo delightfully smiles upon hearing my answer.
+     Did I guess it right?
+     With us as their reinforcement, they would gain the military might greater than that of the
+Royal Knight Order. The nobles may boss around believing the king to be powerless, but they
+wouldn’t stand a chance against the hero Youm.
+     “If that’s the case, all we need to do is to send reinforcement for Youm. Am I correct?”
+     “Indeed. My servant Razen will contact us, I shall trouble you then.”
+     As expected of Diablo, now we even have eyes on the matter since he’s arranged his own
+underling to attend to these concerns. He is the perfect example of someone upholding the belief
+“Perfection is eighty percent planning and twenty percent working” 12 as this man elegantly
+conducts his mission.
+     By the way, he even recruited Razen.
+     I heard that he was a really strong person known as the Guardian of Farmus, but it seems
+he is a nobody in Diablo’s eyes.
+     Since he has already recruited him, I shouldn’t concern myself thinking about it.
+     “Would we be able to win in this way? What if, say, someone desiring the throne decides
+to conspire with some other country and form an alliance?”
+     “Fuze-san and King Gazel are pressuring the surrounding nations and keeping an eye on
+them. Although the likelihood of such an event is low… If it truly happens, I would participate
+in the fight as well, so please be reassured.”
+     Sensing the confidence in his words, I decide to let him do his thing.
+     Speaking of Diablo, he really has hidden himself behind the curtain on the issue. It is
+quite frightening for me to think that he has left the important duty of “Taking over a nation”
+completely to someone else to take care of.
+     The probability of opposition forming an alliance is extremely small. But it aligns with
+the prediction of “Wisdom King Raphael,” so it should be fine for him to hand it over to other
+people.
+     “All right, I’ll leave the rest to you. Report to me if anything important happens.”
+     “Understood! I shall resolve the matter properly, my liege!”
+     I give Diablo, who’s kneeling on the ground, a couple of shoulder pats and tell him to
+continue and complete his mission.
+12
+     The idiom here is 段取り八分 that emphasizes the importance of preparation in doing anything. The english
+     translation was inspired by an Anon Japanese yahooask user so props to the man.
+
+
+
+
+                                                    48
+With Diablo’s explanation, the details of the plan have been confirmed.
+     It happens so that Haruna is serving us some freshly made dessert to enjoy with our tea.
+     “Oh, isn’t this Matcha Pudding?”
+     “Yes, Rimuru-sama. It is not as good as ones made by Shuna-sama, but my skill has im-
+proved nonetheless.”
+     Haruna-san serves the pudding onto our table with a gentle smile.
+     Immediately after, Veldora, who has been reading manga without saying a word to us this
+whole time, suddenly bumped into me looking like it is only natural.
+     “Oh? Is there a serving for me?”
+     “Of course, Veldora-sama.”
+     Mr. Swagger here hums in response and reaches his hand out for the pudding on the plate.
+     “Veldora-sama, here’s my end of the bargain as promised.”
+     Says Diablo, while giving his pudding to Veldora.
+     “GA—HAHAHA! Diablo, you are a man of your words.”
+     Veldora nods in satisfaction as he takes over the pudding from Diablo’s hand.
+     Speaking of that, that’s quite the cheap bribe.
+     “Diablo, are you okay without eating?”
+     I ask, thinking Haruna could prepare an extra one, but was turned down with a bow from
+Diablo.
+     “I am simply paying in exchange of information; you don’t have to concern yourself with
+my humble ordeal.”
+     It would seem he is quite the gentleman having kept every end of his bargain.
+     Wait a second, is there really a need to be so dramatic for one pudding? I think to myself.
+But I suppose I should stay quiet since Diablo has already accepted it.
+     “Is it now? Very well then. By the way, are you back in Tempest because you finished your
+work in Farmus while I was at the Walpurgis Banquet?”
+     I mention this to Diablo casually.
+     When I left at midnight, he was not present. So, my guess is that I didn’t catch him returning.
+     However—
+     “Ah, not quite. After issuing my threat to the King and the ministers, I went to different
+locations within Farmus to examine their financial status. I was trying to investigate whether
+there was any flaw in my plan. That is when Veldora-sama contacted me and summoned me
+back.”
+     He just nonchalantly spilt out Veldora’s secret.
+     With a “Ga-dong” sound, Veldora stood up nervously from his seat.
+
+                                                49
+“I-I’ve suddenly recalled something to attend to.”
+He is clearly trying to play dumb here, but you aren’t getting away now.
+“Ara ara, don’t act so hastily now, Veldora-kun.”
+I clamped my hand tightly on his shoulder in the blink of an eye.
+
+
+
+
+                                         50
+     “W-wait! We have to be civil now!”
+     “Civil my ass! What the hell do you think you are doing meddling with important business
+of others—!”
+     Veldora tries his hardest to escape, but I take his pudding from him and order Haruna-san
+to not give any dessert to him for now.
+     Veldora is crying, but I won’t forgive him.
+     How incredibly reckless.
+     In terms of result, Veldora did help by breaking into the Walpurgis Banquet, but that doesn’t
+excuse what he did. If I forgive him today, he may end up causing some other trouble in the
+future.
+     Thankfully, it was Diablo who responded to him, I can’t even imagine how the other lieu-
+tenants would’ve handled it. They would probably panic with Veldora’s casual order to switch
+duty. That’s exactly why I told Veldora to ask for my permission first before doing something
+like this again.
+     At the same time, there is only one more thing left for Diablo to attend to in person, that
+being the peace conference held in five days. He would be handling most of the details regarding
+the meeting, but he personally plans to continue the role as my butler.
+     This is what Diablo has to say— “I am Rimuru-sama’s butler after all, so I must accompany
+you at all times.”
+     Shion is very sour over the fact, proving this to be Diablo’s victory.
+     And about the peace conference.
+     “Eh, should I attend as well?”
+     “No, I alone will be sufficient.”
+     He rejected my proposal.
+     It would probably be more reassuring to have your boss with you when dealing with such
+important business. But perhaps such worry is unnecessary for someone as capable as Diablo.
+     Or rather, my presence would probably reduce the war-mongering sentiments among the
+nobles.
+     Although I’m somewhat confused about this implication, things will be fine as long as
+Diablo is handling it.
+     Upon thinking so, I can now safely take the great conquest of Farmus Kingdom off my
+mind.
+
+
+
+
+—Sometime later, things have gone just according to Diablo’s prediction.
+  The nobles have gathered for the imperial conference.
+
+                                               52
+     Unlike the last meeting, the king and the ministers all look very serious as the tension over-
+flows from their expression.
+     The nobles also sense the difference in atmosphere. Their expression also gradually be-
+comes more tense without them noticing.
+     The king starts the discussion:
+     “Our troops marched on to destroy the Tempest Federation, yet they were decimated by
+the revived “Storm Dragon” Veldora. There are only three survivors, me, Razen and Reyhiem.
+We’ve been defeated.”
+     It is an impactful line that incited commotion throughout the room.
+     King Edmalis begins to recount the horrific fate of the Farmus Army.
+     The content sounded unbelievable to the crowds, yet what the king said immediately after
+the account diverted their disbelief to criticism of the king.
+     It is hardly unexpected.
+     Because the king announces that he has accepted the terms of the monsters to pay reparations
+for the war.
+     The amount of reparation is ten thousand stellars.
+     “Impossible! A stellar exchanges to a hundred gold coins. Are we really paying one million
+gold coins?!”
+     “How can we pay so much money to monsters. We can’t even trust those things!”
+     “We won’t even be able to gather that sum even if we bankrupt the country!”
+     By the way, stellars are commonly used in bilateral trade between nations. Its existence
+is similar to a form of “Certificates for preservation”13 . A normal nation would probably own
+less than a hundred of them. No matter how strong the Kingdom of Farmus is, they could
+only collect around a thousand coins maximum, in addition to the more commonly used general
+coins (dwarven coins). Just as the nobles complained, it is an incredibly large amount for them
+to collect.
+     If the victors were their trade partners, Farmus could probably replace currency with com-
+modities, but as a new kingdom run by monsters, they didn’t have this option with tempest.
+Their economy would inevitably be affected.
+     Diablo’s intent was to make life difficult for them by demanding ten thousand coins, so it
+is no wonder that the nobles would complain about it.
+     Besides, these nobles have not personally been on the battlefield themselves, so they lack a
+sense of urgency. They are not sharp enough to realize the crisis their nation is facing right now.
+     That’s why many nobles begin to step out in opposition and argue for the continuation of
+the war against their enemy.
+     “That’s right. How dare they demand our compliance; it simply cannot happen. There is
+no way we could know if they would follow through with the deal and not attack our people.”
+     “Then we can only fight them to the end. It’s just an evil dragon awakened from slumber,
+13
+     or just another way of saying securities
+
+
+
+                                                53
+I shall bet on my honor and march on them.”
+     “The enemy here is Veldora. The Western Holy Church won’t just sit on that. That beautiful
+Valkyrie Hinata would also take a move.”
+     “Oh oh, commander of the Holy Knight Order, Hinata? That vixen may be cunning, but
+this is the perfect time to send her out.”
+     “It is common knowledge that the Western Holy Church consider Veldora an enemy.”
+     “Isn’t there any Chosen Hero out there?”
+     “Oh oh, there’s Shining Masayuki from the Kingdom of Ingracia !”
+     “That’s it. The enemies are always beaten without even reacting, he’s known as the strongest
+hero of this land. His title “The Shining” is not for show, we have to invite him to demonstrate
+his skill by defeating Veldora.”
+     The nobles are enjoying their chit chat.
+     But none of them realized their suggestions are all relying on others.
+     “Hmm, that’s the spirit! Let’s go fend off those monsters!”
+     Some even begin to spill such ridiculous claims shamelessly.
+     The royalists feel somewhat shameful seeing how the nobles are acting. They begin to recall
+how themselves were acting when the king first informed them of the matter.
+     Some start to fluster while sighing while others even begin their self-reflection upon imag-
+ining how the king must have felt at the time.
+     King Edmalis is also well aware of what is really on the minds of the nobles gathered here.
+     Right now, all the nobles advocating for war are simply trying to protect their fortune. It is
+neither for the protection of the Kingdom of Farmus nor for the life and properties of the citizens.
+     They are simply putting out the words as if they are justified, while not harboring a real
+determination to fight the enemy.
+     King Edmalis has suspected this is how things will turn out. These are all landed nobles
+who have yet to recognize the reality of the situation.
+     These people have never experienced the taste of fear and don’t have any intention of joining
+the frontline.
+     They just want to remain in safety while others fight their war.
+     They probably won’t take responsibility either when they are defeated.
+     It may have worked in the past.
+     Because the Kingdom of Farmus is a powerful nation that has oppressed surrounding nations
+in the past.
+     But that is not viable anymore. Such an old trick of issuing threats to neighboring nations
+would no longer work.
+     Besides, their opponent is the Catastrophe-Ranked monster who is capable of decimating
+an entire army on its own…
+     Furious, the nobles start to loudly accuse the king for being responsible.
+     And claim that the reparations should be paid by the royal family.
+     And that the monsters’ demands must be rejected.
+
+                                                54
+     And that they should unite the Farmus military to take a last stand.
+     The nobles’ view, in a sense, is correct.
+     But they are forgetting an important factor.
+     That is the military force within the Kingdom of Farmus has been significantly reduced.
+     Or perhaps, they are simply unwilling to accept this reality…
+     With this reminded to them, some begin to quiet down with a tense look while some continue
+their unreasonable protest.
+     King Edmalis’ worries have come true; the nobles can’t reach an agreement and the meeting
+has been plunged into chaos.
+     At this moment, the head of the optimates—the King’s brother Edward speaks up with much
+preparation:
+     “Brother, no, Your Highness! Even with you stepping down, you can’t evade responsibility!
+How could a dignified king just surrender like this?”
+     “…Heed this, Edward. Our enemy is “Storm Dragon” Veldora. My dignity and glory are
+like trash to that tyrant! I don’t want to be tormented by that horror anymore. Or perhaps, you
+wish to fight for this glory! I won’t stop you! But you would be sending the soldiers to die for
+a lost cause.”
+     “No, about that… But sire, if what you said is true, are you planning to run away on your
+own?”
+     “You fool, where could I run to?! That’s why I want to step down and pay the reparations.”
+     Edward believed that this is his best move to hold the king responsible, but he was con-
+fronted by King Edmalis’ rare display of verve and fell silent.
+     Seeing this, King Edmalis lowers his volume and continues:
+     “If I do not step down, we can only choose to be vassalized or continue the war. Is this
+really what we want? Our kingdom would be destroyed—”
+     “Ehh…but, you are asking us to surrender to the monsters without a fight…”
+     Still unconvinced, Edward mumbles so rather unwillingly.
+     At this point, the meeting is quiet once more. Earl Hermann carefully opens up:
+     “Could you hear me out? This morning, I received a letter containing very important infor-
+mation. I would like to deliver the message to you all.”
+     Earl Hermann finishes and begins to announce the open letter sent by the Kingdom of Blu-
+mund.
+     The content of the letter is as follows, Blumund Kingdom officially supports Tempest Fed-
+eration and would be sending military force to hold the Kingdom of Farmus accountable.
+     This is a real open letter in condemnation of the Kingdom of Farmus.
+     “How dare a small nation like that be so arrogant!”
+     “They must have been so arrogant because of our defeat, surely they would have remained
+silent if we had achieved victory.”
+     Yet the anger of these nobles is quickly extinguished as they learn that Dwargon has made
+the same statement—The Foreign Trade Minister adds on Hermann’ report. Now the nobles
+
+                                              55
+started to panic, their arrogant tones are also now toned down.
+     “Blumund alone is enough, but if the Armed Nation of Dwargon moves out, things will get
+difficult. Will the Dwarven King Gazel still remain neutral?”
+     “No, the problem is his influence and authority. Dwargon is also an important trade partner
+of ours, so nothing will end well with us angering King Gazel.”
+     The report of Earl Hermann started the turn of atmosphere in the meeting room for the
+worse. But at that moment, someone dropped a bigger bomb.
+     “M-message for his majesty! Urgent news just arrived from the Freedom Association!”
+     A soldier looking rather pale intruded into the room without the care of the important meet-
+ing ongoing. But the guards don’t seem to be stopping him. The reason being the “Highest
+Urgency Report” on his hand.
+     The nobles would want to complain, but the word “Highest” have forced their words back
+to their mouth. This report is only issued for events with the threat level of Special Rank S,
+whoever impedes its delivery would be given the penalty of treason as by the combined law
+issued by the Kingdom of Farmus and Freedom Association.
+     “Speak.”
+     With King Edmalis’ permission, the soldier raises the report with his hands nervously shak-
+ing and begins to announce its content:
+     “Monster Rimuru has proclaimed himself the ruler of Jura Great Forest. Report states that
+he publicly announced that he has become a Demon Lord!”
+     “What in the world!”
+     “That’s—”
+     “This crisis may be our opportunity. Our country may still have a chance after all!”
+     “That’s right. Those Demon Lords won’t sit this one out. That arrogant Rimuru would soon
+learn the horror of the real Demon Lords.”
+     “If things go well, the Demon Lords may even take out the revived Veldora along the way
+too!”
+     The nobles follow up the report as the herald is halfway through, but what he is about to
+say would vanquish their hopes.
+     “—Demon Lord Clayman was discontented and challenged Rimuru—Demon Lord Rimuru,
+has allegedly eliminated him instead.”
+     With the herald’s words out, the shock experienced by everyone in the meeting room is
+unanimous.
+     “—What!”
+     “How can this be…”
+     “What about “Lion King” Karion? And “Sky Queen” Frey? What the hell are they up to?
+Are they seriously going to give away the rights to Jura Great Forest to a new-comer?”
+     It is only natural for them to be surprised learning their enemy has become a Demon Lord.
+     One of the nobles followed up with a question about the responses of the other Demon Lords
+around Jura Great Forest. In response, the soldier finishes the last sentence.
+
+                                               56
+     “The Karion and Frey you mentioned, they’ve given up their seat as Demon Lord to join
+the reign of Demon Lord Milim. The constituent of Demon Lords is thus altered as well, the
+now eight Demon Lords in total are called the “Octagram”!”
+     This line completely silenced all of the optimates.
+     They’ve probably learnt that their arch nemesis Rimuru is also one of the Octagram.
+     The royalists have already caught wind of the news prior to the meeting, but this doesn’t
+mean they’ve accepted it willingly simply for knowing earlier. They again fell silent given how
+unbelievable it sounds no matter how many times they hear the news.
+     This information was sent out by the Demon Lords’ side alone. Since there is no point in
+doubting the authenticity. Each Demon Lord possesses enormous strength to exempt them from
+the need to deceive the humans with such matters.
+     The meeting room is clouded by silence before King Edmalis decides to open up after hard-
+ened consideration:
+     “As you’ve heard, everyone. Veldora may be a great threat, but this monster called Rimuru
+is equally a dangerous character. He is a monster14 beyond our imagination to have beaten
+Demon Lord Clayman so easily. Is there still a need to continue this meeting? My will to step
+down has been determined. It is simply too foolish to talk all high and mighty of how we are for
+the nation without even considering the capabilities of our enemy. I’ve been blinded by profits;
+it was my mistake. Had we chosen another approach to interact with them, they might have
+been a good neighbor of ours.”
+     King Edmalis implies that his abdication would likely lead to a new relationship between
+the two nations. The nobles realize there isn’t a point opposing the proposal at this point as they
+carefully follow the king’s words.
+     Everyone finally decides to accept reality and follows through with King Edmalis’ proposal,
+the only viable way.
+     “I’m stepping down. In addition, I’m recommending Edward to inherit the throne.”
+     “Brother…”
+     “What did you say!”
+     “Aren’t you passing the throne to Prince Edgar?”
+     The king’s unexpected words have caused a commotion in the room again.
+     Everyone thinks that as soon as King Edmalis steps down, the throne would be naturally
+passed onto the prince. That’s why Edward has been trying hard in highlighting himself.
+     His brother Edmalis would have to step down. Facing such rare opportunity, Edward dreams
+to take the throne for his own.
+     Even if Prince Edgar inherits the crown this time, there is still a chance as long as he affirms
+his authority.
+     The prince is only ten years old. But with his father still alive and well, Edward wouldn’t
+be able to take control behind the scenes yet.
+14
+     Yeah so this is the part where the “monster” means “unhuman, unnatural” and not referring to the species “mon-
+     ster.” Me asian anger for Mamono.
+
+
+                                                         57
+     If that is the case, he plans to spark discontent among the nobles, so they think in the direc-
+tion of— “Lord Edward is the proper candidate for the throne.”
+     But now, the throne is Edward’s to take.
+     “There are still many challenges ahead of us. Edgar is still too young to conquer them
+properly.”
+     King Edmalis says so rather bitterly.
+     The ministers all hold different views, whereas some nods in agreement with this decision.
+     “My liege, I think this is a great idea.”
+     It is Marquis Müller.
+     Hearing this, Edward laughs internally. Now this decision is likely hammered down since he
+has even got the approval from Marquis Müller, who is the head of the centrists. He is confident
+in his ability to overcome the challenges as soon as he has the throne.
+     They would make excuses to delay the reparation payment while roping the neighboring
+countries into battle against the monster kingdom. Just as the nobles from his faction claimed,
+the human alliance with Chosen Hero and Holy Knights as back-up would nonetheless be an
+effective deterrence.
+     Besides, they may even be unnecessary…
+     With the exchange of kingship, it would also mean the exchange of political power.
+     The demands accepted by the previous government is not required to be fulfilled up by the
+new government. This would mean there is no need to pay for the ridiculously high reparation.
+     If anyone is getting punished for it, he would push all the blames to the previous king—his
+own brother Edmalis.
+     Edward’s thoughts are rather shallow.
+     Hehehe, I will definitely make the nation more prosperous as soon as I become the king.
+     Unaware of his orchestrated role in this grander play, Edward is overjoyed by the prospect
+of inheriting the throne.
+     The meeting proceeded smoothly afterwards.
+     Many questions were addressed with detailed solutions.
+     They were able to outline a general plan and come to a unanimous agreement on engaging
+in peace conference with the monsters.
+     —The scene moves on to the location of the peace conference.
+     The great and ancient kingdom of Farmus agrees and signs the treaty of truce with Jura
+Tempest Federation.
+     The two reach a common ground.
+     In effect, The Kingdom of Farmus is recognizing the legitimacy of the Tempest Federa-
+tion as a country, even though they can’t bypass international law nor having not established
+diplomatic tie.
+     But with that being said, the Tempest Federation has yet to join the council formed by the
+Western Nations—the Western State Council. So even if Farmus were to commence another
+invasive attack, there will be no judicial intervention.
+
+                                                58
+    It is only from a humanitarian point of view that Farmus has recognized the status of Tempest
+Federation among different nations.
+    But it has been proven that Tempest Federation possesses military strength.
+    The ruler of that nation is the new Demon Lord Rimuru.
+    An ally of “Storm Dragon” Veldora, and a monster beyond their comprehension to have
+dominated the Jura Great Forest in less than two years’ time.
+    The facts are all listed right in front of them, so no nation would dare to start a war against
+Tempest Federation. Rather than profits, they think the losses alone would be too much. More-
+over, acting too rashly may even lead to the destruction of their nations.
+    From that day onward—Rimuru has become an existence that no one dares to obstruct.
+    He has become a Demon Lord of this world, a Catastrophe-Ranked threat.
+    And phase one concludes without any major issue.
+    Everything is unfolding according to Diablo’s plan—
+
+
+
+
+                                                59
+
+--- END PRESERVED SOURCE BODY ---

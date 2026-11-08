@@ -1,0 +1,76 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 36 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_7/00_frontmatter_illustrations.txt | Original blob SHA: 5dede683a1a960ae7a69be4cb62a098b34171b77 | Original size: 1239 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_07/01_prologue_majins_tributes.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+    That Time I Got Reincarnated as a Slime
+                               Volume 7
+
+Author: Fuse
+
+Illustration: Mitz Vah
+
+Translation: DasRay
+
+Editors: Squishy, Censored, OmnipotentEntity, MoreThanTom, Muggy, The-
+lastCube
+
+Proofreader: greygnome, sushi, Sierra, Dath
+
+JP Proofreader: Mimisan
+
+
+This translation is fan-made and free to access by the public. This is not to be
+used in any commercial means. The translators or editors are not liable to any
+action of the readers. Please respect the fair use of our translation as well as
+Fuse’s work.
+All rights reserved: Fuse and MICRO MAGAZINE
+
+
+LN fan translation Feedback Form: https://forms.gle/UUmkEyvNDShd5RGNA
+We welcome all constructive feedback and suggestions for our work.
+
+
+
+
+4th Edition: March 2023
+
+                                       6
+            Saint and Monster Collide
+
+
+                                Contents
+
+
+Prologue: Majins’ Tributes
+
+Chapter 1: A Deal With the Devil
+
+Chapter 2: Roles to Uphold
+
+Chapter 3: A Saint’s Goal
+
+Interlude: The Secret Meeting
+
+Chapter 4: The Second Confrontation
+
+Chapter 5: Saints and Monsters Collide
+
+Chapter 6: God and Demon Lord
+
+Epilogue: New Bonds
+
+Manga
+
+Afterword
+
+
+
+
+                                      7
+
+--- END PRESERVED SOURCE BODY ---

@@ -4,12 +4,12 @@
 > REQUIRED: Record import, provenance, file count, integrity checks and actual reading progress. Do not claim source research complete until actual source files have been read and mapped.
 > NEXT DESTINATION: 04_SOURCE_MATERIAL/SOURCE_COVERAGE_MATRIX.md
 **File ID:** TWL-020 | **Stage:** 01-02 | **Status:** LIVE READING LOG
-**Purpose:** Track which source files have actually been opened and read, separately from import status.
-**Prerequisites:** Source coverage matrix.
-**Required actions:** Update each file only after actual reading; record page coverage and uncertainties.
-**Completion evidence:** All required chunks have a reading entry and chronology mapping.
-**NEXT DESTINATION:** 04_SOURCE_MATERIAL/VOLUME_06/00_README_AI_CHUNKS.txt
-**NEXT ACTION:** Begin the actual ordered source read and update this log only after reading each file.
+**Purpose / WORK ORDER:** Process the next queued source file using TWL-021, record its real reading/extraction/boundary/reconciliation state, and point to the exact next chunk. Imported files are not read files.
+**Prerequisites:** Source coverage matrix, TWL-021 Chunk Processing and Handoff Protocol, volume chunk guide.
+**Required actions:** Maintain all seven processing states per file; record exact source locator, full-read evidence, extracted beats, cast, boundary carryover, uncertainty and reconciliation. Never mark VERIFIED until the complete loop passes.
+**Completion evidence:** Every source file has a VERIFIED or explicitly BLOCKED record; every verified chunk has extraction and boundary evidence.
+**NEXT DESTINATION:** 13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md
+**NEXT ACTION:** Read the chunk-processing protocol, then open the Volume 1 guide and start the ordered queue.
 
 # Volume 1–5 Source Read Log (73 chunks, all unread)
 | # | Source file | Imported? | Opened/read in full? | Page range verified? | Beat map created? | Uncertainties recorded? | Status |
@@ -145,3 +145,7 @@
 | 125 | source_material/volume_7/08c_chapter6_part3_pages292-306.txt | YES | NO | NO | NO | NO | NOT READ |
 | 126 | source_material/volume_7/09_epilogue_afterword.txt | YES | NO | NO | NO | NO | NOT READ |
 | 127 | source_material/volume_7/README.md | YES | NO | NO | NO | NO | NOT READ |
+
+
+## Processing-state definitions
+QUEUED → OPENED → READ IN FULL → EXTRACTED → BOUNDARIES CHECKED → RECONCILED → VERIFIED. A blocked file remains BLOCKED with an exact reason and recovery action. Only VERIFIED counts as complete. See `13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md` for the required loop and extraction schema.

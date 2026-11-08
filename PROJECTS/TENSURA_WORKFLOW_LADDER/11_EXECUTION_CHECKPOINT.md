@@ -4,12 +4,12 @@
 > REQUIRED: Verify first-block branding, version, file position, next destination, source provenance and register coverage. Report limits honestly.
 > NEXT DESTINATION: 12_FILE_LADDER_REGISTER.md
 **File ID:** TWL-011 | **Stage:** 00-15 | **Status:** LIVE CHECKPOINT
-**Purpose:** Current progress and exact next action.
-**Prerequisites:** Master ladder and file register.
+**Purpose / WORK ORDER:** Resume at the last evidence-backed point, verify live ladder routes, and direct the next action to one exact file and task.
+**Prerequisites:** Master ladder, file register, source read log and TWL-021 chunk-processing protocol.
 **Required actions:** Update at session start/end and every stage transition.
 **Completion evidence:** Session log and consistent status.
-**NEXT DESTINATION:** 12_FILE_LADDER_REGISTER.md
-**NEXT ACTION:** Verify complete file list and then proceed to source coverage.
+**NEXT DESTINATION:** 13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md
+**NEXT ACTION:** Read the mandatory chunk-processing protocol before opening the Volume 1 chunk guide.
 
 # Execution Checkpoint
 - Workflow version: 1.1.0
@@ -36,3 +36,14 @@
 
 ## Session summary
 Project structure, Workflow Ladder, source archive, reusable craft methods, planning/continuity templates, approval records, self-evolution loop and two-draft audit protocol have been created. Volumes 1–5 have now been added as separate archives and integrated into the intake matrix, reading log and register. Source import is complete across Volumes 1–7; actual source reading and chronology mapping are not.
+
+
+## Living handoff state
+- Last VERIFIED source file: NONE
+- Last verified beat: NONE
+- Current chunk state: QUEUED (source reading not started)
+- Open carryover: NONE established
+- Evidence files: SOURCE_READ_LOG.md; SOURCE_COVERAGE_MATRIX.md; SOURCE_UNCERTAINTY_LOG.md
+- Next destination: 13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md
+- Next action: read the protocol, then open 04_SOURCE_MATERIAL/VOLUME_01/00_README_AI_CHUNKS.txt
+- Blockers: NONE currently recorded; actual source reading remains pending

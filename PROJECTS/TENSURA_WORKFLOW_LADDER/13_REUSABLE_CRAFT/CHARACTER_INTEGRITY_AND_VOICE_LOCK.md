@@ -3,11 +3,11 @@
 > FILE POSITION: See file-specific stage and next action below. This header must remain first.
 > STOP: Do not skip prerequisites or claim completion without evidence. Drafts are non-canon until explicit user approval.
 **File ID:** TWL-017 | **Stage:** 04-05, 07, 09, 11 | **Status:** REQUIRED CHARACTER GATE
-**Purpose:** Prevent personality, voice, motives, relationships, competence and reactions from becoming generic during adaptation.
+**Purpose / WORK ORDER:** Build and enforce character-specific voice, motive, relationship, competence and reaction locks before drafting; audit every important scene for drift.
 **Prerequisites:** Read source character evidence, character dossiers and current time-state cards.
 **Required actions:** Create a voice card for central/recurring characters and run pre/post-draft audits.
 **Completion evidence:** Character audit report and updated time-state cards after canon approval.
-**Next destination:** 06_RESEARCH/CHARACTER_DOSSIERS/CHARACTER_DOSSIER_TEMPLATE.md | **Next action:** Build source-grounded dossiers.
+**Next destination:** 06_RESEARCH/CHARACTER_DOSSIERS/CHARACTER_DOSSIER_TEMPLATE.md | **Next action:** Build source-grounded dossiers, then carry each voice lock into the chapter packet.
 
 # Character Integrity and Voice Lock
 ## Non-negotiable rule

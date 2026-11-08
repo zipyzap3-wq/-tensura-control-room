@@ -3,11 +3,13 @@
 > FILE POSITION: See file-specific stage and next action below. This header is mandatory and must remain first.
 > STOP: Do not skip prerequisites or claim completion without evidence. Drafts are non-canon until explicit user approval.
 **File ID:** TWL-FILE-LADDER-TEMPLATE | **Stage:** 00-15 | **Status:** ACTIVE TEMPLATE
-**Purpose:** Reusable first-block template for branding every participating file.
+**Purpose / WORK ORDER (write the actual instruction this file assigns):** Reusable first-block template for branding every participating file.
 **Prerequisites:** Read the master ladder and file branding standard.
 **Required actions:** Use this file to record actual work; never pre-mark future steps complete.
 **Completion evidence:** Complete record with evidence and next route.
-**NEXT DESTINATION:** 12_FILE_LADDER_REGISTER.md
+**CURRENT STATUS + COMPLETION EVIDENCE:
+> 
+> NEXT DESTINATION:** 12_FILE_LADDER_REGISTER.md
 **NEXT ACTION:** Register the newly branded file and verify its exact next route.
 # FILE WORKFLOW LADDER BLOCK TEMPLATE
 
@@ -19,9 +21,13 @@
 > Prerequisites:
 > Required actions:
 > Completion evidence/status:
-> Previous file:
+> Previous file / predecessor:
 > NEXT DESTINATION:
 > NEXT ACTION:
 > Stop conditions / approval boundary:
 
 This block must be the first content in the file. Keep the full ladder visible in every participating file.
+
+
+## Live ladder update rule
+When this file's work unit is completed, update its status and next destination/action before closing the session. Update the execution checkpoint and file ladder register so all three routes agree. Never pre-mark future stages complete.

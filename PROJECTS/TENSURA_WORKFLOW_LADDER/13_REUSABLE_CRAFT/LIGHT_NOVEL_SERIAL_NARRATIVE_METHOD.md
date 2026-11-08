@@ -3,11 +3,11 @@
 > FILE POSITION: See file-specific stage and next action below. This header must remain first.
 > STOP: Do not skip prerequisites or claim completion without evidence. Drafts are non-canon until explicit user approval.
 **File ID:** TWL-018 | **Stage:** 06-11 | **Status:** REQUIRED CRAFT REFERENCE
-**Purpose:** Support readable, engaging light-novel/web-novel chapter execution and serial momentum.
+**Purpose / WORK ORDER:** Apply scene/sequel causality, purposeful POV, readable action, purposeful dialogue, chapter movement and serial handoff during planning, drafting and review.
 **Prerequisites:** Read the LSM master protocol and approved authoring preferences.
 **Required actions:** Apply scene/sequel causality, purposeful viewpoint, readable action, purposeful dialogue and earned chapter movement.
 **Completion evidence:** Chapter review confirms scene purpose, clarity, momentum and handoff.
-**Next destination:** 07_PLANNING/CHAPTER_PLANNING_TEMPLATE.md | **Next action:** Translate craft requirements into chapter plans.
+**Next destination:** 07_PLANNING/CHAPTER_PLANNING_TEMPLATE.md | **Next action:** Translate craft requirements into the chapter plan and scene outline.
 
 # Light-Novel and Serial Narrative Method
 ## Governing distinction

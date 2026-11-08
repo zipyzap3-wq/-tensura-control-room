@@ -1,0 +1,615 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 7 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_01_Chunk_006.txt | SHA 530d53eb88f61815f4e0ea590f96bb52e612ce75 | 38970 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_01/Volume_01_Chunk_007.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 2 (continued) ===
+
+“All right, stop where you are, okay?” the slime said to them. “If you turn back now, I promise I won’t do anything to you. Move away from here at once!”
+
+Impertinent little bastard. Leaving just one entryway open to block a mass attack? Just the kind of shallow thinking one should expect from a garbage monster like this. Our claws and fangs would make mincemeat out of that rickety old thing.
+
+It was time to show this slime their true power. The alpha gave the order. As if they were his own right hand, about a dozen direwolves immediately set off to attack the fence—the picture of coordination, the exact reason the pack essentially functioned as a single monster.
+
+The Thought Communication skill enabled their collective behavior. It was far faster than giving verbal orders, letting the pack work in perfect tandem.
+
+The first wave should have been all it took to destroy the fence. Instead the alpha, already picturing a screaming rabble of goblins struggling to flee after the miserable failure of their stratagem, let out a surprised yelp. The force he had sent toward the fence had been blown straight backward, some of them bleeding profusely as they writhed on the ground.
+
+What could this be? The alpha kept his mind sharp as he surveyed the area. The slime by the entryway had not moved an inch. Did it do something?
+
+One of his men sidled up to him to report.
+
+It was him, boss! The thing with the mystical force that outclassed yours!
+
+Nonsense
+
+, the alpha thought as he looked at the slime. It was a small monster. They would occasionally be born here and there along the plains. Even calling them “monsters” at all seemed absurd—their whole existence was petty.
+
+That thing, holding more force than me…?
+
+The alpha fumed.
+
+Impossible!
+
+Few, indeed, were the monsters more sly and crafty than the alpha. He had years of experience to draw upon, and he could summon it on the fly to calmly, nimbly formulate a new plan. And his years of experience told him that this monster could not possibly be stronger than he was.
+
+Right there, for the first time, the alpha committed a fatal mistake—one that would ultimately decide his fate.
+
+You wretched little worm of a monster—I shall crush you to pieces!
+
+Yeesh.
+
+That
+
+was a shock.
+
+I didn’t think they’d go lunging at the joint straight out. I even gave them that heroic little speech about how I wouldn’t do anything if they turned back, but they totally ignored it.
+
+Instead, the direwolves all started moving at once, attacking the fence from pretty much every angle they had. I was hoping we could talk things over a little first, but they forced me to throw out my entire script. And after all that rehearsing I did while the fence was being built.
+
+The first order I’d given the goblins was to show me where the wounded were. Adding a dozen or so survivors to the sixty fighters we had wouldn’t make the work go much more efficiently, but given their devotion for me, I wanted to do what I could for them.
+
+They were all lying down on the floor of a large, fairly unhygienic-seeming building. Looking over them, I started to think.
+
+Apparently, they’re using some herbs to treat them…but left to themselves, they’ll die before long.
+
+They were all in rougher shape than I’d thought—skin slashed by teeth and claws, and some were sporting nasty-looking gashes with God-knows-what growing out of them.
+
+Better splurge a little bit
+
+, I figured as I took action. Consuming the wounded goblin closest to me, I sprayed some recovery potion on him, then hawked him back up. The elder prepared to say something to me, but he thought better of it as I worked my way down the row—swallowing, splattering, spitting out.
+
+After I’d finished up with a few of them, I took a look behind me.
+
+There they were again, kowtowing to me.
+
+What is
+
+with
+
+these guys?
+
+They must’ve assumed I’d resurrected them with my powers or something. To avoid future misunderstanding, I opted to just spit the potions out directly from there on, healing the goblins’ wounds out in the “real” world.
+
+The healing process took a little time, but it worked. Once I was done with everyone, I gave the remaining goblins a new order—the fence.
+
+A simple wooden affair would have been fine, I thought, but we didn’t have much time or material to work with. We had to go with what we had, so that was what I did—without a moment’s pause, I had them tear down their homes and use the wood and other components to fortify the whole community.
+
+In the meantime, I ordered the goblins who were decent with a bow to go on scout duty. I warned them not to wander too far afield—wolves were bound to have good noses. I could tell by their eyes that they were willing to sacrifice themselves for the cause. They were ready to shout out “By my very life!” at any moment. A lot more bravado than I really needed right now, but I doubted there was any quick fix for it.
+
+As night fell, around a day after I arrived at the village, the final planks were on the fence. The finishing touches were mine—spider silk to strengthen and solidify the paling and a few Steel Thread traps here and there. Anyone touching the fence without knowing the secret would be carved up before they knew what hit them.
+
+I’ll have to remember to go fetch a body or two later.
+
+I made sure the fence had a single entryway on one side. Once it was lined with Sticky Thread, my job here was done. All that remained was to wait for the scouts to come back.
+
+By this time, the wounded goblins were starting to wake up, healed from their wounds. They furtively poked their bodies, staring curiously down at themselves.
+
+Looks like that stuff packs a wallop.
+
+I’d assumed I’d need to apply several doses to the graver-looking of the patients, but it worked a hell of a lot better than I’d thought. I had no complaints about that mistake.
+
+After that, I had the goblins collect the extra material, pile it up in the center of the village grounds, and set it on fire. It reminded me of more than one camping trip, but now was no time for marshmallows. We would need to keep watch the whole night through. I offered to handle it alone but was sharply refused.
+
+“Nothing doing, Sir Rimuru! We could never allow you to shoulder such a heavy burden!”
+
+“She is right! We will handle watch duty for you. Please, Sir Rimuru, take the time to rest a little!”
+
+The rabble around us echoed their approval. I appreciated the thought. They had to be far more exhausted than I was by now, but I agreed to handle the watch in shifts and rest when I wasn’t on duty.
+
+Just before midnight, the scouts returned—some wounded, but all safe. The direwolves had begun to move, they said. Funny how I thought they were these ugly, filth-ridden monsters two days ago. Now I was starting to feel actual affection for them.
+
+If I had my way
+
+, I thought as I applied the final Sticky Thread to the entryway,
+
+I’d like to get them through this without losing a single one.
+
+So that was our prep process, more or less. Hostilities were under way, so there wasn’t much else I could do. At this point, we had to stick to the plan.
+
+I wasn’t convinced the fence was strong enough to hold, but fortunately, the direwolves couldn’t grab hold of it long enough to do much. The traps mostly sprang just as I’d planned. That was a relief.
+
+Anticipating this, I had ordered small slits built into the fence at regular intervals. Those openings were for arrows so the goblins could attack from the inside and interfere with the enemy’s movements. They opened fire, and even with their crappy aim, they made more than a few direwolves scream their last. A few of the enemy force tried to pry the spaces open and break in that way…only to have their heads caved in by the stone-ax-wielding goblins on either side of each hole.
+
+Two hours wasn’t nearly enough practice time, but this village was playing for keeps. They listened to everything I said, understood it, and took action. And we were reaping the rewards. The wolves were strong, yes, capable of taking on a gaggle of goblins at once, and maybe they were even stronger as a pack. But if they were powerful solo, we could just strike ’em all together. If they were powerful as a team, we’d make sure they couldn’t team up. Use your head, and you can make it work. The strongest creature in the world, after all, is a human being with a little intelligence!
+
+Your luck just ran out
+
+, I thought to myself as I stared into the cold
+
+eyes of the direwolf boss.
+
+Some stupid animal beating me? How conceited can you get?
+
+The confused direwolf alpha was shocked at how far awry his plans had gone.
+
+His pack was beginning to fall into disarray. That couldn’t be allowed to continue. The direwolf tribe shone its brightest only when grouped together. Mistrust in the alpha would lead to fatal results. He understood that, too—and that was why he then made his greatest mistake of all. He was enraged at the weakness of his pack, unable to overcome a simple fence, but he was even more afraid that his team’s frustration would soon be directed at him.
+
+I need to display my strength to them
+
+, he thought.
+
+I am the strongest of my pack. I am more than strong enough, even by myself!
+
+That was the moment when everything was decided.
+
+My eyes were still firmly upon the direwolf boss. To the goblins, he had disappeared, I assumed, but to me, he was ambling along at a yawn-worthy pace.
+
+Everything was going to plan. I had considered a few possible outcomes, and now one of them was playing out in front of me. These were animals, after all. Not ex-humans like me.
+
+The Sticky Thread over the entryway immediately captured the boss. For all I knew, the silk wouldn’t be enough to keep a direwolf leader stuck tight. There’d been no way to test it beforehand, but that didn’t matter anymore. The Sticky Thread was there just so we could keep the boss in place for a single moment.
+
+If I didn’t hold him in place and he dodged the ensuing Water Blade attack, that would look
+
+super
+
+lame. Or worse, I could catch my team in friendly fire. In the midst of a battle, that was entirely possible.
+
+That was why I devised the trap. But maybe I over-engineered it a little. These guys hadn’t even gotten the fence down yet. I’d considered lining the entrance with Steel Thread instead but opted against it, worried that it wouldn’t be enough of a final blow.
+
+In situations like these, it was my job to play the ultimate strongman, the ruler of the roost. That was what all this was for—and that’s why, without another moment of self-doubt, I launched a Water Blade at the boss’s head.
+
+It hit home. The head launched upward, and then gravity took it. I had killed the boss—and more importantly, I made it look like a laugh.
+
+“Listen, direwolves! Your leader is dead! I will grant you one final choice. Submit to me or die!”
+
+So how will they deal with that? Will their boss’s death drive them into such a frenzy that they’ll bum-rush me? I’d like to avoid that, if I could.
+
+The remaining direwolves showed no sign of moving.
+
+Uh-oh. This isn’t gonna be one of those “I’d sooner
+
+die
+
+than submit to the likes of
+
+you
+
+!” things, is it? ’Cause if it is, it’s gonna be all-out war.
+
+We were still losing numbers-wise, and we’d definitely take some casualties. We made it this far without any goblin blood—I doubted we’d lose at this point, but I’d prefer it ended without a struggle.
+
+It was oddly quiet, compared to the pitched battle of a moment ago. I could feel the gazes of the direwolves upon me. Amid their stares, I gradually started glooping forward. I couldn’t tell how they’d interpret this, but I wanted to hammer it home that their boss was dead.
+
+In a moment, I was at the alpha’s limp body. Nobody offered any objection. One of their pack, which had taken up position nearby, retreated a step.
+
+Then I swallowed the corpse. As was my right as victor, yeah?
+
+The Sage’s voice rang in my mind.
+
+Analysis complete. Mimic: Direwolf ability obtained. Direwolf intrinsic skills “Keen Smell,” “Thought Communication,” and “Coercion” acquired.
+
+Sounds like a win to me.
+
+But despite seeing their own boss eaten in front of them, the rest of the direwolves still showed no sign of movement. Hmmm… At this point, they were either gonna freak out and run, or freak out and come for me.
+
+…Oh, right! I told them “submit or die,” didn’t I? Ah, shit. That might’ve been throwing the baby out with the bathwater.
+
+Better give ’em an escape route
+
+, I thought as I transformed myself into one of them.
+
+Activating Coercion, I spoke to them in a loud, guttural scream. “Arh-arh-arh! Listen to me!” I declared to them. “Once, and only once, I will let this go unpunished. If you refuse to obey me, I bid you to leave here at once!!”
+
+I figured that’d be enough to make these dogs scamper off. I was wrong.
+
+We pledge our allegiance to you!
+
+Now
+
+they
+
+were kowtowing to me, although it looked more as if they were having a lie-down for a nap. But regardless, they had apparently chosen “submit” anyway. Maybe they’d been having a little Thought Communication conference about it while they were standing there like statues.
+
+It beats having to fight them, anyway.
+
+That, more or less, marked the official end of the battle at this goblin village.
+
+That’s always the thing, though, isn’t it? It’s not the fight that’s the hard part; it’s all the goddamn cleanup afterward.
+
+Who’s the idiot that ordered them to destroy their own homes? What’re we gonna do about those? And where’re all these goblins gonna sleep tonight? And what am I supposed to do with all these dogs? I mean, sure, we killed off a fair number of them, but that’s still, like, eighty more mouths to feed.
+
+I, um… Ah, screw it. That’s all for today, people! I’ll think about it tomorrow, once everyone wakes up.
+
+For the time being, I ordered the goblins to camp out next to the fire, told the dogs to go on standby around the village, and called it a night.
+
+Morning came.
+
+I had spent the previous night thinking, mostly. The conclusion I came up with: Let the goblins take care of the direwolves! Perfect!
+
+We had a total of seventy-two goblins left in fighting shape. No casualties from yesterday. At most, a few scratches. Meanwhile, we had eighty-one surviving direwolves parked outside the town fence—some wounded, but none so badly that a little recovery potion didn’t prop them right back up. They could’ve recovered themselves, I reckoned, with their intrinsic healing skills.
+
+The morning began with me lining up the goblins who were awake. The children and elderly watched from the side. They couldn’t help but stick out, given the lack of any homes to hang out in.
+
+Next to me was the village elder. He wanted to help me out somehow, I guess, but there wasn’t much an old goblin geezer could do for me. My personal aesthetic tastes remained unchanged from my human years.
+
+That would never change, even though I was transmogrified into a slime. There would be no charming village princess I could ride off into the sunset with. I’d probably have to wait a while for that.
+
+In front of this line of goblins, I summoned the direwolves. “Um, okay,” I began, “from now on, I’m gonna have you all form pairs and live with each other, all right?”
+
+Then I gauged the response. I didn’t get much of one. They were waiting for me to continue, I guessed, not making a single sound as they stared at me. Nobody seemed to openly grimace at the idea of pairing up, at least, so I assumed I was on decent enough ground.
+
+“Uh, do you understand what I mean? Like, groups of two, okay? Get to it!”
+
+The moment I finished speaking, the goblins and the direwolves began exchanging glances with whoever was in front of them. Slowly and meekly, they followed my order. Yesterday’s enemy is
+
+today’s friend, and all that. They had to learn that the hard way, but at least everyone was on board.
+
+Then I noticed something.
+
+Hang on, do any of these guys have names at all? How are they supposed to call for each other and stuff? What a pain in the ass.
+
+“Elder,” I said as I watched the pairing process unfold to my side, “it’s too inconvenient for me to refer to you and your people. I’d like to give names to you all. Would that be all right?”
+
+Everyone must have heard me somehow. Right at the word
+
+names
+
+, every single one of them was locked on to me—even the nonfighting goblins, clearly thrown by this turn of events.
+
+“Are…are you sure…?” the elder timidly asked.
+
+What’s the big deal, huh?
+
+“Y-yeah, um… If it’s not a problem, I’d like to give out some names?”
+
+It was as if I’d simultaneously blown the minds of every goblin on the premises. Each one erupted into enthusiastic cheering.
+
+What the hell? It’s as if they all just hit the lottery or something. If getting a name makes you
+
+that
+
+happy, why don’t you just do it yourselves?
+
+It all seemed so simple to me back then.
+
+I started with the elder, asking him what his son’s name was. He had been the sole named goblin in the village, now sadly passed. It was “Rigur,” apparently.
+
+So I added a
+
+d
+
+on the end and named the elder “Rigurd.” No particular reason for it—it just sounded nice. “If your son was here,” I joked, “you could have him state his name and just kinda add
+
+d
+
+to the end of it, y’see?”
+
+No one laughed. They thought I was serious. “I… I cannot express my gratitude enough,” he blubbered, “for being granted permission to take on my son’s name!”
+
+Yeah, great. I’m just shooting from the hip here, you know.
+
+It was starting to make me feel a bit guilty…but ah, what the hell!
+
+The goblin scout leader, meanwhile, I named Rigur. I could’ve added a “II” to the end of it, I suppose, but why make this more complicated than it had to be? “Rigur” was fine. Fine enough that
+
+it made him kneel before me in prayer, as if this was the most emotional moment in his life. Cripes. The apple doesn’t fall far from the tree.
+
+So on I went, down the whole line. I also did the rest of the onlookers while I was at it, having families figure out their names together and coming up with whatever for the orphans and singles in the village.
+
+They aren’t expecting to, like, keep recycling these names for generations to come, are they? If Rigurd has a grandson, maybe he could start calling himself “Rigurdd.” Or if he has a great-grandson, he could be “Rigurddd” and “Rigurd” then gets passed on to the youngest generation. Something like that? Pretty random, maybe, but how else do family traditions ever get started?
+
+“Sir Rimuru,” the newly christened Rigurd plaintively asked, “we are so, so appreciative of this, but…are… Are you sure?”
+
+“About what?”
+
+“I mean, I am fully aware of the extent of your magical powers, Sir Rimuru, but…providing all of these names in one go… Will you be all right?”
+
+What’s he talking about? I’m just handing out names to folks.
+
+“Mm?” I replied. “No, no problem, I don’t think.” Then I went back to it. Rigurd raised his eyebrows for a moment, but I paid him no further mind.
+
+Once I was done with the goblins, it was time to move on to the direwolves. Their new leader would be the son of the old one—just as strong (and strong willed) as his father, and already looking every bit as stately.
+
+Peering into his gold-colored eyes, I thought for a moment. Hmm. How about Ranga? That combines the Japanese characters for
+
+storm
+
+and
+
+fang
+
+into one peppy little word. Perfect! Cheap, maybe, but I rolled with it. I’m the Tempest; he’s got fangs…
+
+Whatever came to mind first was best, I figured. This wasn’t my forte.
+
+The moment I named him Ranga, I began to feel as if practically all the magicules flowing through my body were draining
+
+out of it. The sense of hollowness—of the violent emptying of my innards—was mind blowing.
+
+What… What’s going on?
+
+It was a fatigue like none I’d felt before.
+
+Reporting. Your body’s remaining store of magic has gone below its acceptable threshold. Entering sleep mode. Expected to fully recover in three days.
+
+I was still conscious. I didn’t need to sleep…exactly, and I could hear the Sage’s voice.
+
+Slowly but surely, it began to dawn on me. I’d used too much of my…magic? Like hitting zero MP, sort of? What’d I do to manage that? Had I been wearing myself out this whole time without realizing it? It sure didn’t feel that way.
+
+I tried moving. No response.
+
+“Sleep mode” must be something like hibernation.
+
+I wasn’t asleep, but I couldn’t move at all. All I could do was sit around—which was fine, because the goblins had prepared a seat of honor for me by the fire, so I might as well bask in it. Nothing else to do, or that I could do.
+
+I took the opportunity to reflect on what just happened. Why did I run out of magic after I started naming people? Did doing that consume magicules somehow? Come to think of it, it
+
+really
+
+started to flow out once I named the direwolves’ leader, didn’t it?
+
+It was still just a theory, but it seemed clear to me that naming monsters actually required magic. That conclusion took around two days to reach.
+
+It sure explained why Rigurd was so aghast at what I was doing, among other things.
+
+This… Oh, crap, this isn’t common knowledge among monsters, is it?
+
+“Guyyyys,” I wanted to shout, “you gotta
+
+tell
+
+me these things!!” But there was no point lashing out at others. Not that it’d stop me once I could move again, I imagined.
+
+Initially, the goblins seemed kind of worried about how I fell stone silent, but…somewhere along the line, the question of who had the right to wipe my surface and take care of me almost erupted
+
+into violent conflict.
+
+What are they doing? This is
+
+one
+
+harem I seriously wish I weren’t involved in.
+
+I was starting to feel like a magic lamp people could rub for three wishes.
+
+Finally, the third day passed.
+
+R E C O V E R E D !
+
+Despite depleting my magic earlier, I felt stronger and more magic-rich than I had before my little accident. Magic was the power to exert force upon the world, and the particles around me were the energy driving it. That seemed to be about the extent of it.
+
+Is it one of those “that which does not kill me makes me stronger” types of things?
+
+I pondered experimenting with it further but decided against it. There didn’t seem to be much need, and if I died in the process, I’d look like an idiot. Yet another case of me going overboard too soon.
+
+Anyway.
+
+The worker goblins, realizing I was awake, began congregating around me. They were joined by the direwolves, who were streaming in from their outside base. Which was fine, but…
+
+“Um… Hey, guys? Have you all, like, gotten bigger?”
+
+They had. Goblins averaged a little under five feet tall. Now they were all nearly a full foot taller. The guy next to me looked as if he was pushing six and a half, even.
+
+These…
+
+are
+
+goblins, right? And check out the wolves.
+
+I remembered them being a lot browner. Now their fur was straight-on black, with a lustrous sheen. They had grown, too, with the bigger ones now pushing nine or ten feet in length. I didn’t remember any of them being much longer than six feet before.
+
+The one that really caught my eye was the wolf at their forefront, walking silently forward. I swear he had to be at least fifteen feet. I could feel the mystic force lashing out of every pore. This was nothing like the boss I beat a few days back—between his looks and his sheer force of presence, he had to be some higher-level monster. The star-shaped birthmark on his forehead and the magnificent-looking horn also raised a few red flags.
+
+Kiiiinda scary.
+
+“My master!” this beast of my worst nightmares bellowed in a fluent human tongue. “How it elates me to see you well once more!”
+
+Holy… Is this Ranga? What
+
+happened
+
+over the past three days?
+
+I was left to wonder that for myself as the cheering, howling monsters surrounded me.
+
+All right…
+
+So in the three days I was checked out, all the monsters around me grew. That was freaky. The only thing that could produce something like that was…evolution, I suppose. So does naming a monster evolve them?
+
+And didn’t Veldora go on about something like that for a while…? The difference between “nameless” and “named” monsters?
+
+Oh, right! Something about how earning a name provides a sort of “divine blessing” that helps boost your ability as a monster. Hence the evolution.
+
+Well, hell, no wonder everyone was so happy. And no wonder it tapped all my magic reserves at once.
+
+Monster evolution happens fast. I’d say they didn’t “grow” so much as become completely different creatures. The tepid, void-like eyes of the goblins now shone brightly with the pale light of intelligence. And the females…
+
+Yow! They actually kind of look like women now!
+
+I was so shocked, I could barely even speak.
+
+Huh? …Huh?!
+
+It made me literally do a double take. These guys were like little imps a moment ago, maybe closer to baboons than humans, and now—well, to use their official terminology—the males were “hobgoblins” and the females “goblinas,” although the latter sounded pretty stupid to me. They had both evolved, and according to Rigurd, they had heard the so-called World Language when they did—something that all evolved creatures experienced. A very rare occurrence, and one that excited Rigurd to no end, judging by how he couldn’t shut up about it.
+
+This wasn’t entirely a happy thing for me, though. The female goblins had covered their entire bodies in rags before. Now, thanks to their evolution, the skimpy clothing allowed one to see certain…things. There would be no brushing them off now. The males certainly seemed happy about it. Even though they were wearing nothing but loincloths themselves…
+
+The village was in desperate need of food, clothing, and shelter. Better start with clothing first, I figured.
+
+Another issue I had to deal with was Ranga. He was so delighted that I was back to full consciousness that he wouldn’t stop following me around and bothering me. If you like those fuzzballs, I assume you’d be in paradise, but I was always more of a cat person. It wasn’t the worst thing, but still.
+
+“So, Ranga,” I said, “I’m pretty sure I only named you out of the pack, so…how come all the other direwolves evolved, too?”
+
+It was true. My magic stores conked out the moment I named this thing.
+
+“My master! We, the direwolves, are both one and all. My brethren and I are connected together—my name is the name of our tribe!”
+
+Huh. So the whole gang evolved together.
+
+The “one and all” thing was something the previous boss never quite fully believed in, as Ranga explained. If he had, that battle might’ve gone in a different direction. Ranga, meanwhile, had already gained full control over his pack, it seemed, allowing them all to evolve from direwolf to “tempest wolf.” “More power for everyone” is the way he put it.
+
+“Nice work!” I said, since he seemed to be desperately fishing for praise. He whipped his tail back and forth, a display that was adorable on such an enormous beast. On the other hand, a happy five-yard wolf could produce nearly enough wind to launch me right out of the village.
+
+“Hey, watch what you’re doing with that thing!” I warned him. The downtrodden look he gave in response made me chuckle—and the way he then shrank his body down to around three meters long
+
+made me stop. His race could adjust their sizes, apparently.
+
+How useful
+
+, I thought as I instructed him to stick to the small side from now on.
+
+The biggest issue of all, however, was where the heck we were gonna keep all these guys. The wolf-hobgob pairs seemed to be sharing households with each other by now—not that they had houses, so it was really more the hobs using the wolves as blankets. The lack of clothing was killing me, but housing also needed some attention.
+
+So. What now?
+
+I saw a mountain of food piled up before me. That solved one of our problems, at least.
+
+Once I used up all my magic, the rest of them began the evolutionary process. It took about a day to complete, and they wanted to celebrate with both that and the end of battle with a feast. The elder refused to allow it until I recovered, however, so instead they spent their time gathering the food first.
+
+I had noticed them sparring with one another over who got to shine me up during my departure but not the evolution or food-gathering efforts. This “sleep mode” made me well-nigh defenseless, it looked like. I’d need to be careful with it.
+
+The way they began taking action without waiting for orders, at least, was much appreciated. The evolution process must’ve done wonders for their intelligence. It might’ve impacted their mental strength even more than the physical.
+
+And the food! Back in their regular goblin days, they’d eked out a living off fruits, nuts, edible plants, and whatever monsters and animals they could hunt down. Now, with the aid of their tempest wolves, they could cover a lot more terrain.
+
+The pairs had, much to my surprise, gained the ability to use Thought Communication with each other—goblins who could guide their wolves more surely than the best of jockeys. I couldn’t guess
+
+how much this improved their combat ability, but previously unbeatable foes were now simply a warm-up for them. This entire mountain of food was the results from the past two days alone.
+
+But relying on hunting and gathering would leave them in danger if something happened to their environment. They’d have to start thinking about agriculture pretty soon. A steady food supply is the key to a life of plenty. I’d need to figure out what kind of produce grew well here, as well as what sort of grain crops (assuming there were different types at all on this planet). Always something new to explore, at least.
+
+Today, though, I just wanted to shut off my brain and enjoy the feast. And I did.
+
+Well into the night, we celebrated our evolution, the end of war, and—most important to me—my recovery.
+
+The next day, I gathered the entire population around me. We had a heap of issues to tackle, but I had something even more important to tell them.
+
+We needed to hammer out the rules of this village.
+
+Rules, as everyone knew in Japan, were a must to maintain a communal society. “Because I said so!” was only gonna go so far around here, no matter how many times I used that phrase in my old life.
+
+At the core, I had three rules in mind—three guiding principles I wanted to be sure to have them follow. Everything else, I imagined they could figure out.
+
+“Everyone here? All right! I have some rules to give to you! Three, to be exact. The bare minimum I want all of you to follow.”
+
+And so I laid out my standards:
+
+1. Do not attack human beings.
+
+2. Do not fight among your friends.
+
+3. Do not look down upon other species.
+
+I could’ve gone with more if I kept thinking about it, but I couldn’t expect them to follow too many from the start. Instead, I just stuck to the basics. But how would they take it?
+
+“Could I ask a question?” Rigur shouted. “Why are we not allowed to attack humans?”
+
+Rigurd gave his son the dirtiest look I’ve ever seen from a hobgoblin. Was he afraid I was offended?
+
+I wish we could keep things a little more informal, but…
+
+“Simple: Because I like humans! That is all.”
+
+“Ah! Very good! I understand!”
+
+You…do? Well, geez, that was easy.
+
+But I couldn’t read a single hint of dissent on any of their faces. I was expecting a little more debate on the issue. Talk about a letdown.
+
+“Human beings live in groups,” I continued, giving my full explanation whether they needed it or not. “If you lay hands on them, they may retaliate in force—and if they throw everything they have at you, I doubt you would be able to defend yourselves. That’s why I prohibit interfering with them. It’d help you all if you were friendly with them, besides…”
+
+Really, though, it just came down to me liking humans, seeing as I used to be one.
+
+Ranga nodded deeply at this. It seemed to make sense to him. He must have had his own reasons to think challenging mankind was a bad idea. The hobgobs, meanwhile, appeared even more convinced than before, so I didn’t bother thinking about them much.
+
+“Is there anything else?”
+
+“What do you mean by ‘Do not look down upon other species’?”
+
+“Well, all you guys are freshly evolved, right? I’m just saying, don’t let that get to your head and start lording it over all the weaker species! Just because you’re all a little sturdier doesn’t mean you’re some high-and-mighty race now. Sooner or later, your rivals will get just as strong—or even stronger—and they’ll want to get back at you. That’d suck, wouldn’t it?”
+
+I had the ears of everyone in the audience.
+
+Looks like that worked well enough.
+
+I was sure some of them wouldn’t listen to reason, but it’s best to try to nip these things in the bud, anyway.
+
+“That’s pretty much it. Stick to those rules as much as you can, all right?”
+
+The first rules the village ever had were set in stone. Everyone nodded their approval, and with that, the curtain rose on a new life for them all.
+
+With local laws out of the way, it was time to start divvying up roles. The village watch, the food-prep team, the group collecting materials for the village to make things with, the ones building homes and tools and such…
+
+I decided to assign police duty to the extra Thought Communication–wielding tempest wolves. There were seven left after all the hobgobs were paired off, and with Ranga practically glued to my ass, that made six I could send on patrol.
+
+Beyond that, I figured I’d leave the assignment details to Rigurd.
+
+“Rigurd, I hereby appoint you ‘goblin lord’! It will be your job to keep this village well run and well governed.”
+
+In other words, I tossed everything onto his lap. As hard as possible.
+
+But think about it. I worked for a general contractor back on Earth. I’m no ruler. And if I got too wedded to this village, I’d never get a chance to visit a human town. Even if it meant being a tad pushy, I’d have to hand it off to him someday.
+
+I was expecting some blowback, but—
+
+“Y-yes, Sir Rimuru!! I promise you that I, Rigurd, will devote myself body and soul to this vital post!!”
+
+He was sobbing tears of joy again.
+
+Fair enough. Let the king reign, not govern. Or at least let him bark out orders now and then, and leave him alone otherwise.
+
+You know, I seem to remember Rigurd being this doddering, wrinkled mess of a goblin when we first met. Now he’s a hobgoblin in the prime of his life—fit, muscular, and bursting with energy. He might even be stronger than Rigur. How did that happen? The more I mess with this magic stuff, the crazier it all seems to me.
+
+“Very well,” I crowed. “It is in your hands now, Rigurd! Now, I was watching the construction work. It’s terrible, isn’t it?”
+
+One could barely call the structures houses. These were stronger, smarter goblins now, but I suppose asking them to suddenly develop technical skills was asking a bit much.
+
+“It pains me to admit so, Sir Rimuru. We never had a need for very large buildings in the past…”
+
+“Yeah. You guys are bigger now, after all. As for clothing… You guys are all exposing
+
+way
+
+too much flesh. Could you maybe pass some clothes around?”
+
+“Ah! Yes! There are some people I know that we’ve had dealings with several times. Perhaps they could supply clothing that could fit our needs. In fact, with their skills, they might know how to build homes as well!”
+
+Hmm.
+
+Having worked for a contractor, I had an eye for decent building quality. In terms of what I could actually construct, however, my skill was limited to your basic Sunday afternoon DIY projects. Not enough to serve as a building foreman. If these businessmen could help with that, perhaps it’d be worth paying them a visit.
+
+“I see,” I replied. “It wouldn’t hurt to talk to them. What did you pay them with, though? Money?”
+
+“No, Sir Rimuru. We do have some currency that we confiscated from adventurers, but that remains in storage. Instead, we have obtained the materials we need via either barter or short-term work.”
+
+“Oh. So who are these guys?”
+
+“They are known as dwarves.”
+
+Dwarves! The infamous smithing race! I
+
+gotta
+
+check ’em out!
+
+And while the loincloth crisis had captured most of my attention, something had to be done about their defensive capabilities. Their armor provided no more protection than tatters—and they couldn’t even use it, because it didn’t fit anymore. It was certainly an issue, and tackling it right now would be killing two birds with one stone.
+
+Just one problem. Almost nothing they had seized from passing adventurers was of much use any longer, and whatever money they had stored up couldn’t be very much. What could we trade? Another problem to shelve for later, perhaps…
+
+“I’ll try visiting them. Can you make the arrangements for me, Rigurd?”
+
+“Ah! Ah, of course, Sir Rimuru! I’ll have everything for your journey by tomorrow afternoon!”
+
+He sounded enthusiastic enough about it that I felt safe in his
+
+hands. He’d probably give me whatever money was left, too, not that I should expect much.
+
+Currency, though, huh? It’d be funny if it was paper.
+
+Thinking about it, though, I didn’t have much money to
+
+my
+
+name, either. The fact that currency existed at all in this world was a nice surprise, at least. I’d figured it did, but I’d had no idea how it was circulated at all.
+
+Once I reach a human town, I’ll have to go around and check out prices. But that can wait until after the dwarves. After all the hard work getting this town in shape, a leisurely visit would do wonders for me. I’ll be with my own humankind soon enough—checking out one of the other races could help me learn a little more about this wacky world.
+
+Although technically a subrace of people, the dwarves apparently lived in large towns of their own. They had a king as well, although no goblin was ever permitted even a glance. Just being allowed into their towns was considered an all-time achievement for goblinkind.
+
+I started to wonder about the state of goblin discrimination around here. I was a slime, after all. Would I be treated fairly? There were lots of anxieties to entertain, but I still couldn’t wait to meet some of those little guys. The excitement remained fresh in my mind all throughout the rest of the night.
+--- END PRESERVED SOURCE BODY ---

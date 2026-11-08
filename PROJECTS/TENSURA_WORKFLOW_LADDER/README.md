@@ -26,6 +26,8 @@ This is a clean-slate project area inside the Central Control Room repository. I
 - 02_FILE_BRANDING_STANDARD.md
 - 03_REPOSITORY_ARCHITECTURE.md
 - 04_SOURCE_MATERIAL/README.md
+- 04_SOURCE_MATERIAL/SOURCE_READ_LOG.md
+- 12_EXECUTION/FILE_HEADER_AUDIT.md
 - 05_CANON_AUTHORITY_AND_ISOLATION.md
 - 06_CHAPTER_PRODUCTION_WORKFLOW.md
 - 07_DRAFT_SYNC_AND_AUDIT.md
@@ -38,8 +40,8 @@ This is a clean-slate project area inside the Central Control Room repository. I
 ## Project boundaries
 - No agent infrastructure, paid API dependency, autonomous agent or agent automation.
 - ChatGPT performs research, planning, writing and review manually; GitHub is the organized project workspace.
-- Chapter creative drafting begins in the ChatGPT conversation only after all upstream stages are complete. A separate non-canon GitHub draft file is then created from that same text.
-- GitHub and ChatGPT drafts must match. GitHub is corrected during first review; the polished matching draft is presented in ChatGPT and independently audited again.
+- A GitHub draft file and a ChatGPT draft presentation are both required and must contain the same text. The user gave conflicting instructions about which location receives the first prose draft; PD-008 records this as unresolved. Do not begin chapter prose until the user confirms the order.
+- GitHub is the non-canon working file for the first review/correction; the matching polished draft is presented in ChatGPT and independently audited again.
 - Drafts remain non-canon until explicit user approval. No unapproved canon promotion or protected mutation.
 - This setup creates infrastructure and source organization, not story canon.
 
@@ -47,5 +49,9 @@ This is a clean-slate project area inside the Central Control Room repository. I
 - Central Control Room: zipyzap3-wq/-tensura-control-room
 - Project root: PROJECTS/TENSURA_WORKFLOW_LADDER/
 - Source origin: zipyzap3-wq/Gobta-s-tensura-
-- Source intake target: 35 Volume 6 files and 19 Volume 7 files.
+- Source import completed: 35 Volume 6 files and 19 Volume 7 files (54 total). Full source reading and chronology research remain pending.
+- File Ladder Register: 104 project files.
+- Source Read Log: all 54 files registered; none marked read prematurely.
+- Initial exact-body checks passed for one Volume 6 and one Volume 7 source file.
+- File header audit: initial structural audit recorded in 12_EXECUTION/FILE_HEADER_AUDIT.md.
 - Old story material is not imported as canon.

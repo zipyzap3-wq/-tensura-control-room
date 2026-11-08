@@ -1,0 +1,676 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 47 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_7/06c_chapter4_part3_pages202-218.txt | Original blob SHA: b58ce7de8bc410205e72e179e912a3aa86a0cb3f | Original size: 41711 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_07/07a_chapter5_part1_pages219-237.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+     The party continues their journey by horse.
+     Soon they spotted some hobgoblins riding wolves approaching in front of them.
+     “Have we been revealed!”
+     “Hold on, it doesn’t seem to be the case.”
+     Seeing that her subordinates being alarmed, Hinata calmly corrects them.
+     It turns out she is right.
+     These hobgoblins seem to be chatting very casually. You can even hear laughter coming
+from them. They also seem to have spotted Hinata’s party due to a good field of view. The
+hobgoblins raise one of their hands and approached in a friendly manner.
+     “Howdy, I’ve never seen you before. You don’t look like merchants, are you all adventur-
+ers?”
+     “Yes, that’s right.”
+     “I see, I see, in that case, good luck on your job. By the way, I’m sure you guys will be fine
+on your own, but you should keep some things in mind.”
+     This hobgoblin switches his tone as he continued.
+     He then starts by explaining the rules of the road.
+     Littering is not allowed.
+     Brawling on the road is not permitted.
+     If you need to set up camp, there are watering holes available for use every ten kilometers
+apart.
+     There are also outposts56 every twenty kilometers apart, it will be safer to camp there.
+     If you have the budget, there are inns every forty kilometers apart.
+     If you see anyone in trouble, you need to contact the nearest outpost.
+     And on and on.
+     “By the way, please do not touch the glowing stone tablets set every ten kilometers. The
+punishment for damaging those things is severe.”
+     Those glowing tablets are magic devices used to maintain the barrier. They glitter when
+mixed alongside the stone-paved road and can act as waypoint at night.
+     Are you really monsters? The level of detail in the briefing would truly make that hard to
+believe.
+     “All right, we understand. Thank you for your caring inform.”
+     “Don’t mention it. People like us are patrolling the area precisely to help anyone in trouble.”
+     These Hobgoblins are the members of the security force in charge of patrolling. They
+promptly left after saying those words.
+     Hinata’s party stayed on the spot to see them off with bewildered looks.
+     “Eh, Hinata-sama…”
+     “Wait, settle down. I need to think for a bit, so could you please stop talking for a while?”
+     Hinata silenced the rest and started pondering.
+56
+     The term used here is more like police station, but outpost is fine as well
+
+
+
+                                                           202
+     Afterward, having quietly traveled onwards for an hour, a watering hole came into view. It
+was exactly where the hobgoblin said it would be, down to the kilometer marker.
+     In order to showcase the current location, there are sign posts set every kilometer to display
+the traveling distance starting from zero at the west gate to the capital city Rimuru. It becomes
+very clear how many more kilometers you would need to travel in order to reach a water source,
+outpost, or inn.
+     Hinata knows she can ensure the party’s safety by relying on these signs after seeing how
+the road (Highway) is constructed. She can immediately tell from the signs where to retreat
+when she needs to back up.
+     It just goes to show that Rimuru genuinely cares for the travelers’ and has already done
+much in ensuring their personal safety.
+     By the way, the units of measurement in this world is different from his original world. Yet
+Rimuru has ignored that in order to mark the road in ways easily understood by himself.
+     Kilometer is set by pegging the average travel distance with the estimate of an hour’s walk-
+ing to cover five kilometers. Thus, the reason why the inns are prepared one every forty kilo-
+meters due to the assumption that travelers can move eight hours a day on foot. Since horse
+carriages move at around the same speed as those on foot, they would also be able to rest at inns
+if they slow down a little. The whole trip was thoroughly planned out and thought through with
+very clear intent.
+     It has become quite the obvious fact that Rimuru hopes to coexist with humans. There really
+isn’t anything left to doubt. The journey since departing the Kingdom of Blumund has all been
+very comfortable.
+     The drinking area contains a directly drinkable water source that seems to be free for the
+public’s consumption.
+     Hinata almost fainted after seeing this.
+     Free water—Applying such Japanese ideal in a dangerous place like this, it is a bold and
+crazy enough move that even Hinata wants to make fun of (roast).
+     There are also cooking spots for campers and even squares for the convenience of setting up
+tents. Some locations have sets of long benches made of log wood with roofs to provide cover
+during rainfall.
+     All of these resemble a campsite.
+     The divine realm of Jura Great Forest once inaccessible to humans, is now a harmonious
+venue easily accessible to everyone.
+     There are many different monsters residing in the Jura Great Forest. It is a dangerous place
+where adventurers below Rank B may easily lose their lives if they are not careful. It is not
+supposed to be a place for human residence, but a paradise for the monsters.
+     I can’t believe he has developed this forbidden land so it’s accessible by everyone…Hinata
+didn’t even once consider the idea. It is not a matter of whether she can achieve it or not, but
+something which is beyond her imagination.
+     Not only for her, but it must have been the same for her fellow countryman Yuuki Kagu-
+
+                                               203
+razaka.
+     When they are striving hard to protect mankind by distancing them from the threat of mon-
+sters, yet someone just suddenly comes along and—What kind of joke is this. It’s normal for
+Hinata to think this way.
+     —But, at least now I understand what he meant by his words.
+     Hinata’s thoughts wander to the past.
+     It was at a cafe in Ingracia that Hinata likes a lot. There she was doing the regular intelli-
+gence exchange with Yuuki. It was then that she heard the rumors about Rimuru.
+     Rimuru seemed to be serious about developing the monster kingdom. Not only that, he
+wished to find the best way to create friendly relations with the Western Nations. An example
+of his method is the recently introduced Brandy Cake. This dessert is only made possible thanks
+to the alcohol that Rimuru made easily commissionable.
+     “Anyhow, that person is really different. Should I call him having his cards hidden or not.
+He seems to have a much grander vision in the long term than us. That’s why including acts
+such as making delicacy like this, he has been doing all of them very seriously.”
+     Yuuki said to her with a wry smile as Hinata was enjoying the delightful taste of the cake
+slowly eating it bit by bit.
+     He then advised her that making an enemy of Rimuru would not be a wise move. It was
+implying that the Freedom Association would be on Rimuru’s side. Back then Hinata didn’t
+take his words seriously nor did she imply it, but up to this point—
+     —Indeed, if he doesn’t have energy to spare in spades, there is no way he could have had
+the energy to plan such things.
+     Hinata thought to herself as she observes the merchants using the water source with thanks-
+giving.
+     Two hours passed after they left the drinking area.
+     They encountered their first inn. It is said that there are seven inns in total on this road, this
+one being the seventh.
+     Hinata and the rest decided to rest there for the night.
+     The party gathered at the restaurant.
+     “All right, everyone. Let’s hear what you all think.”
+     Hinata begins her inquiry.
+     Arnaud spoke up first while also representing everyone.
+     “I want to give my genuine opinion here, is it okay?”
+     “That’s the type of view I’m looking for. Speak then.”
+     Hurried by Arnaud answers:
+     “Just from seeing these roads alone, I think that Demon Lord Rimuru is a wise ruler. These
+roads guarded on patrols makes this path feel safe so it’s no wonder why so many have gathered
+here. The trade routes through the Kingdom of Farmus will no doubt start to fall out of favor
+(when competing with these).”
+     Next is Bacchus, he answers solemnly:
+
+                                                 204
+     “Hmm, the monsters are not the only things to be afraid of. There are also bandits who
+would attack caravans, incidents when people get injured or sick or when the carriage breaks
+down to immobilized travelers etcetera. Such issues would never cease to occur. But with more
+people flowing in, there would probably be less concern for such things.”
+     “The fact alone that you are in an environment where you can expect help during these
+hardships is already very reassuring.”
+     “It’s the same logic when it comes to monetary expenses, there is no longer a need to hire
+a large mercenary band. That’s all…”
+     As Bacchus finishes, Ritase and Fritz both nods in agreement.
+     Most of these have been complements of Rimuru.
+     “He spent more time managing the country than most trashy vassal lords. Rather than
+Demon Lord, it’d be more suitable to call him a wise king.”
+     “Indeed, there’s a lot that can be learnt from him. Our nation of Lubelius should also make
+use of these designs.”
+     “Thank goodness that we have yet to label him as the “Nemesis of God.””
+     “Next, we can only hope that Demon Lord Rimuru is willing to accept Hinata-sama’s apol-
+ogy…”
+     Hinata nods to them, showing her agreement.
+     “I can only try to apologize with sincerity. But if my apology alone is not sufficient and
+that Demon Lord Rimuru still wishes to duel me, I will have no choice but to accept—”
+     However, Hinata is still rather confused.
+     Why would Rimuru wish to duel her at this point in time? Even if he cannot forgive her for
+what she has done, there is no need to start a fight solely on that basis.
+     Perhaps he hoped to demonstrate to her his power after awakening as a Demon Lord—Or
+something along those lines. But Hinata doesn’t think Rimuru is someone with such vulgar
+thoughts.
+     With skepticism in their hearts, Hinata’s party continues to journey on without much chal-
+lenge.
+     They found residence in another inn on the seventh night of their journey again. The level
+of luxury there has come to rival the top-grade inns in the Kingdom of Ingracia.
+     There is even a bathhouse to wash away the tiredness of traveling.
+     Yet the inn’s staff always contains a number of Blumund citizens. The monster staff seem to
+be learning techniques related to monetary transactions and they are often seen being instructed
+around the human staff. It is a reflection of the ideal coexisting relationship between humans
+and monsters.
+     It is a sight that it alone could cause Hinata to re-evaluate the doctrine of Luminism.
+     They will be arriving at the capital city Rimuru tomorrow. Surely, she will be reuniting with
+Rimuru there once more.
+     I hope we can avoid conflict and have a good talk together.
+     Although it is but a one-sided thought, it is her sincere wish.
+
+                                              205
+        However—
+        Being tangled in a web of malice, her wish will not come true.
+
+
+
+
+Hinata will be arriving tonight as planned.
+     In a span around two weeks, she has only used normal means of traveling to come here
+without using magic to shorten the trip.
+     Souei’s subordinates quickly returned with this information.
+     “Impressive, it is most important to get hold of information early. I’ll be relying you folks
+in the future as well.”
+     “No, such feeble matter is not worthy of your praise. We will be striving to improve our
+skills.”
+     Souei calmly accepts my praise.
+     He is truly worthy of the name “Shadow” 57 .
+     Handsome people (Bishounen) simply can’t be faulted in doing anything for being so darn
+cool.
+     But speaking of that, Souei also made the horrifying proposal: “How about we eliminate
+Hinata now by poisoning?”
+     What sort of stupid idea is that! I said and immediately rejected it.
+     Hinata doesn’t seem to be coming for a fight, meaning there is still room for negotiation.
+     However, I cannot get careless.
+     She’s been checking in at every inn she ran into and didn’t rush through any part of her
+journey. Everything she done thus far seems too conscientious.
+     “Could it be that she is trying to divert our attention?”
+     Benimaru asks.
+     Has she made herself the open bait while having the other troops launch an assault?
+     That is indeed a possibility.
+     She is Hinata after all. From the cruel appearance she gives off, she seems to be the type
+who would do anything in pursuit of victory.
+     “What are the movements of the rest of her troops?”
+     “Yes sir, they are still on the old path in order to hide their movements. Had we not noticed
+them from the start, we may have never discovered them.”
+     This other troop seems to be planning some kind of military operation.
+     Thinking along that line, Hinata is likely acting as a bait indeed.
+57
+     Referring to the kanji of Souei’s name, 蒼影. The second kanji means “Shadow.”
+
+
+                                                      206
+     Regardless, I can’t get careless. Shion has already deployed her troops, if they are to strike,
+the situation will probably go downhill very quickly.
+     “There’s nothing strange about using Hinata as bait considering her strength. Even Beni-
+maru at this stage will have a hard time confronting her, so only I can be her opponent. I guess
+she probably thinks that we still don’t stand a chance, even when engaging her together.”
+     “Huh, how arrogant. To bear such ignorant thoughts after having already encountered
+Rimuru-sama once, the only thing you can only call them is foolish.”
+     Says Souei with a slight smile and emitting a dangerous aura.
+     It’s ok, the only one who knows how strong Hinata is, would be me prior to my evolution.
+     Looking back, I can clearly see that Hinata wasn’t going all out at the time.
+     “If a fight really breaks out, it will be really bad if their other group spreads out. The
+situation will deteriorate even faster if they manage to erect the “Holy Purification Barrier.””
+     “Indeed. Then we will contact Shion to have her eliminate the enemies as soon as possible—
+”
+     Souei agrees with Benimaru’s views, but he pauses midway through his sentence. Then—
+     “Rimuru-sama, they seem to be on the move and spreading out around the town. Shion has
+gone to intercept them and have engaged in battle.”
+     —That’s the worst possible news. I had hoped I would not have to hear that reported to me.
+     Has it come to this? Hinata has chosen to fight after all.
+     It can’t be helped then. If you wish to antagonize us, we will have to proceed as planned.
+
+
+
+
+Hinata’s party left the inn to prepare for their continued journey.
+     Everyone shares a tense expression as they are about to reach the capital Rimuru at night.
+     “We are finally arriving. I don’t know whether we can see him today, but everyone calms
+their minds. Please refrain from engaging in battle even if we end up fighting.”
+     “But…”
+     “This is an order. There is no need to continue being hostile towards Demon Lord Rimuru.
+Wait until we finish our duel, and then we will engage in a friendly negotiation—”
+     As Hinata tries to remind everyone of the plan, she was quickly cut short.
+     Someone is trying to reach her urgently through magic.
+     “—finally reached you—nata-sama, can…hear me? “Three Martial Sages”…engaged in
+battle—”
+     The transmission is intermittent and barely managed to even link up.
+     The person making the call is one of Hinata’s trusted subordinates, Nicolaus Speltus.
+     His tone sounds urgent, yet the constant interruption and pauses make his message hard to
+
+                                               207
+interpret, almost as if the transmission is being disturbed.
+     “What is it? What’s going on?”
+     The transmission is cut before Hinata is able to send her messages through.
+     “Beware of the Seven Luminaries —”
+     With this one final warning from his side, signals from Nicolaus soon ends.
+     Hinata is shocked at the realization that there must have been an issue.
+     Has he tried several times in informing me of something and was only successful in the last
+transmission? If that’s the case, the actual incident must have occurred earlier. The “Three
+Martial Sages” has engaged in battle… Could it be that they were partaking in the civil war in
+Farmus—!
+     Hinata’s face turned pale as she quickly attempted to contacts Pope Louis through “Magic
+Communication.”
+     “What is it? Your mana is disoriented, are you in a rush?”
+     Louis responds with his normal casual tone.
+     Aside from feeling reassured about that, Hinata answers:
+     “Yes, I’m running out of time. So, I’ll be straight with you. Did you send out the “Three
+Martial Sages” ?”
+     “What? I’ve not given such an order. Do you mean that they have been on the move?”
+     “Yes. Since you have no interest in human society, with Luminas-sama’s orders and my
+reminder telling them to stand down, they shouldn’t be moving about on their own. There must
+have been some change in the situation.”
+     Louis and Luminas are only interested in managing the Night Garden, leaving Hinata to
+hold all the actual authority (in human world).
+     Although the “Three Martial Sages” oppose her at times, they do not dare to defy Hinata’s
+orders. So, they shouldn’t be acting on their own once they received the instruction not to.
+It would then mean, something has gone wrong. Perhaps someone has bewitched the “Three
+Martial Sages.”
+     Is it the Seven Luminaries —
+     Her ominous prediction has turned into reality, Hinata makes up her mind on the spot to
+return to Lubelius.
+     Using teleportation magic is much more efficient. Although she planned to preserve her
+stamina before the battle with Rimuru, but now’s not time for such thing.
+     Hinata concludes, yet it’s already too late.
+     “That’s probably the case. Then I’ll be—”
+     With a sound of crack, Hinata felt a blunt pain crossing her mind as she discovers that her
+communication with Louis has been forcefully severed.
+     A form of force field has enveloped the surrounding to prevent usage of magic.
+     At the same time, an enormous amount of fighting aura bursts out to shake up even the air.
+     “How the—? This aura, is it Renard?”
+     Arnaud, who has been observing Hinata this whole time suddenly exclaims in astonishment.
+
+                                              208
+     Hinata couldn’t care less about it. As the commander of the Holy Knight Order, she imme-
+diately restored her spirit.
+     “Let’s move!”
+     Something is happening.
+     And it’s definitely not something good, things have taken a turn for the worst just as she
+was going to get in contact with Rimuru.
+     Feeling anxious, Hinata rides forth to the battlefield at full speed.
+
+
+
+
+After noticing that Hinata has established contact with someone, we decided to intercept her
+before anything else. And soon Hinata began to ride at full speed to the battlefield. It seems that
+I am successful in crashing her conspiracy before they were able to succeed.
+    But now we can confirm.
+    “It seems that this has indeed been Hinata’s scheme all along.”
+    “That’s about right. I can only praise her as an expert, seeing how quickly she changed her
+plan after the original scheme was exposed.”
+    Benimaru nods in agreement to my view.
+    “Then we shall proceed as planned. I shall duel Hinata until one of us is the last man
+standing.”
+    “Understood! We will not allow anyone to interfere.”
+    “All right, please hold back the enemies. Move out!”
+    “ “ “Yes sir!” ” ”
+    I nod to reassure Benimaru and transform into my human form.
+    The team consists of myself, Benimaru, Souei, Alvis, and Suphia.
+    “I wish your triumph in your conquest!”
+    Shuna says to send us off, and so we move out as planned. I steel myself before activating
+“Spatial Domination” to reach Shion’s whereabouts before Hinata. Although Shion has guaran-
+teed victory, it must have been quite difficult to fend off the Holy Knight Order with Yomigaeri
+alone.
+    —Or so I thought.
+    I can’t understand the sight before my eyes.
+    My brain is not processing fast enough.
+    How in the world did this happen!
+    I’m speechless at the sight before me.
+    So, what is in fact happening here—
+    Shion is fucking dead again.
+
+                                               209
+     Shion has taken charge and is commanding the Yomigaeri.
+     This is good, since it’s going according to our battle plan. Yet it is the state of their battle
+that is causing my shock.
+     It has gone so well that it has far exceeded my expectation.
+     “H-how is it possible! Why are our attacks useless against them!”
+     “But they are not undead, what is going on?”
+     The Holy Knights exclaim.
+     In place of a verbal response, the members of Yomigaeri scratch the Holy Knight with the
+small knives in their hands.
+     They used their body as bait to sneak in their attack on the stronger Holy Knights. It is an
+impressive move, possible only by using their undead characters.
+     But that is probably as far as they can go. What follows should be the overwhelming one-
+sided victory of the Holy Knights who will finally get serious… Yet I couldnt have been more
+wrong.
+     The Holy Knights were in shambles in less than three minutes.
+     As I have predicted, the Holy Knights who are no longer careless began to chase down
+members of Yomigaeri one-sidedly. Yet situation is quickly changed. Due to the difference of
+their strength, I thought that they couldn’t possibly win through being unkillable. That’s why I
+designed the plan for them to hold back the enemies.
+     But as it turns out, the Yomigaeri completely recover from even severe injuries while the
+Holy Knights begin to fall to the ground one by one.
+     The fallen Holy Knights are quickly restrained of their actions by Kurenai.
+     “Ehehe, Holy Knight-san. My knife here is applied with strong hypnotic, a lot of them!
+Even a single scratch would guarantee our victory!”
+     The eyes of the petit child-like soldier meet with those of the Holy Knight as she explains
+to him. Shouldn’t you refrain from explaining this type of things to the enemies? But it can’t be
+helped since she’s still a child.
+     «Announcement. Individual “Gobwe” is older than individual “Gobta.” »
+     Are you kidding me!
+     I see, the biology of monsters is truly difficult to understand. Gobta didn’t have much
+change in his appearance despite his evolution. Perhaps he will turn out to have some drastic
+changes in the future.
+     Regardless, let’s put that aside first.
+     Right now, the hilarious sight of a little girl lecturing a Holy Knight is unfolding before my
+eyes. It would seem the Yomigaeri are in fact, not struggling in battle, but mastering it.
+     Unless the knights were cautious enough to have prepared antidotes or possess “Poison
+Resistance,” they will always be defeated by such assault. Even though it may only be used
+once, it’s still a very effective method.
+     However, we can’t just stop here.
+     The other knights arriving wouldn’t dare to be careless and charge in with their full force.
+
+                                                210
+Such trickery will no longer be easily pulled when confronted with such an overwhelming dif-
+ference in strength. It has already become useless after being witnessed by others.
+     Our soldiers only managed to land a scratch when they struck while their opponents were
+tricked into believing that they’ve struck a fatal blow. However, I would give them the highest
+commemoration for having retired half of the enemies with just a scratch. They truly did a great
+job.
+     Next according to the plan, we are supposed to engage in a protracted battle— Yet my idea
+is completely turned around again.
+     Shion suddenly points with her chin.
+     In front of her are Gobjay and Gobua; The two look confused and turn their eyes to Shion.
+     “Are we supposed to join as well?”
+     “Eh! Are you not going? We few alone would not be enough to beat all those strong looking
+guys…”
+     “No, that’s why, we don’t have to win the fight, all we need to do is to win some time—”
+     “Eh eh? But I remember the order she received was to win no matter what?”
+     Gobua knew the content of the meeting.
+     Even though she was only guarding the gate, the voices of our meeting must have crossed
+through. Gobjay seems to be hearing about this for the first time as he looks at Gobua with his
+eyes wide open in shock—Are the two at cross purposes?
+     “Eh, aren’t we told to be on hold after the meeting…?”
+     Perhaps fearing that Gobjay would go on and on about the meeting, Gobua asks Shion.
+     That’s true. I thought it was strange too, but thankfully I didn’t seem to be wrong.
+     Yet Shion suddenly raised her volume to scold:
+     “Are you two idiots? Can’t you see that victory is close at hand? You can only exceed
+your limits by challenging and triumphing against the strong. You should be grateful for this
+opportunity I’ve granted you.”
+     That’s a weird expression from Shion…
+     The victory is close at hand despite the fact that the enemies are stronger than us. That
+sounds quite contradictory.
+     Yet Gobua is moved by her words. Her eyes switch to a different light with a maniacal smile
+across her face.
+     “You are most correct; this is indeed the case. Such great opportunity shall be taken by us
+Kurenai !”
+     And so, she quickly accepts Shion’s proposal.
+     Gobjay on the other hand…
+     “A-about that… Aren’t we defying orders that way?”
+     He asks Shion while shivering.
+     “Why are you still here? Or perhaps, do you wish to choose your preferred path between
+doing as I said and becoming my new test subject (to eat my food)?”
+     How awful, poor Gobjay is forced to comply under Shion’s intimidation.
+
+                                             211
+     But it is not up to him at this point, and so Gobjay rushes panicky into battle.
+     …No, you did nothing wrong.
+     But, how strange. For some reason, it almost seems as though the fault is on Gobjay.
+     Gobua is very aggressive in battle and easily instigated as expected from being Benimaru’s
+subordinate. While Gobjay may look dumb, he always does his job very seriously.
+     He should just keep the things he wishes to ask to himself. Spilling them out will always
+land him in hot water. But he hasn’t discovered that he has brought this upon himself. I suppose
+that’s a form of joy in itself, so I don’t intend to interrupt.
+     “…Is this okay, Benimaru?”
+     “It’s not really okay, but I’ll consider it training in dealing with unexpected things. Espe-
+cially since Shion has a keen instinct. She would only give such an order when she knows there
+is a chance to win.”
+     I couldn’t help but ask while Benimaru answers me with a shrug.
+     Indeed. It is out of fear of losing that I ordered them to buy time as much as possible. But
+there wouldn’t be any need to hold back if they can paralyze the enemies without getting hurt at
+all.
+     Since I’m now on the same page with them, I focus myself on the battlefield.
+     Next comes an authentic exchange of offense and defense.
+     The Yomigaeri members pair up to confront the remaining fifty Holy Knights directly with
+a member of Kurenai supporting each pair. If they are to fight with all they have, the Kurenai
+would be defeated by the Holy Knights. But, the difference in their strength is not so desperately
+different.
+     While the Holy Knights may have achieved Rank A, they are only at baseline for the Rank.
+In contrast, the strengths of Kurenai are approaching Rank A. They can probably make it with
+some assistance.
+     Moreover, the members of Kurenai are taking turns. The members who are taking care of
+the injured are exchanging shifts with the tired members. And since we have healing potions,
+this cycle of switching would continue infinitely.
+     “By the way, their combat abilities are really impressive. I didn’t expect such individuals
+to exist in this country.”
+     These words came from Alvis.
+     She is commenting not on the Kurenai, but the Yomigaeri.
+     They all possess powerful undead bodies on top of having good combat endurance.
+     “Indeed, they are hard to deal with. It seems decapitation alone won’t be able to stop them,
+that would make them hard to take on even for me.”
+     Suphia shares the same sentiment.
+     They both seem to think the Yomigaeri are difficult to deal with.
+     Even I was surprised.
+     The Holy Knights are not taking turns in fighting. Our victory is not a dream if things
+continue like this.
+
+                                              212
+     “It’s just that it isn’t according to the original plan…”
+     I tacitly agree.
+     And looking at Shion—
+     She is observing the battlefield with a satisfied look while licking her lips with her tongue.
+     The watery tip of her pink tongue exposed momentarily gives off a seductive luster.
+     Shion turns around to look at our location. She seems to have spotted us as she gives off a
+smiley face. She was just looking at Gobjay with a devilish expression, which is farfetched for
+anyone to imagine she could put up a smile on her face right now.
+     “Rimuru-sama, everything is going according to plan!”
+     “No way! We never planned these stunts in our meeting!”
+     “Thanks for your praise!”
+     “I wasn’t praising you…”
+     “Then, it’s about time for me to go!”
+     Shion finishes her sentence before thrusting her feet against the ground to launch herself
+out like a bullet.
+     “Eh, where are you going…?”
+     She ran off without answering my question…
+
+
+
+
+She is sprinting at full speed.
+     Hinata is sprinting at full speed across the narrow lanes of the forest, with her perception
+enhanced by the spiritual force hosted within her.
+     At an empty space with few vegetation, she spots five Greater majins. They seem to know
+that Hinata is approaching, yet they are fixing their eyes afar. Hinata also turns herself to the
+direction of their eyes. The things Hinata sees are the sights of her proud knights being beaten
+to a pulp.
+     She really wants to smack her mouth out loud, but Hinata endures. She is not angry at the
+fact that they are being defeated, but that her opponents have chosen to completely antagonize
+her men.
+     Since the battle has already started, there is no more chance for negotiation. It would be
+irrelevant to Rimuru now even if Hinata tells him that they have reason for doing so.
+     Rimuru isn’t averting his eyes from the battlefield. And Hinata naturally remains stationary
+at her location as well. She is analyzing the strength of her opponents while planning ahead.
+     There are in total four powerful Greater majins. In addition, a woman in suit that is giving
+off an abnormal aura.
+     The two women at the front seem to be Beastmen. The relationship between Demon Lord
+
+                                               213
+Rimuru and ex-Demon Lord Karion was mentioned in the report before. Deducing from this,
+the two should be from the famous Order of Beast King’s Warrior, the Three Beastketeer. They
+give off a style of the strong and power that average majins could only dream to reach.
+     However, the two persons standing next to them are not by any chance inferior than the
+Beastketeers. Moreover—
+     One of them is a handsome red-haired man with a pair of dark horns. The other majin stood
+in contrast to him is a blue-haired youth with a single white horn grown on his forehead.
+     “The Three Beastketeers! And Orges—No, are those Kijins?”
+     Arnaud caught up to Hinata and lowered his volume to ask her.
+     Hinata continues quietly observing the majins without giving a response.
+     “—No. They are Youki (Fair Oni).”
+     “Are you saying they are Youki?”
+     “I’ve heard of them. Those are monsters possessing mighty strength to rival that of the
+Earth Deity. Some heretics seem to even worship Youki as god…”
+     “In fact, they seem to be an evolved version of Kijin. It’s rumored that only few were able
+to reach that realm. But they are right here before our eyes. We should assess their threat as
+Special Rank A.”
+     This is the domain of Demon Lord.
+     Hinata and her men are unwelcome guests Arnaud is and the rest are well aware of that as
+well, and they are all experiencing nerve-wrecking stress.
+     Back to Hinata.
+     Threat level of Special Rank A—We may in fact be underestimating their strength by that
+ranking.
+     Especially that red-haired majin, he seems to possess strength to surpass “Demon Lord
+Seed.” It’s best to send out three captains including Arnaud in order to stand against him. Yet
+right now there are four majins in total with only four captains on her side. It couldn’t have been
+a coincidence, and so she interprets this as Rimuru having intentionally paired up the fighters.
+     And last but not the least—Demon Lord Rimuru.
+     The overwhelming presence of him is nothing like the feeling he gave to her in the past.
+     “I shall be your opponent. Come and duel me.”
+     Hinata recalls the line.
+     Yes, that is the case. You hope to duel me alone and not be intervened, was that what you
+meant?
+     Then she will take this as the worst possible scenario and hope that her own life can be
+sacrificed for Demon Lord Rimuru to spare her subordinates.
+     No, that’s not right.
+     She is going to triumph, and then ask Rimuru to accept her apology.
+     Hinata makes up her mind.
+     At this moment, the female majin in a suit begins to move out. While giving off a powerful
+oppressive aura, she targets Renard far away by launching herself out with a jump. As she
+
+                                               214
+launches out, Rimuru’s eyes slowly fall on Hinata.
+    It is at this moment, Rimuru and Hinata’s eyes meet—
+
+
+
+
+Seriously.
+      I really want to say this, since everything is within my prediction.
+      There is no issue at all.
+      So, I turn my head to the back.
+      Hinata is standing right there.
+      She has a calm look with her breathing smooth as well. Both of us are observing the battle-
+field.
+      Our eyes soon meet.
+      We stood there staring at each other with silence for a while.
+      Then I speak up first:
+      “You’ve really done it now, Hinata. It goes without saying that this is my territory. It is
+obvious that you all bear ill intent towards us. I’m not so generous as to allow you to strike
+first.”
+      It doesn’t really matter who struck first. Once they open the “Holy Purification Barrier,”
+we will definitely be defeated, that’s why Shion had to take the pre-emptively attack. It’d be
+barking up the wrong tree to be condemned for striking first, so I warned her beforehand.
+      “Yes, that’s to be expected of course. I don’t know why Renard defied my order either.”
+      Hinata answers without hesitation or shame.
+      How obvious.
+      “How dare you. You’ve obviously planned to pin Rayhiem’s death on us, haven’t you?
+Now the whole deal has fired up the new Farmus King’s faction.”
+      “Killing Reyhiem…?”
+      “Yes. The same Archbishop Reyhiem that you summoned. Just to be clear, the only thing
+I did to Reyhiem was to give you a message through him.”
+      A confused expression flashed through Hinata’s face, but from then on her became expres-
+sionless almost instantly again as if she could put on a perfect poker-face at will. She gazes at
+me coldly, seemingly trying to assess my strength.
+      Her face is indeed beautiful, though it comes embedded with a ruthless outlook.
+      “Is that so? I see.”
+      Hinata mutters to herself.
+      “You did receive my message, right?”
+      “Yes. I did.”
+
+                                              215
+     “And is this your answer then?”
+     “Yeah, I suppose…it’s not quite exactly how I intended, but you wouldn’t believe me even
+if I were to tell you, would you?”
+     Just what exactly is she getting at?
+     “It is possible for me to believe, but it comes with one condition, you must halt your regiment
+and send them back home.”
+     I finish my sentence while pointing towards the enemies that Shion is engaging.
+     Hinata follows to the direction of my hand, but then shakes her head slightly.
+     “It’s too late. Before I could stop them, their fight would have already come to a conclu-
+sion.”
+     That’s indeed true.
+     Is he called Renard? It seems that the strongest knight is fighting against Shion at the
+moment.
+     There is another one there. Although he is not as strong as Renard, he is still a force to be
+reckoned with.
+     Both of them are probably part of the “Ten Great Saints.” Shion is displaying her fighting
+prowess having them both as her opponent.
+     I can’t stand it, but since the situation has developed to this point, I can only leave them to
+find out who’s stronger. It makes me somewhat upset to admit that Hinata is right, but now the
+demand I gave seems pretty hard to achieve.
+     Then, a young knight suddenly interrupts:
+     “What nonsense! If we were to withdraw our forces in this situation, what would happen to
+Hinata-sama? You are the one who called Hinata here, who’s to guarantee that you won’t harm
+her!”
+     He shouts angrily after hearing my words.
+     The way you put it sounds to me like that you never intended to negotiate peace with us
+from the very beginning…
+     “Shut your mouth. The only ones allowed to speak here are Rimuru-sama and Hinata Sak-
+aguchi. We never called for you to come. Be a bit self-aware and behave yourself.”
+     “What did you say?”58
+     Benimaru came forth to stop the young knight, yet he doesn’t seem to be complying.
+     The next second, two flashes of slashes suddenly cross in front of Benimaru.
+     Benimaru easily blocked the hit as this knight called Arnaud struck out.
+     “Your attack didn’t bear any killing intent. That was the right call. Had you intended to kill
+me just now, you’d already be dead.”
+     “That’s because I don’t wish to interfere Hinata-sama’s negotiation. I didn’t expect such
+reaction from you considering that was supposed to intimidate you only. But then again, it really
+doesn’t feel good to be misjudged.”
+58
+     I’ve lost count how many times Arnaud has said “What did you say” in this volume. But it’s a lot
+
+
+
+                                                         216
+     “You are the one who is misunderstanding.”
+     “Hehe, how about we sort things out on the side.”
+     “Very well.”
+     A gentle smile emerges on his face that contrasts with the veins popping on his forehead.
+     This Arnaud guy is easily provoked.
+     As such, Benimaru and Arnaud soon go on away.
+     This Arnaud is the strongest among the four apart from Hinata. That’s why Benimaru acted
+out. He would probably be going as planned to only hold Arnaud back by sparing his life.
+     Hinata only observes the scene in shock without intervening. She can tell that Arnaud is
+weaker than Benimaru, yet she didn’t stop him.
+     “Well then, aren’t you guys bored as well? So as not to get in the way of Rimuru-sama,
+why don’t you all have some fun with us.”
+     “Yeah. I want to find out how strong the “Ten Great Saints” are as well.”
+     Alvis and Suphia make their moves.
+     Perhaps this is what they have always intended.
+     If I recall correctly, Suphia is quite the battle manic.
+     “Then, I’ll take you on.”
+     “It can’t be helped; I’ll keep you company then.”
+     They respond, and soon the two pairs of people depart.
+     The sole female59 knight and Souei are the only one remaining at the scene.
+     “Shall we?”
+     “I suppose.”
+     Did those two read the mood? They also left the scene.
+     Everything has been departing from our original plan.
+     I mean, you guys didn’t at all need to go away. Apart from Benimaru’s pair, it’s as if the
+other three have all go on dates.
+     You guys don’t need to force yourselves to fight you know…
+     But speaking of which, my opponent is female as well.
+     And the most beautiful one.
+     But I don’t feel any joy at all…
+     —Jokes aside, there indeed won’t be any interference now.
+     At the end of the day, these are probably all destined to happen.
+     And so, I confront Hinata once more.
+59
+     紅一点 (koitten) - lone female, i.e.: rose among the thorns
+
+
+
+
+                                                       217
+
+--- END PRESERVED SOURCE BODY ---

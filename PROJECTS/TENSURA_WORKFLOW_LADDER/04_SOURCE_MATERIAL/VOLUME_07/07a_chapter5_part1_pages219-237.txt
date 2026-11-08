@@ -1,0 +1,807 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 48 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_7/07a_chapter5_part1_pages219-237.txt | Original blob SHA: 10d6d11a3aa74501afc6e6340a0a788a54cd86be | Original size: 52945 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_07/07b_chapter5_part2_pages238-255.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+                                              Chapter 5
+
+                       Saints and Monsters Collide
+
+
+
+And so, the battle begins in a flash.
+     The Holy Knight Order commenced into action behind Hinata, their commander being the
+adjutant of Hinata, Renard.
+     Renard did not start as a Holy Knight. Instead, he was a genius in the art of arcane magic—A
+Holy Magister.
+     The Holy Magister is a special job assigned only to individuals who have mastered “Spirit
+Magic,” “Elemental Magic” and “Holy Magic.” To master the laws of this world, that is what
+qualifies a Holy Magister.
+     Yet Renard became a swordsman who fought in battlefields wielding the holy sword. He
+has concealed his identity as a Holy Magister while at the same time, his reputation as a member
+of the Holy Knight Order grew day by day. Later, after some time, he had already become the
+vice-commander of the Holy Knight Order.
+     All these accomplishments were the result of his skills. He has mastered a magnificent set
+of sword skills. If you were to describe Arnaud’s skill as the sword of steel, then Renard would
+be representing the swiftness60 of swordsmanship. The two are on par with each other in terms
+of strength with Arnaud slightly excelling with the sword. It is Arnaud’s hard-earned skill from
+his countless struggles on the battlefield.
+     When confronting strong and enduring monsters, a swordsmanship of tenacity and strength
+is more important than one that is fancy. That’s why Arnaud is worthy of the title of the strongest
+Holy Knight.
+     However, a swordceror61 who possesses both the skills of a mage and a swordsman—that
+is the way Renard fights. His swordsmanship may be inferior to Arnaud, yet he will not lose
+to anyone when fighting in the style of a proper swordceror. No, not only not falling behind to
+anyone, Renard would even claim that his power is far greater than anyone else’s.
+     However, to the Holy Knights, the power of “Elemental Magic” is not within the assessment
+60
+     The “柔” of swordsmanship, meaning the soft side or swift side of how a swordsman fight.
+61
+     Swordceror, or Magic Swordsman is a job commonly seen in JRPG and fiction.
+
+
+                                                       219
+of their strength. Some Holy Knights can instill elemental magic with the elven spirit of the
+same element that reside inside them so they may cast powerful magic without time consumed
+in chanting the spells.
+     “Elemental Magic” requires chanting, so its casting speed is longer than “Spirit Magic.”
+Although its power may be greater than “Spirit Magic,” “Speed” is the essence of melee combat.
+     It is something even Renard would not be able to overcome, and so he needed to master his
+sword techniques.
+     A knight’s true strength stems from his mastery of sword art. By instilling the sword travel-
+ing and incredible speed62 with holy-element, you can generate the power to slash through any
+object in this world. That is what Renard believes.
+     A very vivid memory was left with him when Renard was still an apprentice.
+     The small nation he studied abroad at was trampled by Demon Lord Valentine. Someone
+rushed to that nation—Hinata who just became a Holy Knight at the time.
+     She was strong, truly strong.
+     When surrounded by a horde of monsters, it only took a swing of her thin sword to wipe them
+all out. Even monsters that were several times larger than an average human were decimated in
+one shot by her sword.
+     Hinata’s visit saved the locals who had fallen to despair.
+     From that day onward, Renard was attracted by the charm of swordsmanship.
+     While researching Spirit Magic on one hand, he could not forget the sights of Hinata’s
+sword, and so he practiced repeatedly using a wooden sword while imitating her. He soon
+mastered the art of arcane magic63 and returned to his academy in the Kingdom of Ingracia.
+There he studied Elemental Magic and waited patiently for the chance of moving to the Holy
+Empire of Lubelius.
+     It was not easy for foreigners to immigrate to Holy Empire of Lubelius, but if it was a
+believer of Luminas with outstanding achievement, he may be granted permission. However, it
+would come at the price of severing ties with his family. Renard chose to migrate without any
+hesitation. His mastery of both Elemental and Spirit Magic got him the permission to immigrate.
+     Later he studied Holy Magic in Lubelius and was able to earn a place as an apprentice
+Knight in the Order.
+     There Renard formed a pact with the spirit of “Light.”
+     He was the Holy Knight of light, just as reflected from his pure and noble soul. It didn’t
+take Renard too long after becoming a Holy Knight to become an adjutant of the person he looks
+up to—Hinata.
+     This is the result of his active initiatives in partaking challenging tasks and achieving im-
+pressive feats from them.
+     Many contenders of his have considered Hinata as a target (a role model to reach). These
+62
+     The source states “Sword with the speed of god.”
+63
+     This is likely referring to the combined of “Elemental Magic” and “Spirit Magic” (There are only four main
+     categories of magic in the world of slime)
+
+
+                                                       220
+for instance included his colleagues Arnaud and Fritz, or more famously, the cruel and wise
+Nicolaus Speltus who was on par with Hinata.
+     And that is leaving out the countless unbeknownst followers of hers.
+     Renard was very proud to have become the adjutant of Hinata, until however…
+     “Renard, there is something that you must know.”
+     After the occurrence of the heinous crime that was the murder of Archbishop Reyhiem, the
+great “Seven Luminary Clerics” summoned Renard. There, he learnt about the horrifying truth.
+     “The thing is, Hinata has been colluding with Demon Lord Valentine—”
+     “When we eliminated Valentine, he begged us for his life and revealed this information.”
+     Renard’s head went blank upon hearing this news.
+     His idol Hinata has been colluding with Demon Lord Valentine. In other words, she had
+been orchestrating a lie to deceive Renard this whole time.
+     If that is true, it would be a betrayal to someone as upright as Renard, it cannot be forgiven.
+     He believes there is no way these great heroes (Seven Luminaries) would ever lie. But even
+if that’s the case, he doesn’t think that Hinata has been deceiving the knights either.
+     But if I recall… There haven’t been any changes to Demon Lord Valentine’s activities for
+some time. Hinata-sama should have successfully eliminated Demon Lord Valentine, yet she
+hasn’t shown any sign to take any actions—
+     Given the strength of Hinata, she must be able to take on Demon Lord Valentine on her
+own—That must be the case, Renard deeply believed so. He got the same impression from the
+combat report of the “Three Martial Sages” that Hinata would most definitely win if she moves
+out to take on Demon Lord Valentine.
+     Did she have something else on her mind…
+     Renard felt confused.
+     Yet it was then that Renard’s doubt was reinforced when the Seven Luminaries continued:
+     “Of course, she must have lied to prevent Valentine from dying. But, that’s not where things
+end.”
+     “Although quite astonishing, she appears to be attempting to collude with Demon Lord
+Rimuru this time.”
+     “Shouldn’t it normally be impossible for Archbishop Reyhiem to be murdered on this holy
+land?”
+     As they bombarded Renard with information, he was completely baffled.
+     “B-but Hinata-sama is a follower of Luminas, more faithful than anyone else. How could
+she betray her god and us…”
+     As he responds, the Seven Luminaries continued to add on their arguments.
+     “That’s the point, Renard. We are confused at the situation as well.”
+     “But the reality may be the contrary. Since Hinata may have cleverly tricked both us and
+our God Luminas.”
+     “There is however, one way to find out about it…”
+     The words of Seven Luminaries were tempting, and so Renard completely fell for it.
+
+                                                221
+     “A-and the way you mean is?”
+     The Seven Luminaries paused for a moment.
+     Then they open up solemnly:
+     “You won’t have a chance to regret after hearing it.”
+     “This is information that cannot be disclosed to the public—”
+     “Until Hinata is proved to be innocent.”
+     Even being told so, Renard made his choice without hesitation.
+     He has completely been deceived by the wordplay of Seven Luminaries.
+     Renard was lured to give the answer that the Seven Luminaries wished to hear.
+     “That is not a problem at all. I will prove the innocence of Hinata-sama!”
+     “Hmm, that’s the way to go…”
+     “Are you willing to lend a hand, Renard?”
+     “But this task will be dangerous.”
+     Renard had made up his mind and waited patiently for the instructions of the Seven Lumi-
+naries.
+     The Seven Luminaries looked down on Renard satisfyingly and proclaimed:
+     “Eliminate that Demon Lord Rimuru!”
+     “That way, you will get your answer.”
+     “If Hinata was truly colluding with the Demon Lord, she will definitely try to obstruct you
+with all her might.”
+     Upon hearing this, Renard couldn’t help but feel rattled.
+     “B-but There’s also that evil dragon Veldora…”
+     The Seven Luminaries had expected Renard to have this reaction.
+     “Afraid not.”
+     “Please calm down and consider this.”
+     “Has the evil dragon truly been revived? Don’t you think all of those testimonies have been
+lies?”
+     Renard suddenly realized after it was pointed out to him.
+     The only people who verified the issue of the revival of evil dragon are the Pope and Hinata
+herself.
+     “Then, do you propose that Veldora has not been revived?”
+     “Very likely.”
+     “Reyhiem also didn’t seem to have seen Veldora.”
+     “Perhaps his excellency the Pope was just abetted by Hinata.”
+     After hearing such assertions, Renard begins to doubt his beliefs, as proposed by the Seven
+Luminaries.
+     “I heard that Hinata has met with Demon Lord Rimuru before.”
+     “We believe that she was indoctrinated then.”
+     “If she is really being controlled by Demon Lord Rimuru…”
+     After hearing this, Renard’s stance also begins to tilt.
+
+                                              222
+    I am the only one who can save Hinata—Naturally Renard began to think that way.
+    “You are right, that must be the case! There is no way that Hinata-sama will betray us.
+If we think in the direction of someone manipulating Hinata-sama, would it able to clear your
+suspicions of Hinata-sama?”
+    The Seven Luminaries nodded heavily after hearing Renard’s words.
+    “Indeed. If we can find out the person behind this, her suspicions would be cleared—”
+    “But it will be a dangerous mission!”
+    The Seven Luminaries said so seemingly to test Renard’s resolve, and Renard responded
+without any hesitation:
+    “Then please leave this mission for me to handle!”
+    Renard volunteered himself.
+    With the sole determination to rescue Hinata.
+    If everyone is truly being deceived by Hinata… Renard would kill Hinata with his own
+hands. And so, he made his resolve.
+    “Very well, it will be handed to you.”
+    “We indeed feel your determination.”
+    “We will be relying on you, Renard.”
+    And so, Renard defied Hinata’s order to commence in battle.
+
+
+
+
+Renard isn’t doubting any more as soon as he entered the Jura Great Forest.
+     He can tell that Veldora’s revival is a lie given how low the concentration of magicule is
+there. Considering this, the possibility of Hinata having betrayed Luminism is very high, to
+which Renard is having a hard time to accept. He journeys on to his destination as he ponders
+on the issue.
+     Soon the troops would spread out since they are considering setting up a wide-range of
+“Holy Purification Barrier,” yet his subordinates were ambushed by the enemies hiding around
+the area.
+     “Could it be that Hinata-sama has sold us out…”
+     Renard’s companion, Garde of “Fire” opens up to say this.
+     Could it be that somehow, she has obtained the information of the movement of Renard’s
+party and informed Demon Lord Rimuru of it?
+     —If Hinata was colluding with the Demon Lord, she will definitely try to obstruct you with
+all she has—
+     The words of “Seven Celestial” began to ring in Renard’s head. But there is no time for him
+to consider it now. He immediately orders his men to engage in battle. The situation quickly
+
+                                              223
+turns into a chaotic battle.
+     The enemies are surprisingly strong. Moreover, things did not end there.
+     Things are not going well in this way, Renard was thinking so—when a nightmarish devil
+descends from the sky.
+     A giant crater is carved onto the ground with smoke engulfing its surroundings.
+     “This one’s not that simple.”
+     Garde nervously tightens the grip on his spear.
+     Renard nods in agreement and gives off the instructions calmly.
+     There are four other knights at the scene apart from Renard and Garde, while the rest are
+all busy fighting the engaging monsters.
+     The squad reacted quickly.
+     Light begins to surround them to form an armor to protect their body.
+     “Spirit Armament” —It is the ultimate defensive gear that gives a Holy Knight the enhance-
+ment to overcome their limits.
+     Not only will it reduce the weight you feel, it would make you feel as if your body is as
+thin as a feather. With modifications, this holy armor allows the residing spirits of knights to be
+better reflected. With the armor equipped, the Holy Knights would gain more control over the
+power of their spirit.
+     Moreover, the weapons they wield are infused with the power to break evil forces that would
+paralyze all forms of resistance to deliver proper damage to an opponent.
+     Its weakness lies in the fact that its large consumption of mana makes it hard to sustain for
+long. But now, thanks to this armor, these Holy Knights have become the fiercest opponents for
+these monsters. The four spreads out with the targeted individual being in the center.
+     They are applying a simplified version of the Holy Purification Barrier as ordered.
+     Their opponent has an incredibly powerful presence. This majin in front of Renard pos-
+sesses an unprecedented amount of magicules. It is even higher than a Rank A monster.
+     It isn’t Demon Lord Rimuru, but it must be his top lieutenant.
+     This would be the skirmish battle before taking on Demon Lord Rimuru.
+     They must quickly defeat this majin in order to eliminate the primary target—Renard has
+made up his mind to not hold back at all and to fight with everything he has from the very start.
+     “Take aim of the target and activate the Holy Purification Barrier!”
+     They will lose their lives if they demonstrate even the slightest bit of carelessness.
+     He doesn’t think that it is necessary to test out their opponent’s strength and directly issued
+the order.
+     The Holy Knights spread around quickly to establish the Holy Barrier.
+     It was casted perfectly.
+     There is no way that this enemy would be able to break through the barrier from within.
+However, this is still not enough. After all, a simplified version of the barrier also only has a
+simplified endurance.
+     It has less range and weaker effects on weakening the monster. It may be able to block the
+
+                                               224
+enemy’s movement, yet whether it can block every attack from within is still a mystery. They
+are afraid that the enemy would cast a powerful magic using its remaining magicule from inside
+the pyramid-shaped barrier extending around five meters long that they’ve activated. If that is
+the case, the barrier is likely going to be shattered.
+      Moreover, such an attack may also affect the surrounding. Since normally a barrier would
+cover a much larger area, this is a situation that should be accounted for with caution. However,
+it is definitely capable of severing the passage of magicules. It is one of the trump cards of the
+Holy Knights that an average Greater majin would have no chance of breaking.
+      Renard couldn’t dare to get careless as he orders everyone to activate another defensive
+barrier. If the purification barrier is unable to kill their foe, they will have come up with a viable
+defensive plan during their available time.
+      They still can attack the interior from outside the barrier, but first they will need to con-
+firm their safety before doing so. If it is a rare monster that possesses an attribute of damage-
+reflection, attacking without caution would only cause larger casualties among themselves. It is
+a misstep he cannot afford to take.
+      As Renard’s party prepares at hand, the dust caused by the explosion also begin to settle.
+      A monster appears at the center.
+      It is a purple-haired tall female with slim and fit body.
+      Her long, tied hair runs behind her back.
+      She has a beautiful face with a mighty stern. But she has an additional black horn on her
+forehead.
+      The strange and exotic clothing (suit) compels one to take a few more glances before coming
+to any conclusion.
+      The woman speaks up as her purple eyes gaze at Renard.
+      “My name is Shion. I am Rimuru-sama’s No.1 secretary. Now listen up you humans,
+Rimuru-sama has spoken. You either “Surrender” or “Die,” pick an option. You gentlemen
+should be smart enough to understand what that means. So do quickly, disarm yourself and
+surrender to us!”
+      How arrogant this monster called Shion is as she proclaimed.
+      It is unknown why she emphasized very proudly on the word “No.1” as she gave her speech
+casually.
+      Renard begins to observe his opponent in order to find out how strong this monster called
+Shion really is. She is clearly different from an average monster.
+      Her large pool of magicule leads Renard to categorize her at the higher end of Rank A, but
+it does not end there.
+      “Impressive. She is at Special Rank A, possibly even a candidate for Demon Lord.”
+      Judging from the horn on her forehead, the enemy is an advanced species of the Kijin race.
+      Kijin, or even stronger—Renard concludes that Shion’s is a “Youki” (Fair Oni), a being that
+is comparable in power to a “Demon Lord Seed.”
+      A named “Youki” —That is definitely beyond Calamity rank. If she becomes a Demon
+
+                                                225
+Lord, her threat level would increase to Disaster rank.
+     There has been an extraordinarily powerful individual that possessed the psychic power (Or
+Godly Power)64 to alter heaven and earth. Rather than monster, those are more akin to the Earth
+Deity.
+     It seems that Renard has made the right choice to have remained on the highest alert with
+the rest.
+     “Huh! Unfortunately, you’ve guessed it wrong. Well, close enough. I am an Akki65 . And
+I’m just guessing, but I’m probably not as kind as you think I am!”
+     Shion rebukes Renard calmly.
+     That said, surely no one at the scene would have ever considered calling Shion “kind.”
+Regardless of where she got the idea, it was the warning that Shion gave them.
+     “An Akki? There isn’t much difference… Anyway, whatever you are is irrelevant to us.
+Even if you were an Earth deity, you are nothing more than an evil monster, as far as we’re
+concerned. We only believe in the one true God, Luminas.”
+     The Holy Empire of Lubelius only recognizes the existence of one god—“The One True
+God” Luminas. To them, this is an absolute truth.
+     They wouldn’t acknowledge her even if she is indeed an Earth Deity guarding some part of
+the land.
+     They may ignore it as long as it doesn’t start proclaiming itself to be a God, but if it did, it
+will be eliminated.
+     Moreover, their opponent right now is just a monster.
+     No matter how powerful she is, they will not spare any mercy for the minions of a Demon
+Lord. That is why Renard proclaimed his own beliefs.
+     Yet Shion responded with the utterly unacceptable to Renard.
+     “I’m not interested in your God. Just give an answer to my question already!”
+     Surrender or die, which path do you choose? That’s what Shion is asking.
+     Her words infuriated Renard.
+     “Silence, evil monster! I will erase your filthy existence from this world!”
+     Renard now furiously shouts with his lungs full, then he orders the Holy Knights to cast the
+Holy Magic “Holy Cannon” at the same time.
+     The “Holy Cannon” is one of the few offensive spells in the art of Holy Magic. It breaks
+down the body of a monster through disintegrating its magicule. If it is casted at humans, it at
+most would knock them down unconscious due to the shockwave, yet in the case of monsters,
+they would be completely decimated.
+     It is a useless skill against opponent with the holy-element, but a deadly deterrence against
+monsters. Unlike the four natural elements of “Earth,” “Water,” “Fire” and “Wind,” both “Holy”
+64
+   The source states “神通力,” which is apparently is another term for “靈能力,” the word for psychic power used
+   in most fictions. But later in this word
+65
+   Fuse gave the same katakana notation for both “Youki” (妖鬼) and “Akki” (悪鬼) are “oni,” which is why this
+   was translated wrongly to oni originally.
+
+
+                                                  226
+and “Dark” elements cannot be “Nullified.” Except the angel race and the monsters who possess
+the holy-element, any other monster would not stand a chance against the Holy Cannon.
+     As they received Renard’s order, the Holy Knights launched the attack simultaneously. The
+missiles from the Holy Cannon thrust from all four sides towards Shion.
+     However—
+     Confronted with such attacks, Shion stood still without a care. She then deflected all of the
+energy missiles with the odachi in her hand.
+     “Was that your answer? You understand that if you don’t surrender, I will kill you right?”
+     As if grumbling “why won’t you guys just do as I say?,” Shion presses her question to him
+again. Even Renard is astounded at this.
+     However, he is not going to succumb to such a threat.
+     Even if his enemy is monster at the level of an Earth Deity, she was already trapped by the
+Holy Purification Barrier.
+     Renard’s party waited for the enemy to weaken by maintaining the barrier in order to deliver
+her with a fatal blow.
+     He ponders while praising the skillful swordsmanship Shion demonstrated. Reasonably
+speaking, his opponent would have been weakened to some extent, yet the speed of her swing
+can rival even that of Renard’s. This surprises him a lot. Moreover, that odachi was capable
+of deflecting energy of the holy-element, which is beyond abnormal. Since the Holy Cannon
+has the character of disintegrating magicules, normal magic swords would be destroyed after
+deflecting a few rounds.
+     Yet there is no sign of that odachi being damaged.
+     Suddenly, one of the Holy Knight began to moan in pain.
+     It is the Holy Knight on one side of the pyramid-shaped barrier who has been hit by the
+Holy Cannon deflected by Shion.
+     How is this possible! Why is such thing possible!
+     Renard is astounded.
+     If blocking the holy-element alone is not enough, she even absorbed the energy with her
+odachi and quickly deflected the missile to turn it into a way to attack…
+     It is completely impossible by common sense.
+     Yet such psychic power was displayed by Shion so easily in the blink of an eye. Renard
+quickly orders everyone to stop attacking.
+     The injured knight did not lose consciousness, he’s at most surprised at the sudden attack.
+Now it’s the time to calm down and find out a different way of attacking. Yet still, this has really
+been astounding.
+     The fact that she was able to attack from the inside of the Holy Purification Barrier to the
+outside is beyond surprising. Even the Holy Knights are astounded at the sight.
+     Renard suppresses his emotion of shock to reconsider his strategy.
+     Right now, Shion is furious due to her act being less effective as she intended.
+     She didn’t cause much damage despite hitting the opponent. She discovered that the skill
+
+                                                227
+they used was effective against monsters, but ineffective against humans. She has paid the price
+for looking down on her opponents to have been locked in the barrier, a critical miscalculation.
+     However, she knew from the start that things will end up this way. She has considered
+beforehand that the situation she is currently in is what she had hoped for. This barrier—It’s
+an extension of the Holy Purification Barrier Rimuru warned her of. It is similar in nature to
+reduce the magicule concentration from within the barrier. At this rate, it wouldn’t take long
+before Shion’s skill will be affected.
+     Just now she secretly tried to find out that “Spatial Movement” has also been blocked. With
+that being said, this is also within her range of expectations.
+     “Oi… OI, you guys, just surrender already before I run out of patience.”
+     Shion suppresses her anger desperately and shouts at her opponents with a forced smile.
+     Although a third party may think Shion isn’t even batting an eyelid at the Holy Knights, in
+reality she couldn’t be more serious. (it’s Shion after all)
+     But it is obvious that Renard and the Holy Knights wouldn’t listen to her.
+     “You fool! You are helpless now that you’ve been trapped by the barrier, stop acting all
+smug over there!”
+     This time, it’s Garde who shouted out furiously.
+     It only angers Shion more.
+     Now that her fury is reaching her limit, she is at the brink of an outburst. Shion already has
+very low tolerance for things, and now she is at the limit of her endurance.
+     There will be a huge outburst sooner or later.
+     “Listen now, I really am under Rimuru-sama’s orders that if possible, I shouldn’t try to kill
+you all. If you surrender now, not only will I not beat all your teeth out, but I’ll even treat you
+to my handmade cooking! How about that, isn’t it a great proposal? This is my last warning to
+you. What will you do?”
+     Even under such circumstance, Shion endures and continues to negotiate.
+     Although she comes off as being so arrogant, that no one would ever accept such a request.
+     Moreover, with every second passing, the monster captured inside the Holy Purification
+Barrier will grow weaker.
+     The reason behind it is simple, the barrier would purify all magicule inside it.
+     With the magicule concentration reduced, it would mean that any magic casted using mana
+or monster power, as well as law-manipulating skills such as psychic power and magic manip-
+ulation would all become unavailable. That is with the exception of special (unique/ultimate)
+skills.
+     The Holy Knights believed that they would emerge victorious and so there is no need to
+listen to Shion. Yet they have to recognize one point, that the Holy Purification Barrier is no
+defensive barrier. Even though it may completely block passage of magicule, pure physical
+objects or energy can still pass through. For instance, if an explosion takes place inside the
+“Barrier,” the wind pressure and shreds of explosion would be carried on the outside.
+     Renard and the rest are all well aware of this, and so their nerves are still tightened. Their
+
+                                               228
+maximum alert is of course warranted too. But being on high alert is still not enough to wipe
+away the unease in his heart, yet still Renard decides to answer Shion.
+     “We Holy Knights do not negotiate with monsters. Whatever more you say is futile.”
+     He says so.
+     Shion couldn’t bear it any longer after hearing this.
+     “Very well, I understand! Then I will make you submit out of fear!”
+     As Shion shouts, she smashes her odachi on the ground.
+     The shockwave explodes the ground to send countless fragments of small stones flying in
+the air. Shion grabs onto one of them and throws it head-on towards the knight facing her.
+     “—Uh!”
+     In an instant.
+     A loud sound is produced as a mini explosion occurs in front of the Holy Knight that Shion
+faces. The piece of stone thrown at him collided with the shield over the knight’s hand and got
+shredded to pieces.
+     What incredible POWER! ゴゴゴゴゴゴ
+     She possesses such power even after being weakened. She must be capable of causing much
+more damage had the Holy Purification Barrier not been there.
+     “Don’t get careless! Infuse more power into your spirit armor!”
+     “Understood, everyone, it’s time to get serious! Consider your opponent a Demon Lord!”
+     Renard and Garde encourage their squamates.
+     The knight who had his shield smashed, quickly reconstructs the shield of light.
+     Shion stomps her feet in frustration seeing how Renard’s party reacted. She probably
+thought that her attack just now would be able to take down at least one opponent. Yet she’s
+furious now that she’s suffered the waterloo. Her behavior is in complete contrast to her appear-
+ance of a beautiful and intelligent woman. With that being said, Shion seems to have realized
+this is going nowhere. She again suppresses her anger trying her best to remain calm and opens
+up to Renard again.
+     “I have a proposal.”
+     “We don’t negotiate with monsters. I’ve already told you so.”
+     “You should try to listen first. Just as I mentioned, it was my order to not kill you. But with
+that being said, I also need to demonstrate to you just how much of a difference there is between
+our strengths.”
+     “…”
+     “Just hear me out. I mentioned earlier that I had to control my power when throwing those
+stones, it is not easy. Had I been more serious I would probably have killed one or two of you—”
+     “Y-you’re bluffing!”
+     “Don’t listen to her! This is her deluded brag!”
+     A couple of Holy Knight couldn’t help but respond to Shion’s words.
+     Shion chuckles in secret after seeing how they reacted.
+     “Hmm hmm. You guys seem to be willing to listen. That is great. So, my proposal is—”
+
+                                               229
+     “Don’t be fooled by her! The madness of this woman cannot be—”
+     Shion’s words are interrupted by Garde.
+     At that instant, he suddenly feels a burning sensation on his right ear. Garde still feels the
+delayed shockwave slashing through the air with bombarding sound, destroying his eardrum.
+     The reason why he didn’t get a concussion is probably due to his daily training…
+     “W-what happened?”
+     As Renard turns back to check on Garde, he witnesses the sights of the large tree behind
+him falling apart due to its root being cut in half.
+     “—Uh!”
+     Renard is speechless.
+     Garde, as blood pours out of his ear, also realizes what just happened.
+     It was the stone that Shion threw out.
+     That was just how she demonstrated her strength.
+     The fist-sized stone Shion threw flitted at supersonic speed next to Garde’s head and directly
+hit the large tree behind his head, smashing it into pieces in the process.
+     Of course, Shion didn’t miss her shot.
+     She aimed and threw precisely to make sure it passes just by Garde’s ear.
+     And so, she follows up with the line—
+     “What’s the use of ears if you won’t even listen to what others have to say? Now behave
+yourself and listen to me well.”
+     The other knights immediately became more obedient.
+     “You monster…”
+     Garde mumbles as well, though he does not dare to make a move without caution.
+     So is Renard, realizing that he will have to listen to what Shion has to say. Judging from the
+power of that throw, it will instantly kill one of his teammates if collided head-on. Even “Spirit
+Armament” would not be able to resist the shockwave of that impact.
+     Since it has been proven that Shion has such power when she’s serious, they can only deduce
+that her words just now were anything but lies. It was a projectile thrown so fast that even one
+of the “Ten Great Saints,” Garde of “Fire” couldn’t react to, any ordinary Holy Knight would
+not be able to evade it.
+     In other words, the right answer here is to listen to her words nicely.
+     But as long as they can buy time, their opponent would also be weakened during the process.
+     “Fine, we’ll hear you out for the sake of it.”
+     This is why Renard can only reply with this.
+     Hearing so, Shion nods satisfyingly.
+     A maniacal smile emerges on her face as she gives them the shocker.
+     “Listen now, I want you all to attack me with everything you have. I’ll take everything
+head-on. If I endure till the end, I win, and you will all surrender to me obediently. What do
+you say?”
+     Shion says so confidently, leaving Renard eyeing her baffled. In that moment, a small doubt
+
+                                               230
+raises in his heart.
+     Could this mean that she doesn’t intend to kill us?
+     Shion has acted and spoken in such way as to lead to this conclusion from the very start.
+     But, her reason for doing so…
+     Unfortunately, there is no time for Renard to figure it out the details.
+     Garde whose eardrum was just destroyed accepted Shion’s offer out of spite.
+     “Fine, I’ll accept your proposal. You there, align your spirit powers with mine. Renard, I’ll
+leave the suppressing work to you! This woman is dangerous, way too dangerous to be allowed
+to live!”
+     Renard is brought back to reality after being mentioned.
+     “W-wait! We should talk about—”
+     “Cut the crap! Everyone, get in formation!”
+     At the urges of Garde, the teammates start to concentrate their power.
+     The Holy power begins to flow and gather on top of the Holy Purification Barrier. This is
+all being converted to mana that gives Garde a boost in magic. If Renard allowed them to do so
+without suppressing, the four squad mates’ mana pool would go out of control.
+     Indeed, now it’s time for battle, not hesitation. Since this is what she volunteered to, then
+don’t blame us if we do so.
+     Their opponent asked them to attack with everything they have, and so Garde would gamble
+on his pride as a Holy Knight to spare no mercy.
+     Six to one is way too despicable—He bears no such naive thoughts. Since his enemy is
+monster, their victory would be justice.
+     “Understood, Garde. Leave the suppression to me.”
+     “Roger that! Take this, “Inferno Flame” 66 —!”
+     Garde wields an extreme power of flame that illustrates his fire like passionate personality.
+     It is the ultimate spirit magic that can be casted when the King of Fire Spirit lends its power
+to the caster. It is an immense amount of power that Garde alone cannot control, and this power
+is being bombarded on Shion.
+     The heat energy produced by it even exceeds that of the Nuclear Strike Magic “Heat Can-
+non.”
+     It is a pure flow of destructive power using the spirit energy particles that magicule is made
+up of.
+     Yet Shion—
+     “Hehehe, very impactful! It is not the attack I expected, but it doesn’t matter. This will be
+the fastest way to stir fear among you all!”
+     Shion raises her odachi with a delightful smile.
+     In the blink of an eye, the approaching heat wave of the “Inferno Flame” is slashed in half.
+     It is Shion’s Unique Skill ‘Cook’ at work.
+66
+     Or by Kanji “Spirit overlord of extreme inferno flame”
+
+
+
+                                                        231
+     It may seem that she isn’t thinking a lot, but in reality, she has been combining a variety of
+skills.
+     First, she applies Extra Skill ‘Multilayer Barrier s’ for defense and utilizes “Heavenly Gaze”
+and “Magic Perception” to detect her enemies’ weakness.
+     She then activates “Cook” and “Optimal Action” so she can sense the flow of the heat wave
+naturally. By doing so, she can avoid being directly hit by the attack.
+     With that being said, the heat wave still scorched Shion’s skin, making her appear horribly
+burned. However, it poses no problem to Shion who has Ultraspeed Regeneration. Her skin
+quickly regenerates to its previous state.
+     It would appear to be reckless, but in fact, all of these are reasonable actions.
+     “All right, we’ve had our promise. Surrender to me now and undo the barrier.”
+     Shion says so very righteously, leaving everyone speechless. The Holy Knights can only
+peek at Renard and Garde.
+     After witnessing those supernatural sights, their minds have been paralyzed. At that mo-
+ment, the dignity of the Holy Knights was decimated.
+     Yet there is only one man, Garde, who will not accept this.
+     “Quit joking around, you monster. You can’t do anything within that barrier! You can keep
+acting smug like you are now, but we’ll fight the long battle with you then!”
+     “W-wait a second, Garde!”
+     Renard is shocked.
+     Even though Garde may be bad at holding his temper, he is a straightforward man. Yet right
+now he is being stubborn and refusing to admit defeat.
+     It may seem to be the appropriate response from the eyes of the Holy Knights, but to Renard,
+this is not like Garde.
+     With that being said, it is no time to ponder over such thing.
+     “Huh, are you still not admitting defeat even to this point? I will have no choice but to kill
+you…”
+     Shion gives off an increasingly more dangerous outlook as her monster aura begins to flow
+around her body.
+     Renard shivers at the sight.
+     H-how powerful…! We will all be killed if such monster gets serious. Even if we have Holy
+Purification Barrier, it would be bad if we piss her off—
+     “This is bad, stop provoking her! We can retreat for now—”
+     “You fool! The Holy Knights cannot be defeated! Have you forgotten even about that!”
+     Renard intended to calm Garde down, yet he begins to shake as Garde shouted him back.
+     It is hard to imagine that Garde would ever say such thing under normal circumstance. Or
+rather, he almost seems to have developed a new personality—
+     “You, you—”
+     Renard didn’t have to raise any decisive doubts towards Garde before the incident happens.
+     “HUUUUU!”
+
+                                               232
+      Someone shouts.
+      A clear bell-ring sound is made.
+      It is the sound of Shion’s odachi breaking through the “Barrier.”
+      The Holy Purification Barrier—The source of confidence of the Holy Knights have now
+been completely shattered by Shion.
+      “H-how could this be…”
+      “But that is the Holy Barrier!”
+      “Is this a dream? This must be a dream!”
+      “Holy Purification Barrier can sever magicule, so how could it be destroyed by monster—
+!!”
+      The Holy Knights shout with fear in their hearts.
+      However, they received their answers from Shion, who seems relaxed and justified with her
+actions.
+      “—That’s true indeed. But this is not a “Special Barrier” with high density, a “Special
+Barrier” that manipulates the world’s law. Law manipulation is, however, my specialty. After
+all, I, am very good at cooking!”
+      Renard is completely baffled with what she said.
+      But he understands what Shion has done. She has brought about this result by using her
+Unique Skill ‘Cook’ to tamper with the Holy Purification Barrier.
+      Overwriting phenomenon and laws. This skill is capable of overwriting objects with the
+ideal “Outcome” desired by the user—the so called “Affirmative Outcome.”
+      This is the true power of Shion’s Skill ‘Cook.’ The reason why Shion’s cooking became
+tasty is all due to the effect of this skill. Sadly, such extraordinary power has been used in very
+pitiful things.
+      What would be the result of applying it in combat?
+      The answer is the desperate situation that Renard’s party is facing right now.
+      The skill is able to overwrite and impose one hundred percent of the ideal outcome she
+wishes, and so no matter how strong a defense is, it won’t stand a chance against her.
+      The only way to fight it would be to possess a stronger will to overwrite the result she
+wishes. In other words, unless you possess similar ability to overwrite laws, you have no way
+of dealing with it.
+      Since Renard is a genius, he was able to correctly analyze the mystery of her skill.
+      How terrifying.
+      As Shion just declared, Renard’s heart is now filled with fear. But as captain, he cannot give
+up hope until the very last moment. They are doomed if they engage in combat, so he needs to
+surrender for now to have a chance in survival.
+      “This is bullshit…How could this be… Such monster, how…”
+      Ignoring Garde, who is mumbling and almost daydreaming, Renard makes the decision.
+      “—I surrender. I hope you may treat my subordinates with leniency…”
+      He proclaims with a shivering voice as if he has woken from a dream.
+
+                                                233
+     Shion finally gives off a satisfying smile hearing Renard’s declaration of surrender.
+     It is then that Renard is able to look at Shion in the eyes.
+     He sees her genuine smile that’s both consistent externally and internally.
+     He calmly recalls while pondering on her words.
+     This monster called Shion really doesn’t seem to intend to kill them. If not Shion’s will,
+then it is the order of Demon Lord Rimuru.
+     With that being said, something also seems out of the loop with the rumor that Demon Lord
+Rimuru has ordered a Demon to murder Archbishop Reyhiem.
+     Now that he thinks about it carefully, Hinata only went to meet with Demon Lord Rimuru
+in order to build a friendly relationship from the very start. In contrast, there shouldn’t be any
+reason why the Demon Lord would want to obstruct that. That is if he doesn’t intend to incite
+conflicts and rain chaos. But from the reaction of this monster, Shion, even Renard has realized
+that Demon Lord Rimuru wouldn’t do such a thing.
+     That would mean—
+     Have I been manipulated…
+     When he heard that his enemy Demon Lord Valentine who harmed his friends in the past was
+colluding with Hinata, he lost the ability to make a calm judgement. While he was emotional,
+he was taken advantage of and was deceived…
+     By whom?
+     It is obvious now, the “Seven Luminary Clerics.”
+     Upon thinking so, Renard’s face immediately turns pale. He is shocked to realize that his
+dispatchment of troops have hindered Hinata’s plan.
+     As he turns to look, Hinata is confronting Demon Lord Rimuru alone.
+     They don’t seem to be talking. It is the calmness before battle.
+     I-it’s all over. Hinata-sama, I’m sorry! It’s all my fault that the negotiation—
+     Renard has finally realized everything, yet now he can only observe their confrontation
+from the side.
+     Things have developed to the point beyond Renard’s control.
+     —And soon, the flame of battle is ignited.
+     Renard nervously locks his eyes in front as Hinata and Rimuru cross swords—
+
+
+
+
+Hinata Sakaguchi was truly lucky to have met Shizue Izawa.
+     For a short but genuine period of time, Hinata had indeed opened her heart to Shizue and
+her alone.
+     The duration of which was one month.
+
+                                               234
+      In that short span of time, Hinata learnt all of Shizue’s techniques and bid her farewell. That
+is because she was afraid of being rejected. In the end, she was afraid to lose the warmth she
+had regained once more.
+      Hinata knew she was clumsy.
+      She killed her father for her mother. Yet it only made her mother go insane. Her mother
+was still in love with her husband even to that point.
+      The reason why her mother was a fanatic about religion must have been because she needed
+prayers to support herself.
+      In this world, misfortune will never disappear.
+      It is the most natural course of things.
+      She hoped that there would be no more misfortune in this world, yet such thing would never
+come true.
+      That was the reality Hinata didn’t want to accept.
+      A world where everyone can live with joy—she sighs at the misfortune in real life while
+bearing such dream.
+      —The reason why her mother prays is to repent for the sins of her daughter.
+      If that is true, does mother hate me very much?
+      Hinata was deeply frightened even at the thought of it being the case.
+      She thought of herself as very lucky for coming to this (new) world.
+      Her mother would be able to escape the sea of pain now that she had traveled to this world,
+so was her conclusion.
+      Hinata has also decided to not be as indignant as before.
+      She would become just as perfect (emotionless/rational) as a machine so that she no longer
+would have to worry about anything.
+      Hinata lived on with such a fantasy. And it was for this reason, she wasn’t able to accept
+Shizue.
+      If she had accepted to stay and somehow grew to be disliked by Shizue too—Hinata would
+have wanted to kill her.
+      It is due to her self-awareness of this, that she parted ways with Shizue.
+      Perhaps I was the one who’s mad after all—Hinata thought to herself.
+      This is what this world is about, full of despair and fragile people susceptible to death.
+Hinata was granted with power for her to survive.
+      She learnt a shocking lesson when she visited a kingdom during her journey.
+      There, many were dead due to the rampage of Calamity Rank monsters. Yet there were some
+people fighting to protect the children. Those adults acted as the meat shield for the children
+with no intention of escaping.
+      Hinata had always thought that everyone only care about themselves in order to survive.
+Their actions moved Hinata.
+      Those people who devoted themselves to battle called themselves Holy Knights. They had
+little care for their own lives and were willing to sacrifice themselves to save the lives of others.
+
+                                                235
+They regularly patrolled the surroundings of that town as the symbols of justice.
+    Hinata resonated with their way of living and was determined to become a Holy Knight.
+To use her skills to the fullest and devote herself to battle, so she will no longer need to worry
+about anything else. And so, Hinata found her opportunity to atone.
+    A decade of time has passed since—
+    Hinata has now become the Guardian Angel of mankind.
+
+
+
+
+She fought against monsters day and night during those days.
+     After some time, she began to feel bored of dealing with the same situations again and again.
+     Ever since Hinata installed some policies after becoming the commander of the Holy Knight
+Order, the damage sustained by the nations had been reduced by a drastic amount. For instance,
+the prediction of the birthplace of the monsters or which areas would be harmed. This way, she
+was able to decide on how to initiate collaborative efforts and when to patrol in certain areas.
+This system had been optimized to achieve a significant effect in reducing casualties.
+     That was why everyone in the Holy Knights placed great trust in Hinata. It is simply too
+ironic that she was in fact colluding with Demon Lord Valentine behind everyone’s back. She
+mocks herself internally. But even so, it was still the best way to maintain a peaceful and just
+nation.
+     That’s why Hinata has never felt any doubt or regret. Under their God Luminas, everything
+is equal—This is the only system that will grant people the taste of happiness.
+     Moving forward to the present.
+     She is in a bad spot, to the point of being laughable. But thanks to that, Hinata is finally
+willing to go all out.
+     The situation at hand is not suitable for her to negotiate. She will not even have a chance to
+defend herself if she loses this battle.
+     It must have been karma for not listening to Rimuru the last time they faced each other, that
+she fails to request her opponent to listen to her this time for the bad circumstance.
+     The situation is the complete opposite of last time—
+     Hinata mocks herself while thinking so.
+     The table has been turned. It even makes her reminisce of the “boring” days she used to
+complain so much about.
+     This world is indeed ruthless when you hit the wall…
+     But apart from lamenting, Hinata has also made up her mind.
+     Troubling thoughts and worries are all meaningless at this point of time.
+     Victory is the only way of withdrawing herself from this situation. Regardless of whether
+
+                                               236
+she believes herself to be right or wrong.
+     All these thoughts were cast aside, for Hinata has focused her heart on winning—
+     She begins to observe Rimuru. Now only Rimuru and herself remain there as Arnaud and
+the rest have gone somewhere else with their own opponents.
+     Hinata starts to quietly analyze Rimuru using her Unique Skill ‘Mathematician.’
+     However, he is completely different from before. Rimuru’s power after becoming a Demon
+Lord has become hard to measure.
+     His potential growth is truly huge. I’ll get chills down my spine at even the thought of him
+becoming enemies with humans.
+     Rimuru’s power is immeasurable by Hinata’s “Mathematician,” meaning that he should
+either have a similar power cap as her, or greater. Upon thinking so, Hinata activates her Unique
+Skill ‘Usurper.’ This skill gives her the absolute advantage against an opponent who is stronger
+than her.
+     That is the property of Hinata’s trump card— “Usurper.”
+     It is a power that can rob the enemy of their skills and talents whenever they are understood
+by the user. Regardless of whether Hinata can use these skills or not, from only its effect of
+robbing her enemies of their skills alone shows that it is itself a fierce and brutal skill.
+     If the opponent is weaker than Hinata, the result of the analysis will show it as “Unavailable
+Target.” In that case, Hinata will not be able to rob the enemy of their skill, however, she will
+also have a much better chance to win. Even if the opponent is stronger than Hinata, the results
+of her analysis will either be “Failure” or “Success.”
+     It is the evidence whenever such results are shown that whether she is confronting a powerful
+foe or not. With that being said, “Success” analysis will reveal the opponent’s skills and talents
+and “Failure” will not cause her defeat either. She can try analyzing as many times as she wishes.
+     That’s why no matter how strong her enemy is, the result will always be “Success” with
+enough repetitions. She only needs to cautiously buy time and calmly wait for the correct mo-
+ment. In this way, Hinata is guaranteed to win.
+     During her last duel with Rimuru, the result of her analysis stated “Target Unavailable.”
+This was why Hinata did not take any precaution against Rimuru and looked down on him
+during their fight.
+     She was a bit surprised when he summoned the Flame Giant Ifrit, but she still didn’t take it
+very seriously. That’s because Hinata has achieved expert mastery of her skill to reach the level
+of “Forced Usurp.” It is a cheat-like skill that can even apply to lower-level opponent…
+     It was commendable that Rimuru made her use this skill, but that was as far as her view went
+for Rimuru. Just like that, Hinata’s “Usurper” also serves as the measurement tool to evaluate
+the difference in power between her and her opponent.
+     Back to the present day.
+     Even with this power, she still cannot assess Rimuru.
+     The result of her analysis turned out to be “Interfered.”
+     This is the second time it happened. He is the second person to cause this result after
+
+                                               237
+
+--- END PRESERVED SOURCE BODY ---

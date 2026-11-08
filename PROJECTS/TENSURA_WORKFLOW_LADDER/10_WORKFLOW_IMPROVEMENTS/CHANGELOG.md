@@ -18,3 +18,11 @@
 - No story canon created.
 
 Future changes must state version, date/session, files changed, reason, behavior affected and regression checks.
+
+
+## 1.1.0 integration update
+- Added TWL-021, a mandatory operational protocol for reading and processing every source chunk in order, including seven processing states, extraction schema, boundary carryover, overlap/OCR handling, volume reconciliation and session handoff.
+- Integrated chunk processing and established writing-craft references into the master ladder and chapter production workflow as active requirements.
+- Strengthened the per-file living ladder: every file must carry its own work order in its purpose/description, prerequisites, actions, evidence/status, predecessor and exact next destination/action.
+- Updated the checkpoint, source read log, file template, README and register route to point to the new protocol and first Volume 1 guide.
+- No source file body, story canon or chapter prose was changed. Source reading and chronology mapping remain pending.

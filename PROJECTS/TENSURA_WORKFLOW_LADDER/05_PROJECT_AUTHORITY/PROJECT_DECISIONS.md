@@ -4,6 +4,15 @@
 > REQUIRED: Read actual source files, preserve uncertainty, record exact evidence and next file. Do not mark research complete before inspection.
 > NEXT DESTINATION: 04_SOURCE_MATERIAL/SOURCE_CHRONOLOGY.md
 
+**File ID:** TWL-PROJECT-DECISIONS | **Stage:** 00-05 | **Status:** INITIAL SCAFFOLD
+**Purpose:** Register user-approved project boundaries and future story decisions.
+**Prerequisites:** Read 01_MASTER_WORKFLOW_LADDER.md and 02_FILE_BRANDING_STANDARD.md; verify upstream evidence.
+**Required actions:** Populate only from verified source evidence or explicit user decisions; label unknowns.
+**Completion evidence:** Completed register with exact references and status.
+**NEXT DESTINATION:** 05_PROJECT_AUTHORITY/APPROVAL_REGISTER.md
+**NEXT ACTION:** Record approval evidence and scope.
+
+
 # Project Decisions Register
 
 **Initial state:** No story premise, protagonist, AU divergence, characterization, power set, relationships or plot decision has been approved in this clean-slate workspace.

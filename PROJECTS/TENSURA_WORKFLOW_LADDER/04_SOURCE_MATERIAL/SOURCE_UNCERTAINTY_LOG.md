@@ -4,6 +4,15 @@
 > REQUIRED: Read actual source files, preserve uncertainty, record exact evidence and next file. Do not mark research complete before inspection.
 > NEXT DESTINATION: 04_SOURCE_MATERIAL/SOURCE_CHRONOLOGY.md
 
+**File ID:** TWL-SOURCE-UNCERTAINTY | **Stage:** 01-02 | **Status:** INITIAL SCAFFOLD
+**Purpose:** Log OCR, chronology, translation and source ambiguities.
+**Prerequisites:** Read 01_MASTER_WORKFLOW_LADDER.md and 02_FILE_BRANDING_STANDARD.md; verify upstream evidence.
+**Required actions:** Populate only from verified source evidence or explicit user decisions; label unknowns.
+**Completion evidence:** Completed register with exact references and status.
+**NEXT DESTINATION:** 07_PLANNING/SOURCE_BEAT_LEDGER_TEMPLATE.md
+**NEXT ACTION:** Map verified source events into ordered beats.
+
+
 # Source Uncertainty Log
 
 **Status:** OPEN. Populate during full reading.

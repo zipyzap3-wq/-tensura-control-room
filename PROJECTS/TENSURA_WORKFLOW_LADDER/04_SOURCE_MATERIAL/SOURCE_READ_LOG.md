@@ -11,6 +11,83 @@
 **NEXT DESTINATION:** 04_SOURCE_MATERIAL/VOLUME_06/00_README_AI_CHUNKS.txt
 **NEXT ACTION:** Begin the actual ordered source read and update this log only after reading each file.
 
+# Volume 1–5 Source Read Log (73 chunks, all unread)
+| # | Source file | Imported? | Opened/read in full? | Page range verified? | Beat map created? | Uncertainties recorded? | Status |
+|---:|---|---|---|---|---|---|---|
+| 1 | source_material/Volume_01_Chunk_001.txt | YES | NO | NO | NO | NO | NOT READ |
+| 2 | source_material/Volume_01_Chunk_002.txt | YES | NO | NO | NO | NO | NOT READ |
+| 3 | source_material/Volume_01_Chunk_003.txt | YES | NO | NO | NO | NO | NOT READ |
+| 4 | source_material/Volume_01_Chunk_004.txt | YES | NO | NO | NO | NO | NOT READ |
+| 5 | source_material/Volume_01_Chunk_005.txt | YES | NO | NO | NO | NO | NOT READ |
+| 6 | source_material/Volume_01_Chunk_006.txt | YES | NO | NO | NO | NO | NOT READ |
+| 7 | source_material/Volume_01_Chunk_007.txt | YES | NO | NO | NO | NO | NOT READ |
+| 8 | source_material/Volume_01_Chunk_008.txt | YES | NO | NO | NO | NO | NOT READ |
+| 9 | source_material/Volume_01_Chunk_009.txt | YES | NO | NO | NO | NO | NOT READ |
+| 10 | source_material/Volume_01_Chunk_010.txt | YES | NO | NO | NO | NO | NOT READ |
+| 11 | source_material/Volume_01_Chunk_011.txt | YES | NO | NO | NO | NO | NOT READ |
+| 12 | source_material/Volume_01_Chunk_012.txt | YES | NO | NO | NO | NO | NOT READ |
+| 13 | source_material/Volume_01_Chunk_013.txt | YES | NO | NO | NO | NO | NOT READ |
+| 14 | source_material/Volume_01_Chunk_014.txt | YES | NO | NO | NO | NO | NOT READ |
+| 15 | source_material/Volume_01_Chunk_015.txt | YES | NO | NO | NO | NO | NOT READ |
+| 16 | source_material/Volume_02_Chunk_001.txt | YES | NO | NO | NO | NO | NOT READ |
+| 17 | source_material/Volume_02_Chunk_002.txt | YES | NO | NO | NO | NO | NOT READ |
+| 18 | source_material/Volume_02_Chunk_003.txt | YES | NO | NO | NO | NO | NOT READ |
+| 19 | source_material/Volume_02_Chunk_004.txt | YES | NO | NO | NO | NO | NOT READ |
+| 20 | source_material/Volume_02_Chunk_005.txt | YES | NO | NO | NO | NO | NOT READ |
+| 21 | source_material/Volume_02_Chunk_006.txt | YES | NO | NO | NO | NO | NOT READ |
+| 22 | source_material/Volume_02_Chunk_007.txt | YES | NO | NO | NO | NO | NOT READ |
+| 23 | source_material/Volume_02_Chunk_008.txt | YES | NO | NO | NO | NO | NOT READ |
+| 24 | source_material/Volume_02_Chunk_009.txt | YES | NO | NO | NO | NO | NOT READ |
+| 25 | source_material/Volume_02_Chunk_010.txt | YES | NO | NO | NO | NO | NOT READ |
+| 26 | source_material/Volume_02_Chunk_011.txt | YES | NO | NO | NO | NO | NOT READ |
+| 27 | source_material/Volume_02_Chunk_012.txt | YES | NO | NO | NO | NO | NOT READ |
+| 28 | source_material/Volume_02_Chunk_013.txt | YES | NO | NO | NO | NO | NOT READ |
+| 29 | source_material/Volume_02_Chunk_014.txt | YES | NO | NO | NO | NO | NOT READ |
+| 30 | source_material/Volume_03_Chunk_001.txt | YES | NO | NO | NO | NO | NOT READ |
+| 31 | source_material/Volume_03_Chunk_002.txt | YES | NO | NO | NO | NO | NOT READ |
+| 32 | source_material/Volume_03_Chunk_003.txt | YES | NO | NO | NO | NO | NOT READ |
+| 33 | source_material/Volume_03_Chunk_004.txt | YES | NO | NO | NO | NO | NOT READ |
+| 34 | source_material/Volume_03_Chunk_005.txt | YES | NO | NO | NO | NO | NOT READ |
+| 35 | source_material/Volume_03_Chunk_006.txt | YES | NO | NO | NO | NO | NOT READ |
+| 36 | source_material/Volume_03_Chunk_007.txt | YES | NO | NO | NO | NO | NOT READ |
+| 37 | source_material/Volume_03_Chunk_008.txt | YES | NO | NO | NO | NO | NOT READ |
+| 38 | source_material/Volume_03_Chunk_009.txt | YES | NO | NO | NO | NO | NOT READ |
+| 39 | source_material/Volume_03_Chunk_010.txt | YES | NO | NO | NO | NO | NOT READ |
+| 40 | source_material/Volume_03_Chunk_011.txt | YES | NO | NO | NO | NO | NOT READ |
+| 41 | source_material/Volume_03_Chunk_012.txt | YES | NO | NO | NO | NO | NOT READ |
+| 42 | source_material/Volume_03_Chunk_013.txt | YES | NO | NO | NO | NO | NOT READ |
+| 43 | source_material/Volume_03_Chunk_014.txt | YES | NO | NO | NO | NO | NOT READ |
+| 44 | source_material/Volume_03_Chunk_015.txt | YES | NO | NO | NO | NO | NOT READ |
+| 45 | source_material/Volume_04_Chunk_001.txt | YES | NO | NO | NO | NO | NOT READ |
+| 46 | source_material/Volume_04_Chunk_002.txt | YES | NO | NO | NO | NO | NOT READ |
+| 47 | source_material/Volume_04_Chunk_003.txt | YES | NO | NO | NO | NO | NOT READ |
+| 48 | source_material/Volume_04_Chunk_004.txt | YES | NO | NO | NO | NO | NOT READ |
+| 49 | source_material/Volume_04_Chunk_005.txt | YES | NO | NO | NO | NO | NOT READ |
+| 50 | source_material/Volume_04_Chunk_006.txt | YES | NO | NO | NO | NO | NOT READ |
+| 51 | source_material/Volume_04_Chunk_007.txt | YES | NO | NO | NO | NO | NOT READ |
+| 52 | source_material/Volume_04_Chunk_008.txt | YES | NO | NO | NO | NO | NOT READ |
+| 53 | source_material/Volume_04_Chunk_009.txt | YES | NO | NO | NO | NO | NOT READ |
+| 54 | source_material/Volume_04_Chunk_010.txt | YES | NO | NO | NO | NO | NOT READ |
+| 55 | source_material/Volume_04_Chunk_011.txt | YES | NO | NO | NO | NO | NOT READ |
+| 56 | source_material/Volume_04_Chunk_012.txt | YES | NO | NO | NO | NO | NOT READ |
+| 57 | source_material/Volume_04_Chunk_013.txt | YES | NO | NO | NO | NO | NOT READ |
+| 58 | source_material/Volume_04_Chunk_014.txt | YES | NO | NO | NO | NO | NOT READ |
+| 59 | source_material/Volume_04_Chunk_015.txt | YES | NO | NO | NO | NO | NOT READ |
+| 60 | source_material/Volume_05_Chunk_001.txt | YES | NO | NO | NO | NO | NOT READ |
+| 61 | source_material/Volume_05_Chunk_002.txt | YES | NO | NO | NO | NO | NOT READ |
+| 62 | source_material/Volume_05_Chunk_003.txt | YES | NO | NO | NO | NO | NOT READ |
+| 63 | source_material/Volume_05_Chunk_004.txt | YES | NO | NO | NO | NO | NOT READ |
+| 64 | source_material/Volume_05_Chunk_005.txt | YES | NO | NO | NO | NO | NOT READ |
+| 65 | source_material/Volume_05_Chunk_006.txt | YES | NO | NO | NO | NO | NOT READ |
+| 66 | source_material/Volume_05_Chunk_007.txt | YES | NO | NO | NO | NO | NOT READ |
+| 67 | source_material/Volume_05_Chunk_008.txt | YES | NO | NO | NO | NO | NOT READ |
+| 68 | source_material/Volume_05_Chunk_009.txt | YES | NO | NO | NO | NO | NOT READ |
+| 69 | source_material/Volume_05_Chunk_010.txt | YES | NO | NO | NO | NO | NOT READ |
+| 70 | source_material/Volume_05_Chunk_011.txt | YES | NO | NO | NO | NO | NOT READ |
+| 71 | source_material/Volume_05_Chunk_012.txt | YES | NO | NO | NO | NO | NOT READ |
+| 72 | source_material/Volume_05_Chunk_013.txt | YES | NO | NO | NO | NO | NOT READ |
+| 73 | source_material/Volume_05_Chunk_014.txt | YES | NO | NO | NO | NO | NOT READ |
+
 # Source Read Log
 | # | Source file | Imported? | Opened/read in full? | Page range verified? | Beat map created? | Uncertainties recorded? | Status |
 |---:|---|---|---|---|---|---|---|

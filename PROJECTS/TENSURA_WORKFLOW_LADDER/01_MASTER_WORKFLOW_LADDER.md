@@ -23,7 +23,10 @@
 7. All drafts are non-canon. User approval is the only route to canon promotion.
 8. This is a manual ChatGPT workflow, not an agent system.
 
-## Source-scope expansion (v1.1.0)\nStage 01 and Stage 02 now cover source Volumes 1–7, not only 6–7. Read and map in volume order (1→7); preserve each volume's independent chunk sequence. Earlier-volume source knowledge must not be projected into a character's later or earlier time-state without a chronological anchor. The 127-file intake consists of V1–5 (73 chunks + 10 guides), V6 (35 files), and V7 (19 files).\n\n## The ladder, gates and outputs
+## Source-scope expansion (v1.1.0)
+Stage 01 and Stage 02 now cover source Volumes 1–7, not only 6–7. Read and map in volume order (1→7); preserve each volume's independent chunk sequence. Earlier-volume source knowledge must not be projected into a character's later or earlier time-state without a chronological anchor. The 127 source-origin files are V1–5 (73 chunks), V6 (35 files), and V7 (19 files). Ten local folder/read guides are additional project navigation files, not source imports.
+
+## The ladder, gates and outputs
 | Stage | Name | Required work | Exit evidence / next destination |
 |---|---|---|---|
 | 00 | Project control | Read project entry, master ladder, authority, checkpoint and register; verify repository and version. | Session checkpoint; source intake. |

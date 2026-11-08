@@ -17,10 +17,10 @@
 - Branch: main; no new branch created
 - Project root: PROJECTS/TENSURA_WORKFLOW_LADDER/
 - Project files after Volumes 1–5 archive expansion: 187
-- Source imports: 127/127 (V1: 17 files; V2: 16; V3: 17; V4: 17; V5: 16; V6: 35; V7: 19; 73 narrative chunks + 10 guides added)
+- Source imports: 127/127 source-origin files (V1–5: 73 chunks; V6: 35 files; V7: 19 files). Ten local archive guides added separately.
 - Source inventory: complete (Volumes 1–7)
-- Coverage matrix: 127 entries
-- Source read log: 127 entries; none falsely marked read
+- Coverage matrix: 127 source-origin entries
+- Source read log: 127 source-origin entries; none falsely marked read
 - Exact body spot checks: Volume 6 Chunk 01 and Volume 7 Chapter 1 Part 1 passed
 - Full source reading/chronology mapping: pending
 - Story premise/canon: none approved

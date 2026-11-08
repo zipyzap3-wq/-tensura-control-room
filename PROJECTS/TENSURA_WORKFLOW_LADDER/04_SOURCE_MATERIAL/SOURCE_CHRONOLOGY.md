@@ -32,4 +32,4 @@ Read all source files in order. Record exact chapter/event boundaries, page rang
 - Unresolved source questions:
 
 ## Completion gate
-Do not mark Stage 02 complete until all 127 source files have been inspected and the event sequence, page crosswalk and uncertain transitions are recorded.
+Do not mark Stage 02 complete until all 127 source-origin files have been inspected and the event sequence, page crosswalk and uncertain transitions are recorded.

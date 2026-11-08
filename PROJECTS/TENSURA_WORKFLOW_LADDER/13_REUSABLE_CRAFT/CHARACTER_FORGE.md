@@ -15,6 +15,7 @@
 --- BEGIN REUSABLE CRAFT TEXT ---
 # The Character Forge
 **Module:** Living Story Method (LSM)  
+**Purpose / WORK ORDER:** Use the character forge to create source-grounded, time-appropriate character dossiers and fill every required field before chapter planning.
 **Purpose:** Create characters who feel like specific people with independent motives, credible behavior, distinct voices, meaningful relationships, and the capacity to change the story.
 
 This is a working method, not a form to fill mechanically. Use the depth appropriate to the character's importance. Major characters need a complete dossier; recurring supporting characters need enough detail to act independently; one-scene characters need only the details that make their presence convincing.

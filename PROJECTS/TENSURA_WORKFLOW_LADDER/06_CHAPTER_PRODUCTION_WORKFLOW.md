@@ -13,6 +13,16 @@
 **Next destination:** 07_DRAFT_SYNC_AND_AUDIT.md | **Next action:** Apply synchronization and audit rules.
 
 # Chapter Production Workflow
+## Mandatory craft stack and operating references
+Before chapter planning or prose, consult the current checkpoint and exact file ladder, then apply:
+1. `SOURCE_CHUNK_INTEGRATION_METHOD.md` for source fidelity, event order, cast responsibility, creative-freedom levels and anti-compression.
+2. `CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md` for verified source reading, beat extraction, cross-chunk carryover and exact source handoff.
+3. `LIGHT_NOVEL_SERIAL_NARRATIVE_METHOD.md` and `LSM_MASTER_PROTOCOL.md` for scene/sequel causality, POV, scene construction, action clarity, pacing and serial handoff.
+4. `AUTHORING_PREFERENCES.md` for dialogue/monologue/action emphasis, lively character reactions, named locations, read-ahead and avoiding bland compression.
+5. `CHARACTER_INTEGRITY_AND_VOICE_LOCK.md`, `CHARACTER_FORGE.md` and `LIVING_APPEARANCE_METHOD.md` for character integrity, voice, time-state, appearance and meaningful reactions.
+
+These are operational requirements, not passive references. The chapter packet must list the methods actually consulted and relevant rules. First review and independent audit must check their application, not just their presence in a checklist.
+
 ## Before writing
 1. Confirm workflow version and session checkpoint.
 2. Read master ladder and exact next-step file.
@@ -39,3 +49,10 @@ Present corrected matching text in ChatGPT. Independently re-read source, canon,
 
 ## Canon promotion
 Only after explicit approval: promote approved text, update chronology/character state/knowledge/open threads/chapter tracker, preserve draft and audits, and record approval.
+
+
+## Required living chapter ladder
+Every chapter packet and draft carries a local header identifying chapter ID, current production stage, exact source chunks and beat range, relevant canon/dossier/continuity files, work order, status, completion evidence, previous file, next destination and next action. The description states its work order. The packet points to the draft; the draft points to review; review points to matching draft and independent audit; audit points to user review. No draft file is a dead end.
+
+## Chunk-to-chapter handoff
+A chapter may draw from several complete or partial source chunks. Its source map cites exact beat IDs and locators, including carryover beats from scenes crossing chunk boundaries. A chunk may contribute to multiple chapters and one chapter may combine several chunks, but every source beat has a tracked adaptation status: retained, enriched, deferred, not relevant with reason, or approved divergence. Chunk boundaries never dictate chapter boundaries.

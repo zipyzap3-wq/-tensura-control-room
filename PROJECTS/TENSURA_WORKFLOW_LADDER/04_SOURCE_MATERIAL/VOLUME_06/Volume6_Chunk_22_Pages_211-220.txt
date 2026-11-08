@@ -1,0 +1,448 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 24 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_6/Volume6_Chunk_22_Pages_211-220.txt | Original blob SHA: a9ccb792837c50c42ef08bdcbb5b03a930fac24e | Original size: 23599 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_06/Volume6_Chunk_23_Pages_221-230.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+AI-READING CHUNK 22
+Original pages: 211-220
+The text below is preserved from the source file. Page boundaries are marked explicitly.
+
+Page 211
+
+begintotwistand till. Amajinwithredhair,akin toburning fire appears before them.
+It’sBenimaruwith his tachionhis shoulder.
+Benimaru has come here to deal with the last dangerous individual on the battlefield—
+Midley.
+“Hey,it seemsour menhavebeentaken under your care.”
+BenimaruarrivestostareintenselyatMidley,buthesoonrealizesthingswereamiss. There
+aretracesoffightsatthescene,yettherearenoinjured. Thetensionthatwasjustabouttobreak
+outnowceases toexist.
+“Wait a second, Benimaru-sama! These people are Milim-sama’s subordinates. The Priest
+Warriorfrom theWorshippersofDragon.”
+“What, Milim-sama’ssubordinates? Thatmeans—”
+“Ourwoundsare healedbytheirhealing magictoo!”
+“…Isee. IsupposeI’vethoughttoomuch. You’vereallyraisedmyalerthighsinceyouare
+thetoughestopponent to dealwithonthis battlefield.”
+“WHAHAHAHA, you weren’t thinking it wrong. Our troop did fight yours. And it’s also
+truethatwe’vehealedyourwounds,butthatisforthecomingbattleagainstthebiggertrouble.
+Rightnow there is nolongerthisnecessity.”
+“—I see. Then what shouldwedonext? Do youwish to fight us?”
+“Aboutthat,what to donow…”
+“Wedon’tactually wanttofightMilim-sama’ssubordinates either.”
+“Hmm, that’s right. Even though I want to have a spar with you, but it’s not to antagonize
+you. Butinsteadto see who’sstrongerin termsof strength.”
+“So that’showitis,I understandyoursentiments.”
+Midley and Benimarubothsmiles asthey finishtheir words.
+“Eh,HOLD ON!Thisisn’tappropriate!”
+“Right, Benimaru-sama! If you harmed Milim-sama’s subordinates, there is no guarantee
+howmuch hell she wouldrain onus!”
+“That’s right, Midley-sama! Rimuru-sama and Milim-sama are friends, it would lead to a
+catastrophe!”
+Hermes and Gabil moves out to stop the two, while Suphia who was trying to interject has
+toshut up.
+“I know. Besides, ifwereallygetserious inthefight, I’ll most likely lose.”
+Benimaru decides to step up with the addition of “I don’t plan to fight without the chance
+towin.”
+“WHAHAHAHA,nicesaying. ButifyouareabletokillthatCharybdis,evensomeoneas
+strongasmewouldn’tbe absolutely surein defending against your attack.”
+Midley follows it up with his laughter, with those words said, he seems confident in pre-
+venting Benimaru from using the skills he used to win against Charybdis. It would definitely
+renderthefightinto a life-or-deathbrawl ratherthana relaxing spar.
+Itwouldbetoostrangetosparonthisbattlefield,andbesides,theincentivetofightagainst
+211
+
+Page 212
+
+eachotherhas long gone.
+Ontopof that,none ofthesidehas theintention of doing the fight.
+Just like that, at this location—The battle that took place at the ruins of the Orc Kingdom
+Obicconcludeswith theoverwhelmingvictory ofthe united army.
+Apart fromthis, there isanotherbattlefield outthere, there also—
+Thetime ismidnight twelveo’clock. Shuna,Soueiand Hakurou begin their operation.
+Acrossthewetlandmaskedbythickfog,thereliestheClayman’sheadquarterahead. They
+intendtogothereas they secretlyintrudethe wetland.
+There are many suspicious swamps in the wetland with sound of biogas popping off. This
+biogasseems to be thecauseofthefogs,adding asenseof creepiness to its surrounding.
+Assoonastheyintrudeintothewetland,athicklayerofmistbeginstoemergeinfronttheir
+eyes.
+“Thisisnot good. My‘MagicPerception’has been affectedby the fog.”
+“Indeed. ThisisthereasonwhyI’vegivenupmyinvestigation. Myvisionsherearegreatly
+limited and I could only rely on my five senses to collect intel. On the contrary, the enemies
+seemtobecollecting intelligenceusingthe fog.”
+“So that’showitis,in otherwords,the situationis highly against us.”
+“Yes. Hakurou-sama should be fine and I could also use skill ‘Stealth’ to conceal my pres-
+ence. However,Shuna-samawould—”
+As Souei said, Hakurou could use his esoteric invisibility technique “Haziness” to com-
+pletely hide his presence. Souei can also achieve perfect stealth that causing one unable to
+detecthimeven ifhe’srightnexttothem.
+“I’ll be fineas well.”
+Shuna is faced with the biggest challenge, but Souei’s concerns seem to be unwarranted.
+Shunaalso erasesher tracesandconceals herperfectly.
+“Oh,soitworksjustlikemy‘Haziness.’ Itseemstobeacombinedskillof‘IllusionMagic’
+and‘Witchery.’ As expectedofShuna-sama.”
+Hakurouis correct, thatistheUnique Skillinvented by Shuna.
+AlthoughunabletorivalRimuru,ShunacancreateuniquemagicthroughherUniqueSkill
+‘Creator.’
+“Itseemsthattheissuehasbeenresolved. Butdostillbecautious,asyoucan’tuse‘Telepa-
+thy Net’ as long as you remain in the sea of fog. The vision is not clear, and communication
+212
+
+Page 213
+
+28
+is difficult, so you guys must be careful with every step you take . Also, here’s something for
+you.”
+In this sea of fog, even with Souei’s “Clone” to connect the them, they can’t communicate
+through“TelepathyNet.” SoSoueiwantsHakurouandShunatoholdonto“StickySteelWeb”
+asmethodof emergencycontact.
+Throughthevibrationoftheweb,theycanmakesomebarecommunicationwitheachother.
+However,oncethewebisbroken,theywilllosethemethodtocontact,sotheymustbecautious
+withits usage. ShunaandHakurou nod andcarefully wrap the web around their wrists.
+That concludes thepreparation work.
+“Let’sheadout.”
+Shuna launchesthe journeyasthe threebeginto move out.
+“—Thisisbad,we seemtohavewalkedinto atrap.”
+Withonlya fewminutes setout,Shuna stopsto say.
+“Atrap?”
+“I’ve also getting a mixed feel from the surrounding, almost as if there are presences of
+enemies—What’sthat!”
+Souei couldn’t finish his sentence when he senses an unknown and overwhelming aura
+suddenlysurroundshim.
+“I can’t believe this… They’ve got many people, how could I have not sensed it, where
+havetheybeen hiding?”
+“No,Hakurou! Theenemieshave notshown, butwe have been lured to this location!”
+“Is that so, it must be this fog. Not only did this fog caused us to lose direction, it also hid
+ourenemies’ presence andluredusinto thecenterof this encirclement of trap…”
+“So thatis how itwas, thisisthereasonwhy I’vebeen feeling strange from the start.”
+“Indeed, Souei, Hakurou. This fog has triggered ‘Spatial Interference.’ No matter where
+theenemies attackus from,itwillalways leadthem back to a certain location—”
+Halfwaythrough Shuna’sexplanation, someone has already rushed out.
+Souei and Hakurou are maintaining their guards against the concealed monsters near their
+surrounding and at the same time, displays a battle posture against the person that suddenly
+appeared.
+Shuna alsoremainssilentasshelooksat theperson.
+A skeletonwearing whiteclergycoat—
+Thatis thepersonwho appearedbeforeShuna’sparty.
+28
+Thisisanidiom一歩一歩をかためて進む
+213
+
+Page 214
+
+“Suchstrongmana…”
+Shuna whispers with coldsweaton her.
+ShethoughtandpanickedforamomentthinkingthatitwasClaymanhimself,buthequickly
+rejectedthatidea.
+It’salreadypastmidnighttwelveo’clock,ClaymanhaslongsetoutfortheWalpurgisBan-
+quet. If that’s the case, the logical deduction would be that this is one of the members of Clay-
+man’scloselieutenants, amemberofthe“FiveFingers.”
+Right now, this individual not only can rival the strength of the Beastketeers, his power is
+closinginon thatof demonlord. Thatis howmuchmagicules this majin possesses.
+What’salsounbelievabletoShuna is whysuch aperson would want towork under others.
+And Shuna then recalls a thing that Myuran mentioned to her. The member of Clayman’s
+“FiveFingers”who is responsiblefordefendingthe castleis—
+“—Isee,youmustbeAdalmann. Therulerofthisland—TheUndeadKingwholeadsmany
+undeadmonsters.”
+29
+Hakurou, through his “Eyes of Heaven” also reached the same conclusion just as Shuna
+described.
+Adalmann’simmense andominouspoweris far greater than what Myuran described. This
+istheUndeadKing who canrivalademonlord, he isthe protector of this land.
+Soueiwouldn’tdoubtShunaandHakurou’s,reachingtheintendedconclusionasitismeant
+to bereached. Heconcentrates hiskilling intentquietly.
+Whoever this foeis, I’llkillhim—That’sthelogic of Souei’saction.
+Atthat moment, Soueipreparesfor action.
+“Indeed,IamAdalmann. GuardianofthislandandservanttotheorderofthegreatDemon
+LordClayman-sama. Lowly intruders, prepare to die. If you follow my order, I shall grant you
+allapainlessdeath.”
+Undead King—Adalmannproclaims.
+Thatisanorderfromaking. Thosewordsindicatethatheisnotconsideringenemiessuchas
+Shunaasanequaltohim. Butitisreasonabletobeterrifiedatthehighpossessionofmagicules
+Adalmannholds.
+Itwouldseemthatduetothepresenceofhisseeminglyinfinitemagicules,tensofthousands
+ofundeadmonsters beginto emergefromthe surrounding.
+Godagodagodagoda, giligiligiligili (spooky skeleton sounds) they begin to make sharp
+noisesasthey surroundShuna’sparty.
+“Soit’strue,we’vebeencompletelysurroundedbytheenemies. Thisfogiscombinedwith
+‘Coordination Barrier,’ we can’t use ‘Spatial Movement’ to escape. All means of communica-
+tionhavebeen interfered, wecanonlybreakout ofthe encirclement by defeating Adalmann.”
+Shuna informs themwithout hesitation.
+Basically,HakurouandSoueiwouldneverjusttakeAdalmann’ssuggestionwithoutafight.
+29
+Thisismoreakinto“EyesofSky,”theheavenherehasnoreligioussense.
+214
+
+Page 215
+
+HearingShuna’ssuggestion,thetwostrike outtogether without a discussion.
+“No time to waste,let’stakedown theenemy general.”
+“I agree. One itis struckbymytechniques, even the dead can’tescape their fate.”
+Thetwomake such responseasthey closein onAdalmann.
+Seeing thetwostriking towardshim,Adalmanngives offa disdaining smile.
+“Hehehe,abunchofarrogantfools. Howsillyofmetohavewishedtoofferyoumymercy.
+Since you won’t even be grateful to my proposition, I shall let you taste the consequences and
+regretyourdecision.”
+Adalmannswings his gianthandasif he stillhasmuch strength to spare.
+Immediately afterward, something astounding occurs. Hakurou’s knife closing in on the
+enemywasstoppedbya knightinfrontof Adalmann.
+Hakurou deeply believed that that strike would have taken his enemy’s life. He backs off
+whilebeingshocked.
+Thatknight is aRank A-minusmonster,Undead Knight.
+However,thatstrikehashadHakuroudiscoveredsomethingamiss. Evenifit’sapowerful
+monster,asingle UndeadKnightwon’tbeable tostop Hakurou’sknife.
+“Youare nocommon foe. Verywell, Ishall usemy real skills to spar with you.”
+Hakurouwas right.
+Hehasrealized thestrength ofthis Undead Knight.
+It is not skills derived from the bodily strength of monster, but from human skills gained
+throughthe hardshipof training.
+Then, it won’t be the simple type to be seen through by “Eyes of Heaven.” That’s why
+Hakurouhas devotedhimselftoduelhisUndead Knight.
+“…”
+TheUndeadKnightremainssilent. Hecan’ttalkwithhietemporarybodymadeupofdead
+corpse.
+However,youcan seethebluewhiteflameshaking in its hollow eye sacks.
+Thatisundoubtedlythelightofwill. TheysymbolizehehasacceptedHakurou’sinvitation
+toduelin the nameof honor asahuman.
+Even though he is no longer a human, the heart of that Undead Knight still belongs to an
+honorableknight.
+Bothsides have rivalingmagicule storesaswell as similar bodily strength.
+Withsparksfromtheclashesoftechniquestrainedforyears,thebattlebetweentwomaster
+swordsmen begin.
+Apart fromthat, Soueihasalsoencountered anopponent.
+He was sneaking near Adalmann before a giant shadow emerged before him to stop his
+attack.
+“Ze!”
+Soueismacks hislip whilestaringat the giganticshadow.
+215
+
+Page 216
+
+30
+“Could this be aZombieDragon —?”
+“No, Souei! The enemy is not that simple! His magicule level alone is greater than you. It
+wouldbe thestrongestundead monsterhere—Undead Dragon!”
+The fog has blocked Shuna’s vision making her hard to do an accurate analysis of the ene-
+mies’realidentities.
+After hearing so, Souei gives off an upset look. He could handle it if he’s on his own, but
+rightnowthesituationishighlydisadvantageousasheisalsotryingtoprotectShunaduringhis
+fight.
+Themore dependableHakurou isfocusing on fighting the Undead Knight as well.
+Souei must defeat the Undead Dragon as soon as possible. If not the tens of thousands
+of undead monsters from all around would devour them all, even Shuna would not be able to
+survive.
+From Souei’spoint of view,hedoesn’tneedto hold back under such circumstances.
+31
+“Timetodie! Webslashoftenthousandmonsters !”
+Hedecides on thespot togiveoffall he hasto attack.
+His Unique Skill ‘Secret Inspector’ grants him the effect of ‘Insta-Kill’ by using tens of
+thousandsof“ViscousSteelWeb”tochophisenemiesintopieces—Thisistheultimatekilling
+move of Souei, like looking through sceneries of a kaleidoscope, where the flowers of fresh
+bloodblooms.
+Itwon’tmattereveniftheenemiesarehalfspirituallifeformsuchasundead. Histechnique
+cancutthroughandkill spiritualbeings, soit should be the case that they are already dead.
+“How couldthisbe, itisregenerating!”
+Souei begins to feelanxious.
+Thetwenty-somethingfeettallgiantbodyhasnowbeenchoppedintochunks,sohisvictory
+should have been guaranteed. Yet, the Undead Dragon revived itself as if it was nothing and
+restoreditsbody.
+That’seven fasterthan“SuperRegeneration,” the power of so called “Undead.”
+“If that’sthecase,I’lldestroyyoualongwith your soul—”
+Souei makes up hisresolve,yetShuna’scalmvoice raises beside him.
+“Calm down, Souei. Some as calm and analytic as you should know that you can’t defeat
+theUndeadDragon,right?”
+“But—”
+“AndthesoulofthatdragonseemstobeinthebodyofthatmajinAdalmann. Don’tworry
+aboutme,justfocus ondistractingthe dragon. I’lltake down Adalmann.”
+Shunasays socalmlyto Souei.
+“Thisis toodangerous!”
+“No, Souei. Rightnow Iamangry.”
+30
+ZombieDragonorDragonof RottenFlesh
+31
+This could use a better term, the skill he shouted here is “操丝万妖斬,” which translate directly to “the web
+manipulationtoslash tenthousandmonster.”
+216
+
+Page 217
+
+A coldsmilehangs onShuna’sfaceas sheexpresses her dismissal of Souei’sconcern.
+Her eyes begin to glow brighter, showing her aggressive side. Seeing this, Souei lost his
+words.
+Shuna was once the female Miko responsible to rectify the Ogre tribes. Her words held
+a certain power that can cause others to follow her every order. Right now, her power has
+32
+long surpassed the Unique Skill ‘Kyogenshi’ (Speaker of mad words) of otherworlder Kirara
+Mizutani.
+Besides, Shunais not thetypeofperson who needsprotection.
+Souei is wellaware of that.
+Then there couldonly beoneanswer.
+“Understood. I wishyouemergevictorious, Shuna-sama.”
+“The same goes foryou,Souei. Thedragon is all yours.”
+Shuna smilesas she saysso.
+Souei nods towards her and returns his focus on the Undead Dragon. Since he’s taken the
+task,hewon’thesitate anyone. Soueiisconfidentin Shuna and dives into his own battlefield.
+Shunaisalonenow,but she’snotanxiousnor panicked as she confronts Adalmann directly.
+Adalmannseems tolook downonher.
+“Oh? What do you plan to do, young lady? What can you do without your guards? And
+howdoyouplantotakeonthisten-thousand strong troop?”
+Adalmann’svoicereflects alevelofunbelieving accompaniedby a sense of joy.
+Infact, Adalmannis enjoyinghimself.
+The order of Demon Lord Clayman cannot be disobeyed, but Adelman’s own will still
+remains,only hisactions arerestrained.
+Eliminatinginvaders—That’stheonlything Adalmanncan do.
+All powerful but with an empty head—That’s how Clayman’s subordinates always mock
+him. ThisisonlysobecauseAdalmannhasbeenbondedbythelandandunabletomovefreely.
+Clayman won’t even give him a chance to argue back, it’s no wonder why everyone does
+notknow about this.
+It’snot accurate to callAdalmannamajin, heismore akin to a weapon.
+Heisthe defense mechanismbondedto this land to protect the castle.
+His soul however is not restrained, but his actions are all scripted orders that would auto-
+maticallybe executed.
+32
+Kyogenshi(狂言师),or performerofKyogen,isa performerofatraditionalJapanesetheaterplayKyogen.
+217
+
+Page 218
+
+AlthoughheclaimstopledgehisloyaltytoClayman,butit’sallbutanact. Thismechanism
+has long been designed to express respect towards its master. And Adalmann has long desired
+togetrid outof such chain.
+That’swhyAdalmannisenjoyinghistime talkingto Shuna.
+Hewouldalwaysautomaticallycarryoutthemissiontoprotectthecastleregardlessofthe
+situation. However,Adalmannisnotrestrainedfromtalkingtotheinvaders,whichisoneofhis
+sourcesofjoy.
+Itisperhapsatwistedformofmercyfromthecraftsmanofthismechanism—DemonLord
+Kazalim.
+Perhapsthatisnotthetruth,however,Adalmannhasdecidedtoexplainitinthatdirection.
+Afterall,withthistipbitofmercy,Adalmannwasabletoremainsaneandendureforthousands
+ofyears.
+Idoappreciatehimfor craftingthismechanismin orderto prolongits durability.
+Adalmannbelieves sodeepdownhis heart.
+It is for this reason he is able to give everything he has to defeat the invaders when he’s
+bodyisnolongerretrained.
+Upon imagining the scene of more than ten thousand undead monsters plunging at Shuna,
+hepraysto himselfthat shewon’tsuffertoo muchpain in her death—
+“Youdon’thave to worryaboutthat. ‘Anti-Monster-AttributeBarrier’!”
+Shuna’sfirmvoiceechoes.
+Atthatinstant,thecirclewithone-hundred-feetlongradiuscenteredaroundShunasuddenly
+becomesaholyground thatwouldpreventthe invasion of any evil monsters.
+This is a barrier that will respond to magicule matters. She “Analyze” and “Fuse” her
+“Magic Nullified Domain” and “Holy Purification Barrier.” With previous experience of their
+usage,Shunadeveloped thisoriginalspell by herself.
+Thistimehehasbarricadedagainstallmagicule. ItalsohasverypowerfulMagicaldefense
+thatcouldchooseone of thefourelements suchas fireand wind to defend against.
+“Now then, we won’t have any other people to interfere. If I can beat you, I would be able
+todestroythe defense mechanismthat isusingyou as its core.”
+“—Oh, impressive. You’vediscoveredmy secret. Little girl, what is your name?”
+Indeed, justas whatShunasaid.
+OnceAdalmanniseliminated,thedefensemechanicsofthecastlewouldalsobedestroyed.
+The key point of the mechanics lies on the fact that Adalmann’s soul has been bonded to the
+terrain,which has enabledtheperpetuation ofpowerful magicule energy.
+Of course, then the Undead Dragon who admires Adalmann, his close ally and friend Un-
+deadKnightwould alsobeabletobreakfree fromthis cursed bond.
+ShunahasseenthroughthetruthinoneglanceandAdalmannisimpressedfromthebottom
+of his heart. He also holds a shred of hope that his opponent may be able to assist them in
+escapingtheir suffering.
+“Mynameis Shuna.”
+218
+
+Page 219
+
+“Shuna, Shuna-san then. Let’s have our battle. If you could beat me, I shall respect your
+will.”
+“That’squitethegenerousoffer. However,weonlywanttodestroyDemonLordClayman.
+Ifyoustayoutofmyway,Icanspareyouyourlife. Youcanalsocontinuetostickaroundhere
+ifyou want!”
+“Heheh, but shouldn’tyouknowthat issimply impossible?”
+“Isthatso? Bythemagnitudeofyourstrength,youshouldbeabletowinagainstthatcursed
+bond by yourself, but I may have been mistaken. It can’t be helped then. I’ll go according to
+theplantodefeat you.”
+Shuna says so withouthesitation.
+If I could conquer this cursed bond, I would have done so long ago. Demon Lord Kazalim
+is a horrifying man who few could stand against him. HIs title “Curse King” did not come in
+vain. Yetyou describeitlike suchaneasy chore…
+Thatis how Adalmannseesit,buteven so,hismood did not get worse.
+“Then thiswouldbe theendofourconversation. Now,fight with everything you’ve got!”
+Thebattle ignites.
+………
+……
+…
+Adalmannwas once a prince.
+HishometownwasoneofthemanyprovincestatesundertheruleofHolyEmpireofLube-
+lius.
+These countries had no army. They relied on the Templar Knight Order sent out by the
+centralSaints Churchtoprotect theirlands.
+ItwasatthecostofhavingtoupholdtheLuminassectastheirnationalreligionandsupply
+theknightorder withbothtalentedlabor andmonetary fund.
+At the time, the Western Holy Church were not as influential as it is now, and the Holy
+Knight Order has yet to be formed. The ones excelled in the field would be rewarded the hon-
+orableknight title of theTemplarKnight. It was atitle that cannot be passed on in generation.
+Under such circumstance at the time, Adalmann was one of these talented individuals that
+waselected.
+His brother inherited the throne and gave birth to the new heir. Due to such condition,
+Adalmann becamemore diligentinpromotingthe Luminas sect.
+Hestarted hisnewcareerbyjoining theWesternHoly Church that promote Luminas sect.
+Adalmannwas charmedbythedeity andbelieved Luminas with all his heart.
+Luminas is thegreat god,andAdalmann neveronce held doubt against his god.
+Thatiswhyheobtainedthearchbishopskill“Miracle”andbecameoneofthefewmasters
+of“Holy Magic.”
+He was able to climb to the highest position within the Western Saint Church and became
+aCardinalDeacon,yethispositionwithintheHolyEmpireofLubeliuswasstillnotveryhigh.
+219
+
+Page 220
+
+Adalmanncontinued toworkeven harder.
+Inordertogettoahigherplaceofpower,hedidn’tlimithimselfto“HolyMagic,”heeven
+33
+begantolearnothermagics. Heoftendiscussed,practicedmagicwithhisfriendthen,Gadra ,
+in hopesof becoming stronger.
+34
+His hardworkwas finallyrewarded,as Adalmann was able to become a “Sage” .
+Sage refers to the spiritual life form that pushes human body to a similar state as the astral
+bodyofagreaterspirit. Thesepeopleareseenashumanity’sguardianwithmuchgreaterstrength
+thanordinaryhumans.
+Withthispowerinhand,Adalmannwasabletomoveuptheladderofpowertoassumethe
+35
+roleofCardinalPriest.
+Timepassed byfast.
+Adalmanndevotedhimselfintostudyingmagicandwasonemorestepbeforereachingpeak
+humanperformance andbecoming“Saint.”
+Yet Adalmann encountered a joyful surprise then. Someone finally summoned him to the
+“Innersanctum” on theSpiritMountain.
+Hewas reallyhappy.
+Now Icanfinally meet Luminas-sama!
+Indeed, Adalmann really did believe in the existence of the god Luminas. After all, it is
+reasonable for him to thinksogivensuchfantasyis part of his faith.
+That was the beginning of the end. The uninformed Adalmann headed towards the Holy
+Landwith greatjoy.
+Yetunknowing to him,hisardenthearthadbeen betrayed—
+………
+……
+…
+Theintense magicalbattle enteredastalemate.
+“Meltthem down,corrodeallmatters—Corrosive Acid Magic Missile!”
+Adalmannchant andcast elemental-based magic“Corrosive Acid Magic Missile.”
+Many water balls begin to flow in midair and pour towards them the magic missiles that
+could corrode even bones. These water balls begin to shoot out Magic Acid Missiles at Shuna
+likeastormof rain.
+YetShuna does notseempanicatall.
+“MagicFlameWall.”
+Theflamewall stoppedalloftheacidmissiles andevaporated them.
+33
+Rememberthisname,he’dbe backin6volumeskek
+34
+Sennin (仙人) are normally refers to people who has transcended humanity after prolonged meditation or self
+training. In slime, it’s tied in to the system describing the level of power human can achieved in the realm of
+holy magic/non-monster skills. (vis-a-vis human can also become majin with magicule development) -Revised
+to“Sage”
+35
+For those interested, the cardinals’ order of rank (top to low) in catholic church is Cardinal Bishop, Cardinal
+Priest,Cardinal Deacon. Thesemembersaretheclosesttopopeship.
+220
+
+--- END PRESERVED SOURCE BODY ---

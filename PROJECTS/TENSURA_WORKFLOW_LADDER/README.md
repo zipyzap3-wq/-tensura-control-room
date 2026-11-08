@@ -16,6 +16,12 @@
 This is a clean-slate project area inside the Central Control Room repository. It is isolated from the old Gobta/Take Two story. Volumes 6 and 7 are imported as source reference only. No old story draft, character state, AU decision or continuity assumption is automatically canon here.
 
 ## Navigation
+- 04_SOURCE_MATERIAL/SOURCE_READ_LOG.md
+- 05_PROJECT_AUTHORITY/PROJECT_DIRECTION_AND_AU_INTEGRATION.md
+- 13_REUSABLE_CRAFT/SOURCE_CHUNK_INTEGRATION_METHOD.md
+- 13_REUSABLE_CRAFT/CHARACTER_INTEGRITY_AND_VOICE_LOCK.md
+- 13_REUSABLE_CRAFT/LIGHT_NOVEL_SERIAL_NARRATIVE_METHOD.md
+- 13_REUSABLE_CRAFT/AUTHORING_PREFERENCES.md
 - 01_MASTER_WORKFLOW_LADDER.md
 - 02_FILE_BRANDING_STANDARD.md
 - 03_REPOSITORY_ARCHITECTURE.md

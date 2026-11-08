@@ -1,0 +1,683 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 39 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_03_Chunk_009.txt | SHA 4ddc4017f7e7c2ff039f398be5e6f538c4241e11 | 46248 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_03/Volume_03_Chunk_010.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 3 (continued) ===
+
+Several days had passed since they had cowed Rommel into submission. They had no need to heed Nidol’s orders any longer, and yet Yohm insisted on plunging farther into the wood. He had no intention of returning to Migam territory—instead, he had a different destination in mind.
+
+“Boss, why ain’t we goin’ back to town?”
+
+“Yeah, I’d kinda like to find a girl to sleep with sooner or later…”
+
+“Shut up, you fools! I don’t trust that crafty ol’ Nidol, but he’s still nobility, y’see? We can’t beat ’im in a head-on scuffle. It’d be easy enough to off the bastard, but then we’ll be wanted by all o’ Farmus. You want the royal knights breathin’ down our necks? They’ll kill the whole group of us!”
+
+“Yeahhh, but…”
+
+“So where d’you want us to go?”
+
+“Oh, now you’re askin’ me? Use your brains a little, guys—”
+
+None of them had much in the way of brainpower, so Yohm spelled it out.
+
+He had a point—even if they returned to the Earl of Migam’s lands, they couldn’t expect to ever have a decent living there. They’d be imprisoned again—and indentured into work again. So he thought their best chances lay in other nations.
+
+“We’re gonna head for the central part o’ the forest and find out what this orc lord’s up to. Then, we’ll travel in whatever direction’s the safest, and whenever we hit another country, we will settle there.”
+
+“But, boss, why do we have to expose ourselves to danger like that first…?”
+
+“Oh, what, you wussin’ out on me, you imbecile? The orc lord’s grown to the point where he’s already got an army at his beck and call. What do you think’s gonna happen if we stop in some town and they’re headed straight for it? We’ll be dead with all the other townspeople, is what. Yeah, it’s dangerous, but we need more info if we wanna keep ourselves safe, okay?”
+
+“Wow. Smart plan, bro.”
+
+“I got it now, boss!”
+
+“Plus,” added Rommel, “Yohm has no intention of actually engaging in battle. He’ll just have me check on where the orc lord army is, then relay that information to the earl.”
+
+“Whoa, hang on, Rommel. Whaddaya mean by that?”
+
+This was Kazhil, Yohm’s right-hand man, who spoke up.
+
+Rommel was quickly solidifying his position as the group’s chief of staff—and everyone in the band recognized his extensive knowledge of matters.
+
+“I mean, once we take care of the original job assigned to us, we can make the good earl think we were massacred by the orc lord.”
+
+“Wait, so…”
+
+“We make that old coot think we’re all dead, then we ain’t got to worry about his men pursuing us, and if the orc lord decides to hit Migam, Nidol can figure out a way to deal with it himself. I’d hate to just let my homeland burn at the orcs’ hands, so we oughta warn ’em, at least, yeah?” Yohm explained to Kazhil, who was having trouble understanding.
+
+“Quite so. I will tiptoe up to the orcish army and use my magic to detect their activity. Once I’ve confirmed where they are headed, I will teleport myself, and only myself, to the earl and report back to him. This is when I’ll tell him that you were all vanquished, so no need to worry about that. Besides, if we’ve gone this far, I might as well collect our pay from him, yes? Then I’ll make up an excuse to return here, so do make sure to wait for me.”
+
+The spark of understanding finally began to spread around the band as Rommel went more in-depth.
+
+“Ahh. Now I see. Then we can escape to somewhere safe and start a new life, huh?”
+
+“Yep. Exactly.”
+
+Yohm’s intention was to have the entire band join the local Free Guild or whatever, gaining a little security for themselves. Free Guild identification papers were added to a ledger kept by magic, ensuring they were valid in any nation. Criminal records, meanwhile, weren’t. It felt like the perfect plan to Yohm, but any crimes they committed
+
+after
+
+joining the guild would also be marked on their magical records, so they’d have to be careful about that.
+
+“Well, we can think about our next moves once we reach our new homeland. With our numbers, we oughta be able to take on some decent monster runs and live off o’ that. But before that, we need to make it outta this mess. You hear me? If the orcs stumble upon us all first, we’re gonna be in deep trouble. Y’all keep your eyes open, you got that?” With that, Yohm closed the topic.
+
+First, find the orc lord’s army. Then, get out safe. They could bitch and moan at one another all they wanted, but one thing was for sure: They could absolutely never let their guards down.
+
+Several hours later…
+
+The band was on the move, running regular patrol shifts to stay alert.
+
+They could hear fighting up ahead.
+
+“Boss—”
+
+“Sshhh!”
+
+Yohm quieted his men down, gesturing them to group together and get into military formation. When they were ready, he waved a hand forward, and they all began to quietly march, weapons in hand and ready for battle.
+
+Already, they could hear voices from up ahead.
+
+“Whoa! Stop, stop, stop! We go there, we’re walking right into its trap!”
+
+“But…but I don’t think we can win if we keep fighting like this!”
+
+“Guys, I can only keep our position here for so—whoa! Look out!”
+
+They could hear all the shrill complaints above the
+
+Ting! Ka-shing!
+
+of solid metal clashing against metal.
+
+“I swear, you guys… Why do you do all this dangerous crap every single time?! How do you even survive, performing all this utter nonsense? I knew I was putting too much faith in you… Dah! Elen! Look out! It’s headed over there!”
+
+The noise grew louder. They could hear the entire conversation now. They were humans, apparently ambushed by monsters. Several of them, Yohm figured, based on how the sounds of battle never halted for a moment.
+
+“What now, bro?”
+
+Yohm wasn’t sure. He didn’t answer, instead carefully eyeing the woods ahead.
+
+He had thirty men under his command, but by adventurer standards, they’d be a C rank at best. Maybe Kazhil, his partner in crime, could manage a B—and Yohm himself, while confident in his strength, didn’t have that much experience against monsters. Thinking rationally, they were better off letting them be.
+
+What a pain in the ass… Well, sorry, you guys, but we’re outta here—
+
+Wait. That girl?!
+
+Just was he was prepared to give the order, Yohm spotted a woman running at them from ahead. There was the sound of a female among the voices he heard; it must have been one of the fighters.
+
+“Dehh! All of you, prepare for battle. That bitch spotted us!”
+
+Yohm’s Farsight skill let him see the situation clearly. A large male fighter was using his shield to fend off an attack from a spider, but it got sent flying after one strike made it through his parrying.
+
+The spider, opting not to pursue its opponent, changed its focus to the woman some distance behind. It must have been intelligent enough to leave the tougher, dicier foes for later. And indeed, the woman was quick and unerring in her moves—the moment the spider was upon her, she was already fleeing.
+
+Truly, a seasoned adventurer. Yohm took a moment to marvel at the sight—long enough for one of the spider’s eyes to focus squarely upon his group. This spider chasing the girl was a true monster, its body protected by an exoskeleton harder than steel that defended almost everything except its joints. It could move all those many joints freely and easily, making it far quicker than any human. Each leg was as sharp as the keenest of blades, ready to slice through any tree trunk or human torso. They weren’t swords so much as retractable spears.
+
+It was likely the “boss” of the local territory, and between its foreboding appearance and its apparent strength, it was a far cry from any monster Yohm’s band had defeated before.
+
+Those adventurers look pretty expert, so they’ll probably hold out for now, but attrition’s gonna kill ’em in the end
+
+…
+
+That swordsman’s still keeping things pretty even, but
+
+…
+
+All the same, Yohm didn’t expect this to end well for any of them.
+
+“That… That’s a knight spider! An A-minus monster! Oh no… Yohm, there’s no way we can defeat it. Let’s go! We’re just no match for it!!”
+
+Rommel, using the elemental magic spell Clairvoyance, was already looking pallid as he gave the report to his boss.
+
+Yohm wasn’t interested in listening. “Forget it. Look at that monster move. It can use the trees to go wherever it wants. Once that party’s annihilated, we’re gonna be next—it’ll hunt us down in an instant and kill us all. Running at full speed ain’t gonna save us now, huh?”
+
+He had no knowledge about knight spiders, but Yohm was still coolheaded enough to instinctively feel what this monster meant. Those instincts told him that fleeing was not in the cards. So he decided to fight back.
+
+They were surrounded by trees—trees that the spider could cross more quickly than skittering across the ground to catch its prey. Once it caught sight of you, it was all but hopeless. These were the knight spider’s hunting grounds, and Yohm’s men were the hapless prey. The only way to survive was to slay the foe—that offered the only potential for survival they had.
+
+Yohm steeled himself. “Dammit, I’ll make you pay for dragging us into this, ya bastards! Rommel, cast some strengthening magic on me! Kazhil, you direct our men! Form a circle, and if anyone’s hurt, change ’em out. You’re all gonna survive! That’s an order!”
+
+Following his command, the band formed a circle formation. In the middle were healers and scouts—men not suited for battle—and Rommel. The rest were forming a shield to protect them. Their orders were to focus exclusively on defense and not launch any attack. Instead, they would let the fighters in the safe zone deal damage with arrows and magic.
+
+The scouts readied their bows, waiting for the knight spider’s advance, as Rommel began to cast a spell. It involved several inscription magics, something he normally never used, as he set about boosting Yohm’s strength. There was the supplemental magic spell Strength, along with Agility, Protection, and Reinforce Weapon—all serving to power up every aspect of his weapons and armor, granting him a great deal more force. It didn’t make them any less anxious about his chances against a knight spider, but it helped.
+
+Still, Yohm’s heart was serene as he stared the spider down. In a moment, the battle was under way.
+
+The woman truly had no shame, showing zero hesitation as she made a beeline straight for Yohm’s band.
+
+“Excuse meeee!” she shouted as she wriggled her way inside the circle, not bothering to ask for permission. The moment she was safe, she took a moment to catch her breath.
+
+She’s got a lot of nerve
+
+, Yohm thought.
+
+“Whoa! Lady! That’s not fair, going in alone!”
+
+Somewhere amid the chaos, another man—a thief, by the looks of it—had made his way inside as well.
+
+Not a moment off their guard
+
+, Yohm thought as he rolled his eyes, but he had other things to attend to.
+
+“Oh, come on… Are you in any position to whine at me?” the woman said.
+
+“Whaddaya want from me? There’s nothing I can do against that guy! How am I supposed to strike any kind of lethal blow with a dagger, I ask you?”
+
+This pair, at least, didn’t seem too concerned about the danger.
+
+“Geh. I’ll settle things with you later,” Yohm said as turned toward the spider and swung his greatsword at it. He preferred wielding a two-handed weapon like this in place of carrying a shield. It was a good six and a half feet long, bladed on both sides, and the force behind its weight made it a fearsome slashing weapon. That weight also made it extremely hard to handle, but even without magical enhancements, he had the brute strength and ability to easily heft the greatsword to and fro.
+
+Now he was using that magic support to whip the giant hunk of iron around like a steel demon.
+
+Hard, solid noise surrounded him, and the tortuous
+
+clanggggg
+
+irritated his nerves. It was the sound of Yohm’s sword smashing against the knight spider’s leg. It should have been cut cleanly in half, but the exoskeleton was more than capable of resisting this force.
+
+He groaned.
+
+Geh. Damn, it’s tough. Is that what all that sound was before?
+
+Then he changed position, hoping to divert the spider from his party’s circle formation. The spider followed, predictably enough, then attempted to spear Yohm with several legs at once. Unfazed, he danced his way through the attacks—the same ones the large fighter parried with his shield earlier. Without any kind of shield, Yohm opted to wend his way through the stabbing legs instead.
+
+For what seemed like forever, Yohm continually deflected the knight spider’s strikes. It was never-ending for Yohm but a mere instant in reality. Several legs grazed past his cheek, dug into his side, pricked at his legs, but none of the strikes affected the battle.
+
+He had dodged them all—and as he had the spider’s attention, the man with the shield, along with a lightly equipped swordsman, were back in the battle, equipped with a new set of magical enhancements and ready to fight again.
+
+“Sorry we got you into this. I’m Kabal. You can whine at me later.”
+
+“No time for details. Just call me Fuze for now.”
+
+“Yohm. My band’s nothing but a drag on us, I guess. We’ll have to take care of this ourselves.”
+
+“Got it.”
+
+With that short conversation, the three refocused on the attack. They each moved to surround the knight spider, restricting its movements, taking turns to attract its attention while the others hit at it.
+
+Faced with this steel-like exoskeleton, no pedestrian attack would cut it. Yohm’s men understood that; none dared any foolish moves. If they failed and a pincer felled one of them, the results would be too terrible to look at.
+
+They knew their role was not to drag down their leader. They believed Yohm could win, and in the meantime, they reinforced their defenses.
+
+The magicians Elen and Rommel were each preparing their trademark spells.
+
+As a sorcerer, Elen’s specialty was elemental magic, granting her access to a large swath of damage-dealing offensive spells. But she was positioned poorly for that. All the trees surrounding them made the most powerful of her flame-based magic out of the question. Magic was all about picturing what you wanted to happen, allowing the caster to change the nature of their spells to some extent…but attempting to corral white-hot flame was a tall order.
+
+But right now…
+
+“Let’s see how you like one of my strongest moves! Stone Shot!!”
+
+In a moment, Elen had converted the stones on the ground into lethal bullets, infusing them with yet more magic force to summon a punishing, coordinated rain of ammunition upon the knight spider. Every magic-enhanced stone bullet was the size of a human fist, and based on its speed and mass, each one delivered several tons’ worth of force. It was a merciless, punishing magical rain.
+
+Meanwhile, the three fighters were still taking turns to confront the knight spider—Yohm deflecting its strikes with his greatsword, Fuze with his smaller, nimbler sword, and Kabal with his shield. This is what the spider had to deal with as it was pelted by magical bullets from all directions—but none even dented its exoskeleton. They all bounced harmlessly off, knocking the creature slightly off-balance for an instant but doing little else.
+
+“Awwww… That was my killer move, toooo…”
+
+The sight of her killer move failing after she used most of her remaining magic force on it astounded Elen. She had already tried out Icicle Lance and Windcutter, and the results were similarly pitiful. Really, the last finisher she had left was also her strongest— Fireball.
+
+“It’s hardly a surprise,” Rommel commented. “This knight spider is a local boss-class monster, rank A-minus. We can expect it to have a lot of magical resistance. Given how it’s the apex predator around this area, you’d have to expect at least this much strength. It’ll be hard for any of us to land a convincing blow at our levels…”
+
+“Okay, so
+
+now
+
+what do we do?”
+
+Rommel shrugged at Elen. “Nothing left but to help them with support magic, I suppose.”
+
+Elen tried to counter this brief assessment. But faced with the reality that none of her magic worked, she gave up. She had a feeling, without even trying it out, that Fireball would meet the same fate.
+
+“Oh, all riiiight! I hate not being in the spotlight and using stuff like this…but I’ve got Magic Barrier on me.”
+
+Rommel nodded. As a sorcerer himself, he had several inscription magics at his disposal. Those were what he had used on Yohm, and the other two fighters were already enhanced enough.
+
+“The enemy’s offense is so strong that it just peels away any magic effects on them. It’s over if they break their weapons, so it’s all I can do to keep just Reinforce Weapon going. If you can fully focus on building that Magic Barrier at all times, that’ll help us out.”
+
+“All right!”
+
+Elen adjusted her outlook on the battle. She couldn’t deal magic damage, so she was stuck with a support role instead—a role she happened to be first-class at. Calculating her remaining magical force and recovery skills, she distributed her magic as needed for the battle at hand, and Rommel did the same by her side.
+
+It wasn’t flashy, but it was a consistent approach to magical support as they concentrated on keeping the aid flowing to Yohm, Fuze, and Kabal. He may have said “just” Reinforce Weapon, but he still managed to keep his other spells going as well without interruption.
+
+It was an impressive, top-level feat from Rommel, the result of him perhaps toughening up a bit and sowing the seeds of his own magical talents during the past few days with Yohm.
+
+The performance lit a fire in Elen.
+
+Not bad. Better not lose the spotlight to him!
+
+Now, she didn’t mind the role so much. Not flashy, but absolutely important.
+
+Meanwhile, the knight spider and its opponents continued to trade blows with one another, the sheer, wearying intensity of the confrontation not allowing them rest for a single moment. Even in such extreme conditions, the three were still flashing bold, intrepid smiles.
+
+“Yo…Kabal, yeah? That armor of yours sure is tougher’n my cheap piece of junk.”
+
+“Heh-heh! Yeah, I’ll bet, huh? This was crafted by Garm himself, you know! It ain’t no ordinary piece of scale mail!”
+
+“Huh. Garm the dwarven armorsmith? Dang, no wonder. It looked like you took a couple direct stabs, and yer none the worse for it!”
+
+“Oof, you saw that?
+
+That’s
+
+embarrassing. Well, I may not look it, but—”
+
+“Will you two take this more seriously, please?! Stop chatting while it’s my turn to distract him!”
+
+Fuze couldn’t help but lecture the other two as they enjoyed a lively bragging contest better suited for a tavern. They both grinned, like students being admonished by their teacher.
+
+“I’m up next, old man.”
+
+With an exaggerated slash, Yohm tagged in for Fuze. The magical light surrounding him, slightly dimmed just a moment ago, was now bright once more. He was ready.
+
+The rotation of magical support was being timed perfectly with their own juggling act, as if all five had been working together for years. Very few could have guessed they were fighting in this group for the first time.
+
+“Thanks,” Fuze shouted, leaving the heavy lifting to Yohm. Dodging his way through the knight spider’s string of stabs, he felt exhausted, his very nerves worn to the core. But he never griped about it. He was the oldest and most experienced man in the circle.
+
+By the guild’s rankings, he was an A-minus adventurer. His position as Blumund’s guild master meant he was no longer on the front lines, but he never stopped honing himself—the reason he was still able to keep up with this spider’s movements.
+
+But I’m definitely losing my edge. I could’ve taken this guy solo way back when, but not now. All I’m doing is buying us just a small sliver of time
+
+…
+
+Still, he was the great natural talent among the trio surrounding his foe right now.
+
+And because of that, Fuze could predict how this would turn out.
+
+This isn’t good
+
+…
+
+Sooner or later, they would falter.
+
+With the right magic, tackling a monster stronger than you would be feasible enough. Here, that wasn’t working out. Knight spiders were too resistant to magic, requiring punishing physical damage instead. Fuze understood that, out of this group, only the three of them were gifted enough melee fighters to deal out that kind of damage. Yohm’s men weren’t up to snuff.
+
+So it was all up to these three men, but after ten or so minutes of battle, they had hurt the spider only a tiny amount. None were seriously injured yet, but they couldn’t hide their accumulated fatigue. Gaining another fighter in Yohm, along with some much-needed magical support, was what allowed them to even tread water.
+
+“Oh, man, I dunno…”
+
+“Pfft! Quit your cryin’! You’re the ones who roped me into this! We’re all gonna get killed if we can’t do this guy in, so if you got breath left to bitch at me, move yourself!”
+
+When Kabal muttered to himself, Yohm launched into a tirade.
+
+They all understood that perfectly well. Without any really decisive magic that worked, they knew that beating it with their own muscle was next to impossible.
+
+But giving up was a one-way ticket to death.
+
+They all drummed up as much courage as they could, continually throwing themselves into the all-but-desperate battle.
+
+Then they heard another voice. One much more relaxed.
+
+“Huh? Ooh! Hey, is that you, Kabal? Whoa, long time no see! And you’re fighting a monster like always, too, huh? You sure must like fighting.”
+
+They were being greeted by five monsters riding wolf-type creatures—a platoon of goblin riders, led by Gobta.
+
+Just as they were about to return from their usual patrol, they heard the sounds of battle from before. Gobchi, the eye-patch-wearing assistant to Gobta, noticed first.
+
+“Gobta, I can hear fighting from somewhere.”
+
+The platoon captain was pretending to ignore the noise, hoping for a nice, chill ride back to town, but his team was having none of it.
+
+“I guess so, huh? Should we go check it out?”
+
+“Ooh, well, I’d say that’s a good idea, yes. Don’t want to be yelled at later, do ya?”
+
+“Yeah, yeah… Let’s just check up on it, then.”
+
+Following Gobchi’s advice, the platoon headed toward the sounds.
+
+And then…
+
+Gobta found a couple of familiar-looking faces fighting a knight spider.
+
+“Whoa! Damn, it’s you, Gobta! Don’t just stand there like an ass; help us out! We’re running out of time!”
+
+Kabal sounded quite a bit more harried than Gobta, dodging the spider’s sharp barrage of strikes as he shouted. He was plainly near the end of his rope, simply letting the multi-leg attacks he couldn’t fully parry bash against his armor. It wouldn’t be long before that armor gave way—and with it, his life, perhaps.
+
+“Ooh, that’s Fuze, isn’t it? Hey! Fuze! It’s me, Gobto!”
+
+“You too, Gobto?! Hurry up and take my place!!”
+
+Just as Gobto spotted Fuze and called out in greeting, Kabal was the one who shouted back as the spider flicked his helmet off his head for him.
+
+“Well, all right. I’ll take over for Kabal. Gobchi, you get everyone else to distract the spider!”
+
+At Gobta’s orders, the platoon began to move.
+
+Nimbly dismounting his starwolf, Gobta strode over to follow Kabal’s lead as the other goblin riders directed their partners to divert their foe’s attention. The wolves attacked with their sharp fangs and their claws, and while neither found any play on its hard exoskeleton, their speed outclassed the spider’s, letting them take a secure stick-and-move approach.
+
+The B-ranked starwolves couldn’t scratch a knight spider, but in terms of agility, they were an even match. So giving up on the direct approach, they shifted styles so their hobgoblin partners would take over on offense. Thanks to the able hands of Gobchi and the rest of Gobta’s crew, this let them slowly pile on damage.
+
+“Dang, those spears of theirs are
+
+sharp
+
+. It looks like they can lengthen and shorten them at will, too.”
+
+“They are. And they’re a measure sharper’n my greatsword, even. Maybe we coulda had a fightin’ chance if I had somethin’ like that, eh?”
+
+Kabal muttered in wonder as he took a break to heal himself, and Yohm appeared beside him to take a break as well.
+
+“I just can’t believe this. What are those wolves? Some kinda mutant from black wolves or gray wolves? And why do a bunch of hobgoblins have such incredible weapons, too? And why’re they so strong?!”
+
+Fuze picked this moment to join them, still panting for breath and taken aback. Neither of his companions had a ready answer, so they settled down and began to watch.
+
+Considering the brutal battle they’d just waged, it was hard to imagine what they were seeing now. The goblin riders were boldly attacking, or seemed to be anyway—although they appeared to be giving themselves a fairly large safety margin. None of them were damaged. Meanwhile, Gobta was the only one confronting the knight spider on foot, leaping this way and that to attract his foe’s attention. He didn’t have to fight for it. It seemed like he had a full grasp on every twitch of the spider’s legs.
+
+“Man… That hobgoblin— Gobta, he said? Who the hell’s he, huh? And, like, even before that…” Yohm cut himself off.
+
+There was a lot he wanted to ask, but he resisted. Now wasn’t the time. He wanted to catch every moment of this battle while it lasted.
+
+Gobta busied himself with twisting, bounding, and dodging the spider’s attack.
+
+Hmm. Kinda slow. Compared to the wringer Hakuro puts me through, this is easy peasy.
+
+Taking a closer look at the spider, he realized that it always stopped moving for a moment before unleashing one of its leg-pincer combos. The multi-leg attacks followed a set rhythm as well, making it simple to predict where they would stab next.
+
+“Okay, let’s get this over ’n’ done with!”
+
+With a single, spirited shout, he removed the shortsword from his waist and, with pinpoint accuracy, slashed at a small wound made by one of his goblin riders. One of the spider’s long, spear-like legs arced through the sky. It was sliced cleanly from its body.
+
+“Dang!”
+
+“Whoa, Gobta! That’s incredible!”
+
+“Now
+
+that’s
+
+a shortsword. I think I’m in love with how it cuts!”
+
+Gobta wasn’t one to ignore all the praise from his friends. It was forged by Kurobe for him, thanks to Rimuru’s promise. It was certainly no bargain-basement item from the local weapon shop—it was a masterpiece of a blade, crafted to be as sharp as possible.
+
+It was also magic, imbued with a certain extra-effect thanks to Rimuru’s Deviant unique skill. When Gobta willed it in his mind, the blade would encase itself in ice, turning it into a jagged, frigid blade that could also be launched as an Icicle Lance. Gobta didn’t invoke it here; using magic took up a massive amount of his own magicules, so he couldn’t just whip it out on a whim. Kurobe had reminded him time and time again about how his ace in the hole should only be used when the time was right, and he followed that advice faithfully, never wasting his arsenal.
+
+Besides, now he had a weapon even more effective than an Icicle Lance.
+
+“This is even better!”
+
+He held the sheath for the blade up high, still clenched in his left hand. He didn’t mean to sound like a braggart, but he undoubtedly looked it.
+
+“A sheath…?”
+
+Instead of answering Gido’s question, Gobta made his move. He pointed the sheath at the spider, hole first. The next moment, it emitted a sort of blackish-red glow.
+
+The entire inside of the scabbard was lined with magisteel, with insulated electric wire wrapped around it like a solenoid. Energizing this wire with Dark Thunder—the skill that Deviant had granted it—created a powerful magnetic field, which then launched the bullet at the bottom of the scabbard out of the hole. A sort of coilgun, in other words.
+
+It was called the Case Cannon, and while Rimuru had made it mostly for fun, Gobta was a huge fan.
+
+The scabbard ejected a hunk of iron around two centimeters across. It made no sound, but the effects were dramatic. The spider writhed in intense pain, its mouth shivering and gnashing. The resulting otherworldly noises sounded like pure anguish. And why not? The shot had gouged out or flattened several of its eyes, which were now spurting out jets of blue liquid.
+
+“Yow! That was great, Gobta!” one of the other goblins whooped.
+
+The humans, meanwhile, had nothing to say. Not even Fuze could fully parse what had happened.
+
+“—What the hell was that?!” he stammered out.
+
+Gobta had other things on his mind.
+
+“Well, we’re gonna have one heck of a feast today! There’s gotta be some great eatin’ on this spider!”
+
+His eyes were on the knight spider—not as a foe but as a yummy piece of prey.
+
+“Whoa, whoa, that’s an A-minus area boss! And you’re worried about eating it?!”
+
+Fuze was ignored once more, his voice rapidly losing its strength. His mind had trouble keeping up with the sights before him. All he could do was sit there and watch absentmindedly.
+
+Yohm and his men were just the same, gazing at this former clear and present danger to their lives that had been swatted down like a bug. Yohm didn’t like that much, although he couldn’t articulate why. A natural sort of disappointment spread across his face as the five goblin riders ignored him and kept toying with the spider.
+
+A few minutes later, the humans were presented with a dissected knight spider.
+
+Gobta was next to it, looking incredibly pleased with himself and chatting with someone via Thought Communication.
+
+“They’ll have a recovery team here before too long. You leave three of us here to stand guard. I’ll guide Kabal and his friends back to town.”
+
+“Got it. Be careful.”
+
+After finishing the conversation, he briefly discussed with his right-hand man, Gobchi.
+
+“Well, ready to go?”
+
+And with that cheery question, Kabal and the others set off.
+
+Fuze was too flabbergasted, Kabal’s gang too overjoyed, and Yohm too annoyed to formulate any answers.
+
+It was up to Yohm’s band to shout their approval instead. They weren’t quite sure how it all worked out, but regardless, they were all on their way to Tempest, the land of monsters.
+
+Gobta certainly sounded triumphant in his briefing.
+
+We were at the usual meeting hall, Milim seated next to me like she had somehow earned the right. Shion and Soei were behind us, with Rigurd and Benimaru seated ahead.
+
+Next to Gobta were Kabal, his two friends, and an unfamiliar middle-aged guy. He was joined by a tanned, rugged-looking man and a fairly nervous-looking magician type. Shuna had just taken her own seat, ordering one of her assistants to bring out tea for the group, and then Gobta began talking.
+
+Once he finished, we all decided to introduce one another. The middle-aged guy was Fuze, the top guy at the guild in the kingdom of Blumund. Must’ve been the dude who told Soei he wanted an audience with me.
+
+The tanned guy was…well, pretty handsome. Not as much as Benimaru or Soei, but he had smooth, taut muscles and a wild look about him that must’ve floored ’em at the tavern. His name was Yohm, and he called himself the captain of the Frontier Expedition Force, sent out by one of the earls in the kingdom of Farmus. The thin, flinchy guy next to him really was a magician, as it turned out—Rommel was his name, and judging by the looks of things, he was the brains to Yohm’s brawn.
+
+Once they all gave their names, I decided to give mine.
+
+“Guess I better speak up, too. My name is Rimuru Tempest, and I’m the leader of this town, or nation, or whatever you wanna call it. The Jura-Tempest Federation is the official name for it. And as you can see, I’m totally a slime!”
+
+It felt necessary to mention that, given how I was the only nonhuman in the room. It made the older guy—Fuze, I mean—open his eyes wide.
+
+“Truly, a slime…?”
+
+He seemed to know at least a bit about me, but I guess I should’ve expected him to be a little shocked. If it didn’t personally happen to me, I guess I’d have trouble believing that a slime was going around acting like the king of his little nation of monsters.
+
+“So, uh, Rimuru,” Kabal asked, “who’re all the new faces in the room?” He must’ve meant the ogre mages. I gave them all an intro. That just left Milim, who spoke up before I had a chance to point her out.
+
+“And I’m Milim. Good to meet ya!”
+
+A pretty casual intro, especially for a demon lord prone to bouts of cruelty like she was. Hopefully nobody was fooled by the pretty face.
+
+Fuze was the only one to respond to the name “Milim” with any sort of suspicion; maybe he knew about her demon lord side. Kabal and Gido, meanwhile, were alternating their gazes between Shuna and Shion. Milim might’ve been cute, but they must’ve already dismissed her as too much of a child. They certainly are honest to themselves, at least.
+
+Yohm and Fuze must not have been too interested in potential romance—or maybe they were just nervous, having to deal with monsters like this. Their faces remained stony serious.
+
+I wish Kabal and his gang could learn from them a bit. I can understand how they feel.
+
+It was odd, though. Gobta ran down the whole story for me, but I still didn’t understand anything about what went on.
+
+Why were Fuze and Yohm fighting together?
+
+Just as I thought it, Fuze opened his mouth.
+
+“Allow me to explain, perhaps…”
+
+He must have noticed that Gobta’s report wasn’t quite enough.
+
+Glad to see someone has some tact around here.
+
+Witnessing my slime form must’ve thrown him off a bit, but he was still being remarkably polite with me. Better hear him out.
+
+………
+
+……
+
+…
+
+Once he was done, I think I began to get the idea. I guess the orc lord news had sparked so much chaos that he decided to have Kabal guide him here to check things out for himself.
+
+Rommel provided some supplementary info of his own, too. He was largely in the same boat, driven by the guild in Earl Nidol Migam’s fief in response to the rumors spreading across Blumund. The magician told me everything he seemed to know about Nidol’s thoughts on the matter, and judging by that, he had a pretty accurate grasp of what was going on.
+
+“Why are you being so honest with me?” I asked.
+
+To which he replied, “Well, to be frank, I’m really not sure what I should be doing here, right now. I just figured, you know, honesty would be the best policy, as we try to move things forward.”
+
+I solemnly nodded at him.
+
+That sure helps me, too.
+
+Suddenly, the previously silent and sullen Yohm shouted out, like someone had flipped a switch. “That crap doesn’t matter! What I’m wonderin’ is: Why is this slime actin’ like he’s king of the world around here? I mean, y’all realize this is insane, don’t you? And how do slimes even talk anyway? I mean, what the hell? Why’s he got all you guys under his spell or whatever?”
+
+“How
+
+dare
+
+you be so rude!” Shion roared.
+
+“You shut up, woman!” Yohm shouted back.
+
+Ooh. Bad move
+
+, I thought—but before I could even finish that thought, there was a dull
+
+thud
+
+as Shion used her sheathed longsword to send Yohm crashing to the ground.
+
+“Ah! I’m sorry, I just…”
+
+“You just
+
+what
+
+?!”
+
+I should have expected it, but I really need to do something about Shion’s temper. Yohm may have been out of line, but this instantaneous resorting to violence had to be addressed sooner or later. I immediately had her look after Yohm—she hadn’t put much force into it, so at least he wasn’t dead. A few shakes of healing potion, and he woke right back up.
+
+He winced at the sight of Shion looking right down at him, but otherwise returned without a word to his seat. I had to hand it to him. It took a lot of guts to pull that off.
+
+“Sorry about Shion there. She tends to lose her patience a lot. I hope you’ll forgive her.”
+
+Yohm nodded—I’m sure very reluctantly.
+
+“But that was so terrible! I’m known for my endurance under fire, you know!” That was news to me. I figured it was safe to ignore her babbling.
+
+“Wah-ha-ha-ha-ha! Losing your patience, huh? I see you’ve got a lot to learn, Shion. You need to broaden your horizons, like I have! No wonder you’re so hot-tempered!”
+
+I felt like I could hear Milim happily blurting out something like that, but I’m sure I was imagining it. No doubt it was the last thing Shion wanted to hear from her.
+
+But anyway.
+
+It was time to put all these reports together.
+
+Fuze was here because he heard about this mystery slime—i.e., me—and wanted to get to the bottom of it. Figuring out whether I was friend or foe was his main priority.
+
+“The very idea of monsters creating towns— Ah, pardon me. I can understand demi-humans building settlements well enough, but a town where multiple races live together? I’ve never heard of such a thing. I have a habit of not fully believing something unless I witness it with my own eyes, you see. And if this whole story was true, I wanted to figure out how we would interact with it, and how much. The reports I received told me this land wasn’t a threat…but I thought ascertaining for myself would be the best move. So that’s what brings me here. I was hoping you’ll permit me to stay a while so I can survey the entirety of your operations.”
+
+It made sense to me. I’d hate to be feared as a potential threat, so I readily gave him permission.
+
+I also gave him my own outlook. Being guild master suggested Fuze was in a fairly high position—a man of influence, perhaps, in Blumund. Being able to speak frankly with someone like him, and request their cooperation, sounded like a good idea to me.
+
+“You might not believe it,” I explained, “but I’d really like to be friends with the humans. I already told Kabal and his friends about that. I’m not asking for it immediately, but you know, I think it’d be nice if we could start engaging in trade or some other kind of interaction. We’ve already opened formal relations with the Dwarven Kingdom along those lines, which you’re free to confirm for yourself. I think your merchants would find it pretty convenient if they could run caravans through this area, but what do you think?”
+
+“Hang on— I mean, please, just one moment. You mean the Armed Nation of Dwargon?! I know that is a neutral kingdom, one that had close relations with many demi-human races…but you’re saying it’s recognized this land of monsters as a nation? Because I find that extremely hard to believe…”
+
+I had asked him to trust in me, but he was proving a tough nut to crack. So I called for Vester as a witness. It turns out Fuze was familiar with him.
+
+“Minister Vester! …Or not anymore, I suppose. But regardless, I never imagined meeting someone of your stature here… Is all of this true?”
+
+“Ah, well met, Sir Fuze! It has been quite a while, hasn’t it? Well, you are correct. Through a rather unique turn of events, I am now living quite peacefully in this land. Everything Sir Rimuru has told you is the truth—King Gazel and Sir Rimuru signed the covenant themselves.”
+
+The conversation wended its way across a few other topics, but I still had the impression Fuze thought he was dreaming all of it. Maybe the idea of monsters banding together and establishing a nation was a little too wild for just anyone in this world to start believing yet.
+
+Yohm’s motives, meanwhile, were a bit more complex.
+
+He and his band of men intended to fake their own deaths in order to gain their freedom. They were seeking asylum in some safer country than their own, where they intended to join the local Free Guild. They also intended to inform Earl Nidol Migam—the greedy old fox, as they called him—about what they found in here. This wasn’t out of any love for the earl, but so they could potentially save as many of their fellow countrymen as they could. A man of honor, certainly, no matter what his looks and attitude suggested. Rommel had grown to like him, plainly—to the point that he betrayed Nidol, his benefactor, to become Yohm’s top aide.
+
+Hearing all this made me think a bit.
+
+“All right, so…Fuze, people already know around your kingdom that the orc lord was defeated, right?”
+
+“No… Only the king and a few select people are aware.”
+
+And that meant—
+
+“Okay. So, Yohm, wanna forge a contract with me?”
+
+“Huh? What the hell’re you—erm, how do you mean, sir?”
+
+Now both Shion and Shuna were glaring at him. They must not have liked that tone of voice. Maybe it’d be kinder of me to pretend not to notice.
+
+“Well, to put it simply…”
+
+To put it simply, Yohm and his band of thirty men would become the saviors of the day, the slayers of the orc lord.
+
+That monster was well and truly defeated, and yet Fuze still eyed me with suspicion—because I was a slime, a monster. In that case, why don’t we frame the rumors we’d spread so that I merely cooperated with Yohm, and he was the one who pulled off the feat?
+
+There’d be a few unnatural time-related contradictions to that story, but the general public didn’t need to know all the details. If the top brass who
+
+did
+
+know the truth were willing to keep mum, the regular Joes out there could work out the rest of the tale for themselves. As for the surviving orcs, we could say that there was a mutiny in the army, and there you go. A nice, simple story—and easy to believe, as long as that two-hundred-thousand figure didn’t get mentioned.
+
+Meanwhile, I could’ve helped Yohm with supplies, armor, what have you, instead of directly participating in combat. That way, I could establish myself as this really helpful, trustworthy slime who gave our man of the hour material support, right? That, I figured, would paint me in a better light than being this mystery threat of a monster to everyone.
+
+“…That’s the basic idea of it, but what do you think?”
+
+Our guests were dead silent. Too frozen to react. Kabal and his friends, meanwhile, were so lost in this conversation that they had decided to sit there and enjoy their tea instead.
+
+Compared to that, Benimaru and Shuna were thoughtfully nodding, impressed at the idea. Milim and Shion were all smiles and puffed-out chests, but I’m not so sure they understood me.
+
+Milim had nothing to do with this anyway.
+
+She’s behaving, at least, but maybe I should give her some honey before she gets bored and starts wreaking havoc somewhere else.
+
+“Who do you think I am? …Well, all right. I’ll take this.”
+
+She gladly accepted the jar of honey I presented to her. Shion flashed a jealous look at her, but…well, sorry, none for you.
+
+“Wait… Wait, wait, wait—what kind of idea is that?! What do you mean, ‘what do you think’?!”
+
+“Come on. Me, beating that guy? You want me to be some fairy-tale hero or somethin’?”
+
+Fuze and Yohm were protesting in stereo. I didn’t expect them to be very amenable to it at first. That reaction was a given.
+
+“Whoa! No ‘hero’ stuff. That’s someone special, so you can’t just call anyone that. Being a hero comes with a lot of baggage from the past. Just call yourself a…champion instead,” Milim replied.
+
+Hmm. Interesting.
+
+So just like with demon lords, people didn’t take kindly to guys declaring themselves heroes with a capital
+
+H
+
+. Hero, champion, whatever—I wanted Yohm to be that for me.
+
+“That’s not the problem, you little brat! Besides—”
+
+Thud!!
+
+A cold wind drifted across the hall.
+
+“Hey!!” I shouted.
+
+“Lady Milim…” Shion seemed like she wanted to say something.
+
+“W-wait! No! This isn’t my fault!”
+
+Milim was already in a panic. I hadn’t said anything yet, but already she was nearly in tears.
+
+“I don’t want to hear any excuses, Milim. But this is your last chance, all right?”
+
+“All right. Believe in me, Rimuru!” Milim swore to behave, nodding fervently.
+
+I felt kind of bad for our new champion here, but really, this was Milim’s fault. Spoiling her would do nothing good for me, so I gave her the scolding she deserved. Shion, for her part, smiled a little—just deserts for what happened to her earlier, maybe. I resisted the urge to remind her she was in the same boat. Hopefully she got the message well enough without that.
+
+“Milim…? I feel like I’ve heard that name before.”
+
+Uh-oh. Fuze’s eyebrows furrowed at the mention of Milim’s name. He hadn’t identified her yet, but I needed to stay on guard. This demon lord was a lot more famous than I gave her credit for, I guess.
+
+Let’s, um, dodge that question for now.
+
+“Well, uh, is Yohm all right?”
+
+I was worried. That was quite a thud I’d heard.
+
+“Yes, Sir Rimuru. I’ve already administered the potion,” Shuna reported with a smile, just as Yohm himself woke up.
+
+“Nngh… What… What just…?”
+
+He was still a bit confused, but nothing was wrong with him. Getting beaten by Shion and Milim in rapid succession like that made me marvel at his natural toughness. That potion’s some hot stuff, but he deserved credit for surviving at all.
+
+“Um, Rimuru…yeah? Well, all right. I’ll do whatcha say. All these menaces to society you got servin’ ya, I gotta admit—you’re one hell of a slime. From now on, as far as I’m concerned, I’m all yours, pal. Tell me whatcha want.”
+
+It was a surprise, hearing that the moment he got his marbles together. I didn’t like how we more or less had to beat it out of him, but if that convinced him, there was no need to browbeat him about it.
+
+“Yeah, sure thing. And thanks.” I nodded at him in agreement.
+--- END PRESERVED SOURCE BODY ---

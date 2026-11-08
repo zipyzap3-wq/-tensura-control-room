@@ -1,0 +1,227 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 37 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_03_Chunk_007.txt | SHA 23232c23f87c3c65ce7f727216473bcebc2561cc | 16543 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_03/Volume_03_Chunk_008.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 2 (continued) ===
+
+“Still, Sir Rimuru, there are not so many educated doctors in the Dwarven Kingdom. There are alchemists capable of mixing compounds together, but it is rare for someone to make his entire living off selling High Potions. The medicine you see in the markets is actually Low Potion, made by diluting High Potion with water. They just call it potion in the shops, however. Thus…”
+
+Vester had probably noticed my disappointment. Listening to him, it was actually rather simple. Naturally grown hipokute was a rare thing to find. You almost never saw it bought or sold in the marketplace. There were some benevolent botanists who cultivated it themselves, but even they could only harvest a very tiny amount of it. Along those lines, our mass-production project was a totally alien concept. That’s why even diluted potion was considered a rarity.
+
+Instead, Vester suggested this: “Perhaps we could negotiate with King Gazel to have them accept delivery of Low Potion from us for sale over there? I’d imagine he’d want us to take in those few medicine makers who work in the Dwarven Kingdom in exchange, but…”
+
+“Yeah, that might actually work, boss. If they leave the potion making and selling to us, they can just buy in whatever they need for their own purposes. That may account for a lot of the motive behind their technology-share request, actually.”
+
+Kaijin had a point, but that was fine by me. He and Vester began talking between themselves, figuring out how to best convince Gazel of the idea. It was hard to believe they came to blows not long ago, given how well they got along now. They must see eye to eye on a lot of things, deep down.
+
+Good thing
+
+, I thought.
+
+One Full Potion could apparently be diluted down to a hundred Low Potions. If this idea gained any steam, it could be a pretty lucrative source of income. But no great need to hurry. I didn’t want to hurt any of the Dwarven Kingdom’s vested interests. We’d have to work things out so we’d both benefit from the deal.
+
+So I decided to let the topic simmer for the time being and took my leave from the meeting.
+
+The friendliness of our chat made me stay longer than anticipated. It was just a little bit into the afternoon, but I was sure the goblinas at the workshop were working their dress-up-doll magic on Milim, so I figured I better pick her up. Meals in Tempest were handed out in the morning and evening, but if she was up for it, I intended to get her something in between.
+
+The moment I stepped out of the magic circle, the fracas was under way.
+
+There was shouting, screaming, and a great pillar of fire coming from a plot of land near the center of town that hadn’t been built on yet. It was a pretty sordid-looking scene. There was no damage, thankfully, and no workers nearby got caught up in whatever it was.
+
+Soei, realizing I was there, sidled up to me.
+
+“What happened?”
+
+“Well…”
+
+He gave me a quick rundown, although once I reached the site, I found it easy enough to figure out for myself. While I was off to the cave, the town had another visitor—one who was positively livid with Milim.
+
+I was guided to the center of it, where I found Shuna, Shion, Benimaru, Hakuro, and Rigurd with a few other hobgoblins. Rigurd was sporting a heavy bruise on his face; someone must have hit him.
+
+“What’s up, Rigurd? You all right?”
+
+“Ah, Sir Rimuru! This much is nothing to me!”
+
+That was just an act; the damage was obviously fairly serious. I handed him some potion and turned toward where everyone else was watching.
+
+“Did
+
+he
+
+get you?”
+
+“Yes, my lord…?”
+
+I didn’t need to check, but I did anyway. There was a dark-haired magic-born on the ground, apparently struck by Milim as well. His face was twisted in pain, his tongue sticking out of his bloodstained mouth. He seemed alive, but motionless, his eyes rolling into his skull. Around him were his entourage of underlings, frozen stiff and too thrown by this state of affairs to know what to do.
+
+The fallen magic-born was wearing a fancy-looking outfit, dyed in black, and some rather expensive-looking armor.
+
+According to Soei’s report, he identified himself as working for the demon lord Carillon, and Soei had hurried to the scene after the intruder set off his alert network, only to find this magic-born and his group coming down to the vacant lot from the heavens.
+
+Rigurd handled them first since I was away, and things came to a boil pretty quickly afterward. Before Soei could even grasp the situation and report to me about it, everything was already done with. “I apologize for failing to inform you earlier,” he said to me, but I couldn’t find much fault with him.
+
+First, the magic-born had begun by taking a self-guided tour of the city, going around like a would-be conqueror. This was when Rigurd had shown up, and the magic-born had this to say to him: “I am Phobio! The Black Leopard Fang! One of Lord Carillon’s Three Lycanthropeers, and the strongest of all in the Beast Master’s Warrior Alliance! What a fine town this is—truly one worthy of falling under the rule of the Beast Master himself, wouldn’t you agree?”
+
+“Surely you jest—” was all Rigurd had managed before getting punched out without further comment. The visitor did not use his full strength, keeping the injury merely serious instead of critical. Soei judged him to be a formidably strong magic-born, and as he put it, a full-power strike could have killed Rigurd on the spot. Kind of hard to imagine, given how frozen and helpless he was now, but still.
+
+But why was he on the ground? Simple.
+
+Spotting the presence of the Black Leopard Fang Phobio or whatever, Milim flew in, saw that Rigurd was down, and got
+
+angry
+
+. Phobio hurriedly responded with a skill he called Panther Fang Explosive Chop, although nobody knew what it was supposed to be—it seems Milim’s force of will deflected it and sent it hurtling into the sky.
+
+That was the pillar of flame I saw, and the fallout from that singed the cute dress she had just put on. No longer able to contain her rage, Milim plunged her fist into Phobio’s stomach, which brings us to the current scene before me.
+
+So now what…?
+
+“Ah, Rimuru! This freak was acting like he was the big boss around here, so I put him back in his place!”
+
+Now Milim noticed me, and she was evidently proud of herself. Fishing for compliments. Should I take the bait? He started it, yes, but I didn’t want to spark a conflict with another demon lord
+
+quite
+
+yet. I had never heard the name Carillon before, and I had no idea what kind of force he had, even. But we just decked one of his men, and we couldn’t say we weren’t involved anymore.
+
+I swear. Take your eyes off her for a moment—and all these headaches she gives me.
+
+“…Didn’t you promise me you wouldn’t cause a ruckus without my permission?”
+
+“Geh?! Um, I, erm… This, this is different! He’s not from this town, so it’s all right! Really!”
+
+“No, it’s not! Still, you did help keep Rigurd safe. We’ll just say no lunch for you today and call it even—”
+
+“You’re mean! That’s so mean! Waaahhhh!”
+
+Well, that’s what you get for bothering me when I was just thinking about lunch. I didn’t need to eat anyway, and Milim must have been the same. What a glutton of a demon lord.
+
+“Dammit, this is all
+
+his
+
+fault! And that Carillon, breaking his promise like that… What a scoundrel! One shot’s not enough—let me hit him again…”
+
+“Wait, wait, wait!”
+
+I had to spring over to keep her from punching Phobio again. His men turned white as a sheet of paper, terrified at her brutality.
+
+“Look, how about we go somewhere else?” I pleaded to the bawling Milim.
+
+This was really turning into a travesty, so I decided to try talking this out away from the carnage.
+
+We were back in the old meeting hall. They had just finished taking Milim’s measurements and were preparing something new for her when all this happened, so her outfit was quickly replaced.
+
+I didn’t want to spoil her, but we wound up serving her lunch anyway. This was partly because she had revealed a couple curious things during her wailing, and I wanted to follow up on that. She happily nibbled on her sandwich, once again in a good mood, so everything was fine with me.
+
+The hall was draped in tension, though. Milim was about the only one unaffected by it. She definitely earned the “demon” part of her name, catching trouble the moment I wasn’t around. Perhaps this would’ve happened even if Milim weren’t here, but it wouldn’t have gotten so complicated
+
+this
+
+quickly.
+
+…Well, no point dwelling on the past. The future was more important.
+
+“So what are you all here for?” I said as I sized up the now-awake Phobio.
+
+“Hmph! And I have to reply to you lowly would-be magic-born?”
+
+Benimaru and Shion immediately glared at him. I motioned them to stay cool, and they reluctantly stayed there, watching things unfold.
+
+It was just Rigurd, Benimaru, Shion, and me, along with Milim. Phobio had three of his own troops with him; we hadn’t restrained him or anything, which could be why he was giving us so much attitude. I figured I’d try to outclass him, tossing in a bluff or two for good measure.
+
+“Call me lowly if you want, but I’m definitely stronger than you. Also, I’d advise you to just give me some answers. I don’t know this Carillon guy, but depending on how you act around me, maybe he’s gonna have to answer to us before long, okay? Think you’re ready to make enemies with the entire Forest of Jura?”
+
+“Ha! Well, look at you! The most self-important slime in the world, eh? And this entire town carries out the orders of such a base creature? What a bunch of wimps you must have here. And just because Lady Milim likes you a little, don’t let that get to your head, boy.”
+
+Magic-born, just like monsters, tended to flock to whoever was strongest around them. Reacting to all these barbs would do nothing but tire me out. Certainly, this guy was tough—one of the Three Lycanthropeers, the so-called Black Leopard Fang, whatever. And even without all that bluster, I could tell he boasted a fair amount of magical energy. Maybe no match at all for Milim, but likely stronger than Benimaru or Shion. Even I would’ve had trouble a bit ago, although not with the Orc Disaster stored in my Stomach now.
+
+This was a powerful magic-born, one worthy of being categorized as a sub–demon lord. I was fairly sure I was stronger, but I was in no hurry to test that out. It’d just make things harder, and winning would accomplish nothing. It may even earn me the ire of this Carillon guy; we could seriously be at war soon. I wanted to avoid that, so I had to exercise my social skills to extract some info from him.
+
+“A base creature?” Milim, done with her sandwich, raised her voice again. “You think you can pick on my friend like that?”
+
+She was more than an ammo dump; she was explosive all by herself. Before I could even begin the conversation, I had a premonition she had ruined everything. But I was getting the hang of dealing with her. Lure her in with food, and she was easy to soothe.
+
+“Hang on, Milim. If you do anything else, I’m seriously taking dinner away from you, okay?”
+
+“O-okay. I’ll be good, I promise.”
+
+Great. With that squared away, it was time to start the investigation.
+
+“Well. First off, you’re right; I am a slime. But I’m a slime that rules over thirty percent of this forest, and if you’re rarin’ for war, then I’m willing to accept that. So I’d advise being careful in how you respond to me.”
+
+I mixed a little Coercion in with my subsequent questions. The answers came surprisingly more readily than I thought. Milim’s threats must have hit home, after all—probably not my Coercion, sadly, but at least I got what I wanted out of him.
+
+The pouting, sullen answers could be summed up as follows: The demon lord Carillon had ordered him to try to scout either the orc lord or the mystery magic-born that fought him, whichever had survived. The magic-born referred to us, apparently, which suggested that the demon lord backup Gelmud had hinted at wasn’t Milim after all.
+
+I didn’t think multiple demon lords were involved with this, but thinking about it, I doubted Milim would bother with such a convoluted plan anyway. It was more natural to assume someone else was behind it.
+
+Getting back to the subject, whoever won the fight between the orc lord and his foe was likely going to be an incredibly strong foe, so Carillon sent the Black Leopard Fang Phobio, a sub–demon lord in his own right, to check it out. Carillon had a good eye for that kind of thing, apparently, but Phobio was just too much of a moron for the job. If the demon lord wanted me on his side, he should’ve sent a more intelligent magic-born, one who could bargain with me and put an enticing offer on the table.
+
+“Carillonnnnn… Breaking our promise not to get in each other’s way…” Milim was stewing next to me. Phobio, meanwhile, averted his eyes, as if afraid of her.
+
+The proud sub–demon lord was just a pale imitation next to a real one. Feeling her seething next to me, I reasoned that just about anyone who came here would’ve wound up the same way. I’d definitely need to ask her about that promise later, too; that sounded important.
+
+Now that we had gotten everything out of Phobio, I asked him to take his leave.
+
+Milim’s presence meant that Phobio had no power here, so he glared at the two of us, barked out “You will regret this!” and took his crew out of the city. I told him to relay a message to Carillon, telling him to contact me at a later date if he wanted to negotiate with us, but I doubted he’d ever receive it. When I left that job to Phobio, I knew he’d only provide whatever info made him look good. It’d be better for him to tell the truth, given how his mission was a failure and all, but that was Phobio’s business.
+
+I’d better get as much info as I can from Milim about this Carillon’s personality and other traits, so I can be ready to deal with whatever he’s got. But how to bring up the topic…?
+
+“All right, Milim. I’d like some more details.”
+
+“I can’t let you do that! We made a promise that we wouldn’t meddle with each other, so I can’t even tell you, Rimuru.”
+
+Ah, thanks for revealing you’ve got a secret, then.
+
+Now we had a grown-up and a child trying to outwit each other—and honestly, I liked my chances.
+
+“Oh no? Was this a promise that you’d keep things a secret from each other?”
+
+“—No, nothing like that. Just not to meddle—”
+
+“No? Well, it’s fine, then, isn’t it? I mean, Carillon’s obviously told his minions all about
+
+you
+
+, huh, Milim? Besides, we’re
+
+BFFs
+
+, and we gotta help each other out, y’know? And I just figured, I better know what I can about demon lords besides you, Milim. Plus, if I don’t know what kind of promise you made, how can I make sure I don’t accidentally start meddling, huh?” I put a special emphasis on
+
+BFFs
+
+.
+
+“Yeah…but…BFFs…”
+
+Just one more push. I decided to offer a toy to cheer her up.
+
+“Oh, right— How about I make you a weapon sometime? I can’t help but worry about my BFF, so…”
+
+“Wah-ha-ha-ha-ha! You’re right! Being BFFs is the most important thing, huh?”
+
+And down goes Milim. Just way too easy.
+
+I kept my lips from spreading into a maniacal grin as I nodded with the breezy confidence of a grown-up.
+
+So I successfully extracted what I wanted from Milim—information on three other demon lords besides her, and what they all wanted; what happened just now; and what was happening behind the scenes. Quite a bit about the mysteries I was concerned about.
+
+But—wow. Demon lords, trying to create a puppet demon lord of their own… Milim was in on it just to alleviate her boredom, but this was a pretty serious operation, wasn’t it? And if I’m getting in the way of it, then no wonder they’re after us.
+
+“This…will soon involve other demon lords, will it not, Sir Rimuru?”
+
+“A sordid state of affairs. We had best bring this up with Treyni at once.”
+
+“Not a problem! With Sir Rimuru at our side, we have nothing to fear from any of the demon lords!”
+
+All of us (save one) were holding our heads at this disaster.
+
+The gale that blew in with Milim’s attack was growing in strength, and it was creeping ever closer to Tempest.
+--- END PRESERVED SOURCE BODY ---

@@ -23,7 +23,7 @@
 - Source read log: 127 source-origin entries; none falsely marked read
 - Exact body spot checks: Volume 6 Chunk 01 and Volume 7 Chapter 1 Part 1 passed
 - Full source reading/chronology mapping: pending
-- Story premise/canon: none approved
+- Story premise: user-defined Volume 1 working direction recorded in 05_PROJECT_AUTHORITY/PROJECT_DIRECTION_AND_AU_INTEGRATION.md; story canon: none approved
 - Agent infrastructure: excluded
 - Chapter draft first-location order: unresolved, decision PD-008; do not draft chapter prose until user confirms
 - Current stage: 01 source intake and verification IN PROGRESS
@@ -47,3 +47,12 @@ Project structure, Workflow Ladder, source archive, reusable craft methods, plan
 - Next destination: 13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md
 - Next action: read the protocol, then open 04_SOURCE_MATERIAL/VOLUME_01/00_README_AI_CHUNKS.txt
 - Blockers: NONE currently recorded; actual source reading remains pending
+
+
+## Volume 1 planning handoff (2026-11-08)
+- User-requested Volume 1 Gobta second-life AU plan recorded at 07_PLANNING/ARC_PLANS/VOLUME_01_GOBTA_SECOND_LIFE_AU_ARC_PLAN.md (TWL-022).
+- User-defined premise and AU boundaries cross-linked in 05_PROJECT_AUTHORITY/PROJECT_DIRECTION_AND_AU_INTEGRATION.md.
+- Stage 06 status: BLOCKED / working plan preserved. Do not claim source verification or Stage 06 completion.
+- Reason: source reading and chronology mapping remain pending; Stages 01–05 must be evidenced before Stage 06 closes.
+- Immediate next action unchanged: read 13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md in full, then process 04_SOURCE_MATERIAL/VOLUME_01/00_README_AI_CHUNKS.txt and Volume 1 chunks in order.
+- No chapter prose, canon promotion or source-file body modification was performed.

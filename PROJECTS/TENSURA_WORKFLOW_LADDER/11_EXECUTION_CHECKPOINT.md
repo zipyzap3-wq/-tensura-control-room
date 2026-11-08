@@ -16,7 +16,7 @@
 - Repository: zipyzap3-wq/-tensura-control-room
 - Branch: main; no new branch created
 - Project root: PROJECTS/TENSURA_WORKFLOW_LADDER/
-- Project files after Volumes 1–5 archive expansion: 187
+- Project files after adding TWL-021: 188
 - Source imports: 127/127 source-origin files (V1–5: 73 chunks; V6: 35 files; V7: 19 files). Ten local archive guides added separately.
 - Source inventory: complete (Volumes 1–7)
 - Coverage matrix: 127 source-origin entries

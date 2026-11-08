@@ -1,0 +1,1331 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 26 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_02_Chunk_010.txt | SHA 62d4fad8ee8741c083c2a9e9600a9e45b46e3c10 | 46421 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_02/Volume_02_Chunk_011.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 5 (continued) ===
+
+“You could probably dilute these to a tenth of the strength and they’d still do the trick, as long as the injury’s not too serious.
+
+Use ’em on anyone who needs ’em.
+
+If anything happens, I’m just a Thought Communication away.”
+
+“Yes, my lord.”
+
+He nodded and saluted me.
+
+“We’re off, then.”
+
+The lizardman bowed deeply before turning to Soei.
+
+He placed his hands on her hips and began Shadow Motion, disappearing from our sight in an instant.
+
+“I’m sure the chief is in good hands with him,” Benimaru said approvingly.
+
+And given Soei’s skills, I figured he was right.
+
+With Soei taking care of the chief, I went back to my original work of surveying the battlefield.
+
+Things had ramped up, apparently, so I didn’t have time to waste.
+
+“All right.
+
+Let’s go see what this Gabil guy is up to.”
+
+“Can we help him, do you think?”
+
+Shion asked.
+
+I shrugged.
+
+“Depends on him, I suppose.
+
+I can’t say if he’s still alive or not.”
+
+We had agreed to rescue the lizardman chief.
+
+I hadn’t breathed a word about Gabil, and I certainly wasn’t going to expose ourselves to danger for his sake…
+
+For now, I wanted to check out the state of the war.
+
+“You aren’t planning to venture into battle yourself, are you, Sir Rimuru?”
+
+“That’s my plan, Benimaru.
+
+And I’d like to see things with my own eyes before deciding on anything.”
+
+Scoping out the situation was basic stuff
+
+, I thought, and I did want to check and see if Gabil was alive.
+
+Benimaru, however, was vehemently opposed.
+
+“My lord, wait a moment.
+
+Hakuro and I could handle the job well enough by ourselves.
+
+You and Shion could simply observe us from afar, instead.”
+
+“Indeed, Sir Rimuru.
+
+You are my leader, and the leader of us all.
+
+I am sure it would be wiser to leave this battle to us, in this case…”
+
+Guys, guys, that’s not gonna work.
+
+All we had here were Benimaru, Hakuro, and a hundred goblin riders.
+
+Everyone had to pitch in.
+
+I had been planning to work out a more detailed battle plan at a conference once the alliance was set in stone, but I already had the general idea in mind.
+
+We’d use the lizardman force as bait, and I’d have Benimaru and the other ogre mages take care of the higher-level orcs for me.
+
+In other words, I basically wanted to create a scenario where I’d be fighting one-on-one against the orc lord.
+
+I wasn’t interested in sending a hundred people to their suicides against two hundred thousand.
+
+“Whoa, whoa, calm down, guys.
+
+Do you seriously intend to defeat two hundred thousand screaming orcs with a band of a hundred Riders?”
+
+I pointed out with more than a little disbelief.
+
+“Yeah!”
+
+Gobta chimed in enthusiastically.
+
+“You tell ’em, sir!”
+
+I couldn’t blame him.
+
+You couldn’t expect someone to follow an order to jump off a cliff.
+
+“I figured, where there’s a will, there’s a way,” Benimaru grumbled.
+
+Only Hakuro and Shion agreed with him.
+
+I was starting to wonder if all these ogres had a screw loose somewhere.
+
+“Will” can only get you so far, guys!
+
+I was planning to give them a fair bit of leeway, but maybe I should tighten the reins a little instead.
+
+They had already lost to the orcs once—they should know how scary they all were.
+
+That was my take on their reaction, but I didn’t verbally share it with them.
+
+They were all acting like their evolutions had wiped the slate totally clean.
+
+“Well, anyway, I’m gonna be watching the situation from the skies above.
+
+I’ll give out orders depending on how things go, so I’ll let you handle the details on the ground, Benimaru.”
+
+“All right.
+
+Fair enough, then.”
+
+That seemed to appease him well enough.
+
+But I was still nervous.
+
+I’d never done anything like commanding an army before.
+
+I played a lot of strategy games on the PC, but I had no experience directing actual flesh and blood around.
+
+So my intention was to watch the action from overhead and stick strictly to handing out orders.
+
+I’d use Thought Communication to link up with everyone and keep them abreast of developments.
+
+Benimaru would then use that to command the ground forces, although I’d have ultimate authority over whether we retreated or not.
+
+“So is that clear?”
+
+I said to the assembled goblin riders.
+
+“You are to follow the orders of Benimaru, unless I give specific orders myself.
+
+Also, don’t do anything you think might get you killed!
+
+This isn’t gonna be our last stand, so don’t fool yourself into thinking it is.”
+
+““Raahhhh!””
+
+The riders roared their approval once more.
+
+I warned them not to get too hotheaded, but war was war, and they were rarin’ for one.
+
+“We will not let you down, Sir Rimuru!”
+
+Shion said, Benimaru nodding next to her.
+
+Hakuro was as unaffected as always.
+
+…Ahh, I’m sure it’ll work itself out.
+
+But between the way-overconfident ogres and the level of excitement among the goblin riders, I had a feeling I was getting in over my head.
+
+So I swore to myself—
+
+If things get too hairy, retreat, retreat, retreat.
+
+I was about to sprout wings from behind my back when I realized that my clothes would get in the way.
+
+Wings granted me the ability to fly—that I knew from past experimentation—but this was an unexpected snag.
+
+Then I recalled what Shuna told me.
+
+The magical thread used in the clothing could transform itself, to some extent, based on the will of the wearer.
+
+Now I know what she meant.
+
+Picturing myself with wings, I could feel two holes automatically open over my back.
+
+The wings came out, and the holes closed themselves.
+
+This customization is pretty nice.
+
+Better thank Shuna and Garm again later.
+
+It would take about an hour of running to make it out of the forest, but in the air, it took barely any time at all.
+
+Now I was above the battlefield, checking out the entire situation.
+
+I was a bit too high up to distinguish between the two sides, but I could use Magic Sense to figure it out well enough.
+
+It was almost like I was a satellite, taking photos of the land below from sub-stratospheric heights.
+
+And come to think of it, having a bird’s-eye view of the entire battle like this gave us a killer advantage, didn’t it?
+
+And using that info to send Thought Communication messages to any of the troops I needed… It was like bringing the latest advances in war technology to a medieval battle.
+
+I had access to information that no general in this world could’ve ever imagined.
+
+It was just what I needed to make the numbers work with the small force we had.
+
+In fact, this approach was probably best suited for handling small, mobile armies like ours.
+
+I marveled at my good luck at stumbling across this tactic as I scoped out the battlefield.
+
+To sum up, it wasn’t looking great for the lizardmen.
+
+They were clearly surrounded with no escape route, and it was only the wild rallying from their leader that let them hold out.
+
+There was no telling how long they’d last.
+
+Squinting, I recognized Gabil as the leader.
+
+I thought he was some random idiot at first, but maybe I underestimated him.
+
+Given how obviously devoted his sister was to him, I should’ve recognized that he was a decent person at the core.
+
+The first impression he gave was disastrous, though.
+
+As a commander, he lacked the ability to see the big picture in battle, which might ultimately doom him.
+
+But it wasn’t like leaders were born capable of doing that, without any experience.
+
+If he survived this and learned from it, he’d very likely become a great general someday.
+
+Now a single orc appeared before Gabil.
+
+Another group, clad in black armor, formed a circle around him.
+
+Definitely higher-level ones, decked out in full plate and showing a military discipline none of the other orcs had.
+
+The one facing Gabil was likely an orc general like the one Shion had erased from existence a bit ago; he clearly projected a much stronger presence than the orcs in the circle.
+
+Then the duel began.
+
+Gabil fought courageously.
+
+His considerable nimbleness and skill with a spear as he faced off against the orc general made me wonder if Gobta had had any chance at all, in fact, without that shadow-skipping trick.
+
+Sadly, though, the difference in strength between him and the orc general was just too much.
+
+Little by little, Gabil’s body was being ravaged by cuts and wounds.
+
+I hated to let him die.
+
+And if that’s what I thought, the answer was clear.
+
+I gave my orders.
+
+Ranga, can you Shadow Motion yourself to Gabil?
+
+Yes, my master.
+
+As with Soei, Ranga could directly travel to anybody he’d personally met before.
+
+Which simplified things for me, definitely.
+
+Gobta, you go there, too!
+
+Geh!
+
+R-really?!
+
+It’s, like, a huge army there—
+
+I heard a scream of pain through the transmitted thought.
+
+Gobta was cut off for a moment, then the line came back.
+
+He will gladly accept the mission, Sir Rimuru.
+
+Now it was Shion inserting herself into my mind.
+
+I didn’t know what had happened to Gobta, but I suppose I didn’t need to.
+
+Great.
+
+I want you two to rescue Gabil for me.
+
+Get going!
+
+Gobta would get to Gabil first while Ranga was distracting the rest of the horde.
+
+He’d then work with the lizardmen and goblins to forge a path out of that hellhole.
+
+Off they went, together.
+
+But not even they could last long amid the sheer number of orcs, I thought.
+
+Sir Rimuru
+
+, Benimaru asked,
+
+are we allowed to go…all out, then?
+
+Help the lizardmen first.
+
+They need it.
+
+After that, do whatever you want.
+
+Pay attention to whatever orders Hakuro gives you, but otherwise, have at it.
+
+Yes, my lord!
+
+We will show them exactly what the ogre race—or should I say, the ogre mages can do!
+
+He sounded happy.
+
+Which was good.
+
+Because things were about to happen, and quickly.
+
+My orders complete, I checked on the state of the battle.
+
+The lizardman defensive ranks were about to collapse.
+
+It wouldn’t be long now.
+
+And if that’s how it was outside, the caverns where the chief was might be just as infested right now.
+
+I sent Soei in there by himself; would he be all right?
+
+I wasn’t too worried about Ranga, but what about Gobta?
+
+To say nothing of Benimaru and his crew…
+
+Oh well.
+
+No point fretting about it now.
+
+I gave the orders, and they accepted them.
+
+If any agreed to do something they knew they couldn’t accomplish, it was their own damn fault.
+
+When I was still new at my company, the boss would yell at me all the time about taking on more work than I could handle.
+
+If things got delayed as a result, it negatively affected everyone on the team, according to him.
+
+The same went for managers, too—if they were too unobservant to realize they were overtaxing their employees, they deserved what was coming to them.
+
+It was key to do the work that was best suited to you.
+
+A boss’s job was to gauge his team’s abilities and distribute the work correctly.
+
+I still didn’t have a full grasp on these guys’ capabilities.
+
+It was hard to figure out whether I was asking them for too much or not.
+
+I just hoped they knew themselves better than I did—and that
+
+I
+
+wasn’t dumber than I thought.
+
+It was an irresponsible thing to think, but I had to believe in it for now.
+
+And since a boss’s task was to step in and help whenever things went awry, I had a duty to keep watch over them.
+
+If anyone ran into trouble down there, I didn’t want them to be alone.
+
+A single swing of the halberd broke the spear in the chief’s hands.
+
+The fact the chief had survived this assault so far was worthy of praise in itself.
+
+He gave a proud sneer as he looked at the orc general.
+
+“Pah-ha-ha-ha!
+
+I can fight all I want to without a weapon!”
+
+All the bravado in the world didn’t convince anyone else in the room that he meant it.
+
+His armor was already shattered, cracks in his proud scale mail obvious for all to see.
+
+With nothing left to protect him, the chief was a hairbreadth away from death.
+
+“Listen!”
+
+he shouted with as much authority as he could muster.
+
+“Come forward, my guard!
+
+Protect as many of the women and children as you can.
+
+I refuse to let you give up!
+
+Buy us as much time as possible and wait for help to arrive!”
+
+“Ch-chief… These reinforcements cannot truly exist…”
+
+“Don’t say that!”
+
+he replied, admonishing the vice general of his royal guard.
+
+“Believe in them!
+
+We can never abandon hope.
+
+Protect the pride of the lizardmen until the very end!”
+
+The chief never wanted to show a moment of weakness.
+
+He was a symbol of the lizardman strength, their final hope.
+
+To the lizardmen with no place else to flee to, they had nothing to lean upon apart from his words.
+
+“Plus,” he added to his team with a smile, “as long as I can beat this foe, we can open a new path for ourselves.”
+
+He was right.
+
+If they could defeat the orc ringleader blocking the exit, they would have a literal path to survival.
+
+There was no despair among the lizardman warriors.
+
+Even if their chief fell, they knew they would stand up and fight.
+
+This much they had learned over the years, seeing him stand for his people.
+
+They would fight to the last man, and as long as they evacuated as many of the innocents as they could, no greater victory could be obtained.
+
+They had to find a connection to the future.
+
+But even that hope was crushed before the orc general.
+
+“You old fool!
+
+All the ridiculous chatter in the world won’t save you now!”
+
+A flash, and the halberd in the orc general’s hands sliced its way into, and then through, the chief’s chest.
+
+“Argh!!”
+
+He fell, coughing up blood on the way.
+
+This is it…
+
+The caverns echoed with the shouts of lizardmen.
+
+The orc general stepped forward, aiming to land the final blow upon the chief, only to be stopped by a small team of fighters.
+
+He cut them down, resentful at this obstacle, and reached the chief’s body.
+
+“You fought well, for a lizardman,” he rumbled.
+
+“Your courage proves to us that you will serve well as our flesh and blood.
+
+When you die, you will die basking in the honor of becoming part of us!”
+
+He aimed the blade of his halberd upon the chief’s neck, lifted it up, and—
+
+“I’d rather you didn’t do that.
+
+We have a promise with the chief.”
+
+—was stopped by the voice of someone who appeared in front of him.
+
+At that moment, the arrival of this man, Soei, completely changed the destiny of the lizardman race.
+
+Soei smiled a thin smile.
+
+He felt, truly, that he had served his master well.
+
+To him, this was nothing Benimaru could ever manage, whether he was son of the past king or not.
+
+The two had been rivals since childhood, and sooner or later Soei would have become his loyal subject, serving the lord that led the way for the entire ogre race.
+
+But that was all in the past.
+
+Now, he had a new master in Rimuru.
+
+And the thought pleased him.
+
+The ogres had enjoyed a long era of peace, undisturbed by any kind of conflict.
+
+To them, the monsters of the forest were nowhere near challenging enough—and as of late, they haven’t even had any rampaging lesser dragons to deal with.
+
+It was a good thing, Soei knew.
+
+But he could never deny that he wanted to make full use of all the skills that had been hammered into him.
+
+Then his settlement was attacked by orcs.
+
+He cursed his powerlessness on that day.
+
+He had assumed their end would come quickly afterward—they were rudderless, unable to avenge their friends and family.
+
+But now, he was happy, and thankful for his happiness.
+
+Under his new master, he had been granted a chance at vengeance.
+
+He would never let his pride weaken his guard.
+
+That single defeat had taught him a great deal.
+
+Along with the humiliating memories, he had etched into his heart exactly how foolish he had been all along.
+
+He had polished his Arts for his master, eliminating his foes, honing everything he had within him.
+
+Nothing delighted him more than having orders to follow.
+
+And now, Soei was ready to faithfully execute them.
+
+Looking up at the silent man, the chief recognized him as the monster who had met with him earlier.
+
+The high-level member of the magic-born races who called himself Soei, the very one who had offered the alliance.
+
+He came for me?
+
+But we have no alliance forged yet.
+
+But, but…
+
+Doubts and questions swirled in his mind.
+
+Yet, the chief, near the end of his life, could do little.
+
+He attempted to speak, clearing the blood from his throat.
+
+“Lord Soei… You have come for me?
+
+After we forged ahead, ignoring your advice…?
+
+By my very life, please, help the lizardmen—”
+
+He tried his best to entrust his people’s future to Soei before he passed.
+
+But now there was another figure there.
+
+One he did not recognize before she spoke.
+
+“Father, drink this!”
+
+An aqua-blue container was presented to his mouth.
+
+The moment he felt the liquid passing between his fangs, his hideous-looking wounds were magically gone, as if nothing had ever been amiss.
+
+In a moment, it had brought him back to perfect health.
+
+“Wha?!”
+
+The chief sprang up, in a state of shock.
+
+“My advice…?
+
+What do you mean?
+
+Well, it doesn’t matter.
+
+I want you to wait here until the appointed day arrives.
+
+And try to be careful.
+
+Neither my master nor I would enjoy it very much if you were to die on us.”
+
+It sounded so out of place, this cold, oddly calming voice.
+
+He’s saying he’ll keep his promise about the alliance?
+
+But…
+
+“But now is no time for that,” he said.
+
+“The orcs…”
+
+Then he realized something was off.
+
+The orc general, halberd still high in the air, had stopped moving.
+
+His face had an odd dark-reddish tint to it, his muscles bulging as he focused all his strength on the upcoming swing.
+
+“That… What is the meaning of…?”
+
+“Don’t worry.
+
+I’ve stopped him for now.”
+
+Soei’s comment made the situation clear for the chief.
+
+But what did it mean…?
+
+He gave Soei a wild-eyed look.
+
+He realized that this orc general, who had completely dominated him in battle a moment ago, was now rendered completely helpless before this envoy.
+
+“What…?
+
+What are you…?”
+
+“A pity, though,” Soei blithely commented as he looked at the frozen orc.
+
+“I had him captured, I was hoping to torture him so he would be of some use to Sir Rimuru…but it would appear he is sharing information with some outside source.
+
+I suppose I will have to kill him, then.”
+
+For Soei, an information merchant of sorts, having data leaked out to the enemy deeply bruised his pride.
+
+That was why he always took the utmost care in observing the enemy.
+
+A blue light flickered in his eyes now, detecting minute shifts in the magicules in the atmosphere.
+
+It indicated he was using Observing Eyes, one of his extra skills, and that skill told him the orc general was transmitting what he saw to someone, perhaps through a crystal orb or other medium.
+
+Soei decided it was better to kill the orc than to have his cover blown.
+
+But murder in itself did not interest him that much.
+
+So he decided to reveal a little more, in hopes of gauging the enemy’s movements.
+
+“But just killing you would be boring,” he said with a mild smile, “so why don’t I have you relay a message as well?
+
+I assume whoever’s controlling you orcs is watching me now, right?
+
+Your turn is next.
+
+And we’ll make sure you will deeply regret making the ogre mages your enemy.”
+
+And with that, Soei took his eyes off the orc general, no longer interested in him.
+
+His work was done, and it was time to take out the trash.
+
+“Die,” he whispered.
+
+The next moment, the orc general was torn into millions of fine pieces by the Sticky Steel Thread Soei had wrapped around him.
+
+Right there was the moment that the final form of Threadmaster, a battle move first conceived by Rimuru, was born.
+
+The chief watched, stunned speechless.
+
+He tried to keep his mind from racing as he recalled what he had just heard.
+
+Then he turned to Soei, not bothering to wipe the sweat from his brow.
+
+Ogre mage… He is among the ogre mages?!
+
+He stared at him, as if looking at something his mind refused to parse.
+
+Then he recalled the power he had shown a moment ago.
+
+Now it made sense.
+
+Perhaps I should have known.
+
+He is a legend along the lines of the orc lord.
+
+The next level of ogres…
+
+Ogre mages were the evolved form of ogres, already high-level denizens of the forest.
+
+It made sense, then, that the force he exhibited was akin to a high-level magic-born.
+
+Well past A rank, and difficult to wrap one’s mind around.
+
+So few among the magic-borns ever made it to that point.
+
+But something Soei said rang in the chief’s mind.
+
+He had said the ogre “mages.”
+
+Plural.
+
+There were more of them.
+
+The thought sent a shiver down his spine.
+
+My decision…
+
+he thought.
+
+My decision to accept this alliance was the best one I have ever made…
+
+Then the chief sank to the floor.
+
+He was sure of it now.
+
+If the ogre mages were helping him, the lizardmen would absolutely be saved.
+
+Despite having an orc general defeated in the blink of an eye, the orcish soldiers showed zero sign of panic.
+
+The battle continued at a frenzied pace as the guard chief used the recovery potions Soei gave him to tend to the wounded.
+
+Soei wearily eyed the hordes.
+
+“We can hardly rest easy with these annoying flies around,” he said, as calm and composed as ever.
+
+“I might as well take care of them, too, while I’m at it.
+
+Give me one moment, please.”
+
+Shortly after, Soei’s body appeared to disrupt into multiple images of himself.
+
+Five shadows leaped forward, each one identical to Soei, right down to his clothing and equipment.
+
+They were copies, made with his magical Replication skills, and each one silently began taking action.
+
+Heading for the corridors, they stood before the lizardmen doggedly propping up the halls’ defense.
+
+One was stationed at each of the five exits out of the chamber, including the evacuation route.
+
+The lizardmen stared in awe at them but let them through regardless.
+
+“You may rest for now,” each one said as he went down his individual paths.
+
+As they did, the lizardmen were greeted with an unbelievable sight.
+
+The orcish soldiers, who had seemed like demons from hell itself just a moment ago, were helpless as Soei mowed them down by himself.
+
+The same sight was unfolding in each of the corridors.
+
+Demonwire Slash.
+
+An efficient, glittering machine of death.
+
+In a moment, the Sticky Steel Thread deployed across each corridor was infused with magic power, moving exactly how Soei wanted it to.
+
+There was no place to run from it, especially in these tight underground halls.
+
+The moment he executed the move, the orcish soldiers found themselves instantly sliced and diced.
+
+It was perhaps lucky for them that they were incapable of fear.
+
+From the lead man forward, they were being massacred without even a moment of resistance.
+
+Soei showed them no mercy, no pity for even a second, slaughtering the orcs like a hunter reaping the lives of prey caught in his trap.
+
+The orcs to the rear feasted upon the bite-size pieces of orc chopped up by the web-like network of string, ran full-steam forward, and got killed themselves.
+
+The corridors were a twisty mass of passages, and now they were the sole domain of Soei.
+
+He had his wires laid out in a dizzying number of ways, and he could alter their locations at any time.
+
+To him, the orcs were simply bothersome pests that needed to be exterminated, far too frail to be considered truly enemies.
+
+His Replicants silently, efficiently, followed their orders as they carried out the carnage.
+
+The lizardmen were too shocked to say anything.
+
+The scene before them played over and over again, filling them with awe and fright.
+
+It was strength on a completely different dimension, the work of a person whose power surpassed anything they could even envision in their imaginations.
+
+Beyond this
+
+, Soei thought,
+
+the Replicants could take care of things themselves.
+
+He left the sixth copy there as a contact point, just in case, and then began moving again, undetected by anyone.
+
+He was on his way back to Rimuru, his master, seeking a new role for himself.
+
+After Gobta and Ranga went on their way, Benimaru thought in silence for a moment.
+
+“If I could ask,” he said to the hobgoblins within earshot, “can all of you use Shadow Motion?”
+
+The tempest wolves, Ranga’s clan, could use it—what about their partners on the battlefield?
+
+“Not by ourselves, like Gobta can,” replied one of the riders, who sported an eyepatch.
+
+“But if we’re with our partners, we can, yes.”
+
+“Yeah!
+
+We’re one with our partners, body and soul!”
+
+“Good to hear,” Benimaru said, nodding contentedly.
+
+“We’re going to slash our way into the encirclement from the outside, so I want you to Shadow Motion yourselves to Gobta.
+
+Sir Rimuru sent him ahead first so it’d be easier to transport the rest of you there.”
+
+“Oh,” another hobgob commented.
+
+“Wow, Sir Rimuru’s pretty smart!”
+
+“Yeah!
+
+So he had Ranga divert the enemy’s attention while he had Gobta shore up the lizardmen’s position?”
+
+“And then we charge in, regroup with Gobta, and while the enemy’s confused, we turn the tables on them.
+
+Right?”
+
+Benimaru nodded.
+
+There was a smile on his face, betraying his delight at everyone understanding Rimuru’s train of thought.
+
+“That’s exactly it.
+
+And if you understand it, charge in there, now!”
+
+““Yes, my lord!!””
+
+Thus, the goblin riders began their first onrush into the war.
+
+That left only the three ogre mages in the area.
+
+Benimaru began to stretch out his body, not a trace of concern in his mind.
+
+As a fighter race who worked as mercenaries and such, ogres bore a particular emotional attachment to having a “master” to rely on.
+
+Earning a master to serve for the rest of their lives was the single sincerest wish they all shared.
+
+That, and Benimaru’s warrior past changed his outlook on the world.
+
+He knew he tended to act selfishly most of the time.
+
+That was why he had hesitated to take over the role of ogre king, back in the day, not that it mattered now.
+
+Having such a lofty position would mean he would never have been allowed on the battlefield where death was a constant presence.
+
+Now, things were different.
+
+He could play a front-and-center role all day if he wanted.
+
+He liked where he was, and he had two of his friends with him, following him without complaint.
+
+“It is coming soon,” Hakuro observed, stretching out his body to prepare.
+
+“It is,” Shion chimed.
+
+“We must thank Sir Rimuru for providing this chance.”
+
+They, along with Benimaru, saw Rimuru as their master.
+
+That was why they felt so safe relying on each other.
+
+They were working together for a common master, and Rimuru enjoyed his position leading them both.
+
+“All right.
+
+Shall we kick this off, then?
+
+The first battle in the glorious victory we will eventually offer to Sir Rimuru?”
+
+The ogres nodded at Benimaru’s words, and instantly, the three took off at top speed.
+
+They ran through the lush trees and grass, almost flying along the ground, the smell of water growing stronger in their nostrils.
+
+They were upon the marshlands in the blink of an eye, smashing through the orc hordes on the outer perimeter without dropping their speed for a moment.
+
+A blast of energy shot out from Shion’s heavy sword.
+
+The orcish soldiers crowded in front of her were blown away before they realized what had happened—and the attack signaled the beginning of their battle.
+
+Weak.
+
+That was Benimaru’s first impression.
+
+He didn’t have to bother lifting a finger as Shion and Hakuro cut down anyone foolhardy enough to approach.
+
+To Benimaru, though, this wasn’t very fun.
+
+His two compatriots were masters of close-quarters combat.
+
+Shion also had the Art known as Ogresword Cannon, which let her unleash pure energy from the tip of her blade.
+
+From an overhead perspective, Hakuro worked in little dots of activity, while Shion fired lines of lethal bolts from afar.
+
+There was no room for Benimaru to do anything else.
+
+“All right!
+
+You pigs standing in front of me; you had better run for your lives.
+
+Do, and I will spare you.”
+
+None of the orcs flinched.
+
+They could hear shouts of “Die, bastard!”
+
+and “You will not ridicule us!”
+
+as they charged at the ogres, even more enraged than before.
+
+“Prepare to die, then!”
+
+Realizing his foes had no intention of fleeing, Benimaru casually thrust his right hand forward.
+
+A black ball of flame flickered to life above it, expanding to about three feet in diameter before he unleashed it.
+
+Realizing the danger, the orcish soldiers took evasive action—but they were too late.
+
+The fireball continued to expand and accelerate, faster than a hurricane, and the orcs were simply too slow to run from it.
+
+Anyone who touched it was instantly incinerated, not even leaving a pile of ashes behind.
+
+But that wasn’t what made the dark fireball terrifying.
+
+Several seconds later, upon reaching a large clutch of orcs in front of it, the flame released all the energy it had stored inside.
+
+An area three hundred feet in diameter was suddenly cloaked in a dome of pure black, centered around the fireball.
+
+Then, a mighty rumble, low and loud enough to freeze the entire battlefield, and the blood of everyone in it.
+
+The entire area was now quiet, robbed of the sounds of war that ruled over it just a moment ago.
+
+This was Hellflare, an incendiary attack that dominated like nothing before or since.
+
+In his evolution, Benimaru had obtained the extra skills Control Flame, Dark Flame, and Ranged Barrier.
+
+Combining those with his own mystical skills led to this creation, an original skill exclusive to himself.
+
+In a few seconds, the dome disappeared, leaving nothing but scorched earth behind.
+
+The marsh water in the area affected had vaporized, the very soil under it turned into glass by the heat.
+
+The transformation was stark, and the several thousand orcs who had been under that dome were all now a thing of the past, never knowing what had hit them.
+
+And it all happened within a minute of the first flicker of flame from Benimaru’s hand.
+
+This was the answer Benimaru had for this war.
+
+The evolution had turned him into a terrifying magic-born, one whose area-of-effect attacks could now wipe out entire regions at once.
+
+He grinned an evil grin.
+
+“Open the way, pigs!”
+
+he warned, once again.
+
+Now these orcs knew fear.
+
+The Ravenous unique skill inoculated them to it to some extent, but Benimaru’s tactical strike was more than enough to stoke the fear at the deepest pits of their stomachs.
+
+This was an attack they could never withstand, no matter what they did.
+
+It was on a level they had never experienced before.
+
+Magic, they had measures against, but not even the orc generals, equipped with anti-magic full-plate mail, could survive the incineration.
+
+Innate resistances to fire, the orcs reasoned, were useless, and they were right—your garden variety of magical immunity wouldn’t work here.
+
+This attack was a fearsome antipersonnel weapon, equal to a high-level forbidden incantation.
+
+There was nothing any of the victims could have done.
+
+And not even their ashes remained, robbing the survivors of the ability to consume the corpses and strengthen themselves.
+
+No orc soldier could handle a high-level magic-born, and his debut struck fear in their hearts.
+
+In a panic, they began to stampede, totally out of control.
+
+Nothing could knock them back to their senses now; the only thing in their minds was running, quickly, anywhere away from there.
+
+And it was that opening salvo that signaled to Rimuru and his forces that it was time to join the fray.
+
+Tossing a glance at the chaos he had just unleashed, Benimaru began striding forward.
+
+He was perfectly casual, as if taking a stroll in the park, and the two ogres with him were the same.
+
+There was nobody left to challenge them, and now they could see the army that engaged Ranga and his comrades.
+
+The orcish soldiers, to them, were no longer an obstacle.
+
+Just as he had come to terms with his upcoming death, Gabil found himself saved.
+
+He turned around, intending to offer a word of thanks.
+
+These figures looked familiar, but it took a moment for the memory to return to his brain.
+
+Ah!
+
+Yes!
+
+The ruler of that village that tamed the direwolves!
+
+Gobta’s dimwitted expression matched Gabil’s recollection of the noble hobgoblin that had defeated him in battle.
+
+“Ahh!”
+
+he couldn’t help but blurt out.
+
+“You!
+
+You are the master of that village, yes?
+
+Have you come to our assistance?”
+
+Gabil had dismissed him as a scheming coward before, but now that his reinforcements were here, he figured he had the wrong impression all along.
+
+Gobta, meanwhile, wasn’t sure how to respond.
+
+What’s he goin’ on about?
+
+he thought, dumbfounded.
+
+This lizardman made so little sense to him that he decided not to grace his madness with a reply.
+
+This completely unexpected gift allowed Gabil a moment to survey his surroundings again.
+
+There was a great commotion from afar, indicating something else going on.
+
+Probably had something to do with that rumble from before
+
+, Gabil imagined.
+
+But Gobta knew what it really was—a signal from Benimaru that the ogres were on the scene.
+
+“Oops!
+
+Guess we’re getting started.
+
+Ummm, you’re Gabil, right?
+
+Bring your allies together and get back in defensive formation!”
+
+“Mm.
+
+Yes.
+
+I know.”
+
+Each had no idea what the other was talking about, but they still had the mental capacity to unite toward a common goal.
+
+They both hurried off, both with a new responsibility to handle.
+
+Outside of Gobta and Gabil’s scope of attention, Ranga was sizing up the orc general.
+
+“You wish to get in my way?”
+
+the fighter said, spear pointed straight at the wolf, a little unnerved by these new events but still in control of his wits.
+
+“Who are you?”
+
+These wolves were a concern to him, certainly.
+
+The orc general had a feeling that the low rumble from before was a sign of even clearer danger, but he couldn’t simply leave the wolves unchallenged.
+
+“I am Ranga,” came the low, half-growled reply, “the faithful servant of Sir Rimuru!”
+
+The two glared at each other.
+
+“Rimuru, you say?
+
+I’ve never heard the name, but if this Rimuru seeks to defy us, we will destroy him.”
+
+Now the orc general had no interest in Ranga.
+
+If he wasn’t aligned with a demon lord or high-level magic-born whose name he was familiar with, he felt free to kill him without regret.
+
+That rumbling roar suddenly seemed a lot more important to investigate.
+
+He distractedly thrust his spear forward, attempting to skewer Ranga and end this fast.
+
+Ranga effortlessly reared back, dodging the strike.
+
+“Crafty little dog!”
+
+Now the orc general gave Ranga a closer look.
+
+Then he noticed—this wasn’t any regular wolf at all.
+
+What?
+
+Come on.
+
+Just a simple magical beast… Why am I letting him worry me so much…?
+
+He assumed his sudden trepidation was just his mind playing tricks on him.
+
+“How dare some lowly animal bare its fangs at me!”
+
+he shouted, giving orders to his team of elites.
+
+The orc knights fanned out, surrounding Ranga in a perfectly timed maneuver.
+
+Following their general’s direction, they focused each of their spears on the wolf.
+
+There was no point challenging some animal to a one-on-one duel
+
+, he thought.
+
+Ranga chuckled.
+
+He hadn’t felt this heartened in ages, able to release his full instincts as an apex predator.
+
+With a howl as long and loud as he could muster, he unleashed his aura.
+
+After spending so long in the shadow of Rimuru, he had been heavily exposed to his beloved master’s aura and used it to picture himself as the magical beast he was.
+
+Something drove him to pursue this form of himself, and now Ranga realized it was time for his instincts to awaken.
+
+He could feel the power surging within.
+
+His muscles grew, propelling him to his full, sixteen-foot-tall frame.
+
+His claws enhanced themselves, his fangs transformed into steel-like daggers—but what stood out most were the two horns that now grew from his forehead.
+
+This was the form of his master, the one he saw in the past.
+
+The tempest starwolf.
+
+And now he had evolved into that.
+
+The howl made the orcish soldiers shudder, but they felt no fear from it.
+
+Their orc general was right by their side, and the Ravenous skill had dulled their hearts.
+
+Ranga gave them a disinterested snort as he glanced at their leader.
+
+This was no threat to him now.
+
+He could feel his true strength, and it was time to show it off.
+
+Sensing the flow of power, he focused his magic on his horns.
+
+The orc general picked up on this higher-level transformation, and he knew the danger involved.
+
+He hurriedly ordered his soldiers to spread out, but he was too late.
+
+A flash of light ran across their ranks.
+
+Then the sound came—the crack of thunder as pillars of electricity shot up from the ground to the heavens, accompanied by a small army of tornadoes.
+
+Ranga had obtained the Dark Lightning skill—and while he couldn’t directly control lightning the way Rimuru could, his two horns allowed him to define its range and power.
+
+And he had something else—the extra skill Control Wind.
+
+This was, in a way, an inferior version of the Control Particles skill Rimuru had picked up.
+
+It let Ranga raise and lower the local atmospheric pressure to generate wind gusts, and combining it with Dark Lightning provided a lethal one-two punch.
+
+Ranga knew that—his instincts told him so—and he used it on his foes without a moment’s hesitation.
+
+Control Wind was his now, and he used it to generate a staggering pressure difference in the air above.
+
+This was the area he used Dark Lightning on, and the ensuing beams of electricity filled the exact area he wanted.
+
+The result was a writhing maelstrom of upward and downward air currents, eventually gathering themselves into a single massive vortex.
+
+This led to several large tornadoes, exuding electricity as they ran roughshod across the battlefield like a great death-dealing storm.
+
+The orc general was instantly rendered into a pile of carbon, and his nearby soldiers were quickly picked off by the storm and thunderbolts.
+
+Once the tornadoes left the scene, there were no more orcs nearby.
+
+Ranga’s broad-range attack skill—Deathstorm—thus made its first impact on the world.
+
+Ranga watched contentedly as his tornadoes stormed across the land.
+
+It had not affected any of the lizardmen, and even at maximum range and force, they did nothing to damage him.
+
+It emptied his magical reserves, of course, but not enough to render him immobile.
+
+He wagged his tail, realizing it had worked perfectly.
+
+He let out another long, happy howl, more than enough to terrorize the orcs observing from afar.
+
+Ranga watched them flee in a panic, sitting down as he silently refilled his magic.
+
+The battle wasn’t over yet.
+
+He would have more opportunities to contribute.
+
+There was no need to hurry things along.
+
+Gobta appeared to be doing well, too.
+
+The lizardman force was starting to gather itself back together under the watchful command of Gabil.
+
+The goblin riders had rejoined Gobta, and together they were mowing down the orcs that had so tormented the lizardmen and goblins not long ago.
+
+It wouldn’t be long before Gabil’s men were a coherent force again.
+
+And now—they could see Benimaru and his friends, walking in from far away.
+
+Ranga nodded to himself.
+
+Victory seemed assured now.
+
+Gelmud was looking into his crystal ball.
+
+He didn’t like what he saw.
+
+“Damn those worthless bastards!”
+
+In a fit of rage, he dashed the orb against the ground, shattering it into a million pieces.
+
+It had been showing the proceedings in the forest from the eyes of an orc general—Gelmud had chosen that vantage point to take in what he expected to be the ultimate realization of all his ambitions.
+
+But now, the last of his intact crystal balls was a murky shade of black.
+
+All three of the soldiers he had entrusted orbs to had died in combat.
+
+Gelmud had been pushing forward with preparations for the upcoming ceremony for the past three years.
+
+A ceremony to mark the birth of a new demon lord.
+
+It had all been left in Gelmud’s hands to arrange, and the assignment filled him with glee.
+
+If all went well, it’d create a demon lord who would listen to his orders.
+
+It was too tempting a treat to ignore.
+
+The demon lords of the world had forged a pact with one another that defined the Forest of Jura as untouchable, not belonging to any dominion.
+
+That was, however, just a formality, and small-scale interventions into the wood were a daily occurrence.
+
+Gelmud himself had several different operations under way below the surface.
+
+What he was doing was planting the seeds of conflict across the forest.
+
+Gelmud was personally giving names to the most powerful among each race that dwelled in the wood.
+
+Naming a creature consumed a great deal of magical energy, draining his powers for months at a time.
+
+It was a dangerous game to play, but the “named” treated Gelmud like a parent and listened to anything he told them.
+
+Slowly, carefully, he had been building a small clique of protégés for him to manipulate forest-wide.
+
+Some had been uprooted from the ground before they could fully sprout, but others had fully blossomed.
+
+Some were goblins, some lizardmen—and there were other races involved, too, all participating in the war as named monsters.
+
+It was poisoning the well to cull the weak from the herd—powerful against powerful, the survivors fated to be evolved into a demon lord.
+
+Gelmud’s plan had been going without a hitch.
+
+These great wars among entire races shouldn’t have occurred until three centuries after Veldora’s disappearance.
+
+Whether sealed away or not, triggering a war while Veldora was still alive was playing with fire.
+
+It could break the seal itself, in fact.
+
+So he had taken his time, gathering more pawns under his control and adjusting the power balance among the races.
+
+And now that Veldora had vanished far earlier than he anticipated, the whole thing was starting to fall apart.
+
+But luck hadn’t fled Gelmud’s side yet.
+
+An orc lord was born—and while he hadn’t been expecting that, he did successfully bring it over to his side.
+
+It was Gelmud’s trump card, and now that plans were going well and truly awry, Gelmud had no choice but to play it.
+
+It would be better to let things work out naturally with a plan like this, but the way he saw it, he had no other choice.
+
+It was a bit like fixing the entire tournament, he knew, but he decided that the orc lord would be the next demon lord, no matter what.
+
+The lack of time had forced him to speed up the plan a little, and Gelmud still didn’t have enough strength to bring the higher-level races of the forest under his rule.
+
+He had wanted to sow some seeds among the ogres and treants as well, but that had fallen by the wayside this time.
+
+To be exact, the ogres turned down the naming offer.
+
+He had tried to negotiate with them, but they steadfastly refused.
+
+As a warring race, the ogres were reluctant to quickly change allegiances.
+
+They were high level, yes, but Gelmud concluded that they could not be controlled.
+
+The experience riled him enough that he decided to have the orc lord target the ogres first.
+
+The way they easily steamrolled over the ogre homeland assured Gelmud that he was on the right track.
+
+He had sent a magic-born employee over to keep tabs on things, but it wound up being unnecessary.
+
+The orc lord was growing steadily, and even his underlings were now nearing A rank.
+
+It made Gelmud rest a lot easier at night.
+
+Rubbing out those annoying ogres first eliminated the last seed of anxiety for him.
+
+The treants were harmless as long as their lands were not directly threatened.
+
+He could take his time crushing them.
+
+Everything was proceeding as planned.
+
+He had once feared the demon lords who ruled over him, but now, it was Gelmud’s turn to man the strings.
+
+It wouldn’t be long now—and when he topped it all off with the lizardmen’s destruction, all he’d have left to tackle were those stupid goblin weaklings.
+
+And once the orc lord had supreme control over the forest, Gelmud intended to have him keep going and destroy a human city.
+
+It would be his declaration to the world that a new “demon lord” had been born, and that declaration would be supported by facts once he wiped away the dryads and treants from the forest.
+
+Soon, very soon, Gelmud would have a demon lord doing whatever he wanted.
+
+He would take his rightful place as one of the most powerful rulers in the world.
+
+He could see it all so clearly in his mind, but now…
+
+He hadn’t bothered to renew the contracts with the people he spent a fortune to hire.
+
+Gelmud’s master was the one who introduced him to the Moderate Jesters.
+
+They were a creepy little band, and while they offered a wealth of powerful magic-borns to him, the plan was going so well that there just wasn’t much work he could offer—not without revealing his entire plan, which he wanted to avoid.
+
+They had warned him to mind his business around the dryads.
+
+That was why he devoted so much effort to building an arsenal of magic-resistant armor and equipment.
+
+Problem solved, as far as Gelmud was concerned.
+
+The orc lord’s army had conquered the majority of the forest.
+
+One more step, and everything would be theirs.
+
+But now…
+
+Just as the orc lord was about to enjoy his new life as a demon lord, an unexpected presence had thrown a wrench into the gears.
+
+All of a sudden, one of the crystal orbs went black.
+
+One of the five orc generals, the commanders who answered directly to the orc lord, had been killed.
+
+Gelmud grew confused, then panicked.
+
+He realized that if things went awry, not only would there be no place in the table among the world’s elites for him—his master might decide he wasn’t worth having around any longer.
+
+The realization came to him at around the same time his third crystal ball went silent.
+
+All hope seemed lost for his ambitions—and for himself.
+
+Gelmud flew outside, casting a flight spell to propel him forward.
+
+There was no time to bother formulating a plan now.
+
+He had to get to the marshlands, and he needed to be fast.
+--- END PRESERVED SOURCE BODY ---

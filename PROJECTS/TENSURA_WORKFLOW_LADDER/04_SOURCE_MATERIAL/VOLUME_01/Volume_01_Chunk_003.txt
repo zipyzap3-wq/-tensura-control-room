@@ -1,0 +1,517 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 3 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_01_Chunk_003.txt | SHA 7854d4d58fca7db83922e6b865abc9843cd1d711 | 36787 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_01/README.md
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 1 (continued) ===
+
+Upon closer observation, the ominous scales covering his entire body actually radiated a dark purplish light—a mixture, perhaps, of their natural color and the unearthly force that made its way through the surface. There was something strangely beautiful about his vast shape, the picture of majestic dignity. I began regretting being so rude back when I couldn’t take it all in, but that was all water under the bridge.
+
+Turned out, by the way, that I was indeed oval shaped. Like a little bun. Kind of a…light turquoise, maybe? Lighter than the daylight sky, but not by a lot. A rather elegant color, I thought. Shame about the whole being-a-slime thing.
+
+You do remember your promise, yes? And considering your previous complaints, you learned rather quickly, no?
+
+Oh, of course! I was just joking a little, is all. I can see just fine, and plus I can hear now, too. I really appreciate this!
+
+Hmph. You could have taken your time…
+
+So he was fine after all. A little scary looking, but he was awfully kind to me, for no good reason. He really
+
+was
+
+lonely, I imagined. It was unfortunate that he looked the way he did. Kind of like that little story about the poor red demon who wanted to befriend the humans.
+
+So what do you intend to do next?
+
+Well, for starters, I figure I might as well look for some otherworlders from my home country. Not that I care too much if I don’t, but…you know.
+
+Finding some would be better, but it’s not as if we’re guaranteed to become fast friends. Plus, with my brand-new eyesight, scoping out the world could do wonders for me. Harvesting the light and sound around me had just expanded my world a thousandfold. Now, finally, I could say good-bye to my days of literally chewing the cud in my tiny cave or whatever.
+
+That dragon, though.
+
+The more I stared at him, the more sinister and terrifying he
+
+seemed. And yet he didn’t move a single inch. He mentioned a three-hundred-year-old seal, right?
+
+By the way, Veldora, you said something about being…sealed away?
+
+Mm? Ah. Yes, I perhaps underestimated my opponent slightly. I eventually began fighting with, shall we say, more urgency, but…well, it was rather too late by then!
+
+The dragon sounded almost proud of his losing performance. Magic was one thing, but I doubted there was a sword or lance in this or any other world that could scratch him. It wasn’t as if I knew that much of this world yet—maybe it was crawling with horrifying monsters even more powerful than him, or something?
+
+Was your opponent that tough?
+
+She was…quite strong. She was what the humans call a “hero,” one blessed with so-called divine protection.
+
+A hero? My days in front of a game console had made me well familiar with that term. Simply doing hero stuff didn’t make you dragon-slaying material, though. A lot of recent games had turned their so-called “heroes” into foils or parodies of themselves, besides. Maybe things were still a bit more traditional around here.
+
+Now that I recall
+
+, Veldora continued,
+
+the hero also said she was “summoned.” Perhaps she hails from the same area as you.
+
+Oh? I dunno… Where I come from, nobody’s that strong, you know?
+
+Perhaps, but many otherworlders come here bearing special powers. Powers that are chiseled into their souls in the midst of their journey. The summoned will always bear one such skill—a unique skill, one exclusive to them and them alone. Unlike the otherworlders who come here by sheer accident, these people bear a soul strong enough to withstand the stress of the summoning process. The fact that said summoning process so rarely succeeds in this world otherwise proves as much.
+
+When you say “summoning process,” do you mean…magic, or whatever?
+
+Precisely. A process requiring at least thirty magicians conducting a ceremony that takes place over three days. It is rarely successful, but it is seen as a powerful weapon to have in one’s arsenal, should the need arise.
+
+A weapon?
+
+Mm. Those summoned in such a manner are bound by a magical curse upon their soul, unable to resist the orders of their masters.
+
+Whoa, really? No human rights or anything?
+
+Human rights? What rights would one possibly expect in this, of all worlds? Do not entertain such fantasies in this realm, little one. The only law that reigns here is survival of the fittest. Might, as they say, makes right.
+
+Well, huh. If you got summoned to this world, no point hoping that your old values applied over here, I guessed. Bit hard to accept that.
+
+So are you saying that otherworlders pretty much get treated like slaves here?
+
+No. It depends. There is no Domination Stamp applied to them. If society accepts them, they are free to live their lives as they please. They can become adventurers or the like. Many otherworlder adventurers have sought my head… They learned the error of their ways soon enough! Hyaaa-ha-ha-ha-ha!!
+
+So you’re only forced into servitude if you were summoned here, huh…?
+
+Not “servitude,” exactly, but I suppose so, yes. I like to believe I know a great deal about the humans, but “a great deal” is not everything.
+
+No… You’re a dragon, besides.
+
+In way, he knew almost
+
+too
+
+much as a dragon. At least conversing together put me on his good side—enough that he answered all my questions. So we kept talking—Veldora and I, dragon and slime, about all sorts of things.
+
+How had the fight gone with this hero?
+
+How strong was she?
+
+Her skin was pale in color, the dragon told me; her lips were bright red and small. Her long hair was a dark shade of silver, kept back in a single ponytail. She was slim, not that tall, rather small for a human.
+
+Her face was apparently covered by a mask, but there was no doubting her beauty. I asked him whether this beauty was enough to distract him, whether he was too enrapt to defend himself properly.
+
+Enough of your nonsense!
+
+he bellowed back at me.
+
+Apparently she carried a long, curved sword. A “katana,” it was called. She didn’t bother with a shield. Taking advantage of two unique
+
+skills—Absolute Severance and Unlimited Imprisonment—and a wealth of other magic, she, as Veldora put it, “overwhelmed” him. There was more than a trace of nostalgic contentment in his voice, or so it seemed to me.
+
+Something I picked up on as we spoke was that this dragon… I think he really
+
+liked
+
+humans. He kept calling them “wimps” and “garbage” and such, but from the way he put it, he never deliberately killed anyone who attacked him. Not unless they went out of their way to rile him. One time, three centuries ago—just
+
+one time
+
+, he emphasized—a certain chain of events made him reduce an entire city to embers. That was what made the people send a hero his way, and now—thanks to that hero’s Unlimited Imprisonment—he was in his current predicament.
+
+I had trouble enough figuring out my own feelings about a lot of things. Other people’s, I could only guess at. But I was starting to get the impression that, well, maybe this wasn’t such a bad dragon at all. I mean, I liked him. And he wasn’t anywhere near as scary as before.
+
+All right! Well, um… What do you think? Friends, then?
+
+It was kind of…no,
+
+really
+
+embarrassing to put it like that. I’d have been blushing right then, if I could.
+
+Wh-what? A mere slime, daring to seek the friendship of the mighty beast feared worldwide as Veldora the Storm Dragon?!
+
+Oh, um, you don’t have to if you don’t want, but…
+
+You fool! You foolish fool!! Who said anything about not wishing it?!
+
+Oh, no? Okay, so, um…now what?
+
+—Mmm, indeed… If you insist…I suppose I could consider it…
+
+I could feel him sneaking furtive glances at me. It would have been one thing if it had been a cute girl sitting next to me at the movie theater, but it was quite another when it was a death-dealing mythical beast. Not fun. Pretty funny, though.
+
+Yep. I insist. It’s settled! And if you don’t like it, then watch out, ’cause I’ll never come back!
+
+No!—Ah, so be it. I will become your…friend. I do hope you appreciate the gesture!
+
+Heh. I wondered whether I could manipulate the other three
+
+dragons he mentioned like this. I was made to exploit people, and he was made to be exploited. A perfect match.
+
+Well, to future times, then!
+
+Indeed! To future times! …Ah, yes, allow me to give you a name. In exchange, you will give one to us both.
+
+Huh? Why? Where’d that come from?
+
+It shall chisel into our souls the fact that we are of the same rank. Something similar to the family names the humans use—except my name, for you, will also provide a kind of divine blessing. You are still nameless now, but through this, you will become a full-fledged named monster.
+
+Mmmm.
+
+So he wanted me to come up with a common name for us to share? And in exchange, I’d get my own name and all the benefits of named-monster status? Better think up something good. I’m terrible at this stuff…
+
+Well, you said you were a storm dragon, so… I dunno, “Tempest” or something?
+
+Ugh. Kind of on the nose, I know, but it sounded cool to me, so—
+
+Perfect! So be it! A wonderful timbre to that title, yes.
+
+He
+
+liked
+
+it?!
+
+From this day forward, they will call me Veldora Tempest! And you… You will be called Rimuru. Proclaim to the world that your name is Rimuru Tempest!
+
+Thus the name was carved into my soul. Not that it did too much to me. Or my abilities. But somewhere, deep inside my soul, something
+
+did
+
+change a bit. I suppose the same could be said of Veldora. And that’s how we became friends.
+
+Well, it was time to get going, I supposed. But before that:
+
+Hey, so I had something I wanted to ask before I left, but…can’t you do anything about that seal on you?
+
+Not with my powers, no. Someone with a unique skill on the same level as the hero’s would be necessary for there to be even a chance.
+
+You don’t have any, Veldora?
+
+I do, but now that I am sealed off, I can access none of them. Telepathy is about all I can manage at the moment.
+
+The hero’s Unlimited Imprisonment could hold its target captive in an infinite number of imaginary spaces for all of time. It wasn’t some weak barrier that would allow casual interference with the real world. Looking back, it should have struck me as strange that Telepathy was possible, even. It wasn’t the sort of thing that would break down over time—but given that he could have any contact with the real world, and even exchange messages, perhaps it said more about Veldora. Neither of us noticed this at the time, though.
+
+Well, here, lemme try something…
+
+I rolled over to Veldora and tapped my body against him.
+
+Invoking unique skill Predator to consume unique skill Unlimited Imprisonment… Failed.
+
+I figured as much, but no, I certainly wasn’t hero caliber. With a dazzling light, my unique skill tried to do its work but weakly bounced off without any further comment. I thought it might have made a small rip, but that was all. The barrier would repair itself shortly, no doubt. I was hoping that unique skill on unique skill would result in something, but it didn’t.
+
+Was there anything I could do, though? Something…
+
+Received. Partial Analysis of unique skill Unlimited Imprisonment complete. Reporting a potential escape route.
+
+Any escape involving a physical body is not possible. The chance of destroying the prison by physically damaging it is zero. Cannot analyze an escape route involving the annulment of imaginary space. One would need to be caught within the same Unlimited Imprisonment situation in order to analyze it from the inside. This is currently impossible.
+
+The chance of escaping in spiritual form is one percent.
+
+If a spiritual receptacle is prepared for the target on the outside to aid in the transition, the success rate is three percent.
+
+This process is equivalent to transmigration. If the target is poorly compatible with the receptacle, he will lose all memories and abilities.
+
+This concludes the report on potential escape routes.
+
+—Hmm. Kind of low numbers, it sounds like.
+
+Unlimited Imprisonment looked like nothing more than a transparent membrane from my perspective…but physical damage did nothing against it? Maybe it had some kind of insurmountable defense attached to it, for all I knew.
+
+Hey, did you lay any damage on this hero at all? Or vice versa?
+
+Ah, I am glad you asked! Most of my attacks were evaded, but I did land several direct hits…which, I regret, had no effect on her. Death-Calling Wind, Dark Lightning, even Storm of Destruction had no effect, despite being completely unavoidable. A total loss… All I could do was laugh!
+
+Veldora then accentuated the point with a loud, hearty guffaw.
+
+It sounded as though you could also use this Unlimited Imprisonment skill to cover your own body, making a shield to protect from external attack. Pretty handy thing to have around. This hero was starting to sound downright omnipotent. Between that and Absolute Severance, she was all but invincible, wasn’t she? I really wouldn’t want to run into her…but then, I wouldn’t have to. I would have liked to assume she had died in the ensuing three hundred years, at least. Either way, she was one tough character.
+
+So if I was going to get him out of here, it would be through transferring his consciousness into a new body, huh?
+
+I guess I need some kind of receptacle to get you out of here. Even if it’s in spirit form only, it sounds like it oughta be possible…
+
+No point telling him what kind of odds he had to go on. I’d just be hurting Veldora further if I dampened his spirits.
+
+Mm? There is a way out of here?! Indeed… I feel my magical force will exhaust itself by no later than a hundred years from now. My magic continues to flow out of me, even now.
+
+Yeah? So that’s why there’s such a concentration of it around here…
+
+Indeed. Even high-class monsters would not dare approach. You saw how there were no weeds on the ground? The sort of plants that can thrive in this area are very rare indeed!
+
+Right. I recalled all the hipokute herbs I’d churned through over my short life. It was that valuable, huh?
+
+Yeah, so…you wanna try escaping, maybe? If I had the right receptacle, I think that’d help our chances a fair amount… Do you know what I’d need, though?
+
+…Indeed, even if I escaped in spiritual form only, it would be quite difficult to regather magic and form my core once more. Your creating a small tear in the prison helped my chances immensely, no doubt. As for that receptacle—the new core, if you will—if you can bring one to me, all I’d have to do is traverse myself over to it. Transmigration, I suppose…
+
+Yow! And here I thought he was a little slow. He knew exactly what I was getting at, didn’t he? The exact same conclusion the Sage had made.
+
+Pretty much, yeah. If it’s something I can get on this side, I could look for it for you.
+
+Hmm… To tell the truth, I do not need any core at all… You can keep a secret, I trust? As I said, I am both unique and the most perfect of my kind. A fully unique creation, one that takes purely spiritual form. I have no particular attachment to this body. It is merely the faith of those who live around me that forms the shape you see.
+
+There he went again. Spouting off complete nonsense.
+
+As far as I could piece together in the ensuing conversation, the basic idea went like this:
+
+Using his consciousness alone, he could gather magicules toward him to form a physical body. Said body was currently being held in this prison, but that prison also prevented his will from collecting the magic he needed. Could he escape in consciousness form alone? No, because he needed some kind of receptacle.
+
+If he simply burst out in spirit form, his essence would scatter to the winds like the magic itself, erasing his very existence. This would result in the birth of a new storm dragon, somehow,
+
+somewhere—I didn’t care about the details by this point. But to sum up,
+
+maybe
+
+he could escape, but if he did, he’d wind up being something else. It wouldn’t matter to him.
+
+So much for that. But what if I used Predator to consume Veldora himself? I could either analyze him inside my stomach, or isolate him and annul the effect of Unlimited Imprisonment, and he’d be out. Would that work?
+
+Received: It is possible to store the target Veldora in your stomach via the unique skill Predator.
+
+Really…? In that case, if I could convince
+
+him
+
+of it, we could get going. If I couldn’t, he’d have another century of isolation before he was reduced to nonexistence. So I spent a few moments explaining the Predator skill to Veldora, and what I wanted to do with it. It’d be impossible from the get-go without the Sage’s help, but…
+
+Mwah-hah-hah-hah-hah! Fascinating! Please, go ahead. I leave myself at your mercy!
+
+You’re that ready to believe me?
+
+But of course! It’d be far more fun to break through this prison with you than sit around and await your return! With the two of us together, this Unlimited Imprisonment could fall quicker than we thought!
+
+Now I got it. He was one, but now
+
+we
+
+were two. I liked his outlook.
+
+So the plan was I’d use Great Sage and Predator to analyze this beast, and Veldora would try to destroy it from the inside. No worries about Veldora dissipating away in my stomach. I was starting to think this could actually work.
+
+All right. So I’m gonna consume you, all right? Hurry up and get outta there.
+
+Heh-heh-heh! Right away! You shall make me wait no longer! Let us finally join together!
+
+Right! I summoned up my stores of resolve, touching him for a moment—then activated my Predation skill. In a moment, Veldora’s massive form disappeared from sight.
+
+It happened almost too fast. We were talking just a moment ago. Seeing him gone suddenly made me feel very small and
+
+very
+
+solitary. Using the skill on my first target created too much resistance to work at all, but with the help of a fully cooperative Veldora in all his hugeness, it couldn’t have gone more smoothly. He and Unlimited Imprisonment itself were sucked in at once.
+
+Kind of a surprise it all fit in me, though. Checking my stomach usage… Geez, 25 percent? How big
+
+was
+
+that thing, anyway?
+
+Then:
+
+Conduct Analysis of unique skill Unlimited Imprisonment?
+
+Yes
+
+No
+
+This better work
+
+, I prayed as I thought
+
+Yes
+
+to myself.
+
+A cataclysm shook the world on that day.
+
+It was the only way to describe the reaction when the disappearance of the storm dragon Veldora was confirmed. It wasn’t every day that a Special S-ranked monster simply vanished without a trace.
+
+Monsters, as well as adventurers, were ranked on a system of six grades, from A to F. Pluses and minuses could be attached to these grades for extra precision. This system was first put into place by a man named Yuuki Kagurazaka, a rumored otherworlder and one of the few to assume the topmost rank of “grand master” in the Free Guild. It was quickly adopted, thanks to being much easier to understand than the previous, somewhat arbitrary four-tier system of “novice” → “beginner” → “intermediate” → “advanced.”
+
+The Special S rank combined the S rank, which comprised demon lord–class foes that deserved more than simply an A, with the “Special” tag reserved for those above even that class—monsters capable of single-handedly engineering calamities or natural disasters. A scale-breaking rank, existing wholly outside the six traditional
+
+ones. Normally, an A-ranked monster alone would be dreadful enough to threaten the existence of a nation—someone like Veldora was dangerous enough to plunge it into despair.
+
+Three hundred years of penance had done nothing to affect the dragon’s rank as a natural disaster–level threat. Just because he had disappeared didn’t mean he couldn’t be reborn somewhere, posing a new menace before long.
+
+But twenty days after the initial report of his disappearance, the Western Holy Church issued a report that, as far as its investigations could tell, Veldora the Storm Dragon both no longer existed and showed no sign of existing anytime soon.
+
+Word spread first in the area around the Forest of Jura, a broad plain dotted with a large number of minor countries. Once Veldora’s fate had been broadly reported, each one of them sprang to their feet, the proverbial hornet’s nest stimulated to action. Every king and every minister of every nation held day after day of emergency meetings, gathering information and debating what to do next.
+
+It was a trying time for the Baron of Veryard, minister of the small kingdom of Blumund, but not half as trying as it was for the man Veryard had called into his private chamber that day. This was Fuze, a man just as renowned for his sharp, unrelenting eyes as he was for his small stature. He was the guild master for this kingdom, a position affording him a hefty amount of authority even in such a tiny nation.
+
+“I believe you know why I summoned you here,” the baron began the moment Fuze walked through the archway. “You have heard about the storm dragon by now, have you not?”
+
+Fuze nodded. “Of course, my baron,” he said in his low, hoarse voice.
+
+“Hmph,” Veryard spat out in response. “I suppose I should expect nothing less of you, my good guild master. Now, may I ask about how the guild intends to respond?”
+
+“We have no particular plans at this time, sir.”
+
+“…I’m sorry, did I hear you correctly? You have no intention to take action?”
+
+“Yes, sir,” Fuze replied with a voice devoid of emotion, silently asking the baron what he was so perturbed about. “I do not feel any action is necessary.”
+
+The baron, not a great fan of this response, chose to keep those feelings hidden. “Rather a strange thing to say, is it not? Not necessary? The disappearance of Veldora the Storm Dragon may portend further monster activity in the space of days, even hours! And you are taking no measure at all against it?”
+
+“It would strike me as rather strange to do so, sir, for taking such measures is the job of the state. I am responsible for the Free Guild, not for providing volunteer work when bidden.”
+
+This was the truth, as far as Fuze was concerned. The Free Guild was an independent, nongovernmental agency. Its members were afforded no special guarantees of security or comfort—unlike the assorted workers and craftsmen on the government ledger—but the basic rights that all citizens were entitled to. Their only official debt to the kingdom came in the form of taxes.
+
+That was the system in Blumund, as it was in nearly all the nations that surrounded it. To put it another way, the Free Guild was a group that operated outside the framework of any nation—and one far more unified than a single government as well. It was a fact that some of their operations occurred without the knowledge or consent of these nations, whether the guild intended it to be seen that way or not.
+
+“Is it not the responsibility of the state,” the guild master meekly continued, “to protect the assets of its people? In the same way, it is the guild’s responsibility to protect the lives of its members. We both have a lot on our plates, I suppose.”
+
+Fuze wasn’t sure whether he had imagined the blue vein that had just popped up on Veryard’s forehead or not.
+
+He hadn’t. The baron knew his position was being probed.
+
+“Enough pretense, Guild Master! How many mercenaries can you provide us? How many adventurers with combat experience? What is the size of the defense force you can provide in service? I need numbers!”
+
+The guild master gave a roll of his eyes and sighed. “I do hope we are on the same page when I say this, sir, but I will remind you, we are not an army of volunteers. If we are talking about a mobilization based on the terms of our agreement, I can provide you the equivalent of one-tenth of our members. If you wish access to anything beyond that, well, that would all depend on our compensation.”
+
+The population of Blumund was almost exactly one million. The membership log of the local Free Guild totaled around seven thousand, family members not included. Thus, if the kingdom decided to invoke its agreement with the guild and muster 10 percent of its members—seven hundred in all—these fighters would officially join the command of the national army.
+
+Such an order, of course, would apply only to guild members who belonged to Blumund and no other nation. All Free Guild members fell under the same banner, but their home nations were also clearly stated in the logs for this reason. What’s more, while a nation had the right to define its own mobilization period under this agreement, it was also obliged to give the guild a one-fifth discount on taxes collected during the entire period. This allowed governments to rapidly summon a powerful force, and the guild to make sure its men would not be obligated to the state for too much of their time. For a group like the guild, which was required to pay salaries to all deployed members in advance, it was the obvious approach to take.
+
+Besides, even if a government asked for every man the local Free Guild had, there would be no way to handle them. After all, only about half of any guild’s membership had any fighting skill.
+
+The Blumund nobles were fully aware of this. Normally, they wouldn’t have their top minister attempt to bully the guild master into better terms…but the times demanded otherwise. The monsters were stirring, for one—but even beyond that, they had more pressing motivations.
+
+“Very well. Enough of this. Are you trying to wring the truth out of me, Fuze?”
+
+Fuze’s eyebrows raised a little at the mention of his name. Veryard rarely, if ever, called him by it. He turned his eyes toward the baron for the first time.
+
+“The area near Veldora’s prison was meant to be absolutely impenetrable,” he said. “Now that route may potentially be open to direct navigation—and
+
+that
+
+means we must consider the possibility of the Eastern Empire taking action.”
+
+“Ah, certainly so!” the baron replied. “Whether they were letting Veldora be or were simply afraid of the seal being broken, we have been detecting sudden new movements in the Empire after a long period of silence. Do you understand what that means? If they can navigate that forest, this kingdom will be swallowed up instantly. And we can forget about the Western Holy Church providing us any meaningful support! The countries around the Forest of Jura have no meaningful alliance with each other. We will all become Empire vassals in the blink of an eye!”
+
+“No support from the Church…? I fear not, no. They never were terribly interested in wars between mere mortals in the first place. Annihilating the monsters is what their doctrine calls for.”
+
+“Quite so. If we could have them deploy even one of their paladins, the Empire wouldn’t be so quick to move… Not needing to prepare for monster attacks would buy us some time, at least.”
+
+“I doubt anything could stir the Church to action,” Fuze said. “The destruction of a nation or two does nothing to affect their own finances. They cannot help everyone, nor even their own flock.” He took a moment to gauge the baron’s face. Veryard looked exhausted, as if he had aged rapidly in just the past few days. It was understandable.
+
+The two of them were childhood friends. And even though Veryard was merely a baron, if the public knew of Fuze’s close contact with a member of the nobility, it would create assorted difficulties for the both of them. They both had to pretend to use each other for their own personal gain, which was why they usually portrayed their relationship as surly and resentful.
+
+It would take more than the power of a small kingdom to overcome this thorny obstacle they now faced. But perhaps, Fuze thought, his
+
+friend was being overly anxious. The Empire was on the move, it was true, but that didn’t mean they should expect an attack before sunset.
+
+“But how do we know the Empire will take action against us?” he offered. “I will gladly conduct my own personal inquiries into the matter. I’d advise you not to expect much, but I can at least gauge the situation in the Forest of Jura and around the Empire.”
+
+“…I would appreciate that.”
+
+Yes. There was no guarantee the Empire would act against them. If it was going to, it would undoubtedly be with a large force. It was never a nation to waste its time with small skirmishes. No, it would casually send over a force of a million or so and trample over every nation in the area, one by one. Assembling such an army would take time, at least three years or so. Which was not a generous amount, but it created some wiggle room to work with.
+
+“I had best begin gathering information, then,” Fuze said to close the conversation. “There is little time. I am off!”
+
+“Thank you…”
+
+The two of them nodded and went their separate ways. There was much to do.
+
+Thirty days had passed since I swallowed Veldora. What had I been up to? Well, think about it. If you were being attacked by a monster, what would you do?
+
+I mean, I was a slime now. It would be hard for me to zip away from a slavering attacker, much less defend myself. So I’d been spending my time thinking about how to fight back.
+
+Along the way, I’d also been consuming any particularly odd-looking herbs or glowing rocks I stumbled across. There was a fair amount. I was still in the region Veldora described as teeming with local magic, and nearly everything I found there was hipokute herbs. Which was about what I figured. More healing potions for me, I suppose.
+
+I also found that most of the glowing stones and such around here
+
+were what was called “magic ore,” which could supposedly be refined into a metal harder than iron or steel and highly compatible with magic. I was kinda hoping for something a little less common, but I didn’t even know whether orichalcum or crimson ore existed here, even if they were famous back on Earth. I shouldn’t be too greedy.
+
+So as I was chowing down on all these yummy herbs and rock, an idea came to mind!
+
+If I could spit out water fast enough to give me powers of flight, maybe I could slice right through foes, too, like a high-pressure water jet cutter?
+
+No, no, I know what you’re thinking. You’re thinking I was about to screw it up again, aren’t you? You really shouldn’t look down on people like that. I was good in a pinch, you know. They always wrote that in my report cards at school and stuff—“excellent work when he applies himself.”
+
+So yeah, I think it’d work.
+
+Back I went to the underground lake from before. Just as I had imagined, the pool was pretty big. The air felt supremely tranquil to me. There were no creatures around—not even in the water, I assumed, what with all the magic soaked up inside it—which made it all the quieter. Pure, unadulterated nature! Truly a sight to see.
+
+But back to business. I moved right into the “action” phase last time without testing a single thing, which was fairly ill-advised. That, and I ejected too much water at once, propelling myself far quicker than intended. No game plan whatsoever.
+
+This
+
+time, I’d keep it at water-pistol level, expelling just a bit at a time. Just taking a mouthful of water and—
+
+thpbbt
+
+—spitting it out.
+
+Here I go.
+
+Hmm. Not much water coming out. Too small of an exit hole? I expanded it a bit. Water shot out with a little more energy this time, dousing a nearby boulder I was targeting. A promising sign.
+
+After a few more minutes spent adjusting my water levels, I
+
+decided to boost the pressure just a tad more before opening wide. Launch. Then again. Then again, gradually upping the output as I kept my water-gun practice going.
+
+It was starting to take form, yes. But, okay, while a shot of water might sting a bit, I didn’t think it’d deliver a particularly decisive attack.
+
+So now what?
+
+I thought to myself as I took a dip into the lake to gather my thoughts. Whenever I was tired, that was my cue to hit the bath for a bit. I wasn’t just splashing around for kicks, all right? Besides, it also gave me a chance to use Magic Sense and observe myself floating and sinking in the water. I reminded myself of a jellyfish, kind of.
+
+Maybe I could vibrate my body’s surface to create currents or something? I gave it a shot, running magical force across my “skin” to control the particles around me. The vibration ran across my entire body, so I tried to point it in a single direction—and that was all it took to get me moving.
+
+Nice! I spent a little while whizzing around the water like that, enjoying the experience. A nice change of pace, to be sure, but I totally wasn’t just messing around, all right? Let’s keep that straight.
+
+Skill “Current Movement” acquired.
+
+I thought it was the Sage for a moment, but it turned out to be the World Language instead. That bit of playing around just earned me a new skill. Oh, but it wasn’t playing around, okay? I was just relaxing a bit.
+
+Thanks to that, though, I could now flit around in or on the water at a pretty decent clip. If need be, I could use Water Pressure Propulsion to speed things up, too. Considering I didn’t need to breathe, fighting in the water might actually give me an advantage, for all I knew. Good for fleeing into, at least.
+
+That and other matters like it were on my mind as I left the lake. Break time was over, and it had certainly borne fruit for me. As I was relaxing, I had come up with a few new concepts.
+
+If I was going to keep pursuing the water-gun approach, I’d have to apply constant pressure to my jet output for an extended period of time. Instead, I decided to picture the cylinder of a car engine, applying pressure to my
+
+inside
+
+while releasing a comparatively small amount of water per go. Adjusting the pressure and the diameter of my output hole allowed me to adjust the force of expulsion, just like before.
+
+And thankfully, just as I’d hoped, it worked. A small jet, ejected sharply out of my body, slapped itself against the boulder—and it actually broke the rock slightly where it hit.
+
+Success…I think. Better keep practicing before I forget the knack. Adjust output diameter, adjust pressure…and try putting a bit of spin on the water as you eject it, too.
+
+There was a lot to think about as I kept rehearsing it.
+
+But that was it! That was the mental picture I had to keep in mind. Slicing through with water. I had to make the jets as thin and flat as possible, applying just the right spin to them.
+
+So I gave it a whirl. And it worked! The cylindrical shot of water fought through the air resistance fast enough to leave afterimages, just like a blade…then slashed its way right through the rock. With enough force to astound even me.
+
+It was the pinnacle of my efforts, the best results of my week of practice.
+
+Skill “Water Blade” acquired.
+
+Skills “Water Pressure Propulsion,” “Current Movement,” and “Water Blade” acquired. Combining and upgrading to extra skill “Control Water.”
+
+Whoa! It really
+
+did
+
+work. Extra skills were supposed to offer a completely different level of force than regular ones. Now I had a way of defending myself. It was just about time to head off.
+
+Well. Finally.
+
+One hundred and twenty days had passed since I got reincarnated at the banks of this cavern lake. Was I nervous? Yes. I still couldn’t
+
+talk, exactly. I had no vocal cords, and I’d been poking around my body for something I could use as a substitute, but no dice yet. Staying here until I had more success was one option, but unlike with the water blades, I really had nothing to go on. For now, it’d have to be Telepathy or nothing—and if my would-be conversational partner couldn’t use that, then so be it. Not the greatest of situations, but there you go.
+
+Either way, I couldn’t goof around in here forever. I wanted to see the outside world, and if I could, I’d love to run into some fellow Japanese otherworlder castaways. Learning some magic could be fun, too!
+
+It was time to get started. No time like the present, and all that.
+
+Veldora wasn’t giving me any particular responses or signs inside me. It almost felt as though I’d lost him, but I knew that wasn’t the case. We had a promise, besides.
+
+Next time we meet, I better have some funny stories I can share with him.
+
+With an internal sigh, I traveled down the lone path upward from the broad underground cavern I had grown used to, my mind on the wide world to come. Who knew what would be awaiting me? I hardly knew what to expect, but I knew I
+
+wanted
+
+it.
+--- END PRESERVED SOURCE BODY ---

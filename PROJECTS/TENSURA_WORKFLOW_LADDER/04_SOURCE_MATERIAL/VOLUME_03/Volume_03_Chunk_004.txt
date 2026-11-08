@@ -1,0 +1,137 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 34 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_03_Chunk_004.txt | SHA 2873e3f7722ecedf2e03ae3257fa2290428e2d91 | 11828 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_03/Volume_03_Chunk_005.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 1 (continued) ===
+
+Jaine, the old woman so curious about my own skills, was an arch-wizard and one of the most gifted dwarven clerics in the kingdom. She was now debating this or that finer point about magic with Shuna, and it seemed like Shuna was willing to learn from her, perhaps picking up on Jaine’s investigative magic. The crone also discussed the concept of “legion magic,” a kind of spell that could be cast on an entire military unit to annul the abilities of a rival force. It made me shiver a bit. If Benimaru decided to cast Hellflare on the knights, it probably wouldn’t have damaged them much at all.
+
+This arch-wizard was decent enough in battle against individual foes, but apparently her true expertise was in strengthening entire units with magic. A much more dangerous lady than she looked.
+
+Meanwhile, Kaijin was in friendly conversation with a dwarf clad in heavy black armor. This was Vaughn, arguably the strongest warrior of the entire Armed Nation. An admiral paladin, he said, and second only to Gazel in his field. He used to be Kaijin’s boss, and while his post meant he couldn’t play favorites, Vaughn still dearly regretted losing Kaijin. If we had come to blows today, he was prepared to make sure Kaijin and the other dwarves were escorted to safety. Nice guy. Bit scary-looking, though.
+
+So that’s how we managed to break the ice with them all. And here’s King Gazel himself, reminiscing about the old days with Hakuro.
+
+“Well, you may call me Hakuro the ogre mage now. I have taken on the post of instructor for Sir Rimuru.”
+
+This comment of Hakuro’s made the good king promptly request his tutelage as well. His friends had to talk him out of it. The king of a nation—a superpower of sorts, even—leaving it all to go become an apprentice martial artist in a foreign country was gonna be tough to win approval for. So he glared at me instead, green with envy. Yeesh, could you knock it off? It’s not
+
+my
+
+fault.
+
+It was funny, though. Gazel claimed to be visiting as a private citizen, and right now, that’s what he was. None of the grandiose atmosphere he presented in his royal chamber. Now he was more subdued, all the pomp and circumstance toned down.
+
+Or maybe that’s the real Gazel I’m seeing now?
+
+Watching him practically ooze delight as Kurobe praised his sword training, I couldn’t help but wonder.
+
+There was Gazel the Heroic King, and then there was Gazel the fighter. He had seen what I was made of, and I felt like I had done the same with him.
+
+Just as the feast got into full swing, Gazel suddenly turned to me, his expression grave.
+
+“Rimuru…I want to ask you something.”
+
+“Sure! Anything you need.”
+
+“D’you want to forge a covenant with me?”
+
+This body of mine didn’t allow me to feel buzzed, but I still felt like I had just snapped back into stone-cold sobriety.
+
+“I ask you not as a fellow student of Hakuro, but as king. If you are the leader of this forest, that would put us in equal position—and if you’ve been able to hold this entire vast forest under a single government, I am sure you will be rewarded with riches and bounties that not even my kingdom can enjoy. We observed this city from the skies, and let me tell you, it is a beautiful one. That, and you have built great roads through the forest; I could only guess at the logistical and technical skills required to build them. They may yet be incomplete, but I can easily see this town becoming a vital trade center in due time—a vast new market, one that will take on great strategic importance. And when that happens, having another nation to back you would help in various ways, would it not?”
+
+Some of that royal coercion was coming back again. He was pressing the offer at me, eyes dead serious. Ignoring that “fellow student” nonsense for a moment, he was basically recognizing that we were a coherent organization. A group he wanted to support, even. What a coup!
+
+“Are you sure? Because this is the same as admitting that we—this group of monsters—are a full-fledged nation.”
+
+A coup, but not something that King Gazel could decide upon by himself. If he was speaking as a king at the moment, this was his last chance to take it back.
+
+“Of course! And since we may perhaps see this differently, let me say this: A covenant would be of great help to us, as well. This is no charity mission, Rimuru. We could both stand to benefit!” He told me all this with a grin, then offered his terms, dead serious.
+
+These were as follows:
+
+1. A nonaggression treaty with each other.
+
+2. Assistance whenever one nation is endangered.
+
+3. The building of a road to Dwargon, in exchange for their backing.
+
+4. Guaranteed safety for dwarves in the Forest of Jura.
+
+5. Promises of technology sharing between us.
+
+There were a few other details, but those were the five main points.
+
+The nonaggression thing went without saying, and safe passage for dwarves seemed suitable enough. In terms of military assistance, it seemed unlikely that we’d suddenly be tapped for that, just because we were getting along a bit civilization-wise. Dwargon shared a border with the Eastern Empire, but given that the dwarves were strictly neutral, the Empire wouldn’t be dumb enough to pick a fight with the Armed Nation. If they did, it wouldn’t really be our business to intervene.
+
+If we were going to build formal trade links, a road would obviously follow along shortly. Having accessible trade routes is an indispensable part of encouraging trade, after all. But making us foot the bill for the whole thing? That would normally be a bit hard to accept. I suppose that was Gazel being as sharp as ever, but still, this was an extraordinary deal.
+
+Recognition of monsters by humans like this was, in terms of common sense, just something you’d never see too often. I was picturing it happening over a long period of time, gradually. If I could get some real interaction with other nations going within, say, a few decades, that would’ve been fine by me. And here we were being offered the backing of the Armed Nation of Dwargon. Priceless. We couldn’t snag that even if we tried negotiating with one of the smaller kingdoms around us. It was such a stroke of good luck, I couldn’t help but shiver a bit.
+
+“I would be glad to take this offer,” I told him.
+
+Rigurd, Benimaru, Treyni and the others had no objections, willing to let me have the final say on it. As Treyni put it, none of the dryads disagreed with naming me leader of our alliance, and none of the monsters had any innate aversion to interacting with humans or dwarves.
+
+So now we had an alliance.
+
+“Let’s relay this to the kingdom,” the king told Henrietta. The head of Gazel’s undercover team would transmit the message back home by magic. To her, it was as casual an operation as making a phone call.
+
+“What do you call this nation anyway?” he asked. It was a natural question, but one that made me freeze. We all gave one another surprised looks.
+
+Our name…?
+
+I mean, yeah, if Gazel was calling us a nation, we’d need a name like any decent one. But wow, a nation, huh…? I was happy enough with a town, so I hadn’t really thought about that. I thought it’d be neat to have a nation of monsters sometime, but I figured that was a while in the future.
+
+“Well… I don’t think we’re really at the ‘nation’ point, yet. I mean, there’s the Alliance, but that’s just a bunch of different races that accepted me as their leader, is all. I don’t know if everyone in the forest is ready to accept that.”
+
+I knew from the start that it sounded weak. Everyone in the room shot me down.
+
+“If anyone refuses to recognize you as their lord,” Shion declared, “I promise I shall slay them where they stand!”
+
+“Well,” Benimaru added, “it’s a monster’s natural instinct to follow the power chain. But I think it’s a little different with you, Sir Rimuru, at the core of it. You know? Nobody’s being forced to follow you, and I don’t think you’ll find anyone against it, either.”
+
+It seemed to be beyond questioning for either of them, at least.
+
+“Hee-hee-hee! Right now, Sir Rimuru, you hold control over approximately three-tenths of the forest. The other advanced races have decided to watch you carefully for the time being. However, the middle levels among them have already expressed interest in aligning with you, and I am sure the lower-level races will come flocking to this town for protection. We are united under a so-called alliance for now, but it is an alliance based on a common will, one that I believe will birth a full nation. One with you, Sir Rimuru, at the center.”
+
+Way to stab me in the heart, Treyni.
+
+Even in these circumstances, the old survival-of-the-fittest rule held true. Now that Veldora, the guardian of the forest, was gone—whatever that dragon thought about it—it meant the local monsters needed to band together before greedy humans or ambitious demon lords came in first. If not, the whole wood would either be exploited or demolished.
+
+I had said it myself:
+
+We will form a great alliance among the peoples of the Forest of Jura and build cooperative relationships with one another. It’d be pretty neat if we built a nation composed of multiple races, I think, but…
+
+Treyni and the others had run with it, apparently, and that little quote had been causing a huge stir from one end of the forest to the other. Things had been moving really fast, and growing, while I wasn’t paying attention.
+
+Guess I’d just have to live with it.
+
+“All right. Let’s think up a name, then…”
+
+Gazel gave a distressed laugh in response.
+
+Leaving him behind, we took up a separate room for the debate. The dwarves hadn’t had enough wine yet; they wanted to keep it going all night, so we promised that we’d officially enact the covenant (really, an international treaty at this point) tomorrow and left them to their devices.
+
+Over the previous night, we had hammered out a name, assembling our top officers and staying up late discussing it.
+
+The result we came up with: the Jura-Tempest Federation. Tempest for short. They were almost ready to name it Rimuru at first, but I was too embarrassed to allow that. I can just barely put up with Tempest—it didn’t really sound like a name unique to me, and it had a nice ring to it.
+
+Of course, while I had my guard down, they went and named this town Rimuru on me. Ugh. The Central City of Rimuru, officially, but you
+
+know
+
+they’re gonna call it Rimuru or the town of Rimuru. Just thinking about it makes me want to crawl into a hole, but their conventions were simply too firm to let me turn it down. I just hope I get used to it quick.
+
+We also talked a bit about what direction our fledgling nation should take. It was nothing we could settle upon in a single night, of course, so we planned a series of conferences to discuss it. I would be the sovereign ruler, more or less, but over time, I’d like to shift toward more of a republican form of government. You know—employ intelligent monsters, whether they had physical strength or not, and get them involved with politics. The right person in the right job, that’s my motto.
+
+It was a long way from what you could even call a framework, but for now, we were good. Besides, this covenant came out because King Gazel and I trusted so much in each other.
+
+This current covenant between the Armed Nation of Dwargon and the Jura-Tempest Federation took the form of a pact between the two nations. It would take effect after representatives from each side applied their signatures. It would then be kept in safe, magical storage and announced to the world.
+
+And so the term Jura-Tempest Federation appeared in the public record for the first time.
+--- END PRESERVED SOURCE BODY ---

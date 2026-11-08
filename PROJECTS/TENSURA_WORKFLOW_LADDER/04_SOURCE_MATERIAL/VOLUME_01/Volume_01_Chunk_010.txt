@@ -1,0 +1,359 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 11 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_01_Chunk_010.txt | SHA 8e702e8a068f5d778f3cb18d0defaf42517d2406 | 19644 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_01/Volume_01_Chunk_011.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 3 (continued) ===
+
+“A—a thousand pardons, my liege, but this is all a misunderstanding! It simply must be a mistake!”
+
+Vester’s voice was a nervous warble as he pleaded his case. The king regarded him coldly, betraying none of his emotions.
+
+“A misunderstanding? If it is, then it has cost me one of my most faithful servants.”
+
+“How can you say such a thing, my liege?! You call what he offered to you ‘faithfulness’? Why, he is simply a man off the street—”
+
+“Vester. I see you are mistaken. Kaijin left my corps on his own volition. When I speak of a faithful servant I have lost…I refer to you.”
+
+The minister’s heart raced.
+
+I need to find an excuse…
+
+But his mind was blank. The words refused to come to his lips. His thoughts were slow to form.
+
+What did he just say? He referred to me? Then…
+
+“Let me ask you once again, Vester. Do you have anything you wish to say?”
+
+Fear, pure fear, dominated Vester’s head. The king had asked him a question. He needed to reply. But all his speech had abandoned him.
+
+“I… My liege, I am afraid…I…”
+
+“I had great expectations for you, Vester. I have been waiting for so long. Even during the magic-armor affair, I waited for you to finally speak the truth. And now I find that, yet again…”
+
+The expression Gazel showed Vester could almost be described as one of kindness. The king’s words pierced through the minister like the sharpest of swords.
+
+“Look at these.”
+
+The king pointed out two items one of his attendants had produced. Vester, eyes hollow, looked at them. One was a sphere filled with a liquid that he had never seen before; the other was a single longsword.
+
+“Do you know what these are?”
+
+The liquid remained a mystery to Vester, but the longsword he remembered. Kaijin had brought it in.
+
+“You may explain to him,” the king ordered his attendant. The following speech took a fairly long time for Vester to fully understand.
+
+The liquid was a life-regenerating elixir, a near-perfect extract of the juices of the hipokute herbs. A so-called “full” potion, named for its miraculous recovery properties.
+
+Even with the best technology the dwarves had at their fingertips, the purest extract they could produce topped off at 98 percent.
+
+That made it only as potent as a “high” potion.
+
+This
+
+liquid, meanwhile, was at 99 percent!
+
+Vester’s face twisted in shock. He had to know!
+
+What did they do to produce such a level of—?
+
+But before he could ask, the attendant had even more shocking news for him. The longsword had a core of magisteel that was already working its way through the rest of the blade.
+
+Impossible. That process began only after a ten-year adaptation procedure! The shock set Vester’s mind reeling. If this was true…!
+
+“Both of these wonders were brought about by that slime,” the king said. “And thanks to your behavior, we have lost our connection to such a creature. Do you have anything you wish to say?”
+
+Now Vester realized the full extent of his king’s rage. There was truly nothing he could say.
+
+“I… I do not, my liege.”
+
+Tears began welling in his eyes. He knew it all too well now—his lord had abandoned him. All he wanted was to serve his king. To win his approval. That was it.
+
+When did I go wrong? When I grew jealous of Kaijin, or before…?
+
+He didn’t know. All he knew was that he had betrayed the king’s trust.
+
+“I…see. In that case… Vester! I hereby forbid you from entering the palace. Do not let me see you before me again. I shall leave you with this: I have tired of you!”
+
+Hearing his words, Vester stood up and bowed deeply to his lord. Then he left, setting off to pay his penance for his foolishness.
+
+As he did, a guard ran forward and arrested the representative serving as Vester’s accomplice.
+
+The king watched them out of the corner of his eye. “My dark agent!” he shouted with some urgency. “Track the movements of that slime! Do not let it escape your notice. Ever!”
+
+The emphatic order of the normally taciturn king gave pause to everyone in the chamber.
+
+“By my life, my liege!” the dark agent said before disappearing.
+
+The king thought to himself.
+
+Who
+
+was
+
+that slime?
+
+A type of monster, no doubt. Was that the level of monster being released, then?
+
+His hero’s instincts were giving him a feeling he couldn’t ignore. Trusting it, he began to take action.
+
+Rigur and gang were all safe at the edge of the forest.
+
+Between this and that, we had spent a total of five days in the city—pretty much what we expected. Things didn’t quite go according to plan, but we largely accomplished what we’d set out to do.
+
+Too bad we didn’t get to hit the Free Guild in town. It sounded kind of like an adventurer’s club to me, the exact kind of place where an otherworlder or two might hang out. It would’ve been nice to check out all the gilt and armor the dwarves were known for, too. But oh well. We had a bunch of master craftsmen with us here. That was enough of a find. That, and I still had twenty gold pieces. Score.
+
+I took the time to introduce Kaijin and his hapless friends to the goblins. We’d all be working together for a while to come, so I wanted to get off on the right foot. Come to think of it, I didn’t see much in the way of casual racism from the dwarves—most of them, anyway. Given the demi-magical origins we all shared, I suppose it made sense. I could imagine us crossing their paths again someday.
+
+We were now more or less ready to roll. The only problem was transport. Ranga, of course, was wagging his tail, as if me hopping on him was the pinnacle of his life. I explained to him that I needed his full fifteen-foot size for a bit so we could fit two out of the three brothers on his back.
+
+Ranga was not a fan of this idea. His face instantly turned sullen as he wobbled backward and plopped his ass on the ground. He glowered at the newcomers as if to suggest he could just eat them instead and save everyone a lot of trouble.
+
+The dwarves almost jumped out of their skin. Even when they first saw him, they’d wailed in perfect unison. “““Gaahh! How could you ever…?!””” and so forth.
+
+Either this was a well-practiced routine of theirs, or Ranga really did scare them that much. There had to be something I could do.
+
+“Hang on, Ranga,” I said. “I tried transforming into one of you guys earlier, and I’d like to test out how it works a bit. That’s why I want you to let these dwarves on, all right?”
+
+His head immediately shot up. “I understand, my master!”
+
+Kaijin and Garm, eldest of the three brothers, would go on my back; Ranga would take Dold and Mildo. Once they were on, I’d spin some Sticky Thread to make sure they stayed on. These guys did nearly fifty at their peak. In this motorcycle-free world, the experience would probably make them pass out. Not that I knew whether I could handle that speed or whether I wanted to.
+
+Now for me.
+
+Mimic: Tempest Starwolf.
+
+“Astounding! Your dazzling strength knows no bounds, my master!”
+
+“Hah-hah-hah! Yeah, I’ll bet! And you’ll look like this someday soon, if you keep it up!”
+
+“We will do our best to live up to your lofty expectations, my master!”
+
+Ranga’s eyes sparkled at this new mission in life. The rest of the tempest wolves grew equally excited. Always a good idea to motivate the troops a bit.
+
+So I turned to Kaijin and Gharm to get them to hop on, and…
+
+Well, that’s weird. They’re all unconscious and foaming at the mouth. What’re these guys doing, anyway?
+
+Oh well. I knew that practice would come in handy! A little Sticky Thread off my back, and everyone was pulled up and put firmly in place. Success!
+
+Fainted dwarves wouldn’t make great traveling companions, but either way, we were off.
+
+By the way, I intended to start off at a leisurely trot, only to find myself going over sixty miles per hour or so. Maybe it was for the better that my passengers weren’t awake to see this. If they were, our acceleration would’ve made them lose their lunches.
+
+I looked back at Dold and Mildo on Ranga’s back. They had a
+
+little more backbone…or I thought they did. Then I realized they were just unconscious with their eyes open.
+
+My condolences.
+
+Putting the dwarves in the back of my mind, I proceeded down the path back home. At least they wouldn’t bite their tongues or whatnot if they were unconscious. If I were them, I wouldn’t want to wake up in the middle of this scream machine anyway. It’d be better for everyone if they stayed asleep until it was all over.
+
+I’ll feed ’em, of course, but…
+
+I really
+
+am
+
+mean to people, aren’t I? And speaking of which…
+
+“Rigur! Have you ever successfully summoned one of the black wolves before?”
+
+“…I have not, Sir Rimuru, it embarrasses me to admit.”
+
+Hmm. He hadn’t, and it was a point of frustration for the other goblins, too, not to mention their wolf partners. So why just Gobta?
+
+“Really? Because I guess Gobta managed to.”
+
+“What? Gobta, is that true?”
+
+“Y-yes! I gave the call, and he came over for me!”
+
+There was a fighting spirit in everyone’s (and every dog’s) eyes now.
+
+“…It’s not impossible,” Rigur reflected. “Gobta
+
+is
+
+strong enough to have done the Dwarven Kingdom journey round-trip on foot once!”
+
+Oh, right…
+
+I thought he was a slobbering idiot, but apparently he was good in a pinch. He was an idiot, of course, but not useless. Surviving a four-month journey through the wilderness and foraging off the land wasn’t something any old guy could do. He’d had to deal with monsters along the way, too, weak though they might have been.
+
+I placed Gobta a few rungs higher in my internal totem pole. He’d probably tumble right back down soon enough.
+
+We decided to make camp once night fell. I wasn’t tired at all, but everyone else needed rest—I could test out my abilities in the meantime.
+
+A tempest starwolf, to say the least, was physically gifted. I could
+
+practically feel the power pulsing inside me. Just a light jump, and I was way up in the sky; on land, I tore up any path I found with my rapid sprint. Add on some quick reflexes, and it looked like I had what it took to make good use of this form.
+
+Most of my battles so far had involved me busting out a few Water Blades and ending it just like that. I hadn’t thought about it much, but strength—and reflexes—were going to be a lot more important to me if things got hairy. On that front, the tempest starwolf seemed to have nearly everything I could want.
+
+With the Sage’s support, this wolf could probably insta-kill the black snake from back in that cave—no skills required. I’d learned in town that the lizard rated a B-minus in rank, and from there, I used the Sage’s simulation skills to figure out how the rest stacked up against it.
+
+It told me that the black snake wasn’t even an A, and I could win against ten of those centipedes at once, so I’d be an A-minus or so? Sounds about right.
+
+A tempest starwolf not under my control would be stronger than a black snake, though it probably couldn’t take ten at once. Although there
+
+was
+
+that weird Dark Lightning skill to think about…
+
+My instincts told me that one would pack a punch, so I’d test it out in slime form first.
+
+That ought to temper it a little bit so I can observe it.
+
+The Dark Lightning I unleashed was… Let’s call it “beyond belief.” There was a flash, followed by a deafening roar of thunder. The large riverside boulder I chose as a target was gone, crumbled to pebbles. I could see the bolt crashing down faster than light…but witnessing its dreadful force for myself simply amazed me. Way beyond expectations.
+
+Heh-heh-heh… Let’s pretend that didn’t happen!
+
+I made my decision instantly.
+
+Right! I wasn’t doing anything! Just a little lightning storm.
+
+Let’s leave it at that. Seal it away for later, like the snake’s Poisonous Breath.
+
+It’d be better if I saved it until I knew how to temper the strength of my attacks a little. Besides, with all the internal magic that cost me, I’d better learn how to adjust things soon. No tossing
+
+that
+
+around willy-nilly. I could wind up running out of magic in the middle of battle.
+
+Given the range of that lightning strike, though, it could make a good ace in the hole someday. The entire twenty-yard radius around the disintegrated boulder was now blazing hot and glassy. Something to think about.
+
+Rigur, of course, had a few hobgobs there in short order to find out what was going on. I told them it was just a rogue thunderbolt.
+
+Sorry for interrupting your sleep, guys.
+
+I’d need to save the more dangerous experimentation for someplace where I could work in peace. Some soundproofing would be nice, too. Otherwise, it’d be hard to really flex my muscle.
+
+Still, there was some more data to work with. I replayed the simulation in my mind. According to the results, a tempest starwolf out of my control could use Dark Lightning and probably kill ten black snakes at once. Which meant the attack was probably past A rank.
+
+The guidepost for an A rating was being able to destroy a small town—“disaster” level, in other words.
+
+Better avoid
+
+that
+
+transformation around urban areas.
+
+My experiments continued, albeit a lot more quietly, until morning.
+
+The next day…
+
+I let Rigur and his people handle breakfast. Goblin food was, well, pretty simple. Just heat and eat. Haute cuisine it wasn’t, not that I could taste it.
+
+If I ever pick up that sense again, I’ll have to teach them the finer points, I guess. Food one can look forward to is one of the first steps toward an advanced culture.
+
+Could these goblins really acclimatize to “culture,” though? I thought so. I had no idea how, but I wanted to test out everything I could. If we got tripped up over cooking, that would be a bad start.
+
+The dwarves were up, still white as sheets.
+
+“You all right?”
+
+“Y…yes… Where are we?”
+
+As they slowly shook out the cobwebs, they realized they were in unfamiliar territory. It unnerved them. I explained we were on our way to the village these goblins called home.
+
+“Wh-what?! That would be a journey of some two months, normally! We won’t have enough food unless we procure a cart at some nearby town!”
+
+It’s a little late to be surprised about that, isn’t it?
+
+I wanted to say, but—thinking about it—I hadn’t really explained much to them, had I? Things like how we got here and how fast we were going. We weren’t in a hurry today, so I decided to take the time to explain in detail about what we were doing.
+
+Breakfast happened to be served right then. It was just a few wild hares roasted whole, but it was more than enough stimulus for the dwarves’ stomachs to start rumbling.
+
+Guess they can keep food down, at least.
+
+As they ate, I reviewed our future plans. We would be at the village in another two days or so, I explained.
+
+“““No…”””
+
+They whispered in unison, realizing exactly how fast those wolves were taking them.
+
+“Hey, don’t worry!” I replied. “Once you get used to it, it’s a breeze!”
+
+It’d be nice if they
+
+could
+
+get used to it, but I figured we’d probably reach the end of the journey before then.
+
+We set off back down the road.
+
+Time to build a Thought Communication space for us. Now that I’d done it a few times, it came naturally to me. The dwarves picked up on it, too, which was a relief.
+
+Thought Communication was a sort of high-level version of Telepathy, letting you build links and talk with multiple people at once. It also made things like strategy meetings easier for us. It remained effective across a range of half a mile or so, which was more than enough for my purposes.
+
+On the second day, the dwarves seemed largely capable of remaining on their rides without passing out. The force of the wind kept them from opening their eyes, so I built a sort of visor for them all from silk. Kind of like a helmet replacement, I suppose, and it seemed to do the trick.
+
+I also started noticing that I could control my Sticky Thread to some extent via Telepathy. Once you got used to controlling magicules, it was amazing what you could do with them. Sticky Thread probably wasn’t the only thing I could apply that to, either. These little particles were the essence of magic.
+
+Either way, the dwarves were getting into the swing of things, and their makeshift helmets were having the effect I wanted. I could talk with them now, and they were kind enough to teach me a thing or two about life in their kingdom as we rode on. The goblins were listening in as well, chiming in about their own experiences, and we had a nice, friendly confab for much of the day.
+
+This should keep up in the village, too
+
+, I hoped.
+
+Dwarves, being partially sprites, were extraordinarily long-lived. Goblins, being partially magic-born, were notoriously short-lived. Evolution—or perhaps living conditions—had created a fairly large difference between the two.
+
+I sometimes wondered if goblins were actually a step down the evolutionary ladder.
+
+Hobgoblins, the next step up, seemed a bit like the monster equivalent of dwarves to me. Like they had gone back to their ancestral roots, in a way, with a lot more magic force at their disposal. I wouldn’t know for sure, but I imagined the evolution did wonders for their life spans as well.
+
+They still weren’t the handiest, though, and there was a stark difference between monsters and fairies, but still…
+
+Dwarves, for their part, were probably more closely related to monsters than, say, elves, another sprite race. Maybe that would help these two species get along, too.
+
+As I suddenly remembered something else, I decided to bring it up.
+
+“Kaijin. I know I’m a little late asking, but are you okay with this? You really respected that king, didn’t you?”
+
+“Oh, that? I did, yes. There isn’t a dwarf alive who doesn’t respect him. Imagine having the hero of your nightly fairy tales serving as your actual king!”
+
+It was an interesting thing to consider—the mythical heroes of
+
+the past, still alive and kicking and protecting their people as king. That
+
+would
+
+help me build a pretty healthy respect, yeah. I’d want to support him—this ideal king, one who always did the right thing and never allowed room for mistakes.
+
+I wondered how much he had to sacrifice to maintain that ideal in reality.
+
+In a way, it was frightening. It took a lot of spirit, I’m sure, to be a leader like that. That was what made people believe in him.
+
+…Was
+
+I
+
+ready for that? I had become, more or less, the master of this goblin village.
+
+But what comes after that?
+
+“Well, let me ask you this, then, Kaijin. Why did you come with me? Wouldn’t it have been the best thing for your life if you rejoined the king?”
+
+“Gah-hah-hah-hah! Well! A lot more sensitive than I thought, eh, Rimuru? I did it because it looked like fun. It was just instinct, you know? Like, ‘Hey, this guy’s gonna go out and
+
+do
+
+something!’ That’s all the reason I needed, y’know?”
+
+…Yeah. Maybe. Fair enough. He’s right!
+
+“Heh,” I retorted. “Well, don’t come crying to me later if it turns sour. I’m pretty well-known for being mean to people!”
+
+It was true. I did practically nothing by myself. I entrusted everything to others. But I did want to help. To be relied on. I wanted to be the sort of person who could manage that.
+
+“Oh, I know!” Kaijin replied.
+
+I nodded, satisfied.
+
+Two days later, we arrived at the village on time. Mission accomplished.
+--- END PRESERVED SOURCE BODY ---

@@ -57,9 +57,16 @@ The established writing methods are active requirements during planning, draftin
 - Central Control Room: zipyzap3-wq/-tensura-control-room
 - Project root: PROJECTS/TENSURA_WORKFLOW_LADDER/
 - Source origin: zipyzap3-wq/Gobta-s-tensura-
-- Source import completed: 35 Volume 6 files and 19 Volume 7 files (54 total). Full source reading and chronology research remain pending.
-- File Ladder Register: 104 project files.
-- Source Read Log: all 54 files registered; none marked read prematurely.
-- Initial exact-body checks passed for one Volume 6 and one Volume 7 source file.
+- Source import completed: 127 source-origin files across Volumes 1–7 (V1–5: 73 chunks; V6: 35 files; V7: 19 files). Ten local folder/read guides are additional navigation files. Full source reading and chronology research remain pending.
+- File Ladder Register: 188 project files, including TWL-021 Chunk Processing and Handoff Protocol.
+- Source Read Log and coverage matrix: 127 source-origin entries; none marked read prematurely.
+- Initial exact-body checks passed for representative Volume 1, Volume 6 and Volume 7 source files.
 - File header audit: initial structural audit recorded in 12_EXECUTION/FILE_HEADER_AUDIT.md.
 - Old story material is not imported as canon.
+
+
+## Current execution pointer
+- Current task: read `13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md` in full.
+- Then: `04_SOURCE_MATERIAL/VOLUME_01/00_README_AI_CHUNKS.txt`.
+- Then: process Volume 1 Chunk 001 through all seven states and update the read log, coverage matrix and checkpoint.
+- Source reading and chronology mapping remain NOT STARTED. Import status must never be mistaken for reading status.

@@ -1,0 +1,447 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 26 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_6/Volume6_Chunk_24_Pages_231-240.txt | Original blob SHA: e1d1a7a8d8264cbab6ff8294a3b97d72cab55042 | Original size: 22592 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_06/Volume6_Chunk_25_Pages_241-250.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+AI-READING CHUNK 24
+Original pages: 231-240
+The text below is preserved from the source file. Page boundaries are marked explicitly.
+
+Page 231
+
+him. Unexpectedly, his luxurious chair is able to adjust according to the man’s size and is able
+to fit for Dagruel. It would seem everything in this room is some type of extravagant magical
+device.
+Thisdemon lordwasoncethearchrival ofVeldora.
+Hisimposinglooksaretrulyimpressive,enoughtoadmitthatheisaworthyopponentofa
+“TrueDragon.”
+Speaking of thisDemonLordDagruel,hismagicule level is through the roof.
+It’s unknown when comparing him to Veldora, that who would have the edge in terms of
+strength.
+I can tell he has almost immeasurable amount of magicules, but I won’t be able to give it
+anaccurate readingunlessseeinghimincombat.
+However,quality is moreimportantthan quantity.
+Noneedto get soscaredjustbecausehe hasabit more magicules.
+It’smoreimportantwhenitcomestohowyouutilizeyourstrengthmosteffectively. Combat
+dependsonthequalityof one’sskill.
+ThisDemonLordDagruelseemsquiteskillful,soIshouldbeonguardwithhimanyhow…
+AfterobservingDagruel, anotherdemonlord shows up.
+It’sahandsome,fit maninsumptuousclothes.
+Although he’s not as tall as Dagruel, he’s still above average. His facial features are stern
+anddelicate.
+Hisshortcurlyblondehairhasawildqualitytoitthatreflectshisenergeticandaggressive
+personality.
+To make a more straightforward metaphor, this man with his dazzling appearance looks a
+bitlikeamovie star.
+Somehow,I getthe impressionthat he mustbegood at charming people.
+Thetwofangs stickingoutofhismoutharemost eye-catching.
+Hemust be aVampire—meaning,this man isthe Demon Lord Valentine.
+ValentinesitsdownonRamiris’left.
+Judging by the sequencing seats, this demon lord probably has the same level of seniority
+as Dagruel, both being ancient demon lords. It is said that the Vampire Demon Lord has been
+replacedbefore,itmayjustbethathehas takenthe place of his predecessor after that.
+Never mind,there’snousekeeping mymind onthe order of seats.
+Comparedto that, something elsehascaught my eyes.
+Thatis Valentine’sservants.
+Thefirstonelooks likeanelderly malebutler.
+Hemust be somesortof masterashe is notmaking a single movement like a statue.
+HehasasimilarlogictomeastosurpassallofhisYoukiinordertopreventbeingrevealed
+ofhistrue strength.
+Thesecond oneis even moreinteresting.
+A veryattractiveand beautifulyounggirl withshining long silver hair.
+231
+
+Page 232
+
+Her skin is pure and shining while her gold-silver pupils give off a devilish glow of blue
+andred. She hasa kind of seductive beauty,as if she’shalted her growth the very moment, she
+wastransiting froma girlto awomanhas immortalized it forever.
+Shewearsadresssimilartoamaidoutfit. Maidsareallcombatclasses—Bythattheory,it
+quitelikelythat thegirl is verystrong…
+That’swhyI’msurprisedthatsuchpowerfulindividualsaremerelysubordinatestoanother.
+Another point worth mentioning is that this beautiful girl’s Youki is so immense that it is
+almostspilling out,whichshe’sactively allowingit.
+Hmm, wait asecond?
+As Icrosseyeswiththatgirl,somethingfeels strange, yet I can’tdescribe it.
+PerhapsIamworryingtoomuch,consideringthattheYoukileakingfromherjustrandomly
+changesattributes.
+«Answer. ‘Analyze and Assess’ result as following, Target’s magicule storage is much
+higherthanDemon LordValentine.»
+Ah,ofcourse.
+I have no way to assess the total magicules of this girl, but only know that she’s got more
+thanhermasterDemon LordValentine.
+Her method of concealment is extremely clever and people unlike me, who don’t have an
+UltimateSkilwould notbeabletoseethrough.
+Evenwiththatbeingsaid,shehasnointentionofhidingitaswell. LikeGuy,sheprobably
+wantsto seewhetherthe restwouldnotice.
+—Ifthat’sthe case, couldthisgirl bethedemon lord herself?
+It’spossible thatsheis theretiredex-demonlord.
+Hertrueidentity wouldbethefemalevampire “Milus”that even Veldorarecognizes.
+It is rumored that the last change in leadership was one thousand, five hundred years ago
+andthedemonlordswhoknowthedetailsarelessthanafew. Didtheyacquiescetheactordid
+theyreally notnotice?
+Orperhaps—Theymay simplybeuninterested.
+Anyhow,I’ve got to becautiouswithher.
+The current Demon Lord Valentine is no weakling either. His power is unquestionable,
+givenhow his Hakifeels evenstrongerthan anuntransformed Karion.
+He’salsoaccompaniedbytheseductiveandbeautiful maid.
+If she is the demon lord whose kingdom was burnt to ashes, she has good reason to hate
+Veldora.
+Why in the world would you go provoke this type of people! I want to shout out but hold
+back.
+Couldthisbethelegendarysyndromeof“Myheadhurtsalreadyandit’sgettingintensified
+send help”?
+If I am to seek salvation in mind, should I perhaps think in line of “My life is complete by
+enragingand gettingkilled bythistype ofbeauty”?
+232
+
+Page 233
+
+—No,I don’twantthattypeofsalvation afterall.
+Ihopemyrelationship withVeldorawon’tgetexposed.
+36
+Ifitdoes happen to beexposed,Ihope Iwon’tbe cleaning up his mess for him.
+Iprayto myself.
+Afterward,sometimehaspassedsinceIgotintothissituationbeforethefifthpersonenters.
+Heentersalone withdrowsy,sleepyeyes.
+Therearetwoswords sheathedathisbelt andthat’sall his equipment. How convenient.
+Then, he opens his eyes to momentarily reveal their beautiful light blue color. His dark
+purplehair looks darkin theroom,with silverstrandsmixed within.
+He looks rather young, almost like a high school student. He is quite handsome, but his
+sleepyeyesand lazygesturesreducetheappealof hispretty face.
+That guywanderstowardsRamiris andstopsto greet her with his hand slightly raised.
+“Morning—youare stilltinyasever.”
+“Doyouwant to pick afight? How cockyhaveyou got, Dino the noob?”
+Thefifthone is Dino. Irecallhim tobethe samekind of person as Ramiris.
+Theyaren’treally arguing,butmore like aroutine quarrel.
+“Silly,youknow I’llwinanyway,whywould Ilook for you to fight.”
+“Oh—I seeyou’ve gottentiredofliving. TodayI’m feeling super good you know!”
+“No way. You look like you’ve shrunk. Have you grown smaller since the last time we
+met?”
+“Ican’thelp it! I’ve beenreincarnating lately!”
+Ramirisoncesaidthatitwouldtakeacouplehundredyearsbeforeshecouldgrowup. After
+askingfordetails,I wasinformedthatshewasonlyreincarnated about fifty years ago.
+Withhersayingthat,Dinoseemstorealize.
+“Oh, that’s why you look like this. Sounds pretty convenient. But, will the memories be
+carriedover?”
+“Of course it will. But my spirit will devolve because of my body. But it doesn’t matter
+sinceI’m thestrongest. That’swhyIneed toletloose at times like this!”
+“Guy,Ramirisseems towanttosaysomething.”
+“Baka! Are you an idiot! I know what to say to the right person! I’ve never even thought
+ofbeatingdown Guy in onepunch!”
+SeeingDinotryingtotalktothered-hairedman,Ramirisimmediatelystopshim. Shebegins
+tofindexcuseswithher voiceloweredto mumble her complaint.
+She’sonlygood atwordsandissuper quick tochange her stance.
+Andthatred-hair dude,soundslike heisindeed Guy.
+Hemustbe dangerous givenhowpanicked Ramiris looks.
+Secretly, I take note that “Guy is dangerous.” I once avoided danger with this type of
+minisculediligence,so I can’tunderestimateits usage.
+36
+“wipinghisass”istheoriginalsentence.
+233
+
+Page 234
+
+In order to avoid provoking Guy, Ramiris and the rest only dare to whisper their conversa-
+tion.
+Thecontent seemsto berelatedtoRamiris’servants—Beretta and Treyni-san.
+Ramiris is showingoffbigtime.
+“Ehh? Whydidn’tyoucomebyyourself,howcomeyoubroughtservantsthistime? Won’t
+Ilookuncool comingalone?”
+“Huh huh, yep. Now I can get back from those demon lords who call me a shrimp and say
+I’m all alone without any love! Especially you! I’ll let you know how useless you are against
+thesetwo!”
+“Rightthen,wannatrytoletthemfightagainstme? WoulditbeallrightifIbreakthem?”
+“Ah? You’d better not! If you break them, I’ll go tell Guy and let him punish you with his
+ironfists!”
+Part ofthat linesoundslikeabluff.
+Ramiris is justgoingto callforhelp withoutany shame.
+“—Imeanthesetwo,theyprobablycanputupagoodfight,right? Theylookreallystrong
+nowthatI lookmore closely!”
+WithDino’sremark, BerettaandTreyni-sanboth nod quietly in agreement.
+Sighwhata wastetogive thesesubordinatesto Ramiris.
+“Right? Right! That’strue,thatmeans Ispeakwith greater authority now.”
+Dino’swordsgreatly please heras Ramirisshows her dominance by raising her flat chat.
+But itwasme who helpedmakingthemtwo. Never mind.
+Beretta andTreyni-sanremainsilent.
+Theyareboth verycompetentservants.
+Similarly,behindme,Shionissilenttoo—andsleeping. Ihopeshewouldlearnsomething
+fromthosetwo.
+Dino goes on to his own seat after the greeting, face slacked. His seat is next to Valentine.
+Heseemslike an ancient demonlord.
+He ignores Valentine beside him and more surprisingly, starts to sleep on the table right
+away.
+Valentine probably finds him extremely rude, but greetings between demon lords may be
+the actual anomaly here. Although Dino was running his mouth to tease Ramiris, his greeting
+tohermay indeedbe justan exception.
+Dino seems veryunmotivated.
+It givesoffthevibeof “Simplycoming is enough.”
+Hedoesn’tcareabouttheatmosphereofthemeeting,simplyplayingthepartofasloth. In
+asenseheis a contrarian ofhisown.
+Hisdisregardfor everythinginturn, reflects hispotent strength that enables such actions.
+…I’lljustconsider thattobethecase.
+Thisguy alsoseemstohaveablockadeagainst analysis, his real power remains unknown.
+I want to analyze him but instead he stares back with his eyes slightly lifted. He is indeed
+234
+
+Page 235
+
+keepinghis guardup.
+HisinteractionwithRamirisjustbeforereflectedhisarrogantpersonality,sothisguycan’t
+beunderestimated afterall.
+But Dino did seem like he’s treating Ramiris well. If possible, I don’t want to antagonize
+him.
+Next,the HarpyQueen entersthemeeting room.
+Milimonce mentionedhertome,shemustbe Demon Lord Frey.
+Heraura(sex appeal) isoverflowing.
+Herpairofbreastsseemtohavequitetheairresistance,won’tshefeelinconvenientduring
+flights?
+Ohno, Iaccidently wentastray. I’mjust abitmoved by how impactful her entry is.
+SpeakingofFrey,shelookstowardsmefromMilim’semptyseat,andhereyesfallonme.
+Thewayshe squints atpeopleisalso sosexy…
+Ahhhhhh,this is truly…
+As shepasses by me,herbodyfragrancealso smells so good.
+These thoughts keep swirling through my head; however, I sense a dangerous aura at my
+back. Obviously Shionis gettingpissed.
+She’sfound outthatI wasalmostseduced,as expectedof Shion.
+It would be a bad idea to make Shion get any angrier. I switch back to normal observation
+modeimmediately.
+Hermagiculesarenothingspecial. IfIhavetobehonest,it’sevensmallerthanthatofShion
+andBenimaru.
+On that note, Shion’s magicule count is catching up to Valentine, so her magicules aren’t
+littleat all. But itsquality isthekey. It would betoosuperficial to judge by its quantity.
+The qualities of the two are hard to be distinguish by their breast sizes—Eh, that doesn’t
+seemtoberelevant.
+Isupposeshemusthavealotofhiddenskills. Shehasacertaindangerousaurasurrounding
+her,soit’snot toofar-fetched.
+That’saboutalltheinformationIcanextractfromFrey,butthere’sonepointworthpointing
+out.
+Thatis theservants aroundher.
+One ofwhomis a bustybeautywhocan rivalFrey.
+She still seemssomewhatchildish,but herfigureis still top notch.
+The other person is a tough guy possessing similar magicule levels to Frey. It is likely a
+maleHarpy giventhe gianteaglewings onhisback.
+He’squite smallcomparedtoDagruel,butheis just as fit as Valentine.
+Hisface iscovered by alionmask, renderingme unable to analyze him. But…
+Lion?
+«Answer. Accordingto thededuction of‘Analyze and Assess’—»
+There’sno way.
+235
+
+Page 236
+
+This person is on a completely different wavelength than Karion. There’s no way that’s
+him.
+Evenif‘WisdomKingRaphael’won’ttellme, Ican deduce this easily.
+«…»
+If he is indeed the missing Karion, he definitely wouldn’t resort to such a disguise full of
+flawstotheWalpurgisBanquet. Hewould havebeen more careful and cautious.
+Someone once said that there will be three people in the world who looks similar to one-
+37
+self . Frey’sservant mustbesomeone else.
+After observing Frey’s group, I suddenly have the illusion that freezing wind is blowing
+intotheroom.
+Ilooktowards thatdirectionandwitnessthe entry of a blonde beauty.
+It isabeautyblessed withendorsementof gods.
+Such abeautywalksstraighttowards me.
+“—Are youRimuru?”
+“That’sright—”
+That’sright, andwho areyou—Iintend toask back.
+I don’t know this type of gorgeous beauty. But upon thinking so, I suddenly figure out his
+trueidentity.
+There are four more demon lords. With one of them being the missing Karion, we only
+haveClayman andMilim.
+Thenitis Leon.
+I remember Leon has blonde hair—so called “Platinum Demon,” the beautiful blonde de-
+monlord…
+“—So, areyou Leon? Whywould youwant tohave a word with me?”
+“Yes,IamLeon. Ididn’tcometoyouforanythinginparticular. ItisjustthatIfeelasense
+ofnostalgia seeing your face.”
+Heisindeed Leon.
+What abeautifulman,itmaymislead people easilyto think that he’sa beautiful woman.
+If it’s me from the past, I would definitely shout in heart “WHAT THE HELL! (IT’S A
+38
+TRAP!) ”
+Heused tobe human, yethegives offan imposing aura.
+Heindeed hasthe presenceofademon lord.
+Speaking of which, didLeonsayhefeelsnostalgic?
+Ilookthe exactsameas whenShizue-sanwas young. In other words, Leon—
+“Leon, Shizue-sanhas alreadypassedaway.”
+Hedidn’tcometo me foranything inparticular,simply being reminiscent of Shizue-san.
+37
+ThisisaJapanesesaying“世の中、自分に似た人間が三人居る”(Inthisworld,therearethreepersonswho’re
+similarto you). It’sakintoanurbanlegend.
+38
+The actual line here is somewhere along the line of “go explode.” Consider this the Japanese equivalent of “go
+commit death,there’snoway.”
+236
+
+Page 237
+
+“I know. Of course she would die. Simply because she refused to accept Ifrit and didn’t
+wanttobecome a majin.”
+Leonsaysitlighted-heartedlyasif it wasonlynatural.
+“Sheonce asked metopunchyouin theface. Please allow me.”
+Thelineslipsoutofmymouthwithoutmythinking. Iwasn’ttryingtolookfortrouble,but
+Leon’sattitudeis irritating.
+Isayit clear andstraight. ButLeon isnot movedby it at all.
+“Irefuse. I’vegivenShizueachancetochooseforherownlife. Shedidn’twanttobecome
+a majin and wanted to live as a human. I even gifted her Ifrit when we parted, so there’s no
+reasonforyou to punchme.”
+That’ssurprising.
+AndI wouldhave thought he’dget madand callme rude. Yethe responds to me calmly.
+Besidesfrom that—
+“—However,I’malsoalittlebitinterestedinyou. Ifyouwanttocomplaintome,mytreat.
+Oryoucanrefuseif youthinkit’satrap. But it doesn’tmatter either way.”
+Hesayssohimself.
+It feelsas thoughhe’ssaying,“Don’tcome if you are scared,” so I could only accept.
+“Allright,I’ll accept. Rememberto sendan invitation.”
+Igosilentafter my response.
+Leon nods his head slightly but with an annoyed twitch at how troublesome he thinks it
+wouldbe.
+“Right, I’lldo justthat. Butfirst,you have toreturn in one piece.”
+Hewraps up coldlyandtakestheseat onmyleft.
+He’snot going to talktomeanymore. That’sprobably the end of that conversation.
+It wouldbe enough progressonthe matter fornow.
+I’verelayedShizue-san’swordsandInowknowonemorething: Leonisnottryingtomake
+meanenemy. If he hasconsideredmean enemy,why would he agree to send an invitation?
+Theproblemliesonwhathappensafterthat. Anyhow,Ineedtofocusondealingtheenemy
+thatisClayman.
+It’sbeenanhour since thetime Ifirstenteredthe meeting.
+Timepassed onjustlikethat.
+The order of leading the demon lords into the meeting room seems to be based on their
+experience. I wasa guest, soIhappenedto havethe privilege to travel with Ramiris.
+However, there’s also someone like Leon who came in by his own strength, that doesn’t
+237
+
+Page 238
+
+seemtobea writtenrule.
+Nowallthere is left areClaymanandMilim.
+Justwhenthe Banquetwasabouttostart, athoughtflashed through my mind—
+“Rimuru-sama,isitconvenientformetoborrowsometimeofyourstoreportourprogress?”
+It’sBenimaru, he’scommunicatingthrough “TelepathyNet.”
+The meeting seems to be in a different dimension, so how did “Telepathy Net” come
+through—
+«Answer. You’ve established connection with monsters under your rule with “Soul Corri-
+dor.” Youcan communicatethroughit.»
+—Sothat’show itworked.
+It seems that during my blessing, “Soul Corridor” was connected as well. It feels weaker
+thantheoneI use tocontact Veldora,butit seems towork fine with communication.
+Ibegin to listento Benimaru’sreport.
+It’s been less than an hour since the war started, yet it’s already over. It sounds like it has
+beengoingexactly as planned.
+Ourarmyhasmanyinjuredbutzerocasualties. AsforClayman’sarmy,thereismorethan
+athousanddeaths. Thereareoverthreethousandinjured as well.
+It’sasurprisinglylowdeathtoll,butinthisworld,aslongasoneisalive,thereisachance
+ofrestoring themto their original state. So it’sreasonable many weren’tkilled.
+Inanycase, we achievedcompletevictory.
+Andwe caught prisoners,hooray!
+ThecommandingofficeroftheenemiesseemstohaveturnedintoCharybdissomehow,but
+wasincineratedby Benimaru.
+Iamabit outof loop withwhathe’ssaying.
+SinceI can’tunderstand,I’lljustskipit.
+Although it is best that I skip it, but… How did he kill Charybdis when it has “Magic
+Interference”?
+«Answer. His Unique Skill ‘Great General’ can compile multiple techniques and skills to
+perfectlycontrol “Black FlamePrison.”»
+Sothat’sthecase.
+In short, his manipulation technique was superior than “Magic Interference” and was able
+to directly input massive amounts of heat. It may sound easy, but it requires quite the level of
+skill.
+Benimaruseems to havegrownstrongerthan I’veanticipated. Veryimpressive!
+What wedidn’tanticipatehowever,wasthe Dragon Worshipers.
+They are worthy as Milim’s believers and seems to be an absurdly powerful battle group.
+Theydidn’tengage withusseriouslythis timeandthus allowed us to prevent casualties.
+Ishouldbe the oneto reflect.
+It turns out I was wrong when I thought they would be no problem due to their only being
+onehundredinnumber.
+238
+
+Page 239
+
+I should have known better that war in this world depends on personal strength rather than
+thepowerof a group. I seemtohavecarelesslyforgottensuch common sense.
+It’smost fortunatethatwedidn’tget beatento apulp.
+Wemustbe more carefulnexttime.
+According toBenimaru’sreport,I havean overall idea of what Clayman will claim.
+It is said that Clayman’s army, alongside Midley’s group under Yamza’s rule, is famously
+marchingtoinvestigate Karion’sbetrayal.
+That is in order to collect evidence about Karion’s betrayal of the demon lords and murder
+ofClayman’ssubordinate andmyaccomplice.
+No,that’snot true.
+It’snot ‘collecting,’ it’s‘fabricating.’
+Nowhis plan has beendisruptedduetoour victory.
+I wonder if he will find some other reasons later, but I doubt the other demon lords would
+agreewith that.
+Anyhow, we will take down Clayman in the end, one way or another. If any demon lord
+getsinourway,wewilljusthavetoeliminatethemaswell,inordertopreventsimilarincidents
+fromoccurring in thefuture,wehavetoworkhard now to make life easier for us.
+Raphael-sama, Ilook forwardtoyourperformance!
+«…»
+‘WisdomKing Raphael’seemsvery motivatedas well.
+NowIcanberelievedforamoment.
+Oh,Soueiis alsoreporting in.
+Heseems to have takenClayman’sbase.
+Soueiis reallybadass. Iheardhealso hadHakurou to back him up.
+But themost activemembermusthave beenShuna.
+Itseemssomedramahasoccurredandforsomereason,shehasgainedsomeundeadmonster
+ascompanions.
+IamratherconfusedbutSoueisaid“WewillhaveShuna-samabriefyouonthespecifics—“.
+Andthat’sequally bafflingtome.
+Theimportant thingis thatDemonLord Karionwas not detained in Clayman’scastle.
+Andthere’ssomethingelse.
+“—We’ve discovered a secret vault. We’ve contacted Geld to conduct the transfer. There
+isalsoevidenceofClayman’sassociationwiththeModerateClownTroupe. Pleaseusethemto
+yourdesire.”
+Theyseemto have robbed allofClayman’streasures he’scollected.
+Is itconsideredthievery?
+No,Ishouldn’tcareaboutthat. Claymanhasbroughtus trouble,so I’lltakehis compensa-
+tionwithgratitude.
+He seems to have hidden many treasures in his time, so now our financial gain has gone
+overtheroof.
+239
+
+Page 240
+
+Incomparison,the moreimportant evidencehasbeen collected.
+Benimaruand Soueihavebothmentionedit tome.
+All of the evidence has been transmitted to my “Stomach.” With it, I can topple all of
+Clayman’sclaimsand sources.
+It’simportantto keep my reputation.
+Like that, we’ve decimated Clayman’s forces at a much faster pace than I expected. Now
+we’ll see how he reacts. We’ll use all of our information to its fullest to put the favor on our
+side.
+Soonafterward—
+As Ifinishlistening to thereport,Clayman’sparty finally shows up.
+He is surprisingly a handsome man, but at the same time, he looks somewhat psychotic—This
+manisClayman.
+Hewearsclassy clothingthatseemsvery fashionable.
+This demon lord is indeed something else. He has unique-grade equipment all over his
+body. These alone seemtobeabletoformastrong combat force.
+Whatconcernsmemoreisthefoxheisholding. Itsmonstrouspowerisextremelypowerful,
+aswellasitsastonishing amountofmagicules. Itspower may reach that of a demon lord.
+Itisoneoftheservants—correction,itis. ButsinceClaymanisaDemonLordafterall,his
+subordinatesare prettygoodaswell.
+Besides…
+My‘AnalyzeandAssess’ofClaymanhasrevealedsomethingratherconcerning. Although
+we’vetakenhisbase,westillcan’tunderestimatehim,especiallywhilewrappinguptheendof
+ouroperation.
+Following justafteris Milim;sonow allofthe demon lords are present.
+Everyone hereis a monsternottobeunderestimated.
+Itried torun ‘AnalyzeandAssess’ for Leonas well yet was unable to analyze his power.
+Howinteresting, ‘WisdomKingRaphael’also says it can’tbe analyzed.
+Inotherwords,hehas asimilarskillto me—Ultimate Skil.
+Moreover,abruptlyI realizesomething.
+Guyis leakingfake inteltoothers—Isit to counter Ultimate Skils?
+If one is unable to be analyzed through Ultimate Skil, it means the opponent possesses an
+UltimateSkilas well.
+It’squitepossiblethathehasreleasedsimply false information.
+Iamonlyabletorealizethisbecause‘WisdomKingRaphael’isverystrong. HadIdiscov-
+240
+
+--- END PRESERVED SOURCE BODY ---

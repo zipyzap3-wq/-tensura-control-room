@@ -9,6 +9,15 @@
 **Completion evidence:** Completed content and file register entry.
 **Next destination:** See stage-specific next route in the master ladder.
 
+**File ID:** TWL-SOURCE-MATRIX | **Stage:** 01 | **Status:** INITIAL SCAFFOLD
+**Purpose:** Source intake inventory and provenance check.
+**Prerequisites:** Read 01_MASTER_WORKFLOW_LADDER.md and 02_FILE_BRANDING_STANDARD.md; verify upstream evidence.
+**Required actions:** Populate only from verified source evidence; label unknowns.
+**Completion evidence:** Completed map with exact references and status.
+**NEXT DESTINATION:** 04_SOURCE_MATERIAL/SOURCE_CHRONOLOGY.md
+**NEXT ACTION:** Verify all 54 imported source entries and then build chronology.
+
+
 # Source Coverage Matrix
 Origin: zipyzap3-wq/Gobta-s-tensura-, main. Expected: 54 source files. Imported with provenance banners; full reading and page-coverage verification remain pending.
 

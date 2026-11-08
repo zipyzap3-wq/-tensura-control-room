@@ -4,6 +4,15 @@
 > REQUIRED: Read actual source files, preserve uncertainty, record exact evidence and next file. Do not mark research complete before inspection.
 > NEXT DESTINATION: 04_SOURCE_MATERIAL/SOURCE_CHRONOLOGY.md
 
+**File ID:** TWL-SOURCE-CHRONOLOGY | **Stage:** 02 | **Status:** INITIAL SCAFFOLD
+**Purpose:** Chronological event map for source Volumes 6 and 7.
+**Prerequisites:** Read 01_MASTER_WORKFLOW_LADDER.md and 02_FILE_BRANDING_STANDARD.md; verify upstream evidence.
+**Required actions:** Populate only from verified source evidence; label unknowns.
+**Completion evidence:** Completed map with exact references and status.
+**NEXT DESTINATION:** 04_SOURCE_MATERIAL/SOURCE_UNCERTAINTY_LOG.md
+**NEXT ACTION:** Record unresolved source ambiguities and coverage gaps.
+
+
 # Source Chronology and Event Map
 
 **Status:** NOT YET RESEARCHED. This is a scaffold, not a claim that the volumes have been fully read.

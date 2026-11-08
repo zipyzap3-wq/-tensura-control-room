@@ -1,0 +1,458 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 19 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_6/Volume6_Chunk_17_Pages_161-170.txt | Original blob SHA: 7382e9f5d991a00976c30adffe23461d727baf09 | Original size: 24142 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_06/Volume6_Chunk_18_Pages_171-180.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+AI-READING CHUNK 17
+Original pages: 161-170
+The text below is preserved from the source file. Page boundaries are marked explicitly.
+
+Page 161
+
+Somehowan ice tableappearsout ofnowhere, and Raine begins to serve tea to them.
+Mizeri quietly awaitsoutsideofthe balconyentrance.
+Theywon’tatall interferewiththe conversationbetweentheirmaster and hisguest. Nota
+singlewordis permittedto bespoken.
+Thereisnoequalrelationshiphere. Beforetheyreceivetheirorder,theycan’tevenexpress
+anyemotion.
+IftheyaretodoanythingwithoutGuy’sorder,theywouldbegiftedwithdeathonthespot.
+It matters little that they are “Demon Noble” with immense power. They are nothing but
+toolsinfront of demon lordsuchasGuy.
+That’showstrongGuy is.
+Thisiswhy even ifLeonlaunchesan attackon Guy,they will not intervene on their own.
+GuyistheabsoluteruleranditwouldbeagreatdisrespecttoevenworryaboutGuy’ssafety.
+That’swhythey are beingtreatedlike air. And theconversation continued.
+“Hmm. As you can see, the Walpurgis Banquet is about to start. But I mean to take you
+thereevenbyforce thistime.”
+“Ho? Forcing metoparticipate? That’sunusual.”
+“Yeah. Consider doing meafavor,butI’mgetting you to attend regardless!”
+“—Whyis that?”
+“Ha,you’restillthesameway,alwayssocareful. Verywell,perhapsI’llfillyouinthen—”
+Guyshows ajoyfulsmile andsaid so,thusbegins his explanation.
+“—The one proposing the meeting this time is Clayman, no one special. But the strange
+thingisMilimwaslistedasseconder. Milimisoneofthemostancientdemonlordlikeme,how
+couldshebe playingalongsomescum likeClayman? It can only mean—”
+“There’ssomething strangeabout Karion’sdeath. Is that where you are trying to get?”
+“Ehh, soyoudo knowaboutit.”
+Guy’s mood got a lot worse having been guessed what he’s trying to say. But Leon didn’t
+seemtocareand continueswithhiswords:
+“Clayman really went above the line this time. He’s always been causing trouble for me
+withoutleavinganytrace,butthistimeIcan’tjustsitandtakeit. Apartfromthewhereaboutof
+Karion,it’llbetrouble ifMilim movesout.”
+Hesaysso.
+Hearing so, Guy nods happily.
+“Hmm, that’s exactly my thought. It may be a game to Milim just like before, but if the
+balance among demon lords are to be broken, it won’t be child’s play anymore. I’ll certainly
+havetodo more work.”
+Guyregainedhis goodmood,followed byLeon who asks the most pressing question:
+“By theway,Guy. DoyouthinkMilimhavebeen manipulated by Clayman?”
+Thequestionis asked, butGuy’sresponseshows his lack of care towards the issue.
+“It won’t matter much to worry over Milim’s business. Smart people like me will never
+understandwhat an idiotis thinking. Thatis oneof my few weaknesses.”
+161
+
+Page 162
+
+He shrugs as he finishes and throws a smile him a smile. Then he turns the topic back on
+theoriginalquestion.
+“Lookhowconcernedyoulooknow. Leon,doesthismeanyouareinterestedintakingpart
+intheBanquet, right?”
+There is no use trying to probe the thoughts of one another, so Leon decides to reply hon-
+estly:
+“Yeah, I was planning to. Although I hate to spend time around others, I guess I’ll have to
+participate thistime.”
+“Oh? That’sgreat. And Iwasplanning tospendthe night with you (on bottom) then—”
+“ItoldyouIdon’tdoitwithman. Andevenifit’sawoman,Iwon’tdoitwithonesIdon’t
+like. PlusI don’tgetstandtogainanythingsleeping with you…”
+“Ehhh, don’tbe so hastynow. Ifyou reallymean it, I can turn myself into a woman…”
+As soon as Leon finishes, Guy begins to harass Leon all seductive looking. But Leon has
+expectedthatandgave him aperfectcounter.
+Thetwooften play thisgameofoffenseanddefense.
+“Right,Leon. Ramirisseldomexpressesheropinion,sohowmuchdoyouknowaboutthe
+personcalled“Rimuru”?”
+SinceLeon won’tbite, Guychangesto anothertopic.
+Thisisalsorelatedtothetopicathand. TherehasbeennewdemonlordafterLeon,andthe
+restofthedemonlords seemtobeinterestedinthis topicas well.
+“From Clayman’s testimony, he seemed to have crowned himself the title Demon Lord
+without our approval. I personally think that this Rimuru guy can be a demon lord if he is
+powerfulenough.”
+“Oh, so you think he’s qualified. Ramiris also came to stir the pot. I’m rather intrigued by
+this whole ordeal since it was sufficient to get her interest. I definitely can have some fun with
+thisRimuru.”
+ClaymanwastheoneinitiatingtheBanquet,andwithRamiris’request,thepersoninvolved
+Rimuruwouldalsojoin.
+Sotheycan safelydeducethatRamirishasasayto Clayman’saction this time.
+“—Ramiris, well. I’m no good against that elf. Every time we meet, she makes fun of me.
+Ikindawant tostrangle hertodeathfor afewtimes…”
+Butevenso,sinceRamirishasalreadyspoken,Leoncouldonlynodinagreement. Hestill
+feelssomemoral responsibilitytowards her,so hehas to comply.
+“Ahahaha. Come onnow. Ifyoukill Ramiris, I’llbecome your enemy then.”
+“I thoughtas much. Butit’smesaying. PlusIstand no chance against you anyway.”
+That’strue.
+LeononlydislikesRamirisformakingfunofhim,hedoesn’treallymeananyharmtoher.
+Besides,LeonstandsnochancewinningagainstGuy. Thatpartistruetoo. Despitebothof
+themareall demon lords,their differencein powerisheaven and earth.
+Guy’spowerisalmostfromadifferentdimensioncomparedtopeoplelikeLeonandMizeri.
+162
+
+Page 163
+
+“Hmm? Howcouldthatbe? Ifitisyou,youstillhaveaoneinamillionchancetokillme,
+youknow?”
+“No way. I onlyfightbattles thatIcanwin.”
+“Comeon,don’tbesomodest. Basically,there’reveryfewpeoplewhocanhurtme. Imay
+actuallydie in your hand,sinceyouareapowerful guy,Leon.”
+“Heh, you don’t say. It’s because you are Milim are way too strong. Speaking of being
+unreasonablystrong—”
+Leonrecalls somethingwhilesayingso.
+—He heardthat“StormDragon”Veldorahas awakened.
+Thatwould be afirstthatLeonhassurprised Guy.
+Suddenly,avoice coldasiceinterrupts thetwo’sconversation.
+“Ara ara,now thatis intriguing.”
+Theownerof the voiceisabeautiful female.
+One with snowwhite skinlikeporcelain.
+Hereyesthatemits coldlightisseductiveandthey are blue like the deep sea.
+Her pearl-white hair droops down along her cheek and her light red lips look extremely
+eye-catching.
+Thewoman walked forwardandspoke withoutGuy’spermission.
+She possesses a beautiful aura around her more shining than jewels. People call her “Ice
+Empress.”
+Orperhaps—
+She has a better-knownname,“FrostDragon” Velzard.
+She is the one of the four remaining “True Dragon,” a friend—and partner to the Demon
+LordGuyCrimson.
+Inotherwords,she getstositonequal groundto Guy like Leon.
+“Oh,It’sVelzard. Thatbeingsaid,Ialmostforgotthat there is a ‘TrueDragon’ here too.”
+Leonplaysdumband says.
+“Ayy? Aren’tyoucold asalways? But,I’m prettyhappy you decided to show up.”
+“Isthatso? I alsogettohaveaeyes’fullof you.”
+Leonand Velzardexchangessomepolitegreets.
+Both’are pretenses.
+“Huh. Youtwo arealwayslikethis,just can’tget along with each other.”
+Guy’srather irritatedwhile sayingso.
+Withthat beingsaidthough,Guydoesn’tplan tohelp mitigate their relation at all.
+Ifit’susual, they wouldcontinuetoexchange those fake-sounding courtesy,but—
+“…Right,so as youweresaying…”
+Thistime,Velzardtooktheinitiativein changing the topic.
+“Leon-sama, didyoujustsaythatmy“youngerbrother” has awaken?”
+Herblueeyesshine assheasks,meaning tosee if Leon’sshocking news is true or not.
+“Isthattrue, Leon?”
+163
+
+Page 164
+
+“Hispresencedisappearsaroundtwo yearsago, and I thought he was gone for good.”
+IfVeldoraisrevived,theoverwhelmingmagiculeoutburstwillmostcertainlycausedrastic
+changetoclimateof the landforthem tonotice. However,there was no sign of such a thing.
+That’swhyboth Guy andVelzardare surprised.
+“There’snowayaround it. Thesourcecame from the spies I sent to the western states.”
+“Oh…? If that’s true, why have that evil dragon been so quiet? Has he weakened so much
+thathecan’teven resupply hisownmagicule onhisown?”
+“Ontopofthat,whocouldhavebrokenthesealonthatchild? Ithoughthedoesn’tpossess
+thepowerto breakitby himself—”
+18
+Veldorawas sealedbyaChosenHero .
+In Veldora’s view, it was the appropriate punishment for her reckless brother. So she has
+intentionallyleft theseal asitwas.
+Ifhereflectshimselfwellandfinallydecidestobeadoll. Velzardwouldhavegivenhima
+helpinghand beforehe getscompletely eliminated.
+WhenVeldorafirstdisappearedfromtheworld,shewasratherconfused. Sincethetimeof
+hisdestruction seemstoo earlycompared tothetime Velzardhas predicted.
+“Fromthe report of the spy,Clayman’sconspiracyseems to have been the main cause. He
+forcedthewesternstatetotakeactions,thegreatkingdomofFarmustobeparticular. Hefound
+peopletoinstigatethemtoinvadeandeliminatetheJuraForestAlliancebuiltbyRimuru. Asit
+turns out, the Farmus army was completely decimated. And now Rimuru comes out and calls
+himselfademonlord.”
+“Youknowyour stuffwell,Leon.”
+“Ofcourse. Unlikeyou,Iusedtobehuman. Apartfromthat,IconfirmedthatVeldorawas
+indeed resting near the frontline of the battle. It is rumored that the truth of the matter is that
+Veldora, almost near his demise was able to awake after absorbing the large amount of blood
+taintedonthebattlefield.”
+RimuruwasabletoescapefromdangerafterFarmusarmywasinvolvedinthiswholeordeal
+andwaseliminatedcompletely. Leonaddsontop ofhis explanation.
+“Sothat wasthecase. Thenwasthebreaking ofseal just a coincidence?”
+“Don’tknow. Iwasn’tinformedonthat matter.”
+That’strue too,Velzardnodsinresponse.
+Leon’scorrect, there’snowaytojudgethat simplyfrom espionage.
+The Chosen Hero’s Unique Skill ‘Infinite Prison’ was able to lock the targeted object into
+animaginaryspace. Itisn’tweakenoughtohaveitrevokedfromtheaffectedindividualtrapped
+inside. But evenifthat’sthecase,thepresenceof Veldorahas yet to influence the world.
+18
+DifferentiateChosenHero(勇者)andHero(英雄). InEnglish,thistwowordsareinterchangeableandwouldbe
+justifiedtouse“hero”forbothinmostcases. However,intheSlimeseries,”ChosenHero”isatitlelike“Demon
+Lord,” entailing the owner of the title to be the protector of mankind. A hero on the other hand can be anyone
+with remarkable achievements such as “Hero Youm.” There are only handful of Chosen Heroes in slime so I’ll
+usethisto differentiatethemfromother“Hero.”
+164
+
+Page 165
+
+“Perhaps there’ssome flawswithChosenHero’sseal…”
+Thatwould makemoresense.
+Velzardthinksso,yet Leonexpresses somethingunexpectedto her.
+“That’s possible. But allow me to propose a theory. What if someone created a subspace
+thatabsorbed both Veldoraandtheseal?”
+Thetheoryinterests withGuyaswell.
+“Interesting! If that’s the case, this unknown individual could then unlock the Chosen
+Hero’s seal. That seal seems to have a special tie with the Chosen Hero and cannot be un-
+done using normal skills. It may be solvable if we are the one dealing with it, in other words,
+thismysterious personhaspowertorivalus.”
+Guysays sowithgreat pleasure.
+“Butregardless, it’sjustapossibility.”
+“So youthink thatmysteriousindividual is“Rimuru,” right, Leon?”
+“—That’sright.”
+“I see. If that’sthecase, Idoneed tomeet him.”
+And Guy thought Leon’s difference in attitude in attending the meeting is a rare sight of a
+lifetime. Butifthisis the case,thatwould certainlymake more sense. Guy finally realizes.
+Clayman is beingreckless.
+Milimhas been actingweird.
+AndRimuruproclaimshimselfdemon lordalongside with Veldoralosing his seal.
+Ifweassumeallof theseeventsare allconnected…
+ThisWalpurgisBanquethasindeedbecomeveryinteresting. Anintoxicatingsmileemerges
+onGuy’sfaceas he thinksso.
+But suddenly somethingcameupon hismindthat concerns him, Guy starts to mumble:
+“Butspeaking of that,whyhasVeldorabecomeso quiet?”
+Velzardmakesthefollowingresponse.
+“—Heseemstohavebecomeweak. Thereactionisextremelyweak,hardlyaspowerfulas
+before.”
+Velzard is also a “True Dragon,” so Veldora’s presence hasn’t been so weak that she can’t
+findwithsome efforts.
+It wouldmake themostsenseifitdueto himbecoming weaker…
+“But, it’s rather disappointing that he hasn’t gone on a rampage by now. If it’s that child’s
+personality,chaosis his wayoflife.”
+Velzardalsodoesn’tgetwhythatwas thecase.
+“Anyhow, it doesn’t matter. I’m not really interested in Veldora. If you guys want to get
+himonboard, then be myguest.”
+Leonsayssowithout acareanddecidesto standup from his seat.
+Unlike Velzard who are the same race as Veldora, or Guy who is worrying about what to
+about him, this is all none of Leon’s business. As long as Veldora stays away from Leon’s
+territory,he won’tactivelycareaboutwhat Veldoradoes.
+165
+
+Page 166
+
+Thatis how difficultitistodealwiththe evildragon Veldora.
+“Are youleaving already?”
+“Yeah,didn’tyoucall meforthese?”
+“Ehh, just wait a little longer, don’t be in such a rush? Right, have you got any closer to
+your“specific summoning”?”
+Inordertoprevent Leonfromleaving, Guyasks him about the result of his experiments.
+It is after all; experiments Leon spent all his life investing. So Guy is also quite interested
+intheresult.
+“…Well, about that, I haven’t made much progress. I’ve changed my method to random
+summoning, but it always ended up in failure. It’s also attracting too much attention. I had
+intentionallytheorized“incompletesummoning”andleakedthenewstothewesternstates. But
+then the Freedom Association began to intervene. The current method is hardly efficient con-
+sidering the probabilities, and since there may be more people come and try to intervene. I am
+considering tryingan alternativeinthefuture.”
+Honestly,Leon haslittleinterestfor theWalpurgisBanquet or the new demon lord.
+Hesimplywantstoeliminateanypossiblethreatthatmayintervenehisresearchearly. That
+isallhecared.
+“Yousaidintervention?”
+“Yeah. Theysavedabunchofkidswhoweregoingtodieanyway—beforeIcouldreceive
+thethem.”
+“I see. So they were taken away by force before you got the results. Then, these rescuers
+wouldlikely intervenein thefuturetoo.”
+“That’sprobablythecase. Thatguyseemstobealsoannoyedbythesummoningofchildren
+aroundthecountries,sohemayevenpressurethesecountries. Giventhecircumstance,Iwon’t
+continue my experiment. If I am to continue, I may get exposed of being behind the scene one
+day.”
+“Hmm,whydon’tyoujusteliminate thenuisance?”
+It should be achore ifit’syouright? Guy sendsthesignal through his eyes.
+But Leon insteadsighstoGuy’swords.
+“Thenuisance individualhappens tobethe “Rimuru” I just mentioned.”
+“Nani? Could thisreallybejustcoincidence?”
+“Isn’tthatinteresting? That’swhy Iwishto seehim as well.”
+Leonnodslooking allserious.
+With that being said, had Ramiris not come and stir the pot, he may have overlooked the
+issue…
+“Isthatso,nowI’mevenmoreinterestedinhim. PerhapsMilimthoughtthesamewaylike
+me. Thatgirl may be silly,butherinstinctisquite keen.”
+“Perhaps. Anyway,there’sgonnabehell of ashowduring tonight’sBanquet.”
+“Hehe, that’sright.”
+Uponsayingso, thetwosmilesateach other.
+166
+
+Page 167
+
+Velzardobservesthetwoontheside withagentle look in her blue eyes.
+Afterthat they continuedtochatwithjoy forawhile before Guy changed the subject:
+“Speaking of which, I’ve been curious about something. Who is the supplier of your intel-
+ligencesallthistime?”
+“He apparently came from the Eastern Empire. I’ve got no clue about the detail. He’s a
+self-proclaimedmerchant.”
+Inordertosummonotherworlder,itrequiresalargeamountofmagicule,specificconditions
+andrituals. Thereare manycomplicated factors involved.
+The more sufficient one prepares with these factors in mind, the longer interval it will be
+foronetoprepare asecond summoning.
+ThatiswhyLeonhasmadeadealwiththatmerchanttohavehimconductthesummoning
+inhisplace.
+“So,is this merchanttrust-worthy?”
+“Trust? I have nouse forthat,I’msimply manipulating him for now.”
+“Isthatso? Dowhatyoulike,I’vegotnoobjection. Butdon’tgetcarelesswithit! Iwon’t
+allowyoutodie withoutmy permission.”
+“Hehehe,areyouworryingaboutme? Howrare,Guy. Don’tworry. Iwon’tjustdiewithout
+achievingmy goal.”
+“Herewego again…Isthatthingreallythis important?”
+“Yeahit is. Tome, it’sthemostimportant thingin the world.”
+“Isthatso? That makesmejealous.”
+“Spare thesweet talk. I’llkeepyouradvice inmind. Then, I’ll see you tonight.”
+Withthat beingsaid, Leonleavesthe castle.
+Thistime Guydid nottrytostophim.
+19
+There arecrystals of light leftatthescene asLeon exits with “Spatial Movement.”
+Twopairsof eyesobserveashedeparted.
+“He’salways in such arush. Well,that’sLeon for you…”
+Guygivesoffa wry smilewhilesaying so.
+“But Leon has always been cautious. Yet this time his plans are flawed with exploits. He
+doesn’tseemto know theidentity ofhisassistor. Shouldwe help him to find it out?”
+Velzardasks in acold tone.
+“Noneedforthat. Ifwetrespasshisbusinesstoomuch,Leonwouldbeupset. Idon’twish
+tobedisliked bymy friend.”
+Guy answers, without a shred of worry. To Guy, his friend Leon is a trustworthy man. He
+saidsoknowingLeon’spersonality. HeknowsitbetterthananymorethatLeonisahardworking
+guy. If Leon never sought to uncover the identity of his assistors, it simply means that it’s not
+necessaryfor him.
+“I’llhelp him outwhenhedoescome toseek help from me.”
+19
+Notsurewhatthisisexactly,apparentlyitrefersthe remainsofsomebeamsoflightasLeonleaves.
+167
+
+Page 168
+
+“I understand.”
+Afterwhich, thetwoendedthediscussion.
+Now,thelist of attendeesoftonight’sWalpurgisBanquet has been settled.
+Theproposers are Clayman,FreyandMilim.
+Andof courseRamiriswhorequested anamendment of participant.
+Theshut-in Leonhas alsodecided tojoin.
+There’sanotherpersonwhohatestoshowupinpublic. Thatdemonlord’swhereabouthas
+been unknown. But Guy has forced the person out using demon lords’ special communication
+channel.
+Additionally, there are Guy’s old friend Dagruel and a certain other… He won’t need to
+worryabout him sinceDagruelhasagreedto bringhim along.
+Lastly,it’sGuyhimself.
+ApartfromKarion,whohasbeenmissingforsometime. TheTenGreatDemonLordsare
+finallyreuniting after sometime.
+“Thisseemstobe fun. Doyouwantto comealong?”
+“Aboutthat…No,I’llpass. ButitwillbeadifferentcaseifIseemybrotherthere,otherwise
+I’mnot interestedin demon lords.”
+“Isthatso? Itmatters not. Thenyou canlook after the house for me.”
+“Sure,leave itto me. Youshouldgoget readytoo now.”
+Velzardleavesher seataftersaying so.
+Now only Guy remains. He looks far away to what seems to be the polar light spread on
+thisfrozen landand hashis mindfixed onthe WalpurgisBanquet.
+Demonlordswho only playstricksand sabotages behind everyone’sback.
+20
+Someone supposedly isanewdemon lordyet got destroyed so easily.
+Hisshut-in friendalsogotamove-on,whichmakes him reminiscent of the past.
+Andthebirth of a newdemonlord.
+Interesting.
+Hismoodhasn’tbeen so hypedupfor several hundred years.
+It’stimefor somemajorreforms.
+Afterall, thedemonlordsarenever companions, but competing opponents.
+Atfirst,thenumberofdemonlordsarenotlimitedtotenpersons. Infact,therewasoncea
+timethatthere weremorethan dozensof demon lords.
+It matters verylittlewhetherisitten orahundred.
+If you can’t do your part, you will get eliminated through the “Great War Between Angels
+andDemons”(TenmaDaisen)commenced everyfive hundred years.
+Therearealwaysnewpowerrisingthroughthegreatwar. Butgraduallythecapofmembers
+wasfixedtotenpersons. Tothepeoplewhoareawareofthis,theythuscallthemtheTenGreat
+DemonLords.
+20
+Stillhavenocluewhatthis meansafterreferringtoJPsource. ButIthinkit’sreferringtoKarion.
+168
+
+Page 169
+
+But that’snot approvedbyGuy.
+Tohumans,itwouldbeintheirbestintereststohavethedangerousdemonlordscontinued
+to fight against each other’s rule and reduce in number through the process. But somehow, the
+TenGreatDemonLords becomeanunspokenrule.
+But thisruleis about tobestruckoff.
+Theweak does notdeservethetitle “DemonLord.”
+It’sabout time forthe realdealtodominatethe worldagain.
+—Thatis Guy’sopinion.
+Guywas thefirstdemonlord.
+As one of the Seven Primordial Demons, he was summoned to earth as a Greater Demon
+General.
+—The unnamed PrimordialRed(Rouge) wasunleashed to the world that day.
+Hegrantedthewishesofthehumanswithoutpowertodecimatewhatwassuspectedtotheir
+hostilenationsinwaragainst. Helateralsodestroyedthehumankingdomthatsummonedhim.
+As hisreward, he gainedthisname.
+Thedesperatesighsofhumansthatheheardsoundedsimilartotheword“Guy.” Itbecame
+hisname.
+After obtaining a name, Guy discovered that he has awakened to be a true demon lord.
+AlthoughtoGuy,whohadalreadybelieveddeeplythatheisthestrongestbeing,thepowerwas
+unnecessary.
+Due to Guy’s evolution, it also affected the Primordial Green (Vert) and Primordial Blue
+(Bleu)who weresummonedtodohischores.
+Thetwo,whowerecalledtheshadowofPrimordialRed,gainedbodylikeGuyandbecame
+“DemonNoble.”
+Guy,intrigued atthetime,allowed themto follow him and granted them names.
+Primordial Green was named according the painful expression displayed on the humans,
+“Mizeri.”
+Primordial Blue wasnamedaccordingto the redrain due to the bloodshed, “Raine.”
+Fromthatday onward,hegrantedbothpermission to stay around him.
+Sometime after Guy awaked to become a demon lord, it didn’t take long before someone
+elseawaked to becomea truedemonlord.
+ThatsomeonewasMilim. Theancestorsofthefour“TrueDragons”emergedtothephysical
+worldand bredwithhumans.
+What incredible thing was that the “True Dragon” who reproduced with humans were de-
+prived of most of its power by their offspring. From then on, the breeding of True Dragon and
+Humanbecamea taboo.
+Thetruedragonwholostitspowerexplodedintopieces. Butitwassuccessfulinobtaining
+fleshontheground world. Itbecametheancestors ofdragon race.
+Thefuture generationwouldinstead callthe “HolyWillof Nature” as the “TrueDragon.”
+Nowadays,thedragonraceisabletoprosperonthislandanditsorigincanallbetracedto
+169
+
+Page 170
+
+thisoneancestor dragon.
+Thatwas the“TrueDragon”—“Star KingDragon” Veldanava.
+The “Star King Dragon” Veldanava gifted his his reincarnated self—a small dragon to her
+daughterasapet.
+Thatsmalldragon waskilledinacertain kingdom.
+Thosefools enraged thetyrantMilim.
+Herfury tore throughtheskyandearthasshe destroyed the country.
+Andlater Milimwas awakenedtobeatrue demon lord.
+—As Milim, who haslostherreasoning, continued on to rain destruction on the world.
+Theonethatcame forthandstoppedher was Guy.
+Theyfoughtseven daysandnights.
+They fought until the world turned dark, rendering the prosper land of the west a land of
+death.
+But in theend,neither wereableto cometo aconclusionof victory.
+Due to Milim regaininghersenses, thebattlegot to be ended.
+TheonethatrestoredherreasoningwasRamiris. ShecamedowntotheearthastheQueen
+ofElvesand utilized allof powertoneutralizethe hatredwithin Milim.
+But thepricewas nonethelesshigh.
+Ramiris’powergraduallydissipateduetothetaintingofboththeevilspiritofbothDragon
+and Demon. In the end she fell from grace and ended up where she is today. A fairy who is in
+perpetualreincarnations.
+Althoughthepricewassohigh,shewassuccessfulinstoppingMilimfromcontinuingher
+rampage.
+Toprevent worlddestruction, bothGuy andMilim accepted a truce.
+These threewerethe originaldemonlords.
+Three personspursuedthreedifferentgoals.
+One pursued absolutepower.
+One wanted to livelifefreely.
+One hopedfor worldpeace.
+But thosewouldsuffice.
+Thethree gotto knoweachotherprecisely fortheir differencein end goals.
+After that, the Titan guarding the gateway to the sky and the ancient Vampire also become
+demonlord. The Fallenangelthentookthesixthseat.
+These are thesecondgeneration.
+Theyarefarfromtheancientdemonlords,butnonetheless,thepinnacleofthestrongwho
+mayruletheworld.
+TheTitan,duetotheholyelementheinherentlypossesses,hasyettoshowanyuniquechar-
+acterofademonlord. Butheisalsoaratherintriguingindividualwhopossessesextraordinary
+power.
+Theancient vampireis cunningandloves tocome up with deviant ideas.
+170
+
+--- END PRESERVED SOURCE BODY ---

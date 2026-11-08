@@ -1,0 +1,75 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 17 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_02_Chunk_001.txt | SHA 047b392635c1a3eb42fc105f1523f408f972ae0a | 2313 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_02/Volume_02_Chunk_002.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== What he saw was a king eternally tormented. ===
+
+What he saw was a king eternally tormented.
+
+A lone, anguished figure, his heart reaching out to his starving people, but all too incapable of doing anything to help them.
+
+The land had dried and withered, killing off their crops and triggering a massive famine.
+
+Just past the border, other nations were still prospering, bountiful.
+
+But there was no going there.
+
+It was the territory of the demon lord, and setting foot on it would be rebelling against the master of this land himself.
+
+No need to wait for starvation to take them then.
+
+He would kill them all before that happened.
+
+The land they lived on was surrounded by a great forest and three different territories, each with its own demon lord serving as leader.
+
+It would be impossible for a horde of low-caste monsters like them to invade from any direction.
+
+Which left only one option.
+
+A little beyond the border, the forest lay undisturbed.
+
+It was only natural that the king would turn to it for a chance—any chance—at survival.
+
+I’m starving…
+
+I need something… Anything…
+
+His people fell one by one, screaming their unheard pleas.
+
+Their numbers weren’t shrinking—if anything, they were multiplying.
+
+The starvation had stoked the people’s natural instinct to protect their species, resulting in a spike in the birth rate.
+
+It only made things worse.
+
+They had never seen the king smile, even as he distributed his own rations to the children who needed it most.
+
+Still, judging by their frail bodies and lifeless eyes, they would surely be dead the next day.
+
+Then the king committed a truly taboo act.
+
+He gave his own flesh, his own blood, to the one child he had left.
+
+And who could have prevented him from attempting to fulfill this all-too-fleeting dream?
+
+All he wanted was to save, at the very least, his own family.
+
+It was a crime that no one was able to warn him away from such an act.
+
+He couldn’t.
+
+He saw a world where no one ever ate their fill.
+
+And every night, he had the same dream.
+
+The king, a gruesome sight on the floor, and a child innocently chewing away at his innards.
+
+He wanted someone to help—to deliver them from this layer of hell, one that nobody saw any end to.
+
+That desire was firm in his chest as today, like any other day, began.
+--- END PRESERVED SOURCE BODY ---

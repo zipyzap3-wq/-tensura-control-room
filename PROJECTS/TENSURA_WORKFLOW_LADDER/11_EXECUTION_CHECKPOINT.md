@@ -30,9 +30,9 @@
 - Completed subtask: all 127 source files imported and inventory/coverage register expanded
 - Pending subtask: read/verify source content and record page/chunk coverage
 - Stage 02 chronology mapping: NOT STARTED
-- Current file: 04_SOURCE_MATERIAL/SOURCE_READ_LOG.md
+- Current file: 13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md
 - Next file: 04_SOURCE_MATERIAL/VOLUME_01/00_README_AI_CHUNKS.txt
-- Next action: begin ordered source reading; mark each file read only after actual inspection
+- Next action: read TWL-021 in full, verify the Volume 1 queue, then process the first source chunk in order
 
 ## Session summary
 Project structure, Workflow Ladder, source archive, reusable craft methods, planning/continuity templates, approval records, self-evolution loop and two-draft audit protocol have been created. Volumes 1–5 have now been added as separate archives and integrated into the intake matrix, reading log and register. Source import is complete across Volumes 1–7; actual source reading and chronology mapping are not.

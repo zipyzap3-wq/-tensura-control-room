@@ -4,7 +4,7 @@
 > REQUIRED: Verify first-block branding, version, file position, next destination, source provenance and register coverage. Report limits honestly.
 > NEXT DESTINATION: 12_FILE_LADDER_REGISTER.md
 **File ID:** TWL-012 | **Stage:** 00-15 | **Status:** LIVE REGISTER
-**Purpose:** Index all 188 project files and exact stage routes.
+**Purpose:** Index all 189 project files and exact stage routes.
 **Prerequisites:** File branding standard.
 **Required actions:** Update whenever a file is added, moved or its stage changes.
 **Completion evidence:** Every participating file appears below.
@@ -211,3 +211,5 @@
 
 ## Living ladder integration update
 | 188 | 13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md | 01-02, reused 04-12 | REQUIRED / READY | 04_SOURCE_MATERIAL/VOLUME_01/00_README_AI_CHUNKS.txt |
+
+| 189 | 07_PLANNING/ARC_PLANS/VOLUME_01_GOBTA_SECOND_LIFE_AU_ARC_PLAN.md | 06 | USER-DEFINED WORKING PLAN; BLOCKED BY STAGES 01–05 | 07_PLANNING/CHAPTER_PLANNING_TEMPLATE.md after source verification; immediate live handoff remains TWL-021 / Volume 1 source intake |

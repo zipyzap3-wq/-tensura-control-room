@@ -15,6 +15,7 @@
 --- BEGIN REUSABLE CRAFT TEXT ---
 # The Living Appearance Method
 **Module:** Living Story Method (LSM)  
+**Purpose / WORK ORDER:** Track how appearance is introduced, perceived, reacted to and remembered in-scene; apply it to character introductions and continuity without repetitive static description.
 **Purpose:** Design specific, memorable, physically coherent character appearances and translate those designs into natural prose, consistent visual references, and continuity-safe descriptions.
 
 This module exists because “tall, handsome, black hair, sharp eyes” is not a complete visual design. A character should have an identifiable physical structure, a deliberate silhouette, specific features, an embodied way of moving, clothing with context, and stable details that remain consistent across chapters and visual references.

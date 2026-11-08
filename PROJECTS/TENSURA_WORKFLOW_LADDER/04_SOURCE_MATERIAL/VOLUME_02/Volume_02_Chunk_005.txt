@@ -1,0 +1,941 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 21 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_02_Chunk_005.txt | SHA 4fedde172a8a6380674e0709b07ce5106975acc6 | 31858 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_02/Volume_02_Chunk_006.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 2 (continued) ===
+
+With a careful hand and the right traps set in place, they had every chance at victory.
+
+Or they thought they did.
+
+If this was just a simple orc horde like any other, the chief knew how to dispatch them any number of ways.
+
+But if an orc lord truly had been born, it wasn’t so easy any longer.
+
+If they were this outnumbered, they would need to maintain high morale and overwhelm the enemy with their teamwork.
+
+The chief knew it was possible, what with their knowledge of the local lands, but that strategy wouldn’t work against an orc lord.
+
+An orc lord was a monster, through and through, one who could sniff out and consume the very fear that lay in his allies’ hearts.
+
+The chief thought to himself
+
+, How can we escape this dilemma?
+
+If this orc-lord thing turned out to be a nonexistent threat, he could ask for nothing else.
+
+But nonetheless, he felt compelled to take every measure he could before the confrontation came.
+
+He would need backup.
+
+The chief, his mind made up, called for one of his men.
+
+This man’s name was Gabil, and as prudent and thoughtful the lizardman chief was, not even he could see the sheer amount of fuel he would soon add to the flames of this chaos.
+
+The pallid goblin chieftains gave each other nervous looks as their meeting began.
+
+There were fewer attendees than before—which made sense.
+
+Many had fled in the face of this unprecedented threat, one that could dramatically change the Forest of Jura for all time…
+
+It all began with the direwolf attack.
+
+That, and all the goblins who abandoned the villages that the named warriors belonged to.
+
+Despite this desertion en masse, the named fighters successfully fended off the wolves.
+
+A savior among them had used his unfathomable strength to protect them.
+
+Not only did the named fighters overcome the direwolves’ threat, they made them do their bidding; and now they were attempting to rebuild.
+
+The villagers who had professed a desire to fight with them in a tribunal some time ago were now gone, moved to the village run by this savior.
+
+Goblins, those petty, trifling little things, had no hope of survival unless they lived in groups, coming to one another’s aid.
+
+But even after all that happened, there was no way these goblins, after abandoning their kin like this, could drive a stake into their pride and beg for forgiveness.
+
+No matter how much, deep in their hearts, they truly wanted to.
+
+Some had already verbalized as much, in fact.
+
+But if they sought to join them now, they would no doubt be treated little different from slaves.
+
+Thinking of it that way, it was completely impractical.
+
+Fortunately, this savior gave no indication that he wanted to swallow up the villages that surrounded his.
+
+Perhaps they could just maintain the status quo, living as they did before.
+
+That would be best, yes.
+
+But life wasn’t that kind to them.
+
+One day, out of nowhere, a small group of orcish knights dressed in full plate mail came to visit.
+
+“We are knights with the Orcish Order!
+
+As of this very moment, this land is under our valiant orc lord’s control.
+
+We shall grant you maggots the chance to remain alive, if you wish.
+
+You must collect all the food provisions you can within several days and bring them to our headquarters.
+
+If you do, we will spare your lives and treat you as the slaves you are.
+
+If you do not, we will provide no mercy.
+
+We offer no terms of surrender to those who defy us.
+
+Think well before you take action!
+
+Gah-ha-ha-ha!”
+
+Their one-sided declaration complete, the orcish knights boldly took their leave.
+
+Orcs were, at best, D-ranked monsters.
+
+Stronger than goblins, yes, but not overwhelmingly so one-on-one.
+
+This kind of strength was beyond anyone’s knowledge.
+
+Some unknown, terrifying thing was happening to the Forest of Jura—everyone was sure of it now.
+
+Something that portended dark things for not just this village, but every other one in the surrounding area.
+
+By the time the villages had assembled and learned that the exact same declarations had been made to them all by the orc knights, desperation had fully taken hold.
+
+At that moment, the goblins all realized there was nowhere to go.
+
+The orcs wanted the goblins to supply their food, that much they knew.
+
+They wanted it from them so they wouldn’t have to worry about procuring it themselves.
+
+Otherwise, they would have razed the goblin villages at first sight, burning them to the ground.
+
+They claimed they’d spare their lives, but if they were going to confiscate every scrap of food they had, what was the difference?
+
+They’d either starve or be killed.
+
+The difference was between a certain death or an infinitesimally small chance at survival—no matter how much they gritted their teeth, the goblins had nothing but utter annihilation waiting for them in the wings.
+
+Their battle-ready forces numbered less than ten thousand.
+
+There was no way to make contact with their comrades in the outer lands, unaffiliated with the tribal elders.
+
+There was nothing to be done.
+
+Just as they found themselves at this impasse, they were greeted by news that forced their hand even more.
+
+A lizardman envoy had come to visit.
+
+Was this a glimmer of hope?
+
+The goblin elders scrambled to meet this messenger, a lizardman named Gabil who claimed to lead his tribe’s warriors.
+
+The arrival of a named creature made them swarm around him, like a savior sure to extract them from this horrible predicament.
+
+“I want you,” this savior told them, “to swear your loyalty to me.
+
+Do it, and your futures shall be bright indeed!”
+
+The elders immediately decided to trust in him.
+
+It was the classic mistake of the weak, grasping at anything that could possibly aid them.
+
+Some of the goblins suggested that it’d be preferable to rejoin their old brethren instead of being ruled by the lizardmen, but they were in the minority.
+
+The vote was cast, and they were now under Gabil’s beck and call—having no idea that this effectively set their fates in stone…
+
+Gabil, warrior lord of the lizardmen, had taken one hundred fighters with him out of the marshlands via a direct command.
+
+The chief had given him his orders—orders he was not particularly fond of.
+
+He was a named monster, and his nameless chief was using him like a pair of oxen yoked to a wagon.
+
+And even if this chief was his own father or not, it was starting to test his patience…
+
+He knew he was chosen.
+
+Special.
+
+It was a source of pride for Gabil, and the main source of his self-esteem.
+
+And “chosen” he was.
+
+He had encountered a certain monster in the marshes, and that monster gave him a name.
+
+“You have potential,” this figure told him.
+
+“In the future, I could imagine you being my right-hand man.
+
+I will be back to see you someday!”
+
+Thus, he was named Gabil.
+
+He remembered it like it happened yesterday—the event, and the monster, Gelmud.
+
+He saw Gelmud as his true master.
+
+He may be my father, but what reason do I have to let a nameless minion boss me around for all time?
+
+I need to rule over all the lizardmen someday.
+
+I have to, for Sir Gelmud’s sake!
+
+Was this how things should be?
+
+It couldn’t be, or so Gabil thought.
+
+It was a side effect of wanting to be recognized by his father—the ever-stern figure in his life, the great leader of all lizardmen.
+
+He was letting his pride overcome him, but he didn’t have the vocabulary to realize that.
+
+What now, then…?
+
+The chief had ordered him to travel around the goblin villages and seek their cooperation.
+
+He was allowed to threaten them to some extent, but he was expressly forbidden to do anything that could turn them against the lizardmen.
+
+A tepid idea, Gabil believed.
+
+What works with goblins are shows of strength.
+
+It always does.
+
+As far as he was concerned, his way would work just fine—he had all the power he needed for it.
+
+Yes!
+
+What need do we have for a chief so weak-minded that the mere thought of an orc horde makes him quiver in fear?
+
+Now is my chance to seize control of the entire tribe!
+
+It seemed the perfect opportunity.
+
+But it wouldn’t be easy to bring the lizardmen to his side—lizardmen who valued power, but also solidarity, above nearly everything else.
+
+The chief held control over all his citizens, all the way down to the lowliest muck sifter, and Gabil knew few would side with him at first.
+
+He thought, still, that he could cobble together enough soldiers who would be loyal to him.
+
+The goblins, for example.
+
+Low level, yes, but they would perform well enough as living shields.
+
+A significant number of them, and even they could pose a threat.
+
+Strength lay in numbers, he knew, and ten thousand sounded like a very useful figure to him.
+
+“Why worry about the orcs?
+
+With my powers as the strongest warrior among the lizardmen, they are but a trifle.
+
+And I could seize this opportunity to make my father abdicate once and for all!”
+
+“So,” one of the warriors with him chimed in, “the era of Sir Gabil is soon at hand?”
+
+“Mmm?
+
+…Ah-ha-ha-ha-ha!
+
+Indeed, indeed!”
+
+“Very good, my lord!
+
+And I promise that we all shall follow you to the end of the world!”
+
+Gabil gave him a confident nod.
+
+In his mind, his future as the new chief and great leader of the lizardmen was already a matter of fact.
+
+Then, perhaps, his father would finally see him for who he really was.
+
+For now, though, he would need to be discreet.
+
+Lie low and wait for the right opportunity.
+
+Building his forces came first.
+
+So he traveled to the goblin villages.
+
+One by one, he put them under his command.
+
+They had apparently made contact with the orcs already, and that was enough for them to treat him as some kind of benevolent god.
+
+It only served to boost his already burgeoning confidence—which made things move in unexpected directions.
+
+I am the true hero here!
+
+Gabil thought.
+
+His actions grew bolder, riskier.
+
+His inflating ambitions were famished, and soon they needed to be fed.
+
+Several days passed.
+
+I had worried at first that Benimaru and the ogres might not get along so well with my people, but I guess I had nothing to worry about.
+
+To hobgoblins, ogres were a rank or two higher on the pecking order—but the goblins had the capacity to accept them as their own.
+
+And since ogres weren’t too keen to pick on those who were weaker, they were practically worthy of worship as far as goblins were concerned.
+
+With Kurobe making swords, Shuna sewing clothes, and Soei gathering hellmoth cocoons, I had everyone humming along, really.
+
+Benimaru and Hakuro were down in the underground cavern, which I had told them about.
+
+“Training,” they called it.
+
+Which was fine by me—in their evolved forms, I’m sure they had new abilities that needed testing out.
+
+Shion had mentioned where they were when we were out surveying the structures currently under construction around town.
+
+Or to be exact, I was being held close to Shion’s chest as she walked around.
+
+She had volunteered to be my secretary, and I had no reason to turn her down, so she was now serving as my transport in the place of Ranga.
+
+I could’ve transformed into a human, but—really—being a slime was a lot easier.
+
+I definitely didn’t have any impure motives like enjoying the sensation of being sandwiched in between her breasts or anything.
+
+I called it a
+
+town
+
+just now, and that was the best way to describe it.
+
+Certainly not a village any longer.
+
+In terms of what I had cooking for the future, we were starting to get pretty broad in scope.
+
+Of course, we were still busy enough with the sewer system and other underground infrastructure that it’d be a while before much would change aboveground.
+
+Given how much enthusiasm Mildo was giving his job, though, I had every reason to expect big things at the end.
+
+The center of town was starting to get pretty full with buildings, even if most were only temporary.
+
+It was becoming our industrial district—a line of log houses located next to our storehouses, serving as workshops for building weapons, armor, and clothing.
+
+Kurobe was holed up inside one, laughing heartily with Kaijin as he worked on something or other.
+
+I was patiently waiting to find out what it was, since I felt I’d just get in the way of the creative process if I barged in.
+
+So we headed for the building Shuna was in.
+
+“Ah, Sir Rimuru!”
+
+She beamed as soon as she saw me.
+
+She quickly rose to pick me up, as if snatching me from Shion’s hands.
+
+She gave me a few loving pats as she toured me around, showing me how they were handling their work.
+
+They seemed to be having fun there, which I was glad to see, and as we chatted, she had no particular complaints.
+
+Whenever Soei came back with his cocoons, they’d get right to silk production.
+
+Work on hemp and cotton fabric was already under way.
+
+I was impressed with their speed.
+
+“Well, we have you to thank for that, Sir Rimuru,” Shuna said.
+
+It turned out—and I had no idea about this—that Shuna had obtained the unique skill Analysis, the same one I had been using to such great effect.
+
+Apparently, she had inherited many of the benefits I had as part of my Great Sage skill—Hasten Thought, Analyze and Assess, Cast Cancel, and All of Creation.
+
+In her case, though, her Assess skills were so advanced that she could just use Magic Sense to analyze objects, where I had to use Predator on them first.
+
+Pretty convenient.
+
+But thanks to earning that unique skill, she had lost a decent chunk of her magic energy.
+
+The hit had taken her back down to approximately B-plus level, although the evolution was still enough of a strength upgrade that she had no complaints.
+
+“Sir Rimuru,” Shion said as our chat with Shuna winded down, “Princess Shuna has her work to handle.
+
+Perhaps we had best leave her to it for now?”
+
+She had a schedule for me, just like any decent secretary.
+
+“Oh?
+
+Are you taking good care of Sir Rimuru, then?”
+
+“Of course!”
+
+I could feel Shion taking me away from Shuna.
+
+“I will see to all of Sir Rimuru’s needs, so there is no need to worry about that.”
+
+“Hee-hee-hee!
+
+I certainly wouldn’t mind taking care of him, too.”
+
+“Not at all, Princess Shuna.
+
+There is no need.
+
+I will fully provide for him!”
+
+I could almost see the sparks flying.
+
+Nah, just my imagination.
+
+Besides, I didn’t need to be taken “care” of at all.
+
+I had lived alone for long enough that I could do pretty much anything I needed on my own.
+
+Maybe it’s time I got out of here
+
+, I thought…
+
+“Sir Rimuru!
+
+Who do you think is best suited to take care of your needs—me or Shion?”
+
+I was too late.
+
+“Um, yeah… You’ve got silk to weave or something, right, Shuna?
+
+I guess you could help out whenever you’re free, maybe?”
+
+Help out on what, exactly?
+
+Hell if I know.
+
+“Very well!
+
+I’m glad to be counted on like that!”
+
+Shuna smiled.
+
+This was enough for her, I suppose.
+
+Well, good.
+
+Let’s just leave it at that.
+
+“Thank you!”
+
+I replied.
+
+She nodded cutely in response.
+
+“Absolutely!
+
+I will gladly serve as your shamaness whenever you need!”
+
+“Shamaness?”
+
+“Yes!
+
+You have accepted me as your Oracle, the one who will revere and serve you, have you not?”
+
+Um, did I?
+
+Because I think I would’ve remembered that!
+
+But I hesitated to say so, sensing it might be a tad dangerous.
+
+“Oh, er… Yeah?
+
+Yeah.
+
+Sure.
+
+Have fun being my Oracle, then.”
+
+I was welcomed with a rosy smile.
+
+“You are in good hands, Sir Rimuru!”
+
+So cute.
+
+I was ready to let her say just about anything to me.
+
+“In that case, Sir Rimuru, we had best be off!”
+
+Shion, of course, took the opportunity to ruin the moment, briskly lifting me up.
+
+“Um, thanks?”
+
+“You’re welcome, sir!”
+
+Shuna chirped, her smile taut against her face, as if she had just emerged victorious from some manner of epic battle.
+
+Glad to see that was settled, then.
+
+I felt like the temperature around us had chilled a bit, though I’m sure it was my mind playing tricks on me.
+
+With a lot of things in the world, it’s better for everyone to just chalk it up to their imagination.
+
+Now we were off to Benimaru and crew.
+
+They were no doubt busily testing their newfound abilities, and I wanted to find out what they had discovered so far.
+
+We arrived at the underground cavern to find Benimaru and Hakuro crossing swords with each other.
+
+Benimaru’s wooden blade was, for some reason, shrouded in a white aura.
+
+When he slashed it at Hakuro, it emitted a bright arc of light that surged forward.
+
+It slipped right through Hakuro’s body, instead slicing a boulder behind him cleanly in half.
+
+The next moment, Hakuro appeared behind Benimaru’s back, his own wooden sword against his opponent’s neck.
+
+This, apparently, signaled the end of the battle.
+
+…U-umm… These guys are ogres, right?
+
+Because that little snippet I just witnessed looked so refined.
+
+Those moves.
+
+And that white light…?
+
+What’s up with that?
+
+Why’re wooden practice blades enough to smash up rocks?
+
+Why bother with the sword at all, then…?
+
+Hakuro was the first to notice me.
+
+“Ah, hello to you, Sir Rimuru,” he said.
+
+“A rather nice place, this is.
+
+Quiet, too.”
+
+“I do apologize you had to see me like this, Sir Rimuru.”
+
+“Oh, no, no.
+
+I heard you were training, so I thought I would see how it’s going.
+
+Doing well, I suppose?”
+
+“I think we are coming to grips with this, yes,” Benimaru said.
+
+“Hakuro’s regained enough of his youth that he’s as strong as a man half his age.”
+
+“Hoh-hoh-hoh!
+
+Indeed, it is as Lord Benimaru puts it.
+
+I can feel the power flowing into this withered old frame!”
+
+“Ah, but it’s only just begun for the two of us, Hakuro!
+
+I am still stronger than you, remember, which should have been enough to win, but…”
+
+Benimaru’s face visibly soured.
+
+I could tell that his stores of magicules did outclass his foe’s.
+
+“Indeed, young master—or should I say, Lord Benimaru?
+
+I fear, however, that you rely upon your strength reserves too much.
+
+You must lend an ear to your sword, the way I do, and become one with it.
+
+I would hate to let myself lose to you until you achieve that.”
+
+Even before he evolved, Benimaru was a masterful enough fighter to sneak up behind my back.
+
+I still remembered how he evaded my Magic Sense long enough to slice right through my arm, even with Multilayer Barrier and Body Armor protecting it.
+
+I didn’t want to dwell on the thought much, but he might just be strong enough now to finish the job for good.
+
+“Yeah, you lopped my arm off not long ago, didn’t you?”
+
+I said.
+
+“If you don’t mind my honesty, that threw me, man.”
+
+“Ha-ha-ha-ha-ha!
+
+And then you regenerated it at a moment’s notice!
+
+I believe I was the one nearing panic.”
+
+Well…that was true, yeah.
+
+Accurate, but it only happened because I stumbled upon Ultraspeed Regeneration on my feet back there.
+
+What Benimaru didn’t know wouldn’t hurt him, though.
+
+“I was pretty impressed with how you managed to completely hide yourself like that, though.
+
+How did that work?”
+
+“That is a skill known as Battlewill.
+
+It uses my aura, which places it in a different family of skills from magic.”
+
+As Hakuro put it, Battlewill was a unique sort of Art, or technical skill, that transformed the magicules within the body into fighting spirit, thus powering up the wielder’s physical form.
+
+If one’s aura is what comes out while you’re not doing anything, fighting spirit is what your body releases while, well, fighting—although given the auras already available to high-level monsters, it struck me as six of one, half a dozen of the other.
+
+There were a few other Arts, too.
+
+Instantmove, for one, which allowed exactly that, or Formhide, which forced your opponent to lose sight of you.
+
+Modelwill, which strengthened your fists and weapons, was more of a beginner Art, and that was the white light I had just witnessed—they could fire it off like a projectile.
+
+It was all a bit like magic, except not magic.
+
+No casting time, for one, which made it more useful to put into practice in a pinch.
+
+Given how anyone with the right level of intelligence could learn Arts, I guess the sight of ogres busting them out shouldn’t have been a surprise.
+
+Shuna had that illusory magic on her side, too.
+
+I suppose it should be a given that high-level monsters had this kind of thing handy, as a rule.
+
+Great if they’re on my side, really annoying if not.
+
+If your garden-variety adventurer ever ran into a monster with that kind of arsenal at their fingertips… I couldn’t guess how many unlucky sods met their ends that way.
+
+I took a moment to say a silent prayer for them.
+
+This Battlewill thing, though, was interesting.
+
+I definitely wanted to learn about Formhide, which Magic Sense was apparently powerless against.
+
+My human form gave me normal sight, but if I hadn’t had that, I would’ve been wide open to that attack back there.
+
+As they put it, the Art begins by suppressing your sound, then your smell, then your temperature, then your spirit—and once you reach that level, you no longer even disturbed the magicules around you.
+
+Definitely a skill I wanted to have.
+
+“Lord Hakuro was our teacher,” Shion explained, “and the most powerful swordsman among our retainers.”
+
+“Neat.
+
+So, Hakuro… I want to learn that Battlewill thing, and I’d like the hobgobs to get trained in it, too.
+
+Mind flexing your muscles some more for me as my official Instructor?”
+
+“Hoh-hoh-hoh!
+
+You seek a favor from this decrepit old man?”
+
+He fell to one knee.
+
+“It gladdens me to hear!
+
+If it be for your sake, Sir Rimuru, I would be overjoyed to exert my weary bones one more time!”
+
+“Sir Rimuru,” Benimaru added, “you said you planned to build a nation in this land, yes?
+
+You were serving as king, and Rigurd as your top minister?
+
+I know nothing about government myself, but when it comes to military issues, I believe there are few who could equal me.
+
+If you wish to appoint me to a role along those lines, I would gladly accept it.”
+
+“Fine by me…but that’s kind of a step down for you, isn’t it?”
+
+“Nothing of the sort.
+
+We serve you now, Sir Rimuru, and we have offered our loyalty.
+
+If I may fulfill this by serving as your vassal, then I would gladly put everything I can offer on the line.”
+
+Hmm.
+
+I wonder how to handle this.
+
+He certainly seems earnest.
+
+He’d made a similar request a few days ago, but I honestly hadn’t given it serious thought yet.
+
+Maybe I’m the one who owes him some more respect.
+
+“All right.
+
+I hope I can count on your strength, then.”
+
+I had to repay his resolve one way or the other, I figured.
+
+Now was the time.
+
+The time for me and these ogres to firmly, finally, walk hand in hand.
+
+“That is terribly unfair!
+
+Sir Rimuru!
+
+If this is how it will be, I would like to be appointed to a post as well!”
+
+Sheesh.
+
+She startled me.
+
+Shion, still firmly holding me up to her chest, was visibly pouting.
+
+Oh brother.
+
+Did she think I was kicking her out of the cool kids club or something?
+
+Guess I’ll need to whip up something for her, too.
+
+I jumped out of her arms and to the ground, transforming into human form as I did.
+
+Before I touched solid earth, I produced a change of clothes from my stomach and put it on—a move I had been practicing in secret.
+
+Benimaru and Shion looked surprised, but they kneeled silently before me instead of saying anything.
+
+“Well then, Benimaru, I hereby appoint you to be my Samurai General.
+
+From here on in, you will be responsible for running my nation’s military affairs.”
+
+“Yes, my lord!
+
+I will serve you well, on and off the battlefield!”
+
+“And you, Shion, I hereby appoint as my Royal Guard.
+
+Your duties will remain chiefly secretarial, I suppose, but either way, do your best, all right?”
+
+“Thank you so much, my lord!
+
+I will make a full effort every day to serve you as best as I possibly can!”
+
+So now I’ve not only named them all, but I’ve given them three “classes” to work with.
+
+They couldn’t have been more rapt with joy.
+
+Kurobe seemed to be loving his own job, too.
+
+I should’ve given them all formal titles earlier.
+
+Shuna and Soei deserved something, too.
+
+Just as the thought occurred, a figure suddenly appeared next to Benimaru.
+
+It was Soei, and it looked like he had pretty much jumped right out from Benimaru’s shadow—the result, he explained, of the Shadow Motion skill he earned as part of his own evolution.
+
+I knew it involved harnessing people’s shadows to move from point A to point B in the shortest time possible, but I wasn’t too deep on the specifics.
+
+I had learned it myself—it was part of what I had picked up from the direwolves—but I’d yet to actually try it.
+
+Probably more useful than I thought at first sight.
+
+I had so much stuff at this point, I hadn’t had the time to fully experiment with it all.
+
+I’d better get to grips with that soon, at least.
+
+Especially if Soei’s already well versed in it.
+
+It’d be great for gathering intel, I think.
+
+Upon noticing me, Soei fell to one knee.
+
+“Reporting, my lord!”
+
+he barked.
+
+“Y-yeah?”
+
+“I have completed my cocoon-gathering mission, and on the way back, I witnessed a group of lizardmen on the move.
+
+Spotting them so far away from the marshes they call home seemed highly unusual, so I thought it best to report to you as quickly as possible.”
+
+Soei seemed perfectly serene.
+
+His breath wasn’t ragged or anything, but I was sure he must’ve hurried right over.
+
+My Sense Heat Source skill told me his body temperature was slightly higher than normal.
+
+“Lizardmen?
+
+That is odd,” Benimaru said thoughtfully.
+
+So lizardmen
+
+and
+
+orcs…?
+
+Something was definitely happening now.
+
+“Soei,” I said, “I’d like you to handle some intelligence work for me.
+
+Starting today, I want you to serve as my Covert Agent, gathering information for me and our cause.”
+
+“I could dream of nothing better, my lord,” he replied, quietly but resolutely.
+
+“I was always told that my ancestors were gifted in the so-called dark arts—and I look forward to exercising those skills to their fullest extent for you.”
+
+So now the ogres and I were one big happy family, more or less.
+
+I had a small group of loyal agents working under me.
+
+They had evolved into ogre mages, and they had regained a fair number of their ancestors’ abilities.
+
+When they first evolved, I had guessed they were all through the wall and well into the top of the A-ranked range.
+
+But now that they were obtaining skills and getting used to their new bodies, their individual ranks were changing.
+
+Head and shoulders above the rest of the village in strength, but still, changing.
+
+I had the feeling that my assigning jobs, or “classes,” to them had helped cement the exact amount of magical force each had to work with.
+
+The same had happened with the hobgoblins who were assigned classes.
+
+In the end, success in battle had less to do with brute strength and more to do with how you matched up with your foe skill-wise.
+
+It was really my skills that defeated Ifrit, not whatever my slime body did for me.
+
+Seeing these ogre mages obtain unique skills in the same way was fascinating.
+
+I had a feeling that Shuna had forced my hand a little bit, but I didn’t mind.
+
+She
+
+did
+
+used to be a shamaness, I guess, so the class I gave her worked well enough for me.
+
+She seemed happy enough with it, too.
+
+So now I had six ogre mages working under me, each with their own class.
+
+Benimaru the Samurai General; Shuna the Oracle; Hakuro the Instructor; Soei the Covert Agent; Shion the Royal Guard; and Kurobe the Swordsmith.
+
+I liked it.
+
+Gabil was finding some very receptive minds among the goblin villages he’d paid personal visits to.
+
+They didn’t need any lofty speeches about how strong he was—they were eager to follow him practically at first sight.
+
+That’s how the weaker races worked, he supposed.
+
+And if they showed any sign of defying him, he was ready to whip them into submission.
+
+The chief’s orders no longer figured in Gabil’s mind.
+
+He had the able warriors of each village gathered together, bringing whatever food supplies they could scrounge up from their storehouses.
+
+They numbered seven thousand in all, dressed in flimsy leather armor and bearing crude spears with stone-hewn spikes.
+
+Not worth relying on in battle, but this was fine for now.
+
+The ones too scared to fight had already fled anyway.
+
+“Elders!”
+
+he bellowed.
+
+“Are there any other villages in the area I should be aware of?”
+
+The elders exchanged glances with one another, then one finally stepped up timidly to respond.
+
+“Well…perhaps not a village, exactly, but there should be one other settlement, yes.”
+
+“Settlement?”
+
+The elder’s choice of words rankled the lizardman.
+
+“What of it?
+
+What is so worrisome about this ‘settlement’ you speak of?”
+
+The elders responded with an astonishing tale—the story of a goblin band riding direwolves.
+
+It made no sense to him.
+
+Those were strong monsters, those canines, roving in packs to rule over the plains.
+
+On their home turf, even the lizardmen warriors would watch their step.
+
+Why would they bend to the will of such a low-level species like goblins?
+
+It was preposterous.
+
+And the elders’ tales grew even taller as they continued.
+
+Apparently, they were being led by a slime, of all things.
+
+Ridiculous
+
+, Gabil thought.
+
+The lowest level of monster there ever was!
+
+Maybe they could find a way to charm the minds of the equally stupid goblins, but direwolves?
+
+Come on.
+
+Gabil needed to see it for himself.
+
+Perhaps there was a trick behind the founding of this “settlement” he could appropriate for his own ends.
+
+If all went well, perhaps even these alleged direwolves would join his side, turning the vast plains into his personal hunting grounds.
+
+So he sprang into action, letting his desires move him.
+
+The location Gabil was given bore no village.
+
+This annoyed him, but he let it slide.
+
+If he wanted to gain control over the direwolves, he had to expect a hitch here and there.
+
+Being released from any sense of duty to his lizardman superiors made it impossible for him to rein in his lust for power, but still, he knew patience was key.
+
+Right now, the existence of his chief was nothing more than an obstacle on the way to his army’s objectives.
+
+If he could gain the cooperation of the direwolves, the other lizardmen would no doubt recognize their new king by then.
+
+The lords of the plains, paired with the king of the marshes?
+
+Who had anything to fear from those low-level pigs now, no matter how much of a mob they were?
+
+Nobody.
+
+Gabil was sure of it.
+
+He would quickly suppress them, and then he would rule over the Forest of Jura.
+
+And that, I imagine, would prove worthy enough a feat to place upon Sir Gelmud’s feet.
+
+Picturing the joy his master would show him upon hearing the news made it easy for Gabil to remain patient.
+
+He already had men stationed at Lake Sisu, awaiting additional orders.
+
+Supplies were still tight, so they had to take action soon.
+
+There was no time to waste.
+
+One of his men reported spotting fresh tracks in the area.
+
+He immediately placed an order.
+
+A group of ten elite fighters, himself included, would ride upon their hover lizard mounts toward their objective.
+
+Gabil didn’t even bother to hide their presence in the plains.
+
+The direwolves were a concern, but if they were doing the bidding of
+
+goblins
+
+of all things, they couldn’t have been any threat now.
+
+I will need to train them
+
+, he thought,
+
+and bring them back to their former glories!
+
+He had no idea what was waiting for him.
+
+His head was too full of pride at the idea of serving Sir Gelmud, the only master he truly loved.
+--- END PRESERVED SOURCE BODY ---

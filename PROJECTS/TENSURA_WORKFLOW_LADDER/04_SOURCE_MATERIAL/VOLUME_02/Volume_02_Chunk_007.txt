@@ -1,0 +1,1519 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 23 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_02_Chunk_007.txt | SHA 28a0065ffff96227f03f1cbbca34cbdd9f2aea7b | 47238 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_02/Volume_02_Chunk_008.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 3 (continued) ===
+
+Did they want to eradicate them so they could be king of the forest or whatever?”
+
+“Put that way, I’m not so sure… It makes little sense.”
+
+“Or maybe they’re in cahoots with a demon lord, like you said?”
+
+“They are receiving support, no doubt about that, but I cannot say whether it is demon lord support.
+
+We had best not jump to conclusions.”
+
+“Okay, but even if they
+
+are
+
+working with someone, what does annihilating the main powerbrokers in the forest achieve?”
+
+Everyone on hand offered their own response.
+
+In the end, though, no one had a definite idea about what the orcs wanted—the most important question.
+
+“Plus,” Shuna whispered, “how are the orcs feeding an army of two hundred thousand?”
+
+The observation made everyone freeze for a moment.
+
+“How?”
+
+Benimaru ventured.
+
+“That’s what they’re seizing food supplies for, no?”
+
+Then he fell silent, realizing how dubious that sounded.
+
+Shuna had a point.
+
+It just didn’t seem right.
+
+“Soei, did the splinter force have a supply team with them?”
+
+“…I did not see any, no.
+
+The main force appeared to have a caravan carrying food supplies in the rear, but… Indeed, not nearly enough of one, in terms of size.
+
+Nowhere near enough to keep an army of two hundred thousand nourished.”
+
+Marching near the river eliminated any worries about fresh water, but they were essentially unable to supply themselves.
+
+Whatever food they had would dwindle quickly.
+
+Both forces needed
+
+something
+
+, didn’t they?
+
+I doubted the orcs had perfected some just-in-time method of supplying a full military force nobody was aware of, but I also doubted they would just let all those orcs starve while they fought.
+
+And if they didn’t bother to supply the splinter force, no way they’d seize the ogres’ food, then just deliver it all back to the main army.
+
+They had their own mouths to feed.
+
+And “splinter” force or not, we were still talking several thousand grown orcs, and that was an awful lot of people to force into potential starvation.
+
+I noticed Soei step up to say something, only to catch himself.
+
+“What is it?”
+
+I pressed.
+
+“Did you want to say something?”
+
+“This is just speculation on my part, but I wonder if, perhaps, they were…foraging upon the bodies of those who died of starvation or battle wounds.
+
+I say this because, while I conducted thorough investigations of the battlefields they fought in, I found not a single corpse.”
+
+“What?!”
+
+Benimaru exclaimed.
+
+“Including our own homeland?”
+
+“…Yes.
+
+There was absolutely nothing, and no one, left.”
+
+“How?!”
+
+“Oh no…”
+
+The ogre mages were at a loss for words.
+
+Oof… I could see why.
+
+That’s what orcs are like?
+
+Just imagining it made me queasy.
+
+“That’s… That’s just too hard to accept…”
+
+“They are omnivorous, I know, but… Really?”
+
+Soei eyed Rigurd and Kaijin stoically.
+
+“It is simply speculation,” he repeated.
+
+“But wherever they were known to be, I found not a single corpse—and our homeland was completely devoid of anything.
+
+That is the full truth.
+
+And that brings to mind a certain skill…”
+
+He stopped, and his face twisted.
+
+“No!”
+
+Benimaru shouted.
+
+“An orc lord?”
+
+“Indeed.
+
+I have not confirmed it, but I cannot deny the chance that an orc lord has appeared.
+
+I have, at least, confirmed the presence of high-order orc knights.
+
+Our attackers, likely.”
+
+“Indeed.
+
+They would have to be, judging by their strength.
+
+I could imagine orc generals among them, even.”
+
+“That would certainly explain everything…”
+
+The ogre mages’ faces grew more and more concerned.
+
+They seemed to know who this orc lord was—not that it meant anything to me, Kaijin, or the other hobgoblins.
+
+“Whoa, who’s this orc lord guy?”
+
+Kaijin asked, finally unfreezing himself.
+
+“Could you maybe include us in this conversation, please?”
+
+“Yeah,” I added.
+
+“If you don’t mind?”
+
+That was our first insight into exactly how fearsome the orc lord was.
+
+To put it briefly, an orc lord was a unique monster with advanced leadership skills.
+
+They appeared one at a time, out of the blue, once every few hundred years, to spread chaos across the world.
+
+One bad hombre, in other words.
+
+What made them so nefarious was the skill they were born with—the unique skill known simply as Ravenous.
+
+It allows the caster to make his allies devour everything around them, like a swarm of locusts, afflicting them with a severe hunger they never have any hope of sating.
+
+It sounded like torture for the victims, but it had great benefits for the caster.
+
+It very efficiently removed all organic matter from entire regions at once, transforming it into energy for yourself.
+
+And even if it starved your people—hell,
+
+because
+
+it starved them, the ultimate effect was tremendously powerful.
+
+But the scariest thing of all was that whatever monsters the hordes consumed in their mad dash for sustenance, their skills would be transferred over to the caster.
+
+Monster powers, physical attributes, even skills.
+
+It wasn’t a sure thing every time, but the more monsters you consumed, the better your chances.
+
+In other words…
+
+“The orcs aren’t trying to eradicate the forest’s higher-level monsters at all?
+
+They’re trying to take their powers for their own?”
+
+Silence fell upon the room.
+
+It indicated, once and for all, that my compatriots had already made that conclusion.
+
+We all paused for a few moments.
+
+The air had grown heavy around us, whether we had solid evidence of an orc lord in our midst or not.
+
+We weren’t helpless against this threat, of course.
+
+This monster had appeared on the scene before, multiple times, and there was already a known strategy for dealing with them.
+
+“And this is?”
+
+I impatiently asked.
+
+The ogre mages responded by giving one another awkward looks.
+
+Kaijin and Rigurd stared at them, a tad put off.
+
+“It embarrasses me to say it,” Shuna finally began, “but the orc lords of the past have all been defeated by human efforts.
+
+Ravenous is a powerful unique skill, no doubt about it, but it works only by seizing the powers of those the orc lord defeats.
+
+While monsters may have intrinsic skills or other magic-oriented effects an orc lord can take for itself, humans bear none of that.
+
+They bear Arts, not skills, and those are strictly the fruits of practice and effort.
+
+That’s what enables a human nation, or band of nations, to defeat such a threat.”
+
+Huh.
+
+Don’t feed the beast, and it won’t grow, huh?
+
+I suppose they hesitated to say it because it meant we’d have to get humans involved, sooner or later.
+
+Well, at least we had something to go on now.
+
+We had a general idea of the skills the orc lord might’ve seized, and we could find ways to counter them.
+
+It might not be that much of a threat yet, assuming it hadn’t been around for too long.
+
+Maybe this’ll be easier than I thought?
+
+Maybe not.
+
+He already had a knight corps, for one, not to mention that two-hundred-thousand-strong horde of slavering, starving orcs.
+
+That, and whatever organization fronted the funds to equip and armor all those guys.
+
+No point being too optimistic.
+
+If it gained any intelligence boosts through Ravenous, it could even become a demon lord in time, I bet.
+
+Bad news all around.
+
+Definitely should’ve gotten to him quicker.
+
+But ah well.
+
+Right now would have been a great time for some lofty hero to show up, but I didn’t have one handy, to my regret.
+
+“All right.
+
+Let’s see if this orc lord exists or not, before anything else.
+
+If one’s really been born, I suppose we should get a message over to Kabal and the rest of my adventurer friends.”
+
+“Yes, my lord!”
+
+Rigurd nodded at the idea.
+
+They had mentioned they were affiliated with a group—the guild, they called it—that provided assignments.
+
+Maybe the guild could help us out, if Kabal provided an in.
+
+I was expecting more pushback, really, but none made itself known.
+
+Kabal and his friends were certainly kind to us before, at least.
+
+No stereotyping or the like.
+
+I figured I could sell a few hunks of magisteel I had left to raise the money for the guild’s help.
+
+They might turn down passing monsters, but they couldn’t turn down the right price—that, or I could just have the dwarf brothers negotiate on our behalf.
+
+An orc lord would threaten the humans as much as us.
+
+We had a lot of chips to bargain with.
+
+In fact, if we knew that humans would play a key role in this, perhaps we should send a message out ASAP.
+
+If the lizardmen were already goners, the orcs would very likely be going after human kingdoms next.
+
+And whether they could “feed” off humans or not, two hundred thousand orcs would be a life-or-death threat to pretty much any nation out there.
+
+For now, we needed more information.
+
+That was my watchword as I continued the conference—but suddenly, Soei stiffened, wincing.
+
+“What is it?”
+
+“Well,” he began, “one of my Replication clones has made contact with someone who insists upon communicating with you, Sir Rimuru.
+
+What do you think…?”
+
+“Contact?
+
+And they name-dropped me, even?
+
+Who the heck…?”
+
+I still didn’t have many acquaintances in this world, really.
+
+Was it Kabal, maybe, speak of the devil?
+
+Nah.
+
+It took them several weeks to travel here from their home base, they said.
+
+Over a month’s round trip.
+
+Not possible.
+
+“This contact has not given me a name, my lord.
+
+She simply seeks to send you a message, and she is quite adamant.
+
+She is a dryad.”
+
+Everyone’s eyebrows whipped up in surprise.
+
+A pretty well-known monster, I guess.
+
+“No!”
+
+Rigurd exclaimed.
+
+“It has been several decades since a dryad has last made itself known, has it not?”
+
+“They have practically vanished!
+
+Why would one appear now?!”
+
+To the hobgoblins, they were all but mythical figures.
+
+And judging by the ex-ogre Soei’s response, they must’ve been pretty high level.
+
+One who had spotted and made contact with Soei, despite how gifted he was at concealing his Replications.
+
+That proved the caliber we were dealing with.
+
+Better not get this dryad angry, then.
+
+“All right.
+
+I’ll meet with her.
+
+Guide her over here.”
+
+It would appear my thought was correct.
+
+Not long after I gave consent, the conference room door opened to reveal a new figure.
+
+It had not lost a second to the Soei Replicant, even when he used Shadow Motion to guide him back.
+
+Calling her an “it” would be rude.
+
+She was a woman, and a beautiful one.
+
+Her hair was green, her skin light, her figure well toned—chiseled, even, like a Nordic goddess.
+
+Her luxuriant lips were a shade of light-blue, matched perfectly with her deep-blue eyes.
+
+She looked about twenty years old by human standards, but human she definitely was not.
+
+She was semitransparent, and any observer could tell that her body had no weight or actual physical presence.
+
+Dryads were, indeed, descended from the fairy races, as close to a form of spiritual life as one was likely to ever witness.
+
+I later learned they served as the guardians of the treants, the living tree people that were another high-level presence around the forest.
+
+In terms of ranking, they were easily A or better—up there with Ifrit, and no doubt a terrifying presence for Rigurd and the hobgobs.
+
+But what did she want?
+
+The conference table was enveloped in silence.
+
+The dryads, long-lived though they were, rarely left their holy sanctuaries.
+
+They were heralded by some as the wardens of the whole Forest of Jura, and only a few lucky ones would see one for themselves.
+
+They were fabled to exact divine punishment upon the wicked—those who damaged the forests.
+
+Benimaru and the other ex-ogres reacted much the same way as Rigurd.
+
+But the dryad didn’t let it faze her.
+
+She sized up the room for a moment before locking her eyes upon my figure.
+
+“My greetings to you, Leader of the Monsters, and your followers.
+
+I am Treyni, a dryad.
+
+It is nice to meet you all.”
+
+She smiled, like a bud sprouting into a flower.
+
+That was all it took for me to wonder,
+
+Am I being too wary of her, perhaps?
+
+She had a fairylike beauty, that was absolutely true.
+
+“Um, you too.
+
+My name’s Rimuru.
+
+We can keep it casual here, okay?
+
+None of that ‘Leader of the Monsters’ crap.”
+
+I hated nicknames enough on Earth.
+
+I didn’t want any here, so I made sure to do away with it before the rest of the room could introduce themselves.
+
+“So,” I said, still trying to overcome my embarrassment, “what did you want to see me for?”
+
+“Thank you.
+
+I have come here to discuss the events taking place in this forest—events which, I imagine, you all are aware.
+
+As one of the Forest of Jura’s appointed wardens, I cannot allow this series of calamities to go unaddressed, and so I have appeared before you.
+
+I do so because I hope to join in your conference.”
+
+She nodded in turn to each of the participants before turning back to me.
+
+Treyni, huh?
+
+A named monster, then.
+
+High level, no doubt.
+
+“But why here?”
+
+Benimaru dared to ask.
+
+“Surely there are races more powerful than the goblins you could have turned to for assistance.”
+
+“This is the most powerful outpost in the nearby region,” the dryad replied.
+
+“The others no longer exist, their people now affiliated with the lizardman known as Gabil.
+
+The treants are incapable of moving from location to location and thus interact little with other races.
+
+If they were blighted by an outside enemy or natural disaster, there would be little they could do to defend themselves.
+
+We dryads are granted permission to travel to the outside world only in these spiritual forms, and I regret there are but few of us… If the root cause of all this were to attack the treant community we share our lives with, we lack the numbers to provide them an effective defense.
+
+That is why I wish to tap your strength, if I may.”
+
+She closed with another cheerful smile.
+
+In contrast to her astounding looks, the way she spoke was oddly calming.
+
+They must have been a long-lived race, indeed—she must’ve seen a lot over the years.
+
+The issue was whether she could be believed.
+
+Someone as strong as Ifrit—several of them, living in this community or whatever—not even they could handle the orcs.
+
+Did she want to use us as bait, maybe?
+
+Or was there some other goal?
+
+“You speak of a ‘root cause,’” Hakuro said.
+
+“Does that mean you know what is happening in the forest now?”
+
+“I do,” Treyni responded without hesitation.
+
+“An orc lord is invading it with a vast force in tow.”
+
+The freely given revelation plunged the conference room into silence once more.
+
+“Should we take that to mean,” Benimaru finally said, “you have confirmed the orc lord’s presence?”
+
+“You may.
+
+And if they were to turn their sights upon our community of treants, we have no effective way to resist them.
+
+They cannot move from where they are rooted, and their mystical magic can do little against an orc race unafraid of death.
+
+We could perhaps sear them with flame magic, rendering them into ashes, but that could backfire upon the tree people, and none have mastered it anyway.
+
+And anything more powerful than that—anything that could strike an entire army at once—would wipe the treants out with it.
+
+That…”
+
+Treyni paused, sizing us all up before once again focusing her gaze squarely upon me.
+
+“In addition, we have found that a high-level magic-born is working behind the scenes to support this orc lord.
+
+As dryads, we must prepare for this.
+
+We are unsure which demon lord might be behind them all, but we are not interested in letting these intruders do whatever they like with our forest.”
+
+Her eyes seemed to sparkle even more as she spoke.
+
+As one of the most powerful creatures of the forest, Treyni exuded a presence in the room that was electric.
+
+It was like energy coursed across her entire body.
+
+“Well, we’d like to help, but what did you want us to do, exactly?”
+
+“I would like you to defeat the orc lord,” Treyni immediately replied.
+
+This rendered everyone speechless.
+
+“Whoa,” I protested, “this monster is, like, crazy-ass strong, isn’t it?
+
+Why would someone like me have to take him on?”
+
+Treyni responded with a quizzical look.
+
+“But the ogre mages here are intending to fight against the orcs, though, aren’t they?
+
+And you plan to contribute to the effort yourself, right?
+
+You were the one who extended a hand to save all those defenseless goblins, not long ago.
+
+I had thought you would show similar kindness to us and the treants.”
+
+She smiled again.
+
+I wasn’t sure what sources she was tapping, but Treyni seemed to know a remarkable amount about what happened in this forest.
+
+She must have looked at my assorted exploits in this world and concluded that I was a sort of omnipotent good samaritan.
+
+Perhaps the secluded lives the dryads led caused them to assume the best of everybody they met.
+
+Did it ever occur to her that we—okay,
+
+I
+
+—might stab her in the back?
+
+The smile made it impossible to tell, but as our eyes met, I could feel it in my gut—this was no liar in front of me.
+
+I decided to trust my instincts.
+
+If her story was true, we really did have an orc lord on our hands, as well as a high-level magic-born lurking around behind him.
+
+I didn’t know exactly how I could contribute to the cause yet, but if she trusted in me, I might as well repay the favor.
+
+I took a deep breath.
+
+But before I could speak:
+
+“Of course!
+
+To our leader, Sir Rimuru, the orc lord is no more of a threat than a passing cockroach!”
+
+Shion stole my thunder, a bold look of determination on her face.
+
+Geez.
+
+I’m not a god or anything.
+
+Wish she could’ve conferred with me first.
+
+And why’s it already a given that I’m the one doing the orc slaying around here?
+
+Before I could protest, Treyni gave me another smile.
+
+“Oh!”
+
+she exclaimed.
+
+“Then it’s just as I have heard.
+
+I wish you great luck against the orc lord, then!”
+
+And that was that.
+
+I had been more or less pushed into the orc lord–slaying role by Shion, but that didn’t mark the end of the conference.
+
+We kept going, while Treyni joined us for the rest.
+
+On the map, in the marshland area, was a wooden board with
+
+LIZARDMEN
+
+written on it.
+
+Behind it, another one marked
+
+GOBLINS
+
+.
+
+In front of it was the spot where the two different orc contingents were going to cross paths.
+
+Putting it all down on the map like this made the sheer size of the orc force stark in our minds, but my eyes were turned elsewhere.
+
+“You know,” I said, “if that idiot from before decided to stage an attack on the lizardman HQ right now, he’d seize it pretty darn quick, wouldn’t he?”
+
+Indeed.
+
+Gabil, the so-called lizardman envoy.
+
+If he decided to raid the lizardmen’s home turf while their main force was busy tangling with the orcs, he’d be greeted with only skeletal resistance.
+
+The caverns would be his in the blink of an eye.
+
+And the goblin forces were already in perfect position for it.
+
+“You’re sure these are the right positions, Soei?”
+
+“I am, sir,” Soei said.
+
+“The goblins are encamped in the plains by the foot of the mountain range.
+
+If they deploy their forces from there, they will do so right in the spot indicated.”
+
+I trusted him at his word—but why were they just sitting around there instead of joining up with the other lizardmen?
+
+That was the thing.
+
+But I had to remind myself that I was making some pretty big assumptions, too.
+
+Gabil had no reason to attack his fellow lizardmen.
+
+The odd way he chose to position his forces gave me pause, but there was little reason to dwell on it, I thought.
+
+“Ah, maybe I’m overthinking it.
+
+I’m kind of an amateur at this, so—”
+
+“…No,” interrupted Hakuro, eyes sparkling.
+
+“I think you may have a point.
+
+If the main lizardman force is deployed directly in front of them, it would be easiest to try to strike from the rear.
+
+But the orcs clearly don’t have the time to try to circle behind them, and even if they attempted such folly, they could easily be attacked and routed from both sides while their lines are stretched thin.
+
+There is no reason to keep an army here.”
+
+“But what would the point be?”
+
+Benimaru countered.
+
+“Even if the goblins defeated the lizardmen, all they’d have waiting for them is death at the hands of the orc onrush.”
+
+“Perhaps.
+
+But Gabil seemed to style himself as a leader.
+
+He may want to seize the position of chief for himself.”
+
+“It is possible.
+
+And really, I see no other reason for him to position his forces here.”
+
+Gabil was certainly confident.
+
+Dreaming big.
+
+But was he really
+
+that
+
+brazen?
+
+“If that’s what you think,” I said, “if you think it’s possible, then that’s all the more reason why we can’t team up with him.”
+
+Nobody offered any disagreement.
+
+“Do you believe Gabil may be rebelling against his own people?”
+
+Treyni asked.
+
+“Yeah, it looks possible, the way this map is showing it.
+
+He offered to have us join his army, but I don’t think that’s such a good idea anymore.”
+
+“…I see.
+
+Perhaps there is someone compelling him to do this.
+
+I will investigate.”
+
+I appreciated the gesture.
+
+But if she was covering Gabil for us, what should the rest of us be doing now?
+
+“I would very much like to forge an alliance with the lizardmen,” Hakuro said.
+
+“By ourselves, our numbers are too low.
+
+I would hate to leave them alone and defenseless, besides.”
+
+Nods around the table.
+
+Nobody seemed to have any concerns about that.
+
+“But whether we have an alliance or not, we’re never gonna outnumber the orcs,” I countered.
+
+“You sure they wouldn’t just treat the offer like an insult?”
+
+The hobgoblins seemed to view that as a problem.
+
+The ogre mages laughed them off.
+
+“Sir Rimuru, you worry far too much!”
+
+Hakuro commented.
+
+“Each one of us is as powerful as an entire army.
+
+I highly doubt they would look down upon the likes of us!”
+
+I thought he was giving himself far too much credit.
+
+It sounded like something Gabil would say, really.
+
+But apparently, he meant it.
+
+“I will go and negotiate with them myself,” Soei said.
+
+“Is it all right if I speak with the lizardman chief on your behalf, Sir Rimuru?”
+
+I sized him up as he awaited my reply.
+
+He certainly seemed confident.
+
+I wasn’t sure where it came from.
+
+But he seemed worth relying on.
+
+The map had just told us to expect a clash between orcs and lizardmen before long.
+
+Assuming that was true, we had more time to save this town than I first thought.
+
+Having a general idea of the near future helped everyone else calm down a bit, too.
+
+“Right.
+
+So we’re gonna take two different tacks.
+
+I’ll lead an advance force over to the lizardmen, and we’ll bash up the orcs together.
+
+We’ll try to win the battle, but if it starts looking bleak, that’s when we’ll go to Plan B—where, basically, we abandon the town, regroup where the treants are, and focus on defending them.
+
+We’ll probably need to call upon human aid if it comes to that, so I’ll contact Kabal the adventurer and have them help us rub out the orc lord.
+
+He’s just as much of a threat to them as he is to us, so I’m sure they’ll step up to help.
+
+Of course, this is all dependent on forming an alliance with the lizardmen.
+
+You’re gonna be key to that, Soei.
+
+Make it happen.”
+
+“Yes, my lord!”
+
+Soei nodded back at me.
+
+I had faith he’d come through, certainly.
+
+“Right!
+
+In that case, feel free to talk to the lizardman chief whenever you can.
+
+Just make sure we’re both equal partners in this alliance.
+
+Nobody’s serving anyone else!”
+
+“I understand,” he said, then promptly disappeared, as if fading into the shadows.
+
+He works fast, doesn’t he?
+
+“Good.
+
+Now, if Soei messes up his job, we’ll jump right to Plan B.
+
+I want all of you to be prepared for that, should it come to it.”
+
+The rest of the room nodded in agreement.
+
+“Thank you all for accepting my sudden request,” Treyni said, bowing low in my direction.
+
+“I will do my best to ensure this relationship is beneficial to us both.”
+
+“Oh, no, uh, same to you,” I stammered.
+
+She smiled a little in reply, perhaps finding my hesitation cute or something.
+
+“We will meet again, then, Leader of the Monsters—or Sir Rimuru, I should say.”
+
+Then she was gone, casting her own magic to return home.
+
+So we had our orders.
+
+It’d be great if we could form that alliance, but if not, we’d have to think on our feet a little.
+
+“By the way, Sir Rimuru, have you any interest in contacting Gabil again?”
+
+“Hmm… Good question, Hakuro.
+
+I think I’d like to save that for Plan B, when we get to seeking human support… Hmm, but the kingdoms are gonna need time to mobilize their forces when push comes to shove, huh?
+
+You think maybe we could just tell them there’s an orc lord out there for the time being?”
+
+“It sounds like a good idea, my lord.
+
+I will leak word to the kobold merchants.
+
+They will spread it well enough after that.”
+
+“Thanks.”
+
+That should work for now.
+
+They’d probably want some solid evidence about the orc lord’s birth before joining forces with us, besides.
+
+Rigurd was already outside of our conference-room hut, carrying out my orders.
+
+Even as goblin king, he still ran around all day like a chicken with its head cut off.
+
+Things were starting to happen.
+
+It was beginning to make me nervous, but there was no point stewing over it.
+
+We had to do what we could, and right now, that meant we had to prepare.
+
+An orc lord, though, huh?
+
+Sounded pretty tricky.
+
+Stealing people’s skills sounded awfully unfair, not that I was really one to talk.
+
+But I had been sweet-talked into confronting him, and I couldn’t disappoint Treyni now.
+
+I wasn’t at all sure about my chances, but I had made the agreement, and I’d go at him with everything I had.
+
+If I screwed this up, I’d have no chance of carrying out the promise I made to Shizu.
+
+I had to think about the future, even if the thought depressed me a bit.
+
+The orcish army stormed across the forest, feet stamping against the soil; entire trees toppled along the way.
+
+Destroy them!
+
+Destroy them!
+
+Destroy them!
+
+Destroy them!
+
+Such was the thunderous chant of the orcs as they marched along, their yellow eyes sparkling with rage.
+
+They were not capable of thought in the normal way.
+
+In their eyes, anything that moved was prey.
+
+They were eternally hungry, and the whole of their consciousness was devoted to filling their empty stomachs.
+
+Whump.
+
+Another one down.
+
+Those surrounding him were overjoyed.
+
+They had prey now.
+
+At one point, they might have been friends—but now, he was just a slab of something edible.
+
+He looked like he was still breathing, but all that meant to the others was that his meat was fresh.
+
+Those lucky enough to have been marching alongside him immediately took to taking the body apart.
+
+The liver was taken to the leader of their little group, with the rest snatched up on a first come, first served basis.
+
+Crunch, rip, smack.
+
+The air was quickly filled with the repulsive sounds of flesh and bone being torn apart.
+
+They were forever hungry.
+
+And the hungrier they got, the more powerful they became in battle.
+
+That, right there, was the hidden benefit of the unique skill known as Ravenous.
+
+The more orcs that fell and were eaten—the hungrier the survivors grew—the stronger it made the entire army.
+
+They numbered two hundred thousand, a city’s worth of famished slaves under the orc lord’s rule.
+
+There would be no salvation for them, as they worked feverishly to fill their stomachs…
+
+It was all too futile an effort in this endless hellscape.
+
+Now the homeland of the ogres was before them.
+
+The orcs were D-ranked monsters.
+
+The ogres, with a grade of B, made them cower in fear—never in their dreams would they dare challenge them to a fight.
+
+But look at them now…
+
+Destroy them!
+
+Destroy them!
+
+Destroy them!
+
+Destroy them!
+
+They never stopped.
+
+If anything, the hunt for prey made them go faster.
+
+Their comrades fell as the ogres raged, exercising the full brunt of their powers, slashing them apart, caving in their skulls with the handles of their axes…
+
+But all it meant was that the orcs suddenly had a bountiful supply of fresh meat.
+
+They were thrilled, hoping against hope that it’d help stave off the hunger for at least one passing moment.
+
+An ogre fell.
+
+Several orcs immediately pounced, bathing in his blood as they gnawed at his body.
+
+But…ahh, it didn’t work.
+
+It filled nothing.
+
+But now look.
+
+The orcs’ bodies were changing.
+
+The power of the ogre was now within them.
+
+And now the ogres were swallowed up by the supposedly inferior orc hordes, screaming their last, pained at the seeming uselessness of their powers.
+
+And slowly but surely, some among the orcs began to manifest new, unexpected abilities.
+
+The strength of the companions I eat becomes my own!
+
+The power of the prey I consume becomes my own!
+
+The eating continued.
+
+None were afraid of death.
+
+Any sense of fear in their minds had been consumed right alongside the flesh of their comrades.
+
+And the power flowing within them was now making its way to the king.
+
+Their king.
+
+The orc lord, the one at the top of the food chain.
+
+The march continued.
+
+Their next prey was right in front of them.
+
+The lizardman chief shuddered when he heard the report.
+
+The thing he feared most was now reality.
+
+According to the messenger, the stronghold of the powerful ogre race was destroyed before the day had even ended.
+
+As if swallowed whole by the orc horde.
+
+There was no longer any doubting it.
+
+The orc lord was here.
+
+In terms of sheer statistics, these were still D-ranked orcs, two hundred thousand of them or not.
+
+Ten thousand C-plus-level lizardmen, playing on their home turf in the marshes, had every chance of fighting evenly, or better.
+
+But if the thing he feared the most—an orc lord—was on the scene, nothing about them was D rank any longer.
+
+If they had completely overwhelmed the ogres, that was an indicator of their power—from the guy up top, all the way down to the lowliest peon in the army.
+
+They may not be as powerful as ogres, no, but you could put a plus sign next to that D, at the very least.
+
+And any orcs who were at knight level or higher would be at least a C.
+
+Hell, at this point, they might be leaning toward C-plus, matching the lizardmen’s grade.
+
+It would be hard enough to fend off such a massive army attempting to strike them at their weakest link.
+
+But if there was no meaningful difference in strength at the infantry level now, they had no chance.
+
+The presence of the orc lord meant that holing up in the caverns and attempting to weather out a siege would be pointless.
+
+It was one thing if they had reinforcements, but shutting off all potential exits would simply make the lizardmen starve, not the orcs.
+
+They would simply have to throw themselves against them.
+
+It was a bitter decision for the chief, but one that had to be made.
+
+Gabil, sent away to gain the goblins’ support, had yet to report back.
+
+They couldn’t waste time searching for him—it would only make their foes even more of a threat.
+
+The chief began to fear that he would have to lead the forces himself.
+
+A soldier ran up, shouting.
+
+“Chief!
+
+We have an intruder!
+
+He wishes to meet with you in the limestone grotto entrance!”
+
+The chief’s guards readied their spears in response.
+
+“Calm yourselves,” he said.
+
+He could feel the presence of a strong aura nearby—more powerful than anything he had felt before—and he realized it wouldn’t pay to do anything to stoke its owner’s anger.
+
+Any battle would lead to untold casualties, most likely, and he couldn’t detect any hostility to the aura anyway.
+
+“Whoever it is,” he said as he composed himself, “he is very brave, coming here alone.
+
+I would like to see him.
+
+Bring him over.”
+
+“But what about the risk, my lord?”
+
+“This aura is on the level of a magic-born’s.
+
+If we wish to drive him away, we will have to pay dearly for it.
+
+He does not seem to be an immediate threat, so we have no reason to immediately threaten him.”
+
+“Shall we line the chamber area with our elite troops, then?”
+
+“Please.
+
+But I want no one to move an inch until I give the order.
+
+Make that clear.”
+
+“Yes, my lord!”
+
+The chief nodded to his royal guard and waited for the uninvited guest to appear.
+
+They were in a natural labyrinth, one with countless hidden nooks and crannies.
+
+If this magic-born-level foe attempted to cause any trouble, they would have ways of handling it—if it came to the worst-case scenario, that is.
+
+The chief’s hope was that they could talk this out instead.
+
+Now the aura drew nearer, its size telling the chief everything he needed to know.
+
+Anything foolish
+
+, he thought,
+
+and not even a hundred of my elite force may be enough to defeat him
+
+.
+
+After a few more moments, one of his men brought a single monster into his chamber.
+
+He was dark-skinned, his hair black with hints of blue, and eyes a lighter blue that were cold as ice.
+
+He was about as tall as your average lizardman—not gigantic by monster standards, but he looked composed, impervious, ready for anything.
+
+The power he seemed to exude was overwhelming in itself, even as he was surrounded by several lizardman warriors to keep him in check.
+
+A hundred other troops were stationed around the chamber, ready to leap at this visitor whenever their chief instructed.
+
+The chief looked at the visitor, then resigned himself.
+
+If this goes wrong
+
+, he thought,
+
+I may have just wasted the lives of everyone in this room.
+
+Such was the extent of this monster’s aura, exponentially larger than anything he knew.
+
+“My apologies,” the chief began.
+
+“We have been so busy with our own preparations that I fear I cannot provide you with the proper courtesy you deserve.
+
+May I ask what brings you here?”
+
+His choice of words angered the younger lizardmen in the chamber.
+
+What need was there for all this politeness before a complete unknown like this?
+
+The chief appreciated their concern, but now he was anxious.
+
+If they did anything to displease this visitor, they may never step out of this chamber again.
+
+The young warriors had far too little experience and lacked the ability to accurately gauge their foes.
+
+They hadn’t lived as long as the chief nor developed their danger-sensing skills like he had.
+
+But not caring at all about the chief’s concerns, the monster spoke.
+
+“My name is Soei.
+
+There is no need for excessive ceremony.
+
+I am merely a messenger.”
+
+Betraying the chief’s worst fears, the monster serenely introduced himself.
+
+There was nothing savage about his demeanor as he regarded the chief, not caring at all about the grumbling guards around him.
+
+Soei, is it?
+
+A named monster.
+
+That would explain the overwhelming sense of power anyway.
+
+And this named monster was being employed by someone else—a thought that made the chief imagine a cold sweat running down his back.
+
+“Allow me to state my business.
+
+My master wishes to form an alliance with you and has requested that I make the necessary arrangements.
+
+I feel we have good news for you—my master cannot bring himself to simply watch idly as the orcs decimate your ranks.
+
+That is why he has requested this alliance.”
+
+It was no nightmare scenario for the chief after all.
+
+This “master” did sound a tad uppity and forceful, yes, but some aspects of the offer deserved to be heard.
+
+The chief thought—about this monster, Soei, and the goals of the one he served.
+
+Whoever he was, he was working against the orcs, at least.
+
+“Before I respond to your proposal, may I ask you a question?”
+
+“Let me hear it.”
+
+The reply was simple, but it confirmed to the chief that the other side was willing to negotiate.
+
+It came as a relief.
+
+“Well, then… If it is an alliance you seek, is it safe to assume that your master is willing to work alongside us as we confront the orcs?”
+
+“Indeed.
+
+As I told you, he does not wish to see you annihilated.
+
+He wishes to fight alongside you, if possible.”
+
+“Then let me ask another question.
+
+What does your master think is the root cause behind this orc activity?”
+
+Soei fell silent for a moment.
+
+A bold smile began to cross his face.
+
+“Are you asking whether it is an orc lord we are dealing with?
+
+Then let me give you a piece of information I guarantee is the truth.
+
+My master, Sir Rimuru, has received a request from the dryads, the wardens of the Forest of Jura, to slay the orc lord.
+
+He has solemnly promised to do the deed.
+
+I hope you will consider that as you make your decision.”
+
+This reply offered even more for the chief than he expected.
+
+The revelation that dryads were involved caused everyone in the room to stir.
+
+And the man before him had just confirmed that the orc lord was very, very real.
+
+Whatever master this monster served—did he have the power, truly, to defeat this menace?
+
+Considering Soei had dropped the name of the dryads, one of the top-level presences in the forest, it seemed safe to assume he was telling the truth.
+
+Nobody was dumb enough to speak of dryads if doing so would spark their ire.
+
+It was said they could see all and hear all, through the very trees that populated the forest.
+
+All forest residents knew that their names must be handled with respect.
+
+The term
+
+alliance
+
+suggested that the lizardmen would not be subjected to servitude.
+
+They would be treated as equals.
+
+It was an offer, the chief reasoned, that had to be taken.
+
+But before he could speak, another group of lizardmen bounded into the chamber.
+
+“Chief!
+
+There is no need to listen to such talk!”
+
+“Indeed!
+
+We are the proud lizardman race!
+
+Why does some total stranger think he can simply stroll in and curry our favor?”
+
+They were Gabil’s men, part of the group that stayed behind while their leader set off to secure the goblins’ support.
+
+The chief had bidden them to stay, fearing them too hotheaded to be useful in delicate negotiations with the goblins, and now he was paying for that error.
+
+He wished he could click his tongue and make them vanish.
+
+Certainly, there was no telling exactly how powerful this master and his people were.
+
+But simply dismissing them out of hand, over the authority of their chief?
+
+This visitor was demanding a lot, it was true, but he was a messenger, and these rank-and-file lizardmen had no right to treat him like garbage.
+
+Besides, the visitor’s demands were not, in themselves, a problem.
+
+The envoy represented a monster powerful enough to be relied upon even by dryads.
+
+In terms of level, he must have been equivalent to the lizardmen or higher.
+
+And in the world of monsters, it was all about survival of the fittest.
+
+Here was a higher-level presence seeking their help.
+
+Any perceived rudeness could be quickly forgiven.
+
+Even this envoy possessed a frightening amount of force, a magic-born through and through.
+
+Get on his wrong side, and he could easily become their enemy—and taking on a magic-born like this before the orc horde arrived would be the epitome of foolishness.
+
+The chief eyed Soei, trying to read his emotions.
+
+The envoy’s eyes were still squarely upon the lizardman leader.
+
+Whew.
+
+That was a relief.
+
+He couldn’t afford to let a witless bystander ruin this offer.
+
+“Silence!”
+
+he shouted, shutting down the chamber as he signaled to his guards with his eyes.
+
+“I will be the one who decides what we do.
+
+You do not have the right to intervene.
+
+Take them to the brig!
+
+A night spent in there should help them see the error of their ways.”
+
+The two transgressors were quickly whisked away, shouting “Chief, please reconsider!”
+
+and “Sir Gabil will never allow this!”
+
+But they no longer mattered.
+
+He turned back toward Soei and lowered his head.
+
+“Please forgive the rudeness of my people.
+
+I think I would like to pursue this alliance with you.
+
+However, the affairs I must deal with at the moment force me to remain here.
+
+Under normal circumstances, I would love to confer with your master at the location of our choice, but I am afraid I cannot spare a single moment.
+
+Would it be possible for him to come to me instead?”
+
+He swallowed nervously.
+
+This was asking a lot, he knew, of someone much more powerful.
+
+He knew it could anger the envoy easily enough—but Soei showed no concern at all.
+
+“I accept your apology.
+
+I am sure my master will be delighted to hear your reply, and I look forward to working together with you.
+
+In that case, I will make the necessary arrangements to bring our forces here—you will get to meet Sir Rimuru yourself then, I imagine.”
+
+Soei’s demeanor suggested he never thought for a moment the chief would turn him down.
+
+Or
+
+—the chief suddenly thought—
+
+if I
+
+did
+
+turn him down, that would be it.
+
+The end of the lizardmen’s luck.
+
+And that is no idle speculation
+
+, he thought.
+
+Without this meeting today—without this alliance—our people could very well have perished.
+
+The envoy, Soei, had declared that the orc lord was real.
+
+The worst-case scenario in the chief’s mind was already in motion, and now there was a glimmer of hope that they could survive it.
+
+It filled the chief with a great sense of relief.
+
+“Let us convene together, then,” Soei said, “seven days from now.
+
+I ask that you do not hurry yourselves into any type of conflict before then.
+
+I would also advise you to watch your backs for the time being as well.”
+
+“Very good.
+
+I look forward to meeting your master.”
+
+The monster nodded at the chief, then disappeared from the spot, without a sound, as if fading into the shadows.
+
+Seven days.
+
+That would be enough
+
+, he thought.
+
+Hole up in their caverns to keep the orcs from getting any stronger, and wait for their reinforcements.
+
+He didn’t know what kind of numbers his newfound friend would bring, but even someone as powerful as Soei alone would be a great help.
+
+If his so-called master was taking on the orc lord himself, then the lizardmen needed to grant him all the support they could.
+
+It was an uncertain, wait-and-see approach, but it certainly beat risking their lives in a confrontation that offered almost no chance of survival.
+
+Now, at least, the chief knew what must be done.
+
+“Prepare for a siege, men!
+
+We must reserve our fighting strength until the reinforcements arrive!”
+
+“““Yes, my lord!”””
+
+And so the lizardmen holed up in their natural labyrinth, lying low and quiet for the clash to come.
+
+Gabil opened his eyes.
+
+It took a moment for him to recall what had happened.
+
+When he finally did, he shot out of bed, livid.
+
+“Are you awake, my lord?!”
+
+the lizardman serving him said.
+
+“Yes.
+
+I apologize for alarming you.
+
+I must have fallen into his trap…”
+
+“His trap?”
+
+“Indeed.
+
+That impudent fool and his clever tricks…”
+
+“…Meaning, sir?”
+
+“Meaning that fighter who defeated me was the
+
+true
+
+leader of the village.”
+
+“What?!”
+
+His men began nervously conversing with one another, digesting this devastating piece of news.
+
+It explained a lot, in their minds.
+
+“The little sneak pretended that slime was their leader to distract my attention.
+
+He played the part of some foolish peon, then struck me right when my guard was down!”
+
+“Of all the dirty tricks, my lord!”
+
+“And to think the direwolves, of all the monsters, are willingly cooperating with such a small-minded weasel.
+
+So much for the so-called masters of the plains!
+
+Just a bunch of mangy dogs, in the end.”
+
+“The work of a coward, through and through!
+
+Unworthy of ever crossing blades with a warrior such as yourself, Sir Gabil!”
+
+“Quite, yes.
+
+I offered him a chance to duel with me, fair and square, and now I see how much of an error in judgment that was!”
+
+“Ah, I…I see, sir.
+
+Indeed, there would be no other way I could imagine you tasting defeat otherwise.”
+
+“Bah!
+
+Curse those wretched direwolf beasts and those conniving hobgoblins!
+
+Just because they happened to be blessed with a round of evolution, my lord, they walk around like they own the world!
+
+If they think they can measure up to the lizardmen, we had all best relieve them of that idea with haste!”
+
+Gabil gave his men an appreciative nod.
+
+It was true.
+
+He couldn’t imagine any other reason why he lost that confrontation.
+
+That, and the direwolves proved to be a sore disappointment.
+
+All that talk of their pride, their flawless teamwork, and here they were sharing their fates with a bunch of underhanded lowlifes.
+
+“Anyone who uses such cowardly tactics against me is worthless!”
+
+he spat out, still livid.
+
+“Perhaps it was for the better we did not side with them, then.”
+
+“I would say so, yes!”
+
+“Indeed, indeed…”
+
+Gabil basked in the ego-massaging from his men.
+
+Then he let out a hearty laugh.
+
+As far as he was concerned, he wasn’t defeated at all.
+
+“Come to think of it,” another man said, “I do find it odd, Sir Gabil, that you have remained at the rank of warrior lord for all this time.”
+
+“What?”
+
+Gabil replied, sneering at the lizardman.
+
+“N-no, I…I do not mean you are unworthy of the post, my lord.
+
+Quite the opposite!
+
+I just feel it a wasted opportunity of sorts, you serving that feeble old man for all this time.”
+
+“Keep going.”
+
+Now Gabil was on his side.
+
+The lizardman straightened his posture, relief coursing over him.
+
+“I feel, Sir Gabil, it is about time we allow our chief to go into retirement and establish you as the new lizardman chief.
+
+Ah, if only that were already the case!
+
+Then, perhaps, we would not be so thrown by the orcs as we are now.”
+
+The others quickly stepped up to agree.
+
+“Exactly!
+
+Once Sir Gabil shows his true strength, that stubborn old fool will soon take the hint and step aside.
+
+It will be a new era for the lizardman people, and nothing would make me happier than seeing it come to life!”
+
+“Very true!
+
+It is time for a new wind to blow across our homeland!”
+
+Gabil nodded at the shouted adulation.
+
+He felt, finally, that the time was ripe.
+
+“Ah,” he said, “so you were all thinking the same thing?
+
+I was just considering that the time had come to act myself.
+
+Will you be willing to fight alongside me, then?”
+
+He sized up his men.
+
+They were all looking at him, eyes full of passion.
+
+He liked what he saw.
+
+They were envisioning a new epoch in lizardman history, one they would have a direct part in engineering.
+
+Soon, Gabil felt, they would be his most trusted advisers, offering the support he would need as he led his species to a new generation of bountiful glory.
+
+“We will, sir,” one said, “if you are willing to lead us.”
+
+That was the chance Gabil was waiting for.
+
+He nodded sagely.
+
+“Then the new era is here,” he proclaimed.
+
+“Very well!
+
+Let us all stand together!”
+
+The echoes of the ensuing cheers lingered for what seemed like minutes afterward.
+
+The fool had finally climbed onstage.
+
+The farce was about to begin.
+--- END PRESERVED SOURCE BODY ---

@@ -1,0 +1,905 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 41 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_7/03b_chapter2_part2_pages85-108.txt | Original blob SHA: 0b5a567469390c32697ade32f58db0d427085fac | Original size: 60321 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_07/04a_chapter3_part1_pages109-131.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+The only report I haven’t heard is—
+     “Souei, has there been any significant change in the ecology of the neighboring monsters?”
+     I ask about the movement of the monsters around the town and the roads.
+     Magicule concentration is rather high in this area due to many large individual magicule
+counts.
+     Areas of high magicule concentration would result in the spontaneous genesis of Monsters23
+and naturally, the birth rate of harmful monsters would also increase. Even monsters below Rank
+D can be harmful to humans, which is why we have to stay alert and eliminate them.
+     If dangerous monsters above Rank B suddenly appear, then all the more reason to eliminate
+them faster. It is due to such circumstances that security work is necessary for everyday life.
+     The head of the security department Rigur needs to deal with that area of things. His subor-
+dinates are all veterans, and even if they were replaced by new recruits, it would only take a few
+weeks for them to be trained and deliver decent results. Police patrol every street to ensure the
+safety of human caravans. The security has been made watertight and everything seems fine as
+of the moment. But they have not explored the entire forest, leaving the possibility of stronger
+monsters to exist somewhere in there.
+     But Souei did tell me “Don’t worry about it” …
+     What does that mean?
+     Does it mean we can coexist with those monsters?
+     As long as those monsters don’t harm us and the travelers, they shouldn’t pose a problem.
+There is no need to eliminate them if they possess intelligence and can be negotiated with.
+     With that being said, just like the Armored Spider (Knight Spider) that Gobta encountered
+before, there is no guarantee whether such Rank A local monster lords would appear or not.
+This is why I’m very concerned about the security of areas far away from towns and streets.
+Locations where we have limited control are the breeding grounds for dangerous monsters. But
+we should have information about such locations since Souei has sent out his ‘Clones.’
+     Let’s hear about the reports then.
+     “There is no big trouble. If anything, there were some White Fang Bears24 roaming in the
+North-west of the forest. I’ve already dealt with them.”
+     Souei casually adds.
+     Hmm, there doesn’t seem to be an issue.
+     «Warning. White Fang Bear is equal to a Knight Spider, with both being Rank A.»
+     What!
+23
+     Here specifically it’s referring to Yoma.
+24
+     Species “白刃巨熊” (Giant White Fang Bear)
+
+
+                                                 85
+     “Oi, that monster you mentioned, isn’t that a high-rank monster that any normal adventure
+would have difficulty fighting?”
+     His nonchalant attitude makes me panic a little.
+     There is no way for merchants to safely travel when such dangerous monsters are roaming
+the area. Moreover, it would also put the security force led by Gobta in danger as well.
+     “Eh? Souei-san, is this true? It would be quite dangerous to send our new recruit out when
+those types of monsters exist.”
+     “That shouldn’t be an issue. Aren’t you spoiling them too much?”
+     “Hold on a second! While those monsters may not be much for Souei-san, they are no easy
+foes for us.”
+     Naturally, Gobta starts to complain.
+     Yet Souei still looks quite apathetic—
+     “Then why don’t you just go ask for Hakurou’s help and have him train you harder?”
+     He replies with such scary words looking all serious.
+     Hakurou nods in agreement. Poor Gobta.
+     Although I’m more interested in Gobta’s reaction as he doesn’t seem to fear the White Fang
+Bear itself.
+     Gobta has indeed undergone significant magicule growth. He is now a Rank B veteran.
+With that being said, he still has a long way to go before reaching Rank A.
+     Wisdom King Raphael-san, did you misjudge Gobta’s ability?
+     «Answer. His power after “Assimilation” with a Star Wolf would increase. However, the
+change in power cannot be accurately measured.»
+     Oh oh, I see.
+     His power should increase to around Rank A-minus after “Assimilation” with a Star Wolf.
+Gobta is the captain of the Goblin Riders after all, so it’s no wonder he doesn’t take monsters
+like the White Fang Bear seriously.
+     Speaking of which, I’ve heard rumors of Gobta taking an attack head on from one of Clay-
+man’s generals. His experience training with Hakurou has made him stronger. I almost got
+deceived by his unchanged appearance; could it be that Gobta is actually very strong?
+     Feeling reassured by Gobta’s growth, I decide to move on to the next order of business and
+mediate the discussion.
+     “Calm down everyone. Gobta has a point too. Although you yourself may be able to handle
+it without a sweat, don’t expect everyone to be like you, Souei.”
+     I interject. It would be bad to spread the idea that everyone has to rely on their own power to
+resolve problems. Average people will find it difficult to keep up when comparing their strength
+to the more powerful individuals which in turn would lead to reduced productivity. Forcing them
+to shoulder all that responsibility may discourage them and in turn cause negative effects.
+     I raised several specific examples regarding that point to explain it to everyone.
+     “—My sincerest apologies, I was being inconsiderate.”
+     Souei apologizes upon listening to my explanation.
+
+                                                86
+      Everyone is different. Although Souei’s subordinates are strong enough to meet his high
+expectations, not everyone else has the ability to meet those demands. Hopefully, he will keep
+that in mind.
+      Not only Souei, it should also be the same case for Benimaru and Hakurou. I hope they will
+train our companions properly with an open mind.
+      In that regard, both Geld and Gabil are very considerate of their subordinates, so I don’t have
+to worry too much about them. I hope Souei can improve his relationship with his subordinates
+by learning from those two.
+      But I have something more to say.
+      “However, training for Gobta and his men is a good thing as well. They can learn to keep
+their cool when facing unexpected emergency!”
+      I add.
+      Hakurou grins at my remark while Gobta hangs his head dejectedly.
+      The extent of growth that everyone can achieve may all be different, so it is always good
+to have more training. It’s just like reading books! You might acquire knowledge that will
+eventually become useful one day.
+      That’s why I can only request Gobta to work harder in the future. Well anyways, it’s time
+to cut to the chase.
+      The issue surrounding the birth of monsters.
+      My worries weren’t unfounded as the forest really did spawn some dangerous monsters.
+      I shouldn’t worry too much about the security force as they’ve all prepared healing potions
+just in case, and with how fast the Star Wolves can travel, they shouldn’t have a problem escaping
+from such situations.
+      However, that same logic cannot be applied to the visitors to our nation.
+      “With the high magicule concentration within our forest, it’s no wonder that abnormal mon-
+sters will be born. We have to draft a plan to deal with this before we end up with any casualties.”
+      While strengthening our security net is one way to do it, it won’t fix the issue in the long
+run. Maintaining such a large-scale operation would only increase our burden. The place where
+monsters gather would naturally have an increased magicule concentration, if we can’t get rid
+of the root cause, we will always have to remain on guard.
+      Then, what should we do…
+      As I was worrying about this, an unexpected proposal comes along to save the day.
+      “If that’s the case, how about we apply an anti-monster barrier to the street?”
+      Vesta suggests.
+      Kaijin also stands up to speak, almost as if saying “I’ve just been waiting for that line.”
+      “My lord, I’ve already built the device—A prototype of a fully automatic magic motor that
+can activate the barrier.”
+      Kaijin finishes his words with a confident smile.
+
+
+
+
+                                                87
+I am aware that Kaijin has been developing things behind my back, but did he just mention a
+fully automatic magic motor?
+     It is said to be an epoch-making magic machine that can automatically maintain the magic
+detected within. It is like an advanced version of a magic item that has specific magic imbued
+within it, however, the capacity and efficiency of this version is completely on a different level.
+     They seem to be quite troubled for not being of much help during the previous incident
+involving a barrier (Farmus Invasion). That is why Kaijin and Vesta apparently led the initiative
+in researching these technologies.
+     Aren’t you two too overpowered? (in brain power) To come up with a prototype in such
+short amount of time, could they be actual geniuses?
+     That was my initial impression, but it turns out that I may have been overthinking things.
+     Gabil also participated in the development during his spare time with the help of Kurobee
+(who unfortunately is not present at the moment). Even Shuna contributed. It is the grand result
+backed by all of our magic technologies.
+     It is quite moving.
+     Kaijin seems to have adapted a life of grinding research 24/7 after having handed over his
+job in blacksmithing to Kurobee. But since he is the head of the manufacturing department in
+Tempest Federation, there is no way that he would be able to drown himself in research…
+     Kaijin explains the mechanism to me in detail.
+     The automatic magic motor seems to have been set to collect spare magicules floating in the
+air. And to be honest, this area possesses a high concentration of magicules. He came up with
+such a contraption knowing that it didn’t make sense to leave these spare magicules unused.
+     The “Barrier of Aerial Magic Silence” 25 from that time also cleansed the magicules within
+it.
+     Let’s use these surrounding monsters as an example, the Monsters will absorb (breathe in)
+the surrounding magicules in the atmosphere and produce “Magic Crystals.” Kaijin and the rest
+seemed to have taken some inspiration from this and set about researching the principles behind
+them.
+     In addition, as previously emphasized, this kingdom constitutes of a very high concentration
+of magicules. Even though everyone believes that they are suppressing themselves, part of their
+Youki (demonic aura) is still leaking out into the atmosphere in large quantities. If you consider
+an average cave where a horde of Rank B-plus monsters reside, the magicule concentration of
+that location would be very high indeed. By that logic, the magicule concentration would most
+25
+     I’m not sure what name yenpress used. May change in the future
+
+
+                                                        88
+definitely be abnormally high in this kingdom.
+     So, what should we do to face this challenge? It appears that Kaijin and the others have also
+been troubled by this problem for some time.
+     “Can we apply an anti-monster barrier with this automatic magic motor?”
+     “Of course. And there are more benefits to it than just that!”
+     Vesta adds confidently.
+     He and Kaijin looks at each other and laugh. The two seem to be getting along really well,
+making their quarrel in the past almost dream-like. Ah, let’s put that aside for now and hear their
+explanation.
+     “But isn’t anti-monster barrier used to prevent a monster invasion? What benefits are there
+besides that?”
+     “Hehehe, don’t get scared when you hear it, my lord! This automatic magic motor is
+equipped with a device to collect magicules. We can lower the magicule concentration in the
+atmosphere by effectively using this feature!”
+     Are you serious! I almost gasped at his answer.
+     Now we have found a solution to our pressing problem!
+     “Indeed, Rimuru-sama. But there is one problem with this device. If the concentration of
+magicules is not high enough, the low efficiency would render the device useless.”
+     “But, my lord, will this really be a problem in this town?”
+     After hearing the end of Vesta and Kaijin’s explanation, I nod to them in response.
+     Such concern is completely unnecessary since we are after all, worrying about magicule
+concentration being too high at the moment.
+     “Does the device activate and maintain the barrier automatically as long as it is collecting
+magicules in the air?”
+     “Not exactly, though it can be used like that too. The magic would disappear if the magicules
+that it uses as fuel run out. That’s why we made it so that you can replenish it with fuel directly.”
+     Here is Kaijin’s explanation: There is no need to worry about magicule depletion for the
+device near the vicinity of Tempest Federation, but the closer it is to the Western Nations, the
+less concentrated magicule is. It will be an issue if the barrier deactivates without notice. That’s
+why their design uses replenishable fuel to run the motor. Its fuel comes from the crystallization
+of magicule in the atmosphere—the so called “Magic Crystal.”
+     Normally, we wouldn’t consider using “Magic Crystal” as fuel directly due to its low effi-
+ciency. Unlike the “Magic Stone” crafted by the Freedom Association with unique technology,
+“Magic Crystal” is very unstable. If directly converted to mana, ninety percent of its content
+would dissipate and be wasted.
+     That’s why people would prefer “Magic Stone” as fuel… However, we had “Great Sage”
+who was able to find the most effective spell from “Engraving Magic.” As long as the energy
+output is greater than energy input of the fuel, it won’t matter even if it isn’t Magic Stone. We
+were able to benefit greatly before by researching such technology since we didn’t have the fund
+to purchase the expansive Magic Stones.
+
+                                                89
+     We can still activate the magic barrier even when the energy loss is pushed to the maximum,
+good enough performance can be achieved with a mere ten percent of its input power. The lost
+magicule would not disappear completely either but dissipate to the atmosphere.
+     And of course, that is also recyclable.
+     From this, we can see that it will be no fantasy to allow machines to function perpetually
+with high enough concentration of magicule.
+     We have even come up with another way to use it. For instance, we can produce “Magic
+Crystal” in large quantity and deliver them to be processed into “Magic Stone” at Freedom
+Association. In this way, we will have a much more effective use of the material.
+     With that being said, the most important thing here—is that the motor will be able to lower
+the concentration of magicule in the atmosphere. With the magicule concentration lowered, the
+rate of monster or demon26 spawns will also decrease.
+     What a truly extraordinary invention.
+     It will become an indispensable contraption that will make up for the nature of our kingdom.
+     “We in fact also have discovered the method to extract Magic Stone from the energy source.
+But we will still require special devices for such extraction. It is quite challenging to do so with
+our available devices, but we are still trying to figure out a way to directly use “Magic Crystal.””
+     Kaijin makes such confident claim.
+     He has found ways to collect magicule from the atmosphere and crystallize it into “Magic
+Crystal.” And so, the next step of his research became finding out the principle behind the
+production of “Magic Process.”
+     The large quantity of Magic Stones I purchased from the Kingdom of Ingracia apparently
+proved to be useful, yet the conclusion of his research was that there are still difficulties in
+producing them by ourselves.
+     I suppose that would be the case. I seem to recall hearing about the need of a factory installed
+with large-scale devices required to process and produce Magic Stones. In fact, the production
+of them seem to be extremely difficult. Even though we may know the method, putting it to
+practice is not going to be easy.
+     Don’t worry, we don’t have to be worry ourselves over it.
+     Since we can also just directly utilize “Magic Crystal,” we don’t have to address the said
+issue so urgently.
+     On the other hand, the use of “Magic Crystal” as a fuel seems surprisingly simple.
+     The stones would use their magicule (mana) to cast the spells of “Engraving Magic” to form
+magic circles.
+     “Moreover, this motor device can produce more than just a barrier!”
+     Vesta shouts excitedly.
+     How surprisingly, there may be a limit to how much magic it can use, yet it can cast more
+than just a barrier alone.
+26
+     The word “demon” is actually referring to 妖魔 (Yōma) which is just another way of saying monster in Japanese.
+
+
+
+                                                        90
+     They have carved the magic spells into a disc made of magisteel.
+     It is said that by swapping these magic discs, it will execute different kinds of magic effects.
+     For example, it is like a record disc. The automatic magic motor is the equivalent of a music
+player. They consume “Magic Crystal” instead of batteries.
+     Although I told them about media such as record disc and such, I didn’t expect them to craft
+such magic items by stretching their creativity.
+     It may develop in the future to become smaller version of the device similar to the size of a
+CD player and may even be carried around as an equipment, or perhaps upsize and use it to cast
+tactical magic?
+     Ahhh, so many possibilities.
+     As for the current size of the automatic magic motor, it is a cuboidal device with length
+of one meter. It has a thickness of around fifty centimeters and can take up quite the space.
+Transportation of the device will not be easy due to its heavy weight. With that being said, if we
+can replace the loaded “Magic Crystal” directly, we will not need to move the device itself.
+     Vesta plans to place them alongside the stone tablets on the streets in order to activate for
+the anti-monster barriers.
+     By documenting the expiration of the fuel, we can maintain the barrier by recharging them
+during the patrolling hour of the day.
+     They also mention that there is no need to recharge if the magicule concentration is high
+enough. So, in reality, we only need to send patrol to examine whether there is any issue with
+the barrier.
+     They’ve really thought about everything.
+     It is indeed a convenient magical device with versatility.
+     With one device installed every ten kilometers, we can ensure the complete safety of the
+neighboring area. And we will also build an outpost every twenty kilometers so that patrolling
+will be less troublesome.
+     “Right, about the spell engraving of that barrier—”
+     “Hehehe, Dold would handle that. The mass production of the motor will be handled by
+Kurobee-san, we are just waiting for my lord to approve.”
+     “The people being trained by me have also grown quite a lot, and so we are not giving them
+lectures as frequently as before. Right now, I am free of duty, so please entrust this mission to
+me!”
+     Vesta must also want to confirm the initiation process of the project besides the researching.
+     His eyes are glowing with expectations.
+     Once the motors are successfully installed, the problem with magicule concentration will
+also be swiftly resolved. Moreover, the safety of the streets will also increase exponentially.
+     I need to quickly approve this and launch plans to the install the motors on the streets.
+     “All right, Vesta, let’s get to work starting tomorrow!”
+     “Yes sir, leave it to me!”
+     Vesta agrees with a joyful smile.
+
+                                                 91
+      What a capable guy.
+      As for the installation of the motors, he has decided to give the work to the orc engineers.
+The heavy weights of these devices to the humans only pose a minor burden to monsters. Their
+difference in efficiency is night and day. In comparison, adjusting the range of the barriers for
+them to cover the streets is actually the hardest work—Vesta says so while laughing.
+      However, the harmonious atmosphere is completely ruined in the next instant.
+      “GA—HAHAHA! When that thing is installed, I can release my aura however I wish!”
+      As such, it is Veldora who announced these words without shame.
+      “No, you can’t, you idiot!! If you do that, most of the people in this country will die!”
+      I rebuke back with my genuine thoughts after hearing his shocking declaration .
+      Even Vesta’s smile faded as his face turned pale.
+      “That’s not a good idea indeed. We may still hold up, but it won’t be the same for the
+citizens in the town.”
+      “Even if he were to go somewhere else, Veldora-sama’s immense power would have the
+same effect no matter where he goes.”
+      Even Benimaru and Shuna’s expressions changed after hearing Veldora’s words.
+      Which is only natural.
+      Most people were not even able to approach him due to the magicule leakage when he was
+still sealed. Corpses would probably pile up in this nation if Veldora releases his aura without a
+care.
+      “No, but… I’ve been suppressing my aura all this time, it’s getting tiring…”
+      “Then endure a bit more.”
+      Veldora begins to find excuses, which I rejected on the spot.
+      “…By the way, Rimuru, why are you okay (suppressing his aura)?”
+      Ah? That’s easy.
+      “Me? I have stored everything in my “Stomach.””
+      A long time ago, after being inspired by Rigurd, I put all my suppressed aura into my
+“Stomach.” Nowadays I have reached a state of perfection with its usage and is able to store the
+aura without any leakage at all.
+      After my evolution to a Demon Lord, my magicule storage greatly increased, while my
+“Predator” also evolved to “Gluttonous King Beelzebuth,” the capacity of my “Stomach” also
+increased beyond measurement.
+      That is why I don’t have such a need for unleashing my aura.
+      “But Rimuru-sama, it is extremely difficult for someone like Veldora-sama to completely
+suppress his aura. Even Benimaru-sama and the others have some of their aura leaking out.”
+      Said Diablo.
+      “Yes! Diablo. You understand don’t you. Tell Rimuru more about just how hard I’ve been
+working!”
+      Veldora adds on happily while nodding. And so, Diablo begins to explain things to me.
+      Apparently, demon race is extremely skillful at controlling their aura and magic, that’s why
+
+                                               92
+they are able to contain their aura perfectly. Assessed by the master of aura suppression Diablo,
+Veldora’s act is of a perfect score.
+     Veldora indeed possesses extraordinary immense amount of magicule, so maintaining a
+state with his aura suppressed must be exhausting.
+     “Is that really the case, Veldora?”
+     “Hmm! I’ve been suppressing my aura ever since you taught me how. I really need to
+release it somewhere soon!”
+     This problem does seem quite severe from the sound of it.
+     Veldora still seems to be able to suppress his aura, but it will probably lead to grave con-
+sequences if I don’t deal with it. Wherever he finds to release his aura would probably turn
+its surrounding to a land of death. He may even cause a bunch of dangerous monsters to be
+spawned. It may even give birth to monsters at the same level as Charybdis.
+     If a real Calamity level threat is spawned, even if harmless, will still be treated as a danger-
+ous creature by other nations.
+     “I understand. I’ll come up with a way somehow, just endure a little longer.”
+     “All right then. I can still manage for now, but please hurry!”
+     All in all, I’ll have Veldora endure for a while. I’ll think of an idea during this time.
+     Speaking of this—
+     Now that the problem with magicule concentration is resolved, I didn’t expect to encounter
+a bigger task like this…
+     Life just won’t be smooth sailing for me all the time…
+     I sigh softly as these thoughts go through my mind.
+
+
+
+
+With the conclusion of Souei’s report, the rest of the executives state their reports as well. There
+doesn’t seem to be any major issue, and just as when I was about to end the meeting—
+      “Could I say something, Rimuru-sama?”
+      Geld raised his hand and spoke up.
+      He seemed quite troubled from just now, perhaps it has to do with what he wants to say.
+      “What is it, Geld? Speak your mind up. Could it be that you encountered any trouble?”
+      I didn’t think there would be any huge problem considering how he looked last night.
+      Geld’s worries probably have to do with the treatment of the captives.
+      But if possible, I wish to offer my help.
+      “I wish to inform my tribesman that Rimuru-sama has become Demon Lord. I want to go
+patrol the villages that I haven’t visited in a while and practice “Spatial Movement” by the way.
+Is it okay? I’ve received message that my tribesmen have settled down, some of them may even
+
+                                                93
+want to follow Rimuru-sama.”
+     Geld opened up after my urges.
+     Now that he brought it up, he’s been busy with the road construction and hasn’t had the
+time to visit all the orc villages. I had also caught news that their diet has been improved among
+other things, but I laid it off my mind afterward.
+     That is why I approved his proposal.
+     However—
+     “Geld, if anyone wish to follow me, bring them for a tour of the town first.”
+     “—Why is that the case?”
+     “Hmm. I can understand that your eagerness to recruit them into your team, but I think
+some training for them before that is necessary.”
+     But this is merely an excuse.
+     Geld can contact his tribesmen through “Telepathy Net” and quickly mobilize them to form
+a team. It is an undeniable advantage and one of Geld’s outstanding skill.
+     “But, I can immediately…Right now the construction projects at my hand have been ar-
+ranged full. I need to construct roads to different nations as well as building resident castle for
+Demon Lord Milim-sama, I’ll need the most efficient labor force to be my manpower—”
+     Geld is implying that a lot more labor is required for the future, and so he needs to quickly
+gather some tribesmen here. Yet I am still not willing to green-light it.
+     “No way. If you want labor, aren’t there captives available? Go instruct them and give them
+a good training.”
+     “But…”
+     “Geld, I understand your feeling. I won’t deny that it is only natural for us to pursue effi-
+ciency. But I hope you can have more long-term foresights.”
+     “Long-term…foresights?”
+     “That’s right. “Telepathy Net” is indeed convenient. It is practical and can reduce lapses.
+But, what about the captives if you only give preferential treatments to your own kin that you
+can reach out to? Did you plan to give these captives simple chores that anyone can do?”
+     “That, that is…”
+     Geld seems to come to some revelation having been advised by me.
+     We indeed require labor force in the future, but while we still have time and energy now, we
+should also train those captives. Personnel training can only be successfully carried out given
+sufficient time.
+     Moreover, if Geld only treats his own tribesmen well today, it may lead to unnecessary
+hierarchy of treatment in the future. I will not permit such a thing to happen when my goal is to
+build a paradise for different species to coexist.
+     That is why we are at a crucial moment now.
+     “Besides, Geld. You are also an outstanding commander. Should you be able to control
+those mixed bunch of majins today, you will no doubt further develop your leadership skill.”
+     “—OHH!”
+
+                                                94
+     “Even though there are a series of projects lining up behind you, don’t be nervous about
+them. Effectively use your past experience and have everyone listen to your command. Also—
+”
+     I take out a piece of paper and hand it over to Geld.
+     “T-this is—!”
+     “I’ll let you handle this project. It is only a basic draft of design, but I believe you will
+handle it well. So, do you wish to accept it?”
+     “Rimuru-sama…”
+     The design graph handed to Geld—was the graph of a giant building that I slowly drafted
+over my spare time.
+     I of course also showed it to Milim and the others.
+     Those skyscraping height made Frey very satisfied and left Karion shocked by its magnifi-
+cence.
+     As for Milim, she was simply delighted by it.
+     Considering this, the satisfaction of our customers will be guaranteed—But although it may
+seem like an investment to the future, it would be more similar to doing a free service, so I would
+be quite troubled if they do have a strong opinion about it.
+     After seeing the streets of Ingracia, I designed this building that may be less grand in size
+but just as competent in design.
+     My initial goal was building a skyscraper, but I changed the idea believing it was too boring.
+Instead I redesigned it to infuse the building with the features of this world. So, I hope Geld
+would help to build it. And of course, there is more to it—I also wish (have an excuse) to find
+reinforcement for Geld to prevent him from being crashed by the heavy burdens of all these
+important responsibilities.
+     My eyes turn to Kaijin.
+     “Leave it to me, my lord. I’ll go assist Geld-san. I’ll also bring that Midley guy along as
+well. Allow us to take on the task of building the city that you have envisioned.”
+     It seems that he noticed that I was peeking at him, Kaijin returns my look with a smile.
+     How impressive! He recognized the sight of a slime. But not everyone is as good as Kaijin,
+so perhaps it will be better for me to turn back to human shape during meetings.
+     Putting that aside, I’m reassured that Kaijin is willing to assist.
+     “Are you fine with your work at hand?”
+     “No problem. Don’t worry about it, my research has concluded for a while, moreover my
+apprentices are getting more and more competent as they train. So, it will be fine for me to leave
+town temporarily.”
+     Kaijin takes on the mission with a smile.
+     This is great.
+     A person’s worries over trivial matters will quickly be erased once he is given a bigger
+challenge or something worth working towards. If this is Geld we are talking about, then there
+is no way that he will be set back by such matter.
+
+                                                95
+      “You can do it. I hope you can overcome all the challenges and allow me to help you
+develop in a more mature you. And of course, you can find me to discuss if you ever encounter
+any difficulties. Why don’t you try to do it with a relaxed and joyful mood?”
+      “B-but! If I accidentally fail such important task…”
+      Geld’s body is frozen uptight at his spot, likely due to him being too nervous.
+      This man is very serious, hard-working and has a strong sense of responsibility.
+      That’s why I add on.
+      “It’s all right, all right. Even if you fail, you can learn from it as well. It is not human life
+we are discussing here, so even if there are any losses, won’t it at most be a city? We’ll build
+another if we might gather enough money again.”
+      These words will probably cause the opposite effect on lazy bones, but not so for Geld.
+      “Indeed! In the past, I was also—”
+      “Hold on, Gobta, what were you in the past? I need a more detailed explanation, come to
+my office later.”
+      “Eh! Is this actually an elaborate trap?”
+      Seriously, this Gobta. Don’t get ahead of yourself like that.
+      But his words do seem to have relaxed Geld.
+      “Hehehehehe. Thank you, Rimuru-sama. I, Geld, was too afraid of failure and was over-
+whelmed by worries over trivial matters in life. In order not to let down Rimuru-sama’s expec-
+tation, please allow me to carry out this significant task!”
+      “Hmm, I’ll be relying on you!”
+      Great.
+      Geld’s worries seem to have gone away as he gives off a delightful smile.
+      That should do it.
+      Shion on the other hand is looking at Geld with jealousy while muttering “So unfair…giving
+all the important tasks only to Geld.”
+      I answer in response “This is called assigning role according to each’s talent27 . You have
+your own job to do, don’t you?”
+      “It must be cooking!”
+      Not at all you idiot!
+      “Yeah…well… You have many strengths. Though in your case…cooking…is not one of
+them…”
+      I replied out of reflex and found a way to make it through the conversation.
+      If we are being honest here, her talent is probably being my bodyguard and protecting the
+city. Anyhow, Shion has her own strengths.
+      There is no need to be hasty since everyone have things that they are good at and things that
+they are not.
+      “Right, Shion. You are so incredibly strong that even I may lose to you under some condi-
+27
+     The saying is “適才適用”: using the correct role for the proper talent.
+
+
+
+                                                        96
+tion. That’s why you have to protect Rimuru-sama well when I’m absent.”
+     With Benimaru saying this at last, our discussion of the topic ends.
+
+
+
+
+The executive meeting updating situations with reports has finally been concluded.
+     The meeting could just end at this point of time, but I suddenly thought—
+     I should ask about Diablo for an update on how his plan is progressing.
+     “Well then, allow me to explain.”
+     Diablo salutes respectfully to me as he said so and begins his explanation.
+     The movement of every nation—The situations he described regarding the neighboring na-
+tions are just as what Rigurd and Souei had reported. Diablo seems to have gotten hold of this
+information as both of them frequently nod in agreement to Diablo’s report. The movements of
+the nations have to do with the plan to help Youm rise to power.
+     As for the status of Youm, I was informed of it among other things from Diablo’s report.
+     Putting aside becoming a king, Youm hasn’t even had any noble education. He probably
+can’t even properly engage with any nobles or royalties. Right now, the previous King of Farmus
+Edmalis has been acting as Youm’s mentor under Diablo’s instruction.
+     He probably won’t attempt anything devious under Diablo’s surveillance. So, I can leave the
+teaching to him being reassured. Depending on how things progress, it may be quite interesting
+to recruit and use him in the future. It will definitely be of help to Youm if that’s the case.
+     Diablo mentions about his plan again and explains it altogether to the executives.
+     While listening, I made a mental note that I should meet this man, Edmalis.
+     And the new king on the other hand, of course, is plotting some schemes behind the scene.
+     “But it’ll be some time before he can make his move right?”
+     To reorganize the army and mobilize once again will likely require several months at the
+least.
+     Or so I thought, but Diablo answered differently. His reply was completely different from
+what I imagined.
+     “Kufufufufu. I wish to resolve the matter as soon as possible, so I’m speeding things along.”
+     He says so with a delightful smile.
+     “Ah? Eh…then we won’t be able to prepare—”
+     “Not to worry. I’ve already requested Benimaru-dono to prepare an expeditionary force
+accordingly.”
+     “Indeed. I’ve prepared fully for that part. Both the troop that will be infiltrating the public to
+operate under the sun and the troops carrying out covert missions in the dark have been properly
+arranged. I in fact spent more time selecting candidates since everyone wanted to participate.”
+
+                                                 97
+      Diablo and Benimaru put on a smooth duet with how casually both explained the prepara-
+tions.
+      They’ve skipped reporting these things to me in the past, almost as if the matter is only as
+important as telling me the time of their hiking trip.
+      I personally consider this whole thing to be quite significant, you know…
+      “However, though not posing a problem, something is indeed troubling me. I haven’t bought
+this up before since it wasn’t worthy of a report, but Reyhiem has yet to return.”
+      Erasing his smile, Diablo adds on.
+      Oh yeah.
+      I’ve been wondering what I forgot and now I finally recall.
+      The message we sent to Hinata has not been replied.
+      “Is he the Archbishop that you sent out to respond the summoning of the Western Holy
+Church? Did he not bring my message? Or could it be that the message did not safely arrive?”
+      “No, I had Reyhiem carry the crystal ball and sent him to the capital of the Kingdom of Ingra-
+cia with my men protecting him. A “Teleportation Gate” was set up there for his transportation,
+so theoretically he should have directly reached the headquarter of Western Holy Church in Holy
+Empire of Lubelius…”
+      It will take two weeks of carriage ride for someone to travel from the Kingdom of Farmus
+to the Kingdom of Ingracia by the coast. Transporting from there to Holy Empire of Lubelius
+would take three weeks more of time.
+      With that being said, magic does exist in this world.
+      There is a special hallway set in between Ingracia and Lubelius called “Teleportation Gate.”
+You can travel between the two nations instantly by passing special dimension through the gate.
+      Only extremely high-ranked officials are aware of this gateway, but it probably won’t come
+as a surprise to Reyhiem who was the Archbishop of a strong nation. He must then also possess
+the status to use that gateway. It is said that he went straight for the capital as soon as he had
+entered the Kingdom of Ingracia.
+      The Greater Demon servants summoned by Diablo confirmed that Reyhiem had arrived
+at the capital. That city is however deployed with barriers which would cause commotions if
+Greater Demons invade. That’s why they reported back to Diablo after Reyhiem entered the
+city.
+      “After which, he has not left the capital at all?”
+      “Indeed. I told my servants to continue their surveillance of the capital and they are sup-
+posed to report to me as soon as Reyhiem exits.”
+      Yet he says that his servants still have not reported back.
+      If that’s the case, has Reyhiem remained at the Western Holy Church?
+      “Could it be that someone tried to silent him by murdering him?”
+      I couldn’t help but comment when the worst-case scenario crosses my mind.
+      But Diablo rejects my theory.
+      “No, right now I haven’t sensed it. My Unique Skill ‘Tempter’ would deprive my dominated
+
+                                                98
+subjects of their souls when they die.”
+     In other words, as long as his soul hasn’t been deprived, the person is still alive.
+     That’s quite a scary skill, but I’ll put that aside for now.
+     There were also several Templar Knights guarding him, so he probably thinks the capital
+there is safe without any hazard. Yet Reyhiem still hasn’t returned.
+     It may be that the inquiry meeting from within the Western Holy Church has been taking
+too much time, so it is perhaps not the time to worry. But this is indeed worrying. But it’s fine
+as long as he is still alive.
+     Hopefully, he won’t be silenced and cause us to be labeled as the culprit.
+     “In other words, right now we have no idea what Western Holy Church plan to do.”
+     “Yes. They may interfere with my plan, but under the circumstances right now, it is hard
+to make a judgement. We can only maximize our guards in order to take precaution against
+whatever is to come.”
+     “Hmm. How problematic if that’s really the case. We really can’t get a clear read on the
+situation with this limited information.”
+     If we have sufficient information, I can just leave it to be fully handled by Wisdom King
+Raphael-san.
+     “I am most ashamed. The risk is simply too high to infiltrate Lubelius—”
+     “No no no, it’s all right! No good will come out of forced actions.”
+     Seeing Souei’s regretful expression, I quickly comfort him.
+     It will take Souei himself to investigate the domain of Western Holy Church, who are neme-
+sis to us monsters. Moreover, with Hinata as their leader, I have reservations to send Souei
+out.
+     Such a task can’t at all be dealt with by Souka and the rest. They will definitely be executed
+if found. That’s why I have ordered them to act cautiously and never overplay their cards.
+     But, even if that’s the case…
+     “Will they be hostile to us or not?”
+     We implied in the message I sent that I could forget about the things that happened in the
+past.
+     Although I also provoked them a bit in the message, I hope they can just overlook that part.
+     —No, this is not good at all. But since I’ve sent out the message, there is no use crying over
+spilled milk.28
+     I basically expressed my willingness to engage with them peacefully, so I hope they will
+understand my intention.
+     Hinata is smart, and I believe she will make the right call.
+     It will be most ideal if they choose to coexist rather than antagonizing us.
+     Now apart from the Octagram, the only faction to be alerted is the Western Holy Church.
+     Our relationship with the Eastern Empire is tense as well, but there is no sign of them taking
+28
+     Almost like a certain translator sent out a reddit teaser when he could use more time to edit. My bad guys. Cube:
+     I’m still pissed at that
+
+
+                                                           99
+any action yet. So as long as the Western Holy Church does not interfere, Diablo’s plan should
+not fail.
+     “That’s quite a challenging issue. I personally think that we should just resolve things by
+fighting a war with them once and for all.”
+     Rather than leaving a potential threat, Benimaru prefers a clear result through war.
+     But we will be done if we are defeated, so I still hope for a peaceful resolution.
+     Shuna suddenly opens up, looking rather intrigued:
+     “We were under attack when Rimuru-sama battled against Hinata the Saint. The two in-
+cidents must have some connections, and someone probably orchestrated all these behind the
+scene. Moreover, there is evidence to back this up, since Clayman also implied that there is
+someone else behind him—”
+     Reminded by Shuna’s words, I recall the puppet master behind the scene that cannot be
+overlooked.
+     “Is it not “That Lord” ?”
+     “Most likely. Right now, we are aware that someone is plot against us, so we need to take
+into consideration his possible actions as well. We cannot get careless.”
+     I mumble the answer before Hakurou nods in agreement with tension in his expression.
+     “This enemy, we absolutely cannot spare him.”
+     The crowds express agreement to Shuna’s words.
+     “Right… If that guy intervenes this time as well, Hinata may move out herself—”
+     But something doesn’t seem right.
+     I feel like that I’ve missed something.
+     I suddenly realize what I have been puzzled about.
+     “—Say, could it be that Hinata came after me, not out of her own volition, but because
+someone had requested or ordered her to do so?”
+     I express my doubts to everyone, asking for opinion.
+     “What do you mean?”
+     “Rimuru-sama, based on the timing of when you were attacked, is it not obvious that Hinata
+and “That Lord” are somehow connected?”
+     While everyone is puzzled as well, Shuna’s thought aligned with me as she spoke up.
+     With that being said, my feeling of something amiss intensifies.
+     To me, the strangest thing is no other than—
+     “I’ll be straight with you all then, even though I don’t think she is likely taking order from
+others, what does everyone else think? Assuming she is already acquainted with “That Lord,”
+do you guys think it is possible for her to be ordered by this person.”
+     “ “ “—OHH!” ” ”
+     That is what puzzles me the most.
+     That woman wasn’t even willing to hear my words, how could she accept others’ request
+or moreover, obey orders from others.
+     “Your liege makes a good point. Hinata is the commander of the Holy Knight Order, so it’s
+
+                                               100
+unlikely she will follow anyone else’s order. That hot chick only listens to the will of the god
+Luminas. It is famously rumored that even the pope is not able to change her mind!”
+      Kaijin’s words confirm my thoughts.
+      Hinata is clearly of the highest authority if she can refuse all order than god’s.
+      Then the theory that she is sent on order of others is clearly false.
+      “I see, so it really is the case? After all, this Hinata would completely ignore other people’s
+words. It would be quite astonishing if she is willing to listen to other people’s order.”
+      By the reverse of that logic, we won’t have a need to stand against the Western Holy Church
+if I can persuade Hinata.
+      “So, there is no one who can order Hinata around…”
+      “Then, was the overlap of time only a coincidence?”
+      Benimaru mutters while Shuna seems puzzled.
+      “Through clever use of words—That may be the reason.”
+      Diablo mutters while pondering.
+      That seems like something a demon would say, but he has a point.
+      There is very little chance that such cautious person as Hinata would fall for manipulation,
+but it is nonetheless a possibility.
+      “Just as what Diablo said, Hinata may have been instigated by someone. And of course, it
+may have been “That Lord.” But—”
+      “That person is not able to simply order Hinata around… Could this be what you mean?”
+      “That’s indeed what I meant.”
+      I nod at Diablo.
+      “ “That Lord” was able to instigate the Kingdom of Farmus to march on us and manipulate
+Demon Lord Clayman to destroy our kingdom, yet is unable to manipulate Hinata with ease…”
+      Benimaru seems to be examining my view and begins to ponder with his eyes closed.
+      “Then what does Rimuru-sama think, about whether the Western Holy Church will take
+action this time or not?”
+      “About that…”
+      I couldn’t immediately give an answer being suddenly asked by Diablo like this. But con-
+sidering calmly from our opponents’ perspective, even Hinata would probably wish to avoid
+direct conflict with us right now.
+      The message I sent to them also made clear that I don’t wish to be hostile against them.
+      With my good intention shown, Hinata wouldn’t be so stupid as to still stand against Tempest
+Federation consisting of me, a Disaster-ranked creature and Catastrophe-ranked Veldora.
+      By assessing the potential loss alone would show that she stands to gain no benefit from
+doing so. Even if she triumphs, all she will get is reputation, which obviously would not be
+enough to make up for the loss that will be sustained by the Western Holy Church. It won’t
+make sense to start such a war without any profit to gain. Hinata may not listen to people’s
+words, but she is not that ignorant as to not see the cost and benefit of things.
+      With that being said, I still have some concerns reserved.
+
+                                                101
+     “—The God Luminas…Luminas? I feel like I know that name somewhere…”
+     A certain someone (Veldora) has been annoyingly muttering nonsense since just now, caus-
+ing me to lose focus. But he seems to be rather concerned about something.
+     “Hinata mentioned that we are obstacles. That is because of the doctrines of Western Holy
+Church—The Luminas Sect does not tolerate monsters. However, there may be more reason to
+it—”
+     Why would Hinata consider us as obstacles?
+     Sure, the doctrine of Luminism does not tolerate the existence of monsters, but if that’s the
+only reason, it doesn’t seem to be particularly rational one. Meaning that, it doesn’t seem like
+the sort of thing Hinata would do.
+     In which case, there must be some other reason behind it…
+     Although this may contradict the theory just now, what would it make of the person ma-
+nipulating behind the scene. Assuming that there is indeed someone other than Hinata trying to
+meddle with our business.
+     What would be this person’s goal?
+     «Report. It is most likely that several persons are involved in the matter. The series of
+events are all connected. But it is speculated that these events were not all carried out by the
+same person.»
+     If that’s the case, would it mean…?
+     «Answer. It involves several countries, individuals, dynamics, and other factors. A number
+of intents have been pinpointed after analysis. The intents may seem to have common goals,
+there are contradictions among them. Thus, attributing all occurred events to one mastermind is
+unreasonable.»
+     In other words, there is more than one person behind the scene.
+     It does make a lot of sense this way and easier to see.
+     It means that Clayman was but one of the people being manipulated.
+     Oh, I see, it makes a lot more sense thinking in this direction.
+     These may jump at each other’s aid when their goals align, but in reality, they are not moving
+according to each other’s order.
+     These masterminds may also only have instigated them. It may be that Hinata has nothing
+to do with the people behind the scene in the first place.
+     Indeed, things are clearer when considering there to be multiple people involved in the
+grand scheme of things. Moreover, once situation changes, there may no longer be a need to be
+hostile against certain party. That is how international affairs work without the involvement of
+personal emotions.
+     Then—
+     Clayman saw us as an eyesore and he also tried to manipulate us. That’s why he was rejoiced
+to see that I and Hinata had our fight to the death.
+     The Kingdom of Farmus thought that me becoming the leader of the federation is an obsta-
+cle. They didn’t wish to eliminate Tempest Federation, but to take over the kingdom. That’s
+
+                                               102
+why they also wanted to see that Hinata would take care of me.
+     So, what was Hinata herself thinking?
+     Of course, she couldn’t spare a monster like me on the ground of the doctrines she upheld.
+     Things began to unfold when all three parties’ goal aligned. The results were my escape
+from Hinata’s pursuit, defeat of Farmus in battle and the demise of Clayman.
+     The time forwards to the present.
+     The situations have changed for every one of the masterminds.
+     With Clayman’s death, “That Lord” behind him is likely focusing on replenishing the lost
+troops due to the conflict.
+     If that’s the case, will he still confront me directly?
+     «Answer. The likelihood of which is extremely low. If the individual possesses more force
+than Clayman, he will have intervened already. Even if he had preserved forces, his attack plan
+has failed miserably. It is thus meaningless for him to intervene again now.»
+     So basically, he doesn’t have any motive to attack me now. Is that the case?
+     That person has been hidden behind the scene this entire time, so it shouldn’t be the time
+for him yet to come out under the sun to operate. Even if he tried to strike back, he would know
+that directly confronting us would be simply foolish.
+     Based on this deduction, what would the other factions do?
+     King Edmalis’ ambition is all gone after stepping down.
+     The new king seems to be on the go. His faction is probably not short of people who wants
+to harm us. To him our nation is an obstacle, and so it’s likely that they haven’t given up on
+eliminating us with schemes. But these people are being watched by Diablo. It is too late for
+them to pose a threat now even if they add in on the list of the masterminds behind the scene.
+     However, I still can’t overlook them that easily.
+     There may be people with concealed identity among them.
+     That’s why humans are hard to deal with.
+     There hasn’t been any news from the Western Holy Church.
+     Reyhiem has yet to return, which is probably implication that the church is in a chaotic state
+internally as well.
+     Maybe Hinata is lost as well?
+     Since antagonizing us requires a clear justification, and there is no necessity to strike us
+without a motive. But, what if Hinata continues wish to be hostile even without a motive?
+     It would mean that she was forced to actions under some circumstances.
+     «Warning. Reminder that there may be several hidden masterminds behind the scene.»
+     Indeed, that is the case.
+     If there are indeed several people behind the scene, how things develop will not be able to
+be controlled by Hinata.
+     The situation now cannot be treated with optimism, I will have to be mentally prepared.
+     “We should think in the direction that there are too many interests involved in the matter
+that Hinata’s will alone will not be able to determine how the overall circumstance develop. Am
+
+                                               103
+I right?”
+     As I came up with a conclusion, Diablo seems to arrive at the same view.
+     “Very impressive indeed, Diablo. Those are precisely my thoughts too.”
+     But it is not worth mentioning since it depended on the help of Wisdom King Raphael-san.
+     By the way, Diablo seems super intelligent, could he be even smarter than me?
+     Right now, I’ve activated millions times more of “Thought Acceleration,” yet Diablo was
+able to reach at the same conclusion against that type of processing speed. He has an amazingly
+intelligent brain even without Wisdom King Raphael—It seems I’ve been totally defeated it.
+     “Considering the involvement of Western Holy Church on the matter, I shall be more vigi-
+lant.”
+     Diablo says so with his Kufufufufu laughter.
+     It appears that he has put on all his guards from the start, so perhaps my advice was unnec-
+essary.
+     But even if that’s the case, I still wish to alert everyone.
+     “Perhaps we have been thinking it in the wrong way all this time.”
+     “What do you mean?”
+     Benimaru asks in everyone’s place.
+     All of the executives focus their eyes on me.
+     Given this is the circumstance, I should inform them all here prudently.
+     “As Diablo just said, there may be more than one mastermind behind the scene. I guess
+that there have been different factions that got involved in the matter to have led things develop
+the ways they are. And this time, they are acting on their own for their interests are no long in
+alignment.”
+     My executives soon show expressions of revelation as I explain.
+     Everyone seems to have very outstanding insights having realized the mystery with what
+I’ve explained so far.
+     Gobta expresses that he didn’t get it because he had been sleeping. I’m reassured that he
+brought it up, but I’ll also punish him hard later as well.
+     “Does it mean that, these people are also connected to “That Lord” mentioned by Clayman?”
+     “We are not sure. But it wouldn’t be wise to assume anything just yet. With insufficient
+information, it will be dangerous to act on our own speculations.”
+     I shrug in response to Benimaru’s doubts.
+     Right now, in my slime form, I do so by popping up a tiny wave on my body.
+     “But, if Hinata isn’t acting on anyone’s orders, but because she felt compelled (obligated)
+to do it, things will start to make sense.”
+     Kaijin also shows an expression of realization.
+     “Kufufufufu. Then I should inquire more about the matter. I learnt that it was some mer-
+chants who gave wind to Edmalis and the rest, now that I think about it, there are many suspicious
+points about that.”
+     Diablo’s words remind me.
+
+                                              104
+     “Wait? You mentioned merchant…”
+     “What is it, Rimuru-sama?”
+     “Nothing. The reason why the Kingdom of Farmus wished to attack our town was due to
+their belief that there is profit to gain from doing so. Since war is money-consuming, there are
+people everywhere who wants to find army to fight in their place. It is very likely that these
+merchants have secretly been involved in pursuit of profits from the war.”
+     “I see—”
+     This is another big blind spot, since our enemy may not necessarily be someone with military
+power.
+     Historically, it has always been human desire that led to devious intents. Military force can
+be purchased by money—Considering this, merchants are suspects worthy of our guards as well.
+     I jump off the chair while turning into human form.
+     Glancing around the crowds, I give order to them one by one.
+     “Shuna, go investigate the ledger retrieved from Clayman’s castle and single out the records
+of his transactions with merchants.”
+     “Understood.”
+     “Diablo, go and pressure the civil servants in Farmus to speak the truth and investigate
+thoroughly the merchants that have traded with them.”
+     “I understand, my liege.”
+     “Benimaru, reexamine the members of the team that will be dispatched to assist Youm’s
+army. Make sure they’ll be able to handle any sort of unexpected situation that arises.”
+     “Yes sir, leave it to me.”
+     “Rigurd, I’ll leave the town to your care. Please do sufficient preparations for the grand
+festival that we will be holding.”
+     “Most certainly!”
+     “Geld, don’t worry about the issues here and just focus on your work. If you truly encounter
+any difficulties, I will help you, so please have faith in me and work hard!”
+     “Of course. There is not a single person in this nation who will hold doubt against you
+Rimuru-sama.”
+     “Hakurou is to assist Benimaru; Gabil will be aiding Rigurd; and in light of the many peo-
+ples that will be visiting us, Rigur will need to prepare our town’s security force accordingly!”
+     “Understood.”
+     “Yes sir!”
+     “Leave it to me!”
+     “As for Shion, uhhhh…let’s see… Oh yes! You will be my bodyguard, yup!”
+     “Yes sir!”
+     I finish assigning duties for everyone.
+     I nod in satisfaction while Patting Ranga’s head.
+     Done and done, now all I need is to let them go and attend to their duties.
+     “What about me?”
+
+                                              105
+     “Oh Veldora, for you, be careful not to get in anyone’s way.”
+     “Hmm. Rest assured since it’s me you are talking about here!”
+     I am not assured at all.
+     That’s why I have a close look at him.
+     Oh yeah, there’s also—
+     “Gobta-kun. You seem awfully tired, come see me in my office.”
+     “AHH!”
+     I wake up sleepyhead Gobta and says so to him with a “smile.”
+     And as such, it’s business as usual even when I am a Demon Lord with the meetings. Now
+that all the issues have been addressed, the meeting with my executives is dismissed.
+
+
+
+
+                                           106
+
+--- END PRESERVED SOURCE BODY ---

@@ -1,0 +1,711 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 45 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_7/06a_chapter4_part1_pages166-183.txt | Original blob SHA: c40c8169aeb8a98bbee872364e31676e80654e1d | Original size: 46559 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_07/06b_chapter4_part2_pages184-201.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+                                      Chapter 4
+
+                   The Second Confrontation
+
+
+
+The road to Dwargon is completed alongside the official opening of the road to the Kingdom
+of Blumund. Yet we are still getting busier by the day. We still have to construct the new road
+that leads to Sorcerer’s Dynasty Sarion and also plan out the new city construction project for
+Milim’s group. There was still tons of work to be done.
+     On top of all these, we are also planning a massive celebration while quietly executing on
+our grand scheme to take over the Kingdom of Farmus. I thought that there would probably be a
+lot of nuisances to come after becoming a Demon Lord, yet my workload has reached my limit
+before any problems even occur.
+     In the midst of these busy days, we received some disastrous news.
+     Souka has returned to bring the news that Hinata Sakaguchi is heading to our kingdom. As
+she reported this to me half-out of breath, I immediately started to get a headache.
+     I cancelled my original schedule of inspecting the blacksmith workshop and returned to my
+office. There, Souka gave me a more detailed explanation. Hinata seems to be heading here
+alone without any subordinate.
+     “She is all by herself?”
+     “Yes. Nansou is currently conducting surveillance at the outskirt of the barrier set up in
+Lubelius. He said that he didn’t see anyone else leaving the Holy Capital. And the only person
+departing from the Kingdom of Ingracia was that Hinata who Rimuru-sama told us to keep an
+eye out for.”
+     Souka says so while looking straight at me.
+     It seems that our espionage operations are operating to almost perfection under Souei’s
+guidance. Since Souka has made such assertion, the report is likely to be true as well.
+     Just as I am about to conclude—
+     “Please hold on for a second! There are some new observations!”
+     Touka shouts as she suddenly emerges from Souka’s shadow.
+     “What happened?”
+     “Yes, Souka-sama! There are four Holy Knights following Hinata’s trail!”
+
+
+                                             166
+     “Only four?”
+     “Indeed. But their abilities are not to be underestimated. They likely used some kind magic
+and so we lost track of them right away…”
+     Touka reported to me with Souka looking rather frustrated.
+     Uh—What in the world is going on here?
+     Did they go after Hinata after learning she’s launching a secret assault? But it sounds too
+improbable.
+     Or did they go in groups knowing they’re being watched—If that’s the case, they should
+have acted more cautiously.
+     I’m completely baffled, as expected from Hinata.
+     She seems to have us completely caught off guard here.
+     Is she attempting to remove hindrances like us by assaulting us with their strongest forces?
+     She probably has predicted that less skilled individuals would only get in the way.
+     In other words…
+     “Is Hinata intending to go to war with us?”
+     I don’t really intend to fight Hinata, but on the other hand, it completely depends on her
+actions. Nowadays I won’t be beaten by her quite as easily, but still, I cannot let down my guard
+against her.
+     And I was hoping she would want to have a talk with me after receiving my message…
+     “I’m not sure. But she is carrying a suspicious looking sword on her back. It doesn’t seem
+like they’ve come to negotiate.”
+     Hmm—She’s armed too.
+     But this still seems pretty reasonable in this world, considering she is visiting a Demon
+Lord’s—in other words, my territory, there is no way she would come bare handed. In this case,
+it seems too early to conclude that Hinata is trying to wage war against us.
+     “With this information alone seems pretty hard to determine…”
+     “But those Holy Knights were all armed to the teeth—”
+     “Oh, is that so? Are you sure about it?”
+     “Yes! It’s a hundred percent true!”
+     A hundred percent true?
+     Touka replied quite energetically. According to her, the Holy Knights meeting up with
+Hinata seem to be armed to the teeth.
+     It seems way too much like they are planning on waging war instead of negotiating.
+     I don’t want to start a war—Regretfully, I think to myself .
+     Such action of trying to eliminate us monsters like some kind of evil has completely removed
+any possibility of peaceful coexistence.
+     What is she searching for?
+     If we don’t try to understand each other, we can only eliminate each other…
+     If that’s the case, it will lead to a massive war that jeopardizes the life and death of both her
+and our species.
+
+                                                167
+      If Hinata refuses to negotiate with us, it would mean they are trying to impose their ideolo-
+gies onto us. Ignoring our circumstances and are unwilling to hear our explanations.
+      I don’t think such actions constitute the true meaning of justice.
+      Is Hinata really oblivious to such a basic thing?
+      Even though during our first encounter, she attacked without hearing me out first, yet she
+still doesn’t appear to be that stupid…
+      So, could the reason actually be due to the doctrines of Luminism?
+      Perhaps she feels like there is no need to listen to the opponents’ views since they are
+monsters.
+      Doctrines, to some extent, are beneficial and important, but by blindly following their doc-
+trines, it truly does no good for anyone.
+      There has been too much bloodshed in the name of religion, it should be common sense to
+us Japanese people of this generation48 .
+      Isn’t it important to see things and hear things for yourself before making judgement? Isn’t
+it foolish to do the equivalent of giving up thinking by not doing either?
+      At the end of the day, whether or not the accumulated knowledge can be used is up to the
+individual.
+      After obtaining information, how should it be evaluated and acted upon; whatever outcome
+results is the responsibility of decision maker to bear. If Hinata chooses to stand against us, then
+we will have to send out our troops to fend off the enemies.
+      Yet the stream of bad news has yet to end.
+      Shaking my head, I try to readjust my mindset.
+      “It can’t be helped. Let’s get together all the executives here and discuss a solution—”
+      Having learnt that Hinata may launch an assault here, I can’t just sit idly by and watch.
+Even though there are only five people, their strength cannot be underestimated.
+      Anecdotally, it’s always the carefully chosen heroes and their companions who manage to
+defeat a Demon Lord. This is the abiding principle.
+      Becoming a Demon Lord is not my original intent, but I’m not that kind to let them kill me
+without putting up a fight.
+      I will take on Hinata, and we’ll have to decide who is going to handle the rest of the Holy
+Knights, respectively. Bearing such thoughts, I plan to hold a meeting in order to discuss a plan,
+but then…
+      “Rimuru-sama, I have something to report…”
+      Diablo spoke to me seemingly with discomfort written all over his face.
+      “What’s wrong? Is there a problem?”
+      The “Is there” part is redundant, there are definitely problems.
+      Because, unlike his usual self, Diablo’s actions are lacking in his usual confidence.
+      “Yes, there’s an issue.”
+48
+     Google Aum Shinrikyo if you are interested to learn about one of the most infamous Japanese cult in late 1990s.
+     (which is likely what Satoru is referring to)
+
+
+                                                         168
+     “What is it?”
+     “Reyhiem is dead, cause of death unknown. But I suspect that he was murdered.”
+     At the time of when Diablo last saw him, he seems to be in a fine and healthy condition,
+which leaves only two possibilities to explain his death, either there was some accident, or he
+was murdered.
+     “Rimuru-sama even worried once about him getting silenced, it is indeed my miscalculation
+that lead to this happening…”
+     The tone of Diablo’s voice is filled with apology when he said so.
+     Speaking of, I do recall having mentioned it. Originally, it was just some cursory thought,
+yet it really did come true…
+     The event took place within Holy Empire of Lubelius where communication is blocked by
+barriers, thus making the details of the incident unobtainable. But based on all the events that
+took place, Diablo thinks the likelihood of murder is very high.
+     After hearing this information, it turns out that the situation seems to be far more severe
+than I expected.
+     “The neighboring kingdoms to Farmus have begun to spread the rumor that “the Arch-
+bishop’s death was caused by the demon’s conspiracy.” This news has been broadcasted publicly
+through magic communication, causing the Templar Knight Orders stationed in many countries
+to mobilize. After several days of preparing, they seem to be on their way to rendezvous with
+the new king Edward…”
+     Diablo explains with a troubled expression.
+     Things have been developing unexpectedly, which means that Diablo’s plan of taking over
+the Kingdom of Farmus must also have been disrupted.
+     Hinata just moved out, and now this happens.
+     The two must be—
+     «Answer. It can be deduced that the two incidents are connected.»
+     Hmm, I can totally recognize such simple pattern as well.
+     Do you think I’m some sort of useless fellow who can’t even see such an obvious thing?
+     No no no, that’s surely not the case.
+     Hahaha, even “Wisdom King”-san can be a troublesome fellow.49
+     But in any case, all these things are really giving me a migraine.
+     The Western Holy Church haven’t declared us as the “Nemesis of God” yet, but if this is to
+continue, it eventually will happen.
+     Once they officially announce it, it will undoubtedly lead to all-out war.
+     This is our fault—For thinking that they would give up so easily.
+     I simply wanted to focus our priorities on national development, but that seems to be im-
+possible now.
+     And with melancholic thoughts, I order Souka to summon all the executives.
+49
+     Here Rimuru is actually taking a jab at Raphael for seemingly mocking him.
+
+
+
+                                                        169
+As such, we begin the emergency meeting.
+      Everyone except Geld has arrived.
+      “Rimuru-sama, is it all right to leave Geld out?”
+      “It’s all right. That he’s busy working on large projects right now. This time, the conflict is
+between me and Hinata, so even if we break out into a fight, there is no need for the main troops
+to mobilize.”
+      This isn’t a war where we defend for the sake of our nation’s survival, it’s not right to
+dispatch a huge army against a small group of people.
+      Besides, in this world, there is no use sending in a huge army, it is useless in the face
+of an overwhelming difference of strength. The Holy Knights heading here are all powerful
+individuals exceeding Rank A. Without my lieutenants, this battle cannot be won.
+      Regardless, recalling all of Geld’s subordinates now won’t be easy either. I could use my
+teleportation magic but having them gather at a specified location at once will take too much
+time.
+      There are also the captives that need to be guarded, so I can’t just suddenly give such reckless
+order.
+      Everyone expresses their agreement . In order to share the information with everyone, I ask
+Souei to explain the situation.
+      “Yes, allow me to explain. First of all, the intruders approaching Tempest Federation is a
+group of five including the commander of the Holy Knight Order. All of them seem to be the
+figures of leadership within the Holy Knight Order and each possess great power to the point
+where they can even give my crew the slip—”
+      The crowds gasp in shock.
+      Souka and her companions are at least above Rank A, so it is quite apparent that their
+opponents must have been extraordinarily powerful to be able to throw them off their trail.
+Perhaps they could have kept up by flying, but that would likely have exposed their cover. It’s
+still commendable that they chose the correct option of restraining.
+      Moreover, a comprehensive security network has been established around the town, so
+Souei has already gotten a hold of Hinata’s party’s movements.
+      Control of information is the basis of strategizing.
+      It is very important to obtain intelligence beforehand so we can use it when forging our
+battle plan, so we won’t panic when it’s needed.
+      Speaking of which, Souei’s skill in intelligence gathering is really something else. He uses
+techniques such as hiring an information dealer or engaging in infiltration using his “Clone” etc.
+      I taught Souei the techniques of being a ninja, yet he has developed his unique style now.
+
+                                                 170
+Even though he was surprised when I appointed him as “Covert Agent” 50 , it seems he is naturally
+gifted for the job.
+     Moreover, having learnt all sorts of practical methods from Fuze, he has become a true
+expert in espionage operation.
+     If everyone is able as far as he has with just my questionable understanding of various
+matters, no one will struggle… Or so I convinced myself.
+     Souka’s party was trained by Souei, and they in turn are training their own subordinates.
+Furthermore, they’re even utilizing the locals to gather intelligence. Nowadays, even without
+my directives, they would collect information that they deemed important by themselves.
+     Even now Souei is calmly explaining the situation.
+     He has grown to be quite reliable.
+     “Templar Knights in countries neighboring Farmus seem to be gathering around Farmus’
+borders. Moving in small groups, they are able to travel at great speed. Their numbers are
+estimated at over thirty thousand. It seems they don’t intend on interfering in the Farmus civil
+war, as their objective is “to destroy the Demon” …However, at this rate, Youm-dono is unlikely
+to receive aid from the influential nobles or from other countries.”
+     Annoyance emerges on Diablo’s face upon hearing this.
+     He seems to be aware of this information as well, so he doesn’t seem surprised. However,
+the demon in question is no doubt Diablo, so he is likely concerned about where such information
+leaked from.
+     Still, thirty-thousand people is…
+     With each of the neighboring countries dispatching several hundred or several thousand
+troops, once gathered together, it becomes a massive force to be reckoned with. One which
+simply cannot be ignored.
+     Their logistics team could also transfer supplies in from the countryside infinitely, so a war
+of attrition would probably be disadvantageous for Youm’s party.
+     It is indeed a troublesome development.
+     “—However, the kings of the various countries do not seem to be in line with the Church
+and are not dispatching their own troops. After all, the church seems to have several internal
+factions that complicates the chain of command. If we had a better understanding of their internal
+workings, we’d be able to make a conclusion…”
+     Souei says while slightly shaking his head, seemingly ashamed of the imperfection in his
+report.
+     Uh—This is one complicated organization.
+     Even Yuuki couldn’t clearly explain its detailed structure, and most would just assume that
+the Templar Knight Orders are under the command of the Holy Knight Order.
+     “Had I known about this, I should have gotten clarifications from Reyhiem first…”
+     Diablo is troubled as well.
+50
+     As I was translating, the term I thought used is “密探” but it appears Souei’s title has been “隠密,” it’s an a role
+     in shogun government that acts similar to ninja in information collection.
+
+
+                                                         171
+     He mostly acts on his own deductions and won’t ask for opinions from people who he deems
+lowly and unworthy. And this time that attitude has backfired.
+     “That’s right! It’s all your fault, Diablo. I think it would be best that as your senpai, I take
+over from here!!”
+     Shion immediately interjects after sensing the opportunity. She seems to be quite jealous of
+her junior Diablo who was given such an important task.
+     Normally Diablo would rebuke her, yet he seems to have concluded it to be his own mis-
+calculation and stayed quiet.
+     Oh well, shall I try questioning Shion in his stead?
+     “—Say, Shion. Suppose I re-assigned the task of conquering Farmus to you, just what
+would you do?”
+     Just maybe—Yes, it may be just a one in a million chance, but perhaps Shion might actually
+demonstrate some outstanding ability to strategize—
+     “Yes sir! I’ll command my troops to slaughter all those greasy nobles—”
+     —My ass.
+     “You idiot! No way! Not in a million years!”
+     If she destroyed the current power structure, then the civil war will definitely devolve into
+anarchy, with multiple factions vying for power.
+     In the absence of a ruler, the people would go after the throne one after another. By pre-
+serving the kingdom’s ruling system and only replacing the leader, you can minimize damage
+as you slowly promote new policies. It is for this reason that such delicate work is best handled
+by Diablo who is both flexible and intelligent.
+     Shion is a no-go.
+     “I see, so it won’t work after all…”
+     At least she’s self-aware enough to withdraw from the conversation quietly with her mouth
+shut after dejecting a “Yes.”
+     “Don’t mention it if you know it won’t work.” I thought to myself. But I suppose it’s
+probably more like she never intended to take Diablo’s task away from him.
+     Or perhaps, I should say, this is Shion’s way of giving Diablo an out after his misstep, it is
+her own way of caring for him.
+     In any case, I will leave Diablo to continue his work on the mission.
+     “Diablo, everyone will experience failure. Even I didn’t actually expect Reyhiem to be
+killed off. Besides, it’s not really that big a deal that your true nature has been exposed is it?”
+     “Eh! But, Rimuru-sama…? The involvement of a demon is already causing unrest, for me
+to continue the mission will only…”
+     Diablo looks at me in surprise.
+     It seems he was upset, thinking that I would reassign the mission to someone else.
+     “You know, after you fail, how you make amendments is what really matters. Anyone can
+take the easy route by resigning after taking on the responsibility! Besides, Youm’s relationship
+with me has long been known to the public. Diablo, you may be a Demon, but you are my
+
+                                                172
+subordinate too. I don’t care one bit about what they are in an uproar about, rather, shouldn’t we
+be discussing about who is the culprit behind Rayhiem’s murder is? As long as we can prove that
+you didn’t murder him, everything will be all right, so there is no need to complicate things.”
+     I am a Demon Lord after all.
+     Isn’t it quite normal to have one or two demons as subordinate?
+     “Indeed. Shion is thinking the same thing, she knows she can’t take your place.”
+     “No, Shuna-sama. If it is me, I shall burn the Kingdom of Farmus to ashes right away—”
+     With a single glance, Shuna shuts Shion up mid-sentence. It was such a sharp stare that
+even Shion wouldn’t dare to defy.
+     “—Which she has no intention of doing. Though it was rather tactless, that was just Shion’s
+her way of encouraging you. You are one of us serving Rimuru-sama after all, so you shouldn’t
+get dejected over such a minor mistake.”
+     Shuna’s words are both gentle and strict at the same time.
+     Yet Shion still decides to rebut this. It seems that she has a point that she has to respond
+with.
+     “Shuna-sama, you are giving me too much credit. As the first secretary, I was merely giving
+this newbie a demonstration of my authority as senpai.”
+     She spoke with a smug look, but I can tell there’s also a bit of fluster mixed in.
+     I see, it was indeed Shion trying to be encouraging. Although it is hard to tell, it does seem
+like something Shion would do. And Shuna indeed saw through that.
+     Normally Shion is always spouting muscle-brained stupidity, but occasionally she can be
+rather considerate.
+     “Well, it is what it is. Whether or not we send reinforcements will depend on our strategy
+moving forward. In the worst case, we can recall Geld, and I will go with him to the frontline.”
+     Benimaru is also very attentive.
+     He doesn’t mind the lack of numbers of his troops since he believes the tactics being em-
+ployed are more important.
+     He proclaims with an aura of absolute confidence as if it will not be a problem at all to take
+on the Templar Knight Order altogether.
+     How reliable.
+     “—Then, it’s okay for me to continue leading the operation…?”
+     “Of course. It’s going to take everything I have to deal with Hinata, so your job is to
+take control of the Kingdom of Farmus. Besides, I was the one who authorized you to send
+out Reyhiem, so I’m partly to be blamed too. That’s why you should spearhead this plan to
+conclusion. Or perhaps, are you saying it’s too much for you? Then—”
+     “No, that’s absurd! This is the duty granted by Rimuru-sama after all, please allow me to
+fully carry it out till the end.”
+     “Can you handle it?”
+     “Kufufufufu, of course!”
+     “Good. Now go make up for your mistake with a grand victory!”
+
+                                               173
+      Diablo, now with his usual confidence and composure, replies with a nod.
+      It seems everything is settled.
+      Seeing that Diablo has been reinvigorated, Shuna replies with a smile:
+      “Rimuru-sama, I have a proposal.”
+      “Oh, how rare, speak your mind then.”
+      Shuna seldom raises any proposal, so without hesitation, I ask her to speak up.
+      “It’s about Adalmann whom I defeated before. Shouldn’t we inquire from him? It may have
+been hundreds of years ago, but he has, after all, spent much time in the Western Holy Church.”
+      Speaking of which, this Adalmann is…
+      «Answer. He is the one guarding Clayman’s castle—»
+      Oh oh! He was the undead monster who became Shuna’s companion.
+      I recall that he became a Wight51 after losing his life.
+      I met him once before where he went on a tangent about his gratitude towards god. I sus-
+pected that he’s the type with a severe case of delusional disorder.
+      Indeed, since Adalmann was once a member of the Western Holy Church, he may indeed
+know something about the organization. There are probably many differences comparing be-
+tween then and now, but we don’t stand to lose anything by just talking to him.
+      “That’s a good idea. Let’s have a chat with him.”
+      As such, we should call him over immediately.
+      Currently Adalmann is assisting Gabil with conducting research in the sealed cave as well as
+standing in for guard duty. To summon him, Gabil used “Telepathy Net” to contact and informed
+him to come here immediately.
+      Adalmann immediately showed up, seemingly with the use of teleportation magic directly
+transporting him from inside the cave to town. Even though he has devolved into a wight, he
+is still proficient with magic he mastered in his past life, some of which seem to be very high-
+level spells as well. In other words, his magicule reserves may have dropped to around Rank B,
+but his overall power still cannot be underestimated. With his intelligence and powerful magic
+based techniques combined, we may have to find a better job to offer him.
+      But he still just looks like a skeleton from the outside…
+      Moreover, Adalmann’s subordinates cannot be exposed to sunlight, nor can they talk. It
+may be ok to try and communicate with them, but it would be difficult for them to work in the
+town.
+51
+     Wight is a type of undead creature depicted in western fantasy novels. (& DnD)
+
+
+
+
+                                                        174
+     We’ll think about that later.
+     Anyways, right now we need to chat with him.
+     “—My most sincere gratitude to your grace for having granted me an audience—”
+     “Too lengthy!”
+     While I was planning out Adalmann’s future, he had been expressing his appreciation of
+me the entire time.
+     He doesn’t seem to stop even when ignoring all of his complements. So I have to raise my
+voice to shut him up.
+     It seems we have yet another intense fellow joining us.
+     “You are a promising fellow!”
+     The rest of the executives seem somewhat alerted at how satisfied Shion looks when she
+nods to Adalmann as well as how Diablo is looking at him with a gentle smile.
+     “Let’s stop that for now, Adalmann. I know you are elated about the fortunate opportunity
+to have an audience with Rimuru-sama. But we are running short on time, so let’s get to the
+point.”
+     Had Shuna, who’s also quite baffled, not stopped him, Adalmann would probably have
+continued with more of my praises.
+     His strong will has all been applied to his faith, no wonder he’s so earnest. I feel strangely
+impressed within all this weirdness.
+     Next, according to Adalmann’s explanation—
+     It turns out this Adalmann used to be in the highest echelons of the Western Holy Church,
+holding the position of Cardinal. At the time, the Western Holy Church was in a weaker state
+and wasn’t as prominent within the Holy Empire of Lubelius as it is now. But we still learnt
+some detailed information on the organization.
+     First, we learnt about the Holy Empire of Lubelius as a nation. They are a theocracy that
+holds the God Luminas as their deity.
+     The pope acts as the spokesman of god, whose real identity is unknown. Perhaps the position
+is passed down over years, but there doesn’t seem to be any rumors of such.
+     There is an organization named the Pope’s Ministry that runs the country. This organization
+serves as the highest executive body within the Holy Empire of Lubelius. Adalmann recalls
+during his time, the Western Holy Church is but a lowly sub-group under the Pope’s Ministry.
+     “The Western Holy Church was formed to promote Luminism. It is an organization that is
+specifically used to promote the religion. However—”
+     This alone was not able to ensure the personal safety of the missionaries. That’s why the
+Pope’s Ministry made demands to the nations under their protection and formed the Templar
+Knight Order. The nations welcomed the idea of a Ministry funded knight order, and so they
+agreed to assist.
+     It is a guarantee of the safety for citizens among these nations since now, the believers
+are protected from the threat of monsters. And since the funding comes from other people,
+anyone would normally agree to such terms. After establishing the foundations, disputes began
+
+                                               176
+to emerge between Lubelius and other nations. And it was then that the Pope’s Imperial Guards
+entered the scene.
+     “In name, it’s a military division, yet the members of the regiment only consist of a couple
+of people. They are all extraordinarily powerful individuals who have the authority to directly
+command the Templar Knight Order. These people only pledge their loyalty to their god and the
+pope, and so even the Archon, who possesses the highest executive authority within the Pope’s
+Ministry has to be very respectful when dealing with them.”
+     The archon seems to be the one in charge of political affairs. If the Imperial Guards wields
+such enormous authority to the point that power holders like the archon can’t even order them
+around, then it is apparent that they are a force to be reckoned with.
+     “About that, my friend Albert also received the honor of being allowed to join the Imperial
+Guards, yet he declined to become my adjutant in the Western Holy Church instead. Later the
+pope granted him the title of Knight Paladin.”
+     Adalmann smiled proudly as his skeletal jaws clattered.
+     I see, so that was the Undead Knight who even gave Hakurou a tough time—Now he has
+become a skeleton swordsman, it is no wonder that he has become so strong as he has received
+a monster’s body on top of his masterful swordsmanship.
+     “—But the situation now seems to have taken a complete one eighty.”
+     Oh, Adalmann isn’t finished yet.
+     The changes do seem drastic according to his explanation.
+     The biggest difference lies in the fact that the Church has become much more powerful. Its
+authority has increased with the addition of the Holy Knight Order.
+     Moreover, the role of archon in the ministry is now given to a selected cardinal from the
+Western Holy Church, resulting in their greatly increased authority. The reason for which must
+have been the “Seven Luminary Clerics.”
+     When Adalmann was around, the “Seven Luminary Clerics” were powerful figures rivaling
+the Pope, who also act as the archons. The Seven Luminaries initiated the changes of selecting
+the archon from the cardinals after receiving orders to revive the Western Holy Church. But the
+Seven Luminaries don’t seem to be a group that can be easily dealt with. It seems that they are
+the ones who had set up the traps that eliminated Adalmann’s party.
+     He seems to dislike the Seven Luminaries a lot.
+     The Holy Knight Order wasn’t anything impressive while under the supervision of Seven
+Luminaries. They’ve only become an organization worthy of the name strongest knight order
+after undergoing Hinata’s training. It is for that reason, the Holy Empire of Lubelius came to
+have the two pillars of the Pope’s Imperial Guards and the Holy Knight Order.
+     “That was quite detailed, Adalmann. I see that you have a very good source of information
+despite staying with Clayman’s this whole time…”
+     “Demon Lord Clayman sees an enemy in the Western Holy Church. He has been cautious
+of their forces and been diligently collecting information. I was a lieutenant under him after all,
+though he does not ask for my opinions, he would still give me information.”
+
+                                               177
+     I asked out of doubt yet Adalmann answered while giggling.
+     So that’s why, I get it now. It is quite unexpected, but Clayman’s manipulative and calcula-
+tive side actually helped us.
+     “Rimuru-sama, my God, please be extra cautious. Now that the Holy Empire of Lubelius
+has the Ten Great Saints, they are all individuals at the level of Sage. Even Demon Lord Clayman
+has treated those people with caution, please do not be careless.”
+     As such, Adalmann’s explanation concludes.
+     We were not informed of the details, but the Imperial Guards have members who are called
+the “Three Martial Sages,” they are all masterfully skilled fighters who reached the level of
+“Sage.” Apart from them, there are in total ten people including the six Holy Knights and their
+commander Hinata. They are known as the “Ten Great Saints.”
+     Rumor has it that a “Saint” can rival the likes of “Demon Lord Seed.” It is then no wonder
+why Clayman wouldn’t dare act carelessly in the presence of these ten people.
+     It is likely that other than Hinata who is heading straight to our nation, the other four are also
+members of the “Ten Great Saints.” That’s why sending out normal troops would only cause
+unnecessary casualty meaning it’s more appropriate to directly have myself and my lieutenants
+to deal with them. Moreover, judging from the movements of the Templar Knight Order, the
+Imperial Guards are likely on the move as well. This can be explained if we consider the “Three
+Martial Sages” to be acting independently.
+     “My God, I, Adalmann, was once a Cardinal. Allow me to go persuade this Hinata! I shall
+convert her into believing in Rimuru-sama as well…”
+     “Ah, stop right there. I don’t want something like that, so you can go now.”
+     The topic has gone down a weird path, so I began to hurry Adalmann out. This guy seems
+to be even worse than Hinata in holding onto beliefs without listening to how other people think.
+With these two as stubborn as they are, it definitely wouldn’t be productive to have them talk to
+each other.
+     Then…
+     “I see, what a wonderful idea.”
+     “Kufufufufu, I didn’t even think of something like this!”
+     My secretary Shion and butler Diablo is quickly moved by his proposal.
+     “What nonsense are you two spouting! Things will only get worse if you try to convince
+her with idiotic arguments!”
+     These two are really tacit in a way.
+     Can I even describe them as being on good terms or not…
+     It almost seems that Diablo’s frustrated look from before was merely an illusion.
+     I decide to bring the topic back on track after cutting short the idiot duo.
+
+
+
+
+                                                 178
+We are starting over again now that Adalmann has left.
+     Since we have gathered sufficient information, we can now begin our planning in earnest.
+     I’d really like some sacrificial pawns to probe our opponents’ abilities, but that’d be too
+convenient n… Eh, Veldora has been glancing at me for a while now, but there is no way I can
+allow that. He’ll no doubt overdo things by accident.
+     “Veldora, you—”
+     “Hmph! It is finally my turn to shine. I’ve got it covered!”
+     “No. I would like Veldora to be our last line of defense.”
+     “What?”
+     “Doesn’t that sound really cool, Veldora- THE LAST LINE OF DEFENSE. I don’t think I
+can trust anyone but you to fulfill this role—”
+     “Of course. Great minds think alike!”
+     Veldora nods delightfully.
+     Okiedokie, now we can prevent him from going berserk.
+     There is also no way we’d lose if we send Veldora out to battle, but it feels rather overkill.
+After all, how can I send out Veldora without warning when there’s still a chance of negotiating
+with Hinata. But it would be different to have him as our backup instead.
+     After Veldora settled down, Benimaru begins to talk:
+     “First of all, we will have to decide on the reinforcements to send to Youm-san.”
+     Hmm, Benimaru is acting more and more like a commander now.
+     He’s gained much experience from his previous battles; he no longer displays his arrogance
+unlike Shion.
+     He is now able to examine and evaluate the difference in strength cautiously and intelli-
+gently.
+     You can trust me as Generalissimo!—I recall him saying that to me in the past, but now,
+he’s become far more capable for the role than me.
+     But I would definitely be getting headaches if it were my responsibility. That’s why, I hope
+Benimaru would continue to keep up the effort.
+     Benimaru begins selecting the forces to be sent out, with a suitably commanding voice.
+     Captain Gobta will command the one hundred soldiers of the Goblin Riders.
+     Additionally, Benimaru’s direct subordinates, the four thousand strong Green Corps, and
+their 100 commanders, the Kurenai. The remaining two hundred members of the Kurenai would
+be tasked with defending town.
+     Lastly, Gabil will lead the one hundred soldiers of Hiryuu.
+     In total, four thousand three hundred soldiers will be dispatched as reinforcements for Youm.
+
+                                               179
+     “—As such. The defensive reserves of this town would decrease, but since there are the
+Beastman warriors and Veldora-sama, it shouldn’t be an issue. Any objections?”
+     “Eh, are you really sending me?!”
+     “Is there a problem?”
+     “Ah, no. Never mind…”
+     Gobta was going to say something before he was silenced by Benimaru’s strict glance.
+     What an idiot.
+     “Hakurou would be the commanding officer of the reinforcement troops. But rest assured,
+if anything happens, I will be at your aid immediately by using “Spatial Movement.” But it
+is very likely that we will be engaging in combat with the commander of Holy Knight Order
+Hinata Sakaguchi. By that time, our communication may be cut, so everyone should listen to
+Hakurou’s directions and do not overdo things on your own.”
+     “Please leave it to me.”
+     “Okay…”
+     “This time I’m definitely gonna show off a bit!”
+     Hakurou and Gabil seem very motivated. Gobta is the only one that seems a little uneasy,
+but he’s good at going with the flow, so he should be able to manage just fine…
+     “I’m still a little concerned. Ranga, are you awake?”
+     I summon out Ranga who is sleeping in my shadow.
+     He’s my bodyguard, but of late all he’s done is sleep in my shadow. For some odd reason,
+his magicules have increased dramatically, and I worry he’s lacking in exercise lately.
+     “My master, am I to be sent to battle?”
+     “Indeed. It’ll be good for you to work out every now and then. Go with Gobta and protect
+him!”
+     “Yes sir. My body feels much lighter. I look forward to exercising after waking up.”
+     What’s that?
+     Things are going to go horribly wrong if I let him out! —I suddenly get this dangerous
+feeling.
+     Never mind, since it’s not me who will suffer the consequences. Things are probably going
+to go horribly wrong for the enemies.
+     “It’s very reassuring now that Ranga-san is with me!”
+     And so Gobta is truly motivated this time. What a practical guy.
+     “Ranga, don’t overdo things and accidentally kill your opponents…”
+     “No problem! Shion-dono has taught me the art of holding back!”
+     “I-I see…”
+     I’m even more concerned now.
+     I thought he has just been sleeping in my shadow this whole time, but as it turns out he’s
+been up to no good when I wasn’t paying attention. The fact that he mentioned he has learnt
+something from Shion makes me feel uneasy. But there shouldn’t be a problem as long as we
+have healing potions.
+
+                                             180
+     At that moment, Ranga howls delightfully and lied down next to Gobta.
+     I can only pray for the safety of their opponents.
+     I couldn’t help but cheer for the enemies who I’ve never met. “Good luck!” But I’ll keep it
+a secret.
+     Benimaru doesn’t seem to have any objections with my decision. Though, you are spoiling
+Gobta too much—seems to be what the smile in Benimaru’s eyes entailed.
+     As such, I approved Benimaru’s plan and the troops to be dispatched have been decided.
+     Now then, the problem now is those that will be reinforcing the new King’s (Edward) forces.
+     “Then Diablo, how do you plan to deal with your attack plan?”
+     “Indeed. I’ve expected there to be reinforcement troops, but thirty thousand is a truly sur-
+prising number. According to the original plan, I only estimated the new king’s total force to
+consist around ten thousand soldiers—”
+     Diablo continues to explain—
+     First, he instructed Edmalis to ask around and find out the reason the new king is gathering
+soldiers. Since he has assumed that the new king is only doing so as a precaution since he wanted
+to push the responsibility of the reparations onto Edmalis.
+     This way, the new king can argue that he has no need to fulfill the treaty signed by Edmalis.
+This method, although futile when dealing with the Council, lands on a grey area for dealing
+with us. He is going to execute Edmalis and claim the treaty to be invalid. And in doing so,
+when we are provoked to send out our troops, he will (then be justified in) gather the Western
+Nations to stand against us.
+     In order to prevent such things from happening, Youm’s party has to go and rescue Edmalis,
+who has been trapped in this difficult position.
+     Right now, Edmalis is under Youm’s protection and they are hiding in Nedler’s territory.
+Everything seems to be going according to plan up to this point. Youm is using Nedler’s territory
+as his base and has gathered a force of around five thousand men. In addition, I will be sending
+four thousand three hundred men all at once with teleportation magic. Not only are they almost
+equal in number, the sudden appearance of this huge army would also strike confusion into the
+enemies—We intended to crush the enemies using psychological warfare.
+     Now that the new king has gathered reinforcement, this tactic is no longer viable.
+     We waited quietly for our opponent to reorganize and now the situation has turned into forty
+thousand versus ten-thousand—Our opponents’ forces have grown to be four times as ours. It
+seems we will need to hurry things up.
+     “—That’s why the new king Edward has established his camp in Edmalis’ domain in order
+to wait for the reinforcement.”
+     Diablo’s explanation concludes there.
+     The plan was supposed to be for us to defeat Edward in this fight and for Edmalis to an-
+nounce his decision to continue abstaining the throne so the Hero Youm will be crowned.
+     “Right now, Edward has gathered around twenty-thousand soldiers. In three weeks’ time, he
+will have gathered forty thousand. If that’s the case, the lackluster defenses of Nedler’s territory
+
+                                               181
+wouldn’t stand a chance—”
+     Souei added on.
+     The situation would only get worse if we continued to wait.
+     If we send out our troops, it will become a real bloodbath. They’ve already lost twenty-
+thousand people before, and now with a battle like this, the Kingdom of Farmus would likely
+take a fatal blow.
+     Then, what should we do…
+     “—This is horrendous. Perhaps we should just give up this time. If I just forgo rest the of
+the reparations, then there would be no more war, right? They won’t be able to continue the
+fight if they lose their justification.”
+     “No way! They will look down on Rimuru-sama if we do that.”
+     “It is indeed unsettling to be looked down on, but we have already profited from this whole
+ordeal. Shouldn’t we aim to resolve the issue with Hinata first before rehashing our plans?”
+     In fact, we’ve already obtained parts of the astronomical reparations.
+     If we stopped right now it would still benefit us as the risks of continuing combat would be
+too high.
+     A Demon Lord is supposed to be the boogeyman after all52 —what Shion said does make
+sense…
+     “Kufufufufu, how can we abandon the operation now. Rimuru-sama, didn’t you tell me to
+handle it?”
+     “Yes. But if possible, I’d like to avoid the deaths of innocents…”
+     “That will not be a problem. If that is what my lord wishes, your servant shall obey accord-
+ingly. It is but a simple matter for me to deliver on your wishes, Rimuru-sama.”
+     The interruption of the take-over plan is due to circumstances after all, but Diablo doesn’t
+seem to be deterred.
+     “What do you plan on doing?”
+     “I’ll find the culprit—The person who wanted to pin all of these on me.”
+     Diablo replied calmly.
+     Ah, he is furious.
+     “ “Demon Extermination” ? If you intend to exterminate me, I shall play alone to the end.
+Some of the thirty-thousand men arriving soon are likely to be connected to the culprit. Why
+don’t I try questioning them nicely.”
+     Diablo says so with a big smile.
+     Oh no, that doesn’t sound nice at all.
+     Moreover, Diablo seems to be planning to take on the thirty-thousand Templar Knights by
+himself.
+     Maybe I should tell him to hold back—
+     “I see, then there shouldn’t be an issue if it’s you. But, don’t go killing any innocent people
+52
+     In other words, if you can’t scare the public, the title of Demon Lord is useless. That’s why what Shion said
+     makes sense.
+
+
+                                                        182
+understand?”
+     “Of course. I would never defy the divine will of Rimuru-sama.”
+     Benimaru and Diablo got onto the same page before I could even make up my mind.
+     Not only that—
+     “That’s good. Oh right, Hakurou, will you be able to suppress the new king’s army without
+killing a person?”
+     “It should be doable. Although it would be much easier to kill them out right, but it won’t
+give our soldiers a chance to train themselves.”
+     “Right. Gabil, go prepare a large quantity of healing potions first.”
+     “Understood! Leave it to me.”
+     Eh? Eh eh!
+     Things are progressing, leaving me behind.
+     “Rimuru-sama, it seems that the plan to take over the Kingdom of Farmus is flawless.”
+     “I-I see. So it seems… Good luck everyone!”
+     Shion started with a smile while I couldn’t help but to just nod in agreement and give my
+approval.
+     “ “ “Yes sir!” ” ”
+     The motivated replies of everyone resonated in my ears.
+     Just like that they cleared away my hesitation. It is settled then.
+
+
+
+
+Although there are still many areas of suspicion, our discussion moves onto a different issue.
+    That is who will be confronting on Hinata’s party.
+    “Next, regarding the five individuals approaching our nation—”
+    Benimaru turns to me while speaking.
+    Yes, I shall lead the meeting this time!
+    As I plan to speak with confidence—Yet at that moment, Souei suddenly got up.
+    “Rimuru-sama, emergency report. The Holy Knight Order seems to be on the move—”
+    He explains nervously.
+    Everyone is panicking, or, maybe just me.
+    “What did Hinata’s party do?”
+    “No, Nansou who was surveilling the Kingdom of Ingracia just reported that a hundred
+some soldiers just departed…”
+    “What did you say!”
+    “They are around half a day away from Hinata’s party and will likely catch up to them at this
+speed. Their direction of traveling is the same, so we can deduce that they are heading towards
+
+                                              183
+
+--- END PRESERVED SOURCE BODY ---

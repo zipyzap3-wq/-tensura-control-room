@@ -1,0 +1,924 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 42 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_7/04a_chapter3_part1_pages109-131.txt | Original blob SHA: 5efc8e6cc53e8650ba54bc4c2967865533bda3ca | Original size: 59203 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_07/04b_chapter3_part2_pages132-154.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+                                       Chapter 3
+
+                                 A Saint’s Goal
+
+
+
+On this day, the world is shadowed in fear once more.
+     “Storm Dragon” Veldora has been revived.
+     The Western Holy Church has announced the fact to the public.
+     And just before their announcement, they received information from the Freedom Associa-
+tion with regards to a message from the Demon Lords.
+     With the news of the Ten Great Demon Lords becoming the “Octagram,” nations around
+the world have plunged into chaos.
+     Every ruler of the nations has been troubled over the drastic change of situation and are all
+concerned about what to do in response.
+     The whole world has been shaken.
+     The Western Holy Church is of no exception. They have detected an unusual aura of danger.
+     It’s been several days since the duel between Hinata Sakaguchi and Rimuru. The Church
+has been unable to reach Archbishop Reyhiem since his march alongside the Farmus Army. It
+is an established rule to always send regular reports back, yet he has not responded, meaning
+something has gone wrong with their march on Tempest Federation. When she received the
+news, Hinata decided to head to Tempest Federation herself. Yet, before she could leave, she
+received the divine order to stand guard at the Holy Church.
+     The reason was: the revival of “Storm Dragon” Veldora. She was barred from marching as
+she was left to wait for the gathering of the Holy Knight Order to rain destruction on the Tempest
+Federation in her stead.
+     It’s hard to tell who’s luckier in this situation…
+     Hinata most certainly would be defeated if confronting Veldora directly without preparation.
+But now that Hinata is aware of Veldora’s revival, she can strategize a direct invasion of the
+Tempest Federation. A Tempest Federation without Rimuru would have long been annihilated.
+Hinata’s goal is Tempest Federation alone, not Veldora. She could have easily achieved this
+using her powers.
+     She was the one with the upper hand.
+
+
+                                              109
+        —But that is not considering Veldora’s recent activities and the reaction of Rimuru.
+        In other words, she was able to avoid the worst ending for both sides.
+
+
+
+
+Protected within the gentle light of the domed holy barrier lies the Holy Capital.
+     This barrier is the product of countless years of research and improvement, the highest level
+of protective barrier. It is able to prevent all forms of enemy invasion and has defended this city
+for thousands of years—The prayers of the denizens turned into reality.
+     The barrier even blocks out sunlight and can automatically adjust the brightness of the in-
+terior space. There will be more brightness in the morning and less at night. This created a
+thermostatic environment within the interior, so the temperature is maintained throughout the
+year.
+     The city’s farmlands are divided into districts where crops from whichever season can be
+collected at any time.
+     It is like an idealized arcadia where the citizens will never suffer famine. Every citizen has
+a job and all the children receive an appropriate level of education. It is a heaven in the mortal
+realm where everything is appropriately arranged and managed by the law.
+     This is the capital of Holy Empire of Lubelius29 —Holy Capital “Ruen.”
+     On the day of the Walpurgis Banquet, Hinata is on her way to the holy church.
+     The solemn atmosphere is neutralized by the gentle warmth of the sun.
+     This is a prosperous kingdom.
+     Here, no one suffers from starvation, nor are there any beggars on the street. Everyone
+is given an appropriate job or duty, and they fulfill their assigned purpose to the best of their
+abilities. They rise as the bell rings and rest as the sun falls. The more capable people would
+guide the less capable ones, and as such, with proper regulation, the citizens are able to enjoy a
+prosperous life. In the name of God, they have been granted the ideal, equitable society. This
+holy city is the greatest representation of that.
+     Hinata observes the expression of a passersby.
+     Everyone wears a gentle and kind smile.
+     However, there is something that concerns her.
+     She always has some doubts whenever she spends time in this city.
+     In Hinata’s eyes, this holy land is no doubt the ideal heaven on earth.
+     Turning the Western Nations as well as the whole world into a peaceful society without
+conflict. That was Hinata’s ambitious dream.
+29
+     Rather than Empire, the original name is more akin to “Theocracy”
+
+
+
+                                                        110
+     Hinata hopes for a society where the strong do not prey on the weak.
+     However, the reality of this world is simply too cruel.
+     The Kingdom of Ingracia and the Holy Empire of Lubelius have differences of night and
+day, which often troubles her. By nature, Ingracia, the kingdom of freedom, and Lubelius, who
+preaches no conflict, are the polar opposites from political structure to ideology; Every aspect
+of either society contrasts each other greatly.
+     The biggest difference perhaps is—The expressions on the children.
+     She can hear the sound of children coming from the educational facility next to the holy
+church. Several children who seem to be running late for class are heading down the hallway
+towards the building. The faster child is holding onto the hand of the slower one. This is a
+common sight that she has seen in this city. Yet even now, she can tell the difference from this
+to that in Ingracia.
+     So, what would happen if it was in the Kingdom of Ingracia?
+     She recalls the scene she witnessed there.
+     What would it be like?
+     It would happen in the morning, when the faster children would sprint through the door just
+before the bell and have triumphant smiles on their face. The slower ones would arrive late to
+be scolded by the teachers by themselves. And when that happens, the children who are not late
+would mock at the slower children.
+     What if they are to run like children in Lubelius with their hands held by each other’s?
+     They would probably all be late and get scolded by the teacher. But of course, you can
+avoid being late by getting up a little earlier.
+     That’s not really enough to hold as a comparison. It’s a rather unimportant incident.
+     She always ponders on that.
+     What is really different in that scenario?
+     Were the faster children not caring enough? No.
+     There is really nothing wrong with the children to mock their peers who arrived late. They
+were not doing so to look down on them or ridicule them as fools. After all, the children who
+arrived late were laughing awkwardly as well. They seemed rather delightful even after being
+scolded.
+     So, what is the case in Lubelius?
+     She looks towards the running children to see the same expressions on everyone else.
+     A gentle smile—
+     The same expressions of satisfaction that is seen on every adult; the same expression of
+someone who has lost their sense of competitiveness and personal identity.
+     This society is built to create constant happiness, yet there is no sense of freedom. Everyone
+is equal and given their own responsibilities.
+     On top of that, equity is upheld for those who are able to help those who are not. The people
+of this kingdom make the basis of their nation.
+     “Creating an equal society without conflict,” that is Hinata’s pursuit in life.
+
+                                               111
+      There will no longer be children abandoned by their parents. Everyone will live a happy
+life in this world.
+      This is too idealistic to be practical—That’s what Hinata thought as well. But when she
+almost gave up such dream, she saw that Lubelius was the manifestation of the ideal.
+      Competitiveness will lead to conflict. Yet this society is so well regulated that there is no
+form of competition at all, the equivalent of Hinata’s ideal. And with regards to the form of gov-
+ernment Holy Empire of Lubelius has adapted, it is strictly speaking, close to communism. It’s
+the government that leaves the order of all things to “God” in order to assure absolute equality.
+      God—as represented by the Pope of the Pope’s Ministry.
+      But if there is any weakness to communism, it would be the existence of a ruling class. Its
+doctrine of equality is built on the inevitable presence of an authority. And once the people high
+up in the chain of command are corrupted, it becomes hard for the people under their authority
+to get rid of their rulers. There would be unjust in the distribution of wealth to widen the wealth
+gap.
+      In order to make up for such flaws, the government has handed their authority to God. The
+Pope’s Ministry thus acts as the ruling figure to ensure the equality of their citizens. And of
+course, diplomacy with other nations is also handled by them.
+      All are equal under God—That is a clever lie. Yet this has been the reality in the Holy
+Empire of Lubelius for thousands of years.
+      It is a truly ideal system, but it is only natural.
+      Since the true identity of the God Luminas is—
+      Demon Lord—Luminas Valentine.
+      Luminas Valentine, overlord, and a True Demon Lord.
+      Her title “Queen of Nightmares” shows her status as the queen of the Kingdom of Darkness.
+      She is also the only person who has ever defeated Hinata.
+
+
+
+
+In the eyes of the Demon Lords, all humans are the same.
+     To Luminas, having a comprehensive system of managing humans is the same as having
+one for livestock. Yet her system has managed to create the ideal kingdom.
+     Vampires do not need to devour the flesh and bones of humans. They only require a small
+amount of blood and the spirit stored within it to maintain their lives. More advanced vampires
+do not even need to ingest blood to be immortal.
+     Whenever their human food-stock are happier, their blood tastes more delicious. And it is
+for that reason, the humans living in this kingdom are much more prosperous than other places.
+The only possible issue is when a vampire might inhale too many spirits at once, and as a result,
+
+                                               112
+Luminas has such behavior. The lesser vampires would not dare to disobey the Primogenitor
+Luminas30 , and so they obey the rules of this kingdom wholeheartedly.
+      The equality in this society far outranks that of any of the Western Nations.
+      And it’s for that reason Hinata believes in the fairness of the Luminism31 and first joined
+the Western Holy Church in pursuit of justice. She has devoted herself to spreading this religion
+and has since treated the doctrines as the words of God. She even became a holy knight who
+would give a hand to whoever is in need of help to thoroughly practice her justice.
+      The way of justice held by her mentor, Shizue Izawa, was too slow and gentle. Meanwhile,
+her fellow countryman, Yuuki Kagurazaka’s plan seems too unrealistic to be practical in her
+eyes. He would only react to events after they occurred, which lacks foresight.
+      People, by nature, want to overcome challenges through their own efforts, so it’s commend-
+able for the Freedom Association to encourage cooperation among humans. Yet their contracts
+rely on monetary payment to be extant, which cannot be truly fair in Hinata’s eyes.
+      That’s why she left her teacher Shizue.
+      —If you are ever in doubt, come see me for help.
+      Although Shizue once said so, Hinata has no intention to do so.
+      Shizue was just being clingy in saying that.
+      If Hinata is to continue relying on her soft teacher, she will never achieve greatness—She
+thinks so to herself, apathetically.
+      ………
+      ……
+      …
+      In this world, you can only rely on your own strength.
+      That’s why Hinata wants to become stronger to the point of invincibility.
+      She no longer wants to lose anything important to her, so she decides to stop valuing things
+in life. She ceased communicating with others, being solely focused on becoming stronger.
+      It only took her just one year to become a Holy Knight after joining the Western Holy
+Church.
+      It took less than two years for her to take the seat of the commander of the Holy Knight
+Order. She also started building what would be called the strongest Holy Knight Order in history.
+      But the higher in rank she climbed within the Church, the clearer she began to see. She was
+also able to see some of the hidden truths behind the veil of Luminism.
+      The Pope of Lubelius—His true identity was a vampire named Louis.
+      More astoundingly, Pope Louis was the twin brother of Demon Lord Roy Valentine.
+      It was an outrageous act of aggression for the Pope to ally himself with the Demon Lords
+in order to ensure his authority. It is clearly treating everyone else like fools.
+30
+   The word here is “真祖” which is a term often used in Japanese fiction to describe the original/most ancient
+   vampire. Same to the effect of “Primordial” for demon in slime.
+31
+   The source uses a phrase which essentially consist two words of “Luminas” and “Religion,” which I will be
+   referring to “Luminism” here on.
+
+
+                                                    113
+     Upon learning of this fact, Hinata was infuriated.
+     She ventured alone to the “Inner Sanctum” to eliminate Demon Lord Roy and Pope Louis.
+Yet she was struck with fatal blows as well during the fight and could only lie there alone to
+await her death.
+     Her sense of justice became dim.
+     She could no longer save anyone as her power faded.
+     She realized that she couldn’t save everyone, that one must make a choice to give or take
+in the acts of kindness.
+     Everything seemed almost comical and pointless at that point.
+     Hehehehe, is this how I end? The weak are weak even at their deathbed. But at least I was
+able to cleanse some evil—
+     But, even if that’s the case…
+     Hinata deeply believed that she had done nothing wrong.
+     There was nothing to be ashamed about the evil she had removed from this world. She
+would carry out her belief even without glory or praise.
+     That should suffice; Hinata was satisfied.
+     Hinata vision has already gone dark where she heard sharp footsteps coming her way. Ini-
+tially she thought it was an illusion, yet then the sounds were accompanied by a cold voice.
+     “The noise you made have disturbed even my bedroom. What have you all been doing?”
+     In front of her was a beautiful girl with dazzling silver hair.
+     The blue and red from her heterochromatic eyes gave off an eerie and creepy shine. She
+glanced disdainfully at Hinata and the others who were also lying on the ground.
+
+
+
+
+                                             114
+     The powerful aura coming from her made the intense battle between Hinata and Louis, Roy
+seemed like child’s play.
+     —!
+     Hinata at the brink of death was shocked by the sight.
+     Such abnormal beauty.
+     It seemed all too far-fetched from the reach of reality.
+     The young girl had the dominant majesty of a human ruler.
+     Good or evil all seemed all too insignificant in front of her.
+     The proof being—
+     “You two, I will not allow you to leave me and die.”
+     Logically speaking, both Demon Lord Roy and Pope Louis should have been killed by
+Hinata already, yet they were both resurrected by the young girl’s power. It appeared to be some
+sort of superpower beyond Hinata’s understanding.
+     It’s all over… Everything I’ve done has been…
+     Filled with desperation, Hinata’s flame of life was about to burn out—
+     “You too, human. How could you die with such selfish thoughts. What is justice? Is it
+really justice to fight evil for the rest of your life? I doubt it. Besides, what I am doing is no
+evil, so how could someone as insignificant as you make such judgement so hastily? There is
+no such justice in this world as to fulfill the free will of everyone. It is simply arrogant for you
+to think you can achieve it on your own. Is it not?”
+     As her words were caught by Hinata’s ears, a warming light fell on her, saving her life.
+     Hinata was revived without a scar, and the young girl said to her face:
+     “I’ll give you one week. Defeat my trusted lieutenants and you will pass the “Trial of the
+Seven Luminaries.” Only then, shall I fight you seriously.”
+     And so, she said.
+     Hinata accepted the trial and passed with flying colors.
+     She was also able to obtain incredible power from her mentors beyond her expectations
+through her skill “Usurper.”
+     What followed—
+     She gambled her life to challenge the young girl—Luminas Valentine, and as a result, sur-
+rendered to her after defeat.
+     ……
+     …
+     …
+     Hinata is like a sword that would not break even upon defeat, it only becomes more tenacious
+and powerful—She metamorphoses.
+     She has become the right hand of god, a holy sword to cut through all obstacles.
+     To Hinata, Luminas has become the most important thing to her.
+     With Luminas, there will be a society of justice and fairness. And without her, this order
+would be derailed. In order to protect her ideal kingdom, a continuous effort and an unshakable
+
+                                               116
+resolve are both necessary.
+    Hinata is also a double-edged sword.
+    If Luminas is to become an enemy of mankind, Hinata will deliver her judgement with her
+own hands. Although it is mostly unlikely, she has still made such resolve.
+    That’s why even to this day, she continues training to improve herself.
+
+
+
+
+Without her noticing, Hinata has reached her destination. Her now comrade, Pope Louis awaits
+her.
+     At her arrival, she receives Louis’ shocking news.
+     “Last night, my brother died.”
+     The night before, Hinata defended the Cathedral from a mysterious invader. She was sup-
+posed to meet someone that night, yet by divine order her previous schedule was cancelled. And
+so Luckily that night ended with the Holy Land undefiled.
+     At least, it was supposed to be.
+     “You must be joking, right? Didn’t Roy disguise himself as Demon Lord to attend the
+Walpurgis Banquet?”
+     “It’s true, Hinata. That invader you didn’t kill ran into Roy when he returned before
+Luminas-sama.”
+     “How could this be. The invader ran away as soon as he saw me, that’s why I lost him in
+the end…”
+     “Indeed, but we can assume it was preemptive. Luminas-sama ordered you to protect the
+holy land, not to exterminate the invader. That duty was supposed to be carried out by my useless
+Imperial Guards.”
+     “But I am supposed to be the head of knights among them… But Roy sure is useless having
+been killed by a cheap-shot like that.”
+     Hinata smiles confidently.
+     In front of the pope of Lubelius—That is Roy’s elder brother.
+     Luminas Valentine- a True Demon Lord.
+     Her trusted twin lieutenants are Louis and Roy.
+     The elder brother takes on the public persona as of Pope of the world, while the younger
+brother rules over the underworld, acting as a Demon Lord.
+     And Luminas, who rules over all—as God.
+     That is the world they are striving for.
+     It is why Luminas controls things behind the scenes, hidden from the public within the
+“Inner Sanctum.”
+
+                                              117
+     Roy possessed the power worthy of Demon Lord title and rightfully became one as a proxy.
+Upon birth as a vampire, he already had power up to Rank B. His body is highly efficient,
+with enhanced muscle strength, endurance, reaction speed and other, all several times stronger
+than an average human. In addition to this, over time he has obtained powerful skills, such
+as the vampire racial skills: “Immense Strength,” “Shadowstep,” “Automatic Regeneration,”
+“Paralyze,” “Seduce,” “Menace,” “Transformation,” etc.
+     The members of his race are few in number, but their combat capabilities are much higher
+than the average Greater majin.
+     Vampires of high-ranked noble origin that are Louis and Roy have been following Luminas
+since ancient times. The strength of the two are no joking matter, and Hinata fully understands
+this. Having once fought them herself, she knows that the strengths of the two are not to be
+underestimated.
+     In other words, the invader must have been very strong—At least, that’s Hinata’s explana-
+tion of the incident.
+     “—But, as long as Luminas-sama is well, there shouldn’t be any problem.”
+     Said Hinata before she quietly adds: “But there is no reason to ever be concerned for
+Luminas-sama—”
+     Demon Lord Luminas is an entity beyond imagination- the limit of her power unfathomable,
+even to Hinata. Yet Hinata sees a possibility of confronting her at some point, as Luminas is
+the supreme being that she ought to aim for as the ultimate target (to surpass). So, it is in fact
+conceited of her to concern for the safety of Luminas.
+     Roy on the other hand, to Hinata, is as worthless as a stone by the roadside. It may be
+unfortunate for Louis, but as far as she is concerned, Roy being killed is completely immaterial.
+     He died because he was weak.
+     It was his own fault, Hinata thinks to herself.
+     “The problem may be more severe that you think. To this day we’ve been having Roy
+running around to act as a threat in order to convince everyone to convert to the Luminism.
+With him dead, the humans may become less faithful to our doctrines. In addition, the Jura
+Great Forest has somehow become safer despite the revival of the evil dragon Veldora.”
+     “You have a point—”
+     As she answers, Hinata thinks back to that slime she failed to kill. Her failure is likely the
+reason for this change .
+     She has nothing to say about that. It was all due to Hinata’s miscalculation, and she is aware
+of that the most. She may have intentionally spared the invader from last night, but Hinata really
+did plan to eliminate that slime called Rimuru.
+     How incredible. It’s hard to believe that you actually escaped under those circumstances. I
+figured you’d be rather cautious, but you far exceeded my expectations, Rimuru—
+     Hinata gives her genuine praise to her enemy Rimuru.
+     “—I’m not sure about the evil dragon, but the forest probably became safer because of the
+slime called Rimuru. The one I failed to kill.”
+
+                                               118
+     “Hmm. I did my own investigation too. The army from the Kingdom of Farmus was indeed
+eliminated. Taking into consideration the time of Veldora’s revival, we can conclude that this
+was also the work of this being called Rimuru. He seems to be quite the problematic foe.”
+     “I first encountered him when he was caught within the Holy Purification Barrier (Holy
+Field). It was supposed to my best chance to eliminate him.”
+     “Did you go easy on him because he claimed to come from the same place as you?”
+     “No way. That slime’s goal does not align with that of Luminas-sama’s. I can understand
+his ideology, but if we let him be, he will disrupt our plans. That’s why I refused to hear him
+out and decided to destroy that town…”
+     “The angels will probably strike them next.”
+     “Yeah. Things may be fine now, but at the rate their town is being developed, the angels
+will definitely move out.”
+     “That’s troubling. We aren’t prepared yet. I hope we will be absolutely victorious in the
+next “Tenma Great War” 32 .”
+     “Right. Those angels: you have to rip them apart to kill them. This advance in schedule
+would be most troubling to deal with alone.”
+     Louis nods in agreement to Hinata’s explanation.
+     As soon as a city advances to some degree, it will be targeted by the angels for invasion.
+Their motives are unclear, yet their actions are always the same.
+     Once the great war takes place, countless innocent civilians will be sacrificed. Hinata has
+been strengthening the army reservation to prepare for such threat by aiming to decimate the
+angel army.
+     At the same time, she promotes the Luminism to unite humanity.
+     Hinata believes this is the way of advocating the will of the God Luminas. And Rimuru’s
+actions are hindering Hinata’s plan.
+     In addition to her personal grudge against Rimuru after she caught wind of his killing of
+Shizu Izawa, Hinata has no reason to spare him any mercy. Hinata feels rather bad about in-
+volving conscientious, reasonable, and friendly monsters into such conflict, but the holy will of
+Luminas that declares monsters to be mankind’s enemies cannot be defied.
+     Moreover, the most important thing now is to win the “Tenma Great War.” Hinata would
+do anything so long as it minimizes human casualties.
+     This is—Hinata, the cruel rationalist.
+     “But you failed your assassination. However, this may turn out to be quite useful.”
+     “What do you mean?”
+     “The Western Nations are likely to unite after hearing of a new threat emerging in the Jura
+Great Forest. Since Roy is dead, haven’t they become the suitable candidate as the nemesis of
+humanity?”
+     “…Isn’t that still up for debate? I doubt things will work out that easily.”
+32
+     Tenma Great War: war between heaven and monsters.
+
+
+
+                                                    119
+      But, Hinata thought to herself. It may be a good after all to switch her perspective a little.
+      If she is able to make peace with the Jura Great Forest and have them coexist with mankind,
+she’d call that a good outcome in her book. But with that being said, if Rimuru really massacred
+the Farmus army, he will definitely become an unignorable threat.
+      However—
+      “I was supposed to meet that eastern merchant last night. The one who gave me the tip.
+Had Luminas-sama not ordered me otherwise, I would have been absent last night.”
+      “Oh? Then I suppose it was good timing.”
+      “Indeed, it couldn’t have been any better. Those merchants have been trying to manipulate
+me. Now that I think about it, perhaps it was the right choice to spare Rimuru.”
+      Although it was quite upsetting to have not killed him, Hinata adds.
+      But he is going to get his beating after sticking his neck out like that lately.
+      They made it through the Farmus invasion, but the revived “Storm Dragon” would definitely
+threaten Rimuru.
+      Moreover, it seems that Rimuru has declared himself a “Demon Lord.” As a result, the Ten
+Great Demon Lords are furious.
+      And because of that, he was summoned to the Walpurgis Banquet last night.
+      “That’s right. Before we can prepare anything, we better let the Forest buffer the east. That
+is, if that Rimuru can make through the Walpurgis Banquet.”
+      “You have a point. But would he be able to make through?”
+      “Rest assured, since Luminas-sama is returning soon. We will see how things worked out
+then.”
+      “It pains me to think we need to report Roy’s death to her.”
+      “She will probably be furious.”
+      “Unlike me, her grace has a very kind heart—”
+      “Hmm. But according to you, I am not nearly as kind either. I don’t feel any sadness even
+after learning the death of my little brother.”
+      Hinata can only shrug at Louis’ response.
+      The two fell silent, awaiting Luminas’s return quietly.
+      Soon—
+      “Luminas-sama is back! Quickly kneel!”
+      Someone rushes to report as the holy church becomes noisy once more.
+      Soon Hinata and Louis would hear some most unexpected news.
+
+
+
+
+They gather in the “Inner Sanctum.”
+
+                                                120
+     At the center of Holy Empire of Lubelius, the Spirit Hill stands tall and the headquarter of
+the Saints Church is built on this mountain.
+     The Holy Church is situated at the back near the Holy Temple, which is also the entrance
+to the Spirit Hill.
+     Climbing up the mountain roads, one will arrive at the “Inner Sanctum.” It is the most sacred
+place in all of Holy Empire of Lubelius that cannot be blasphemed. Its supremacy exceeds even
+that of the Hall of Pope.
+     Demon Lord Valentine—No, Luminas takes residence there. She is now resting while
+retelling what happened last night unpleasantly.
+     “—And all that happened last night, that annoying evil dragon always gives me trouble.”
+     Luminas’s bad mood is quite apparent as she lies on the long bench to tell the tale.
+     It only makes her angrier to hear Hinata’s report about the death of Roy.
+     Silly child—
+     This is Luminas’s only comment. As she mutters, there is no emotion in it. She still isn’t
+changing her usual arrogant expression, even in the “Inner Sanctum.”
+     She has been calm all this time as she delivers the message about the Walpurgis Banquet.
+However, as soon as she mentions that Veldora exposed her true identity, anger crawls its way
+onto her beautiful face. And as soon as her anger breaks loose, it floods out towards Hinata and
+Louis.
+     “How could Roy do this! If he had died somewhere, I could reach, I could have revived
+him—”
+     “My brother lived a happy life being under the care of Luminas-sama.”
+     “Hold your tongue! Wouldn’t that make me the culprit for letting him die in such way?!”
+     “That’s not the case. It was my brother’s fault. Roy failed and thus has betrayed Luminas-
+sama’s expectations.”
+     “But—”
+     If anything, it was due to his bad luck. It was no one’s fault and everyone at the scene is
+aware of it.
+     “My apologies. It was my act of sparing the enemy that killed Roy…”
+     But even with Hinata’s admission, Luminas still persists—
+     “Enough. You were just doing what I ordered. I should be the one to bear the blame.
+However, we must not immerse ourselves in the grief over Roy’s death.”
+     She finishes, switching to a more serious expression.
+     “Heed this. The evil dragon has been revived, and now there is also the new Demon Lord
+Rimuru. These are all irrefutable facts and we must plan ahead accordingly.”
+     “Yes ma’am.”
+     “Understood.”
+     Hinata and Louis obeys their orders.
+     This will soon determine the future of the Holy Empire of Lubelius.
+     “I shall handle that Veldora in person.”
+
+                                              121
+     Hinata proposes.
+     Yet, Luminas’s reaction is rather cold.
+     “Hinata, you’ve grown stronger. You’ve come a long way since last I fought against you.
+Right now, you have already surpassed the “Seven Luminary Clerics” and are catching up to
+me. However—”
+     While you may be able to take down Demon Lord Rimuru, but you can’t win against
+Veldora—Luminas asserts.
+     “That’s right, Hinata. That evil dragon is truly powerful. He is the real Rank-Catastrophe
+threat.”
+     With his many years of experience, Louis agrees with Luminas.
+     “Is he really that strong? Wasn’t he sealed by the “Chosen Hero”?”
+     Since someone was able to seal him, Hinata believes she can do so as well. Yet, Luminas
+and Louis reject her this without hesitation.
+     “Heed this, Hinata. He is the summation of natural energy. You can contain a frenzy storm
+using magic, but unlike natural phenomenon, that evil dragon has a will of his own. You can’t
+kill him with your sword or magic. In addition, that guy would go on a rampage if you did so,
+sending shockwaves and highly destructive magic to shatter the earth.”
+     As Luminas speaks, one can easily see her hatred for him.
+     Louis nods as she continues, his face strained; seemingly recalling some unpleasant mem-
+ory.
+     “It was a nightmare. He turned the beautiful Night Palace of Rose (Night Rose) into ruins
+too horrible to even look at…”
+     “Stop thinking about it, Louis. That city was the crystallization of the wisdom and technolo-
+gies of the vampiric race. Now only the memory of it lingers. There is no use in being nostalgic
+over something that no longer exists.”
+     “You are most right.”
+     After seeing the two’s reactions, Hinata finally realizes how dangerous Veldora is.
+     —But if things really do go out of control, I would still try.
+     Hinata makes up her mind internally.
+     She also comes to a realization.
+     The reason why this “Inner Sanctum” was built on the Spirit Hill was to act as defense
+against Veldora.
+     —It’s a precaution so that the constant surveillance can see him approaching if he does
+come.
+     And similarly, the reason why the real capital of Holy Empire of Lubelius—Night Garden—
+was built underground, it is also to prevent the invasion of the evil dragon.
+     —It won’t sustain much damage even if fights break out.
+     The enemy Luminas holds such vigilance against is none other than the “Storm Dragon”
+
+
+
+
+                                              122
+Veldora.33
+     “Hinata, I don’t want to lose you as well. You better behave yourself.”
+     Hinata can only agree given the extent Luminas has gone to convince her.
+     The thing is, however, her miscalculation during the encounter with Rimuru still troubles
+her like a bone in the throat even to this day.
+     It was her misstep to have ignored Rimuru’s power just because he was a monster. She
+doesn’t think her actions were wrong judging from the doctrines of the church, but it led to their
+current situation. Moreover, if she considers that it was all a conspiracy set up by the eastern
+merchants, Hinata would then have fallen right into their trap.
+     Annoying. It’s almost like they’ve seen through us to have released such information. Wait,
+could there actually be a traitor among us?
+     Despite her reluctance to think there’s a traitor in their ranks, nonetheless, there may very
+well be traitors within the Church who have conspired with the eastern merchants. Then it is
+reasonable to assume that the traitors have also learnt about out preparations to strike against
+the angels. That’s why they’ve manipulated Hinata into assassinating Rimuru.
+     This is a sensible theory and it makes it even more likely that there are traitors in their ranks.
+But she will investigate the matter later. Right now, the issue at hand is—
+     “Right. But… If that’s the case, wouldn’t the new Demon Lord Rimuru—”
+     “Our best solution now is to leave the matter alone. But it’s worth celebrating that we
+haven’t declared him as the “Nemesis of God.””
+     “But…”
+     “Is there a problem?”
+     “…Yes. Those monsters are developing their city and constructing roads. These may lead
+to an earlier assault from the angels.”
+     “Oh yeah, they are still out there. It would be quite annoying to be harassed by a bunch
+of Phthiraptera (flying lice), but it would be even more troublesome to antagonize Demon Lord
+Rimuru and “Storm Dragon” Veldora. Besides, the monsters are bigger threats to them, so the
+angels will probably focus on attacking them. So, there’s no use in worrying over it now.”
+     Angels are nothing compared to Luminas. Understanding her thoughts, Hinata complies to
+her course of actions.
+     There is however another issue—
+     “—By the way, Luminas-sama upholds the idea “All monsters are mankind’s enemies” —
+Yet the existence of their town has completely subverted the doctrines of Luminas…”
+     Luminas looks troubled at that query.
+     She ponders for a while.
+     She won’t be able to easily eliminate them at this point of time, yet if not, people may
+instead lose faith in the church’s doctrines for it will lack justification and persuasiveness. And
+she can’t bear to lose her followers now after spending thousands of years fostering her religion.
+33
+     This is told from Hinata’s perspective since she previously doesn’t know
+
+
+
+                                                         123
+     “Why don’t we make him the evil Demon Lord and build a friendly accomplice relationship
+on that basis?”
+     Louis suddenly speaks up.
+     It is the same idea as what he mentioned before to Hinata, about having Roy as the Demon
+Lord and Louis as the political machine. But just as Hinata has suspected, Luminas rejects the
+idea.
+     “No way. That new Demon Lord called Rimuru seems to want to build a kingdom where
+people can live comfortably. He mentioned that human assistance is necessary for that effort,
+and so he would protect them himself. He even declared that “Whoever dares to get in my way,
+whether it is human or Demon lord, will all be my enemies,” right in front of all the Demon
+Lords.”
+     Luminas sighs with melancholy after finishing.
+     “If only had he not reached out to the humans, we could have just adopted Louis’ proposal—
+”
+     She adds on angrily.
+     Hearing so, Hinata suddenly realizes that what Rimuru said about him being a reincarnated
+one was true.
+     But it is too late at this point. Hinata knows she has the problem of being too stubborn to
+listen to others’ opinions. Now her flaws have found the worst possible way to haunt her back.
+     He doesn’t seem to have realized that God Luminas is Demon Lord Valentine. In the worst-
+case scenario, I will just have to sacrifice myself. Hinata makes such resolves.
+     “In other words, we can only quietly observe.”
+     “Hmm, indeed. We should stay put and act natural to the public. It would only make the
+situation worse if we try to find excuses. We will have to tell the nations the truth that “Storm
+Dragon” Veldora has been revived.”
+     “What do you plan to do with Demon Lord Rimuru then?”
+     Hinata begins to ponder while Luminas and Louis also begin to strategize.
+     “…About that. Rimuru will probably respond to the so-called political consultation, so we
+should try have the Western Nations cover things up by giving a vague response. Would you
+agree to that, Hinata?”
+     It may sound like a question, but Luminas has already made up her mind.
+     If that’s the case, Hinata has no objection.
+     “All right.”
+     “You sound rather reluctant.”
+     “—A bit, because I still wish I killed him when I have the chance.”
+     “You are right to put it that way. But, that Rimuru is not that dumb as to take such a thing
+to heart and stand against me.”
+     What she implies is that it won’t matter even if Luminas’s true identity is exposed.
+     But Hinata thinks that this is not an appropriate response.
+     “—I shall take care of the matter.”
+
+                                              124
+        She hides her truthful response and bids farewell to Luminas.
+
+
+
+
+—A month or so later.
+     Hinata has been working overtime forgoing sleeps.
+     Not only has she been building a defensive line with the Holy Knights to defend against
+Veldora, she has also been dispatching members of the Imperial Guards all around the world
+to collect intelligence. Nowadays, the eastern merchants who once worked as her informants
+are no longer reliable. Hinata believes that only intelligence collected by her own subordinates
+have credibility.
+     The time forwards to the present day. They are about to attend the monthly conference
+between the two wings serving the Pope.
+     The participants include the Holy Knight Order that Hinata personally oversees and the
+Regiment of the Pope’s Imperial Guards34 —the Imperial Knights that serve the Pope’s Ministry.
+     They are the pride of Holy Empire of Lubelius, two orders of Knights led by Hinata Sak-
+aguchi.
+     The meeting is being hosted by Hinata.
+     She is worthy of her status as the strongest knight being both the Head of Knights among
+the Pope’s Imperial Guards and being the commander of the Holy Knight Order.
+     The table they sit is of U-shape where Hinata takes the head seat. On her right are the six
+representatives of the Holy Knight Order.
+     Vice-Commander of the order, Renard Jester.
+     This Holy Knight with a gentle expression is known as the Noble of Light.
+     Next to him was Arnaud Bauman of Air.
+     This man is rumored to be the strongest knight behind to Hinata; known for his outstanding
+skill as a captain in commanding troops and is the spiritual assault captain of the Holy Knight
+Order.
+     Following Arnaud were four other captains: Bacchus of Earth, a large brooding man gifted
+at smashing his magic-infused Holy Mace into his foes; Ritase of Water, a beautiful healer and
+spirit wielder who employed the holy water spirit Undine on the battlefield; Garde of Fire, a tall
+knight and conjurer who wielded his flaming Red Spear, and a serious man who always looked
+out for his compatriots; and Fritz of Wind, a magical fighter as talented in wind magic as with
+his twin swords. He was a tactical trickster, a rarity among the high-minded Holy Knights he
+served alongside. Fritz never wore his uniform up to the prescribed code of perfection, but no
+one admired and respected Hinata as much as he.
+34
+     Will be abbreviated as “Pope’s Imperial Guards” in future iterations.
+
+
+                                                          125
+      They each lead twenty Holy Knights and form the Five Captains of the Holy Knight Order
+with Arnaud as their leader. There are only hundred or so members within the Holy Knight
+Order, and these captains are the strongest among them with unquestionable strength.
+      In comparison, the regiment on Hinata’s left favors individual talents. They are the Pope’s
+Imperial Guards.
+      There are, in total, thirty-three members, each with different attire and equipment. The
+reason they only few as thirty-three people is due to the fact that each have strong combat capa-
+bilities .
+      Any of them alone possess enough strength to stand against an entire army. The Pope has
+even praised them to be “Fortresses”35 in battle. But it is only natural considering they all possess
+combat abilities above Rank A. Not only that, several of them united can even stand against a
+Calamity-Rank threat, making them on par with heroes of this world.
+      Among them, a few are worthy of mention:
+      “Vault of Heaven” Sare.
+      —He takes the appearance of an innocent young boy, yet in reality, is older than everyone at
+the scene. He has been the head knight in the Imperial Guards since before Hinata’s enrollment.
+      “Boulder” Grigori.
+      —Sare’s right hand man who possesses the ability to harden his body, also known as “Im-
+movable” 36 . His torso is his weapon, whose toughness exceeds that of most metals. He is the
+type to withstand continuous attacks.
+      “Turbulent Sea” Glenda.
+      —A newcomer who arrived even later than Hinata and only made her name in the past few
+years. She is a wild beauty with eye-catching bottom-curl red hair. She once dirtied her hands in
+mercenary business and her combat tactics have always been veiled in secrecy. The only person
+who has actually experienced her true abilities is the ex-Knight Lamar, who she defeated.
+      The three people known as the “Three Martial Sages” are seated on the opposite side of the
+six Holy Knights.
+      All nine people seated here are capable of abilities beyond mortals. The world recognizes
+them as the opposing forces against “Demon Lords” — “Saints.”
+      With Hinata, they make up for the Ten Great Saints.
+      Saints are a high rank species that human can evolve into through many years of rigorous
+training. People who reach this level are called “Sage.” Their lifespan is greatly lengthened and
+have the ability to transform into a semi-spiritual lifeform. They would be rid of the shackles
+of the human flesh. And that’s why people who reached the level of Sage are able to utilize
+enormous power. Their immense physical prowess and precision in magical usage has been
+strengthened far beyond what an average man could foresee, making them powerful beings,
+able to rival a Demon Lord Seed. They are the guardians of mankind and are slowly evolving
+into the envoys of God.
+35
+     The source states “Grant them the title of “Fortress”“, but it is more likely to be a metaphor for their strength,
+36
+     万物不働 - The source translates more accurately to “cannot be moved by anything.”
+
+
+                                                            126
+     With that being said however, they are all nonetheless judged by standards of strength set
+by humans…
+     They await Hinata’s arrival silently.
+     Several Holy Knights awaits orders behind their respective captains.
+     The other members of the regiments have no seat and simply remain standing, waiting for
+the joint conference to start.
+     Soon, the heavy gate opens—
+     “Sorry to keep you all waiting. Let’s begin the conference.”
+     As Hinata arrives, the united conference unfolds.
+     Right behind Hinata, Pope Louis sits behind the royal veil to observe the progress of the
+united conference.
+     As soon as the conference begins, Sare immediately lashes out at her:
+     “Oi oi oi, aren’t you rad coming in late. I’d let you slide for not stopping the revival of
+Veldora, but now you allowed a new Demon Lord to be born. It must be a joke to have cheap-
+shot like this to represent us, is it not?!”
+     Hinata may be the Head of Knights, but for many, the knights’ obedience doesn’t reflect
+their true opinions.
+     Sare is the number one among the anti-Hinata crowd since he lost his prestigious status
+because of her.
+     For the past month, members of the regiment have been spread all over the land under orders
+from Hinata. They brought back a lot of information and confirmed the connections between
+the series of major events that took place.
+     The birth of Demon Lord Rimuru; The revival of “Storm Dragon” Veldora, and the Walpur-
+gis Banquet, including the recent unrest within the Kingdom of Farmus.
+     And Sare is implying that all of this happened due to the fact that Hinata antagonized
+Rimuru.
+     “That’s quite rude of you, Sare-dono.”
+     “Oi, brat. If you have a problem with our commander, how about you go a few rounds with
+me first?”
+     Renard retorts coldly with a smile and is backed up by Arnaud.
+     Someone wants to rebuke this—It’s Grigori sitting next to Sare.
+     “The noble sir knight wants to fight us? Considering your high status, stop mocking oppo-
+nents who only lose to you on purpose. Don’t get so full of yourself.” 37
+     “What did you say?”
+     “I see you have a death wish.”
+     The united conference suddenly is a step away from becoming a battlefield. But Hinata
+calms all of them down.
+     “How very uninteresting, there is no time for in-fights now. Sare, if you wish to take my
+37
+     This sentence is somewhat confusing. But I think it’s an insult that implies Arnaud can only defeat people who
+     intentionally loses to him due to his high status.
+
+
+                                                        127
+place, I can pass you my seat anytime. But before I hand it to you, I’ll have to test your strength.”
+     Hinata’s words silence the conference room.
+     It is for the fact that her tone can no longer be described as annoyed, but instead expressing
+killing intent much more intense than annoyance.
+     Whoever continues to argue will be executed without question, and that is the absolute
+judgement from Hinata. The knights are not stupid enough to not realize the message behind
+her words.
+     Hinata is usually very calm, and so, in moments like this when she displays her emotions,
+even Sare know that provoking her now would be dangerous.
+     “Tsk! Don’t you forget about your own words.”
+     Sare glares at Hinata annoyed.
+     He was once defeated by Hinata.
+     Normally he wouldn’t lose. To Sare at least, there was no way Hinata was better than him.
+     Yet the result of their fight was a huge flop.
+     Having experienced his last defeat, Sare won’t dare to make a move now. He doesn’t have
+a chance in winning against her, as long as the secret to her power remains unseen by him. It
+would be a battle he has no chance to win—Which is why Sare obeys Hinata’s orders without
+complaint for now.
+     After Sare settles down, the united conference can finally commence.
+     “I have something to report.”
+     As she finishes, “Saint of Water” Ritase stands up and begins her report. She was the one
+assigned to investigate the Jura Great Forest.
+     “Jura Great Forest has been peaceful. It has not been affected by the revival of Veldora
+which is confirmed by the merchants going in and out of the town.”
+     The Tempest Federation is, in fact, often visited by merchants from the Kingdom of Blu-
+mund.
+     The locally produced healing potions are very popular, and apart from that, people also
+want to purchase their silk products; not to mention their rare monster materials and equipment.
+That’s why the merchants often queue up in the city to purchase the high-quality goods.
+     “How can that be? Why would they do business with a Demon Lord?”
+     “And Veldora, it is recorded that he’s a warmonger who spreads chaos wherever he goes,
+yet right now there seems to be no sign that he’s up to such business…”
+     Some begin to raise doubts, only to be hushed as Hinata waves her hand dismissively.
+     “Finish the report first.”
+     She tells Ritase to continue the report.
+     “Very well. I shall continue my report. I’ve learned that the government of the Kingdom
+of Blumund has declared diplomatic relations with the Tempest Federation from the merchants.
+They’ve also been given safe passage for the civilians to travel to Tempest with ease. In addition,
+the roads to the city has been dazzlingly clean, with not even a trace of horse manure. There
+weren’t any sightings of monsters on the road either, so it would seem the said guarantee of
+
+                                                128
+personal safety wasn’t just for show.”
+     “Have you explored the location?”
+     “Yes. In order to confirm things myself, I disguised myself as a merchant to visit the city.
+There were designated security personnel to maintain order in the streets. The level of develop-
+ment the monster town possesses has exceeded our expectations. And although it had a slightly
+concentrated magicule content, it wasn’t enough to affect human body. It would seem they
+really do intend to be friendly to humans, just as Demon Lord Rimuru claims.”
+     “—Is that so? What about Veldora?”
+     “Y-yes, ma’am. About that…”
+     “What is it?”
+     “It is forbidden to enter “The Sealed Cave.” I wasn’t aware any other location for that the
+evil dragon may prefer to be… So, I wasn’t able to find him.”
+     “Hmm.”
+     Hinata hums thoughtfully and acknowledges the end of Ritase’s report with a nod after she
+announced, “That concludes my report.”
+     “There wasn’t any sign of Veldora. Perhaps the rumor of his revival is fake news—”
+     As “Saint of Wind” Fritz opens his mouth to say something, he is stopped by Hinata’s cold
+eyes. It shuts him up immediately.
+     Ignoring the now panicked and apologetic Fritz, Hinata opens up:
+     “The divine order is absolute. Anyway, we have now had information on Demon Lord
+Rimuru’s current movements. Next report please.”
+     As she finishes, Hinata wants everyone to report the results of their own investigation as
+well. Before the conference, she had planned out the necessary information she wishes to learn
+in this conference.
+     “—It would seem to be the case that the government of the Kingdom of Ingracia has been
+relatively settled. When comparing to its usual competitor, the Kingdom of Farmus, who has
+since fallen from grace, the power of the Kingdom of Ingracia is expected to grow.”
+     The reports proceed in order.
+     As the knights of the Pope’s Imperial Guards, they can freely enter and exit any of the
+Western Nations.
+     They may even give orders to the Templar Knight Orders stationed in different nations. In
+terms of ranking, the captions of the Templar Order are still below them.
+     In fear of disrupting the chain of command, their home nation (Lubelius) cannot give or-
+ders to them without permission from higher authorities. But in case of emergency, the Pope’s
+Imperial Guards can assume direct command the Templar Knight Order.
+     Given that’s the case, their missions did not encounter any obstacles and were successful in
+gathering intelligence from the neighboring nations.
+     This is where the Imperial Guards differ from the Holy Knight Order. The Holy Knight
+Order is also free to visit the nations given its affiliation with the Western Holy Church. But they
+cannot give orders to the Templar Knight Order. There are also cases of members of the Templar
+
+                                               129
+Order joining the Holy Knight Order. One can only explain this as the structural difference
+between their organizations.
+     This is why Hinata has decided to use the advantages of each organization when assigning
+orders for the convenience of gaining more information efficiently.
+     It is now the last person’s turn to report, which is Sare.
+     “All right, after hearing everyone’s report, I have a rough idea of what boss is trying to find.
+Isn’t my part the one you want to know the most?”
+     “That’s right. Of course, I was handed with the most important mission to you. Now do
+your report.”
+     “I see. Regarding the current situation of the Kingdom of Farmus, King Edmalis of Farmus
+has stepped down and it seems that the crown has been transferred peacefully. But, the new
+king, Edward, seems to be recruiting some powerful mercenaries. With him leading, the nobles
+seem to be doing similar things on their own as well. I think it is likely the precursor of a civil
+war—”
+     The news of the birth of Demon Lord Rimuru has spread throughout of the Western Nations.
+But even if that was the case, the Kingdom of Blumund, who has been communicating with
+Tempest Federation seems to continue grow more prosperous.
+     In comparison, the situation in the Kingdom of Farmus seems to be getting chaotic and
+abnormal.
+     The nobles are like a plate of scattered sand, and many are acting to preserve their own
+power. Some are even attempting to reach out to the Western Holy Church and the elders within
+the Western Council. A civil war seems imminent.
+     The people of Farmus also seem to have been affected greatly. The price of goods has
+risen while the commodity flow stagnates (supply doesn’t meet demand). Some have been
+conscripted into the army in order to fill the void of the twenty-thousand soldiers they lost.
+These newcomers have no combat experience, yet they’ve been pushed to a desperate spot to
+have been conscripted.
+     In other words, these are all signs of civil unrest.
+     The neighboring small nations have all reacted differently, but they have one thing in com-
+mon: that is to keep vigilant against the Kingdom of Farmus. Sensing the change in situation,
+these nations have been tightening security in order to prevent themselves from being affected.
+     Sooner or later there will be a war—This thought must be on everyone’s mind.
+     “—But this information alone won’t be enough to determine Demon Lord Rimuru’s involve-
+ment.”
+     “I suppose that’s true. Anything else?”
+     “I’ve screened out the individuals to come into contact with the new King Edward. There
+have been important figures from the Council, high-ranked officers from the Freedom Associa-
+tion, as well as eastern merchants. He has even attempted to reach out to my subordinates.”
+     “What is his goal? Accumulating military strength?”
+
+
+
+                                                130
+      “Impressive; you are right with that guess, Miss Head Knight38 .”
+      “If that’s the case, we can conclude that the new king Edward isn’t considering paying the
+war reparations. No Demon Lord would tolerate such behavior, and I doubt Rimuru is dumb
+enough to not realize this.”
+      “Oh—Then does this mean that boss thinks all of these are also part of Demon Lord
+Rimuru’s plan?”
+      “I suppose.”
+      Hinata nods.
+      What a timing indeed. All of the intelligence leads to the same conclusion… There’s no
+other way around it, someone is manipulating things behind the scenes.
+      Some of her doubts are confirmed as she listens to the report.
+      Who is behind all this?
+      There can only be one answer.
+      Since Demon Lord Clayman who was secretly active among the Western Nations have died,
+it leaves only one person to be behind such a scheme.
+      The newly-risen Demon Lord—Rimuru.
+      How troublesome. Whether it is his personality (that I can’t overlook) or his wisdom in
+planning out such comprehensive plan. He did mention he was originally Japanese; I suppose
+that’s indeed true…
+      Hinata comments on Rimuru calmly.
+      Now that she recalls all these, all her problems have all been due to her trust in the words of
+the eastern merchants. Their many years of connection with her has earned them her trust, and
+she has taken all of their information in, which has been proven to be a fatal mistake. Hinata
+begins to reflect.
+      The worst thing is, that most of their information was accurate. The only thing they modified
+was the portion regarding Rimuru that led to her misunderstanding. These small yet unverified
+lies have led Hinata astray. Had she believed what Rimuru said then, there may even be changes
+to how things would play out.
+      But there is no use saying such thing now.
+      Hinata then suddenly finds a part of Sare’s report to be concerning.
+      “Speaking of which, Sare, didn’t Edward have contact with the eastern merchants? Do you
+know what they discussed?”
+      “Why are you suddenly interested in the merchants? Aren’t we done with this? We know
+it was the Demon Lord who’s been behind the scenes? Now it’s the time to discuss our future
+plans and how to react to the situation.”
+      “That part of discussion is, of course, necessary, but I am also curious about the merchants.
+So, quit beating around the bush and answer me.”
+      “Tsk. Weren’t those people only in it for the money?”
+38
+     The JP directly translate to “Head Knight-sama,” maybe too weeb even for my taste.
+
+
+
+                                                        131
+
+--- END PRESERVED SOURCE BODY ---

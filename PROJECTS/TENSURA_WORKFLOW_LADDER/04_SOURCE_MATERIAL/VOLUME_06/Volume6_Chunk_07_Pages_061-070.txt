@@ -1,0 +1,440 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 9 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_6/Volume6_Chunk_07_Pages_061-070.txt | Original blob SHA: 23118ba3f1def436fd3b848ec502fea925b92e72 | Original size: 24977 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_06/Volume6_Chunk_08_Pages_071-080.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+AI-READING CHUNK 07
+Original pages: 61-70
+The text below is preserved from the source file. Page boundaries are marked explicitly.
+
+Page 61
+
+Allright,sothatconcludedtheexplanation.
+Nowwewill get to themaintopic.
+“That’sit. EverythingIjustsaidwastrue,butwewillhavetomodifyitsnarrativewhenwe
+gopublicwithit.”
+Mywordsbaffledeveryone.
+Going public means we would be telling the story to the outside world—To majins, who
+considerpowertobeeverything,suchanactseemstobemeaningless. Nowonderwhyeveryone
+seems confused.
+Butdeception anddisguiseareimportant elements in politics.
+“Then, what reasonswouldyoufind andhow would you modify it?”
+Benimaru asks for the crowds. I condensed the content of our secret meeting into simple
+termsbeforeexplaining to everyone.
+Iwould proclaimtohave becomedemon lordbut will hide the fact that I’ve awakened.
+Thisisbased on thefact thatthenations areoblivious of the full story.
+Because noneof themsentanyone toinvestigate.
+Since all the witnesses have been killed, the only who know the truth are us the and the
+remaining threesurvivors.
+TheFarmusKingisknowntobeagreedymaninnature,soourdefensewouldbejustified.
+That’sbecausetothepeople,thesayingthatthearmylostinawarismoreacceptablethan
+thearmy hasbeen wiped outbyasingle demonlord.
+Furthermore,the largenumberofcorpsesalso unlocked the most evil seal.
+Indeed,thelargeamountoffleshbloodsunkenintothislandandawakenedtheslumbering
+evildragon—Itled to therevival of“Storm Dragon”Veldora.
+The champion Youm and the leader of Jura Great Forest (me), who wanted to become a
+demonlord,cametoaidandconvincedVeldorathroughthesacrificeofmanymonsters. Inthis
+waywewereable to quenchtheangerofVeldoraand starts to worship him as a guardian.
+Ifwearetoalterthetruthlikethis,myascensiontodemonlordwouldmakesense. Notonly
+that,weareabletobejustifiedasthevictimswhileblamingeverythingelseontheKingdomof
+Farmus.
+“Everyone think about it. Humans always fear that which they don’t understand, and they
+are often too ignorant to admit it. When someone who can single-handedly wipe out an army
+of twenty thousand men emerges, even if he shows signs of peace, the humans would still not
+believe him.”
+These wordscomefrom Gazel.
+Fuzeand Youmponder outloudand expressedtheir agreements.
+61
+
+Page 62
+
+Since even the ones close to me have made such reaction, I am sure that those who don’t
+knowmewouldjustmakethesamereactiondescribedbyGazel. IfIdon’thandleitwell,Imay
+becomean enemyof the westernnations.
+“However, if we blame the disappearance of the army onto the ‘Storm Dragon,’ people
+would be much likely to accept it. Since the ‘Storm Dragon’ has already been deemed as a
+‘Catastrophe.”’
+Everyone understands onceGazelmadesuch conclusion.
+Except for Veldora who seemed to have got the wrong idea, he begins to say delightfully:
+3
+“Gahahaha,thisman has goodeyesto havecalledme a genius.”
+“Iagreetothatchangetoo. MydaughterslippedoffandsaidthatshehelpedRimuru-sama
+become a demon lord. Rather than suffer the hatred and fear of men, we should change it so
+Rimuru-samabecameademonlordtocreateanopportunitytonegotiatewiththe‘StormDragon’
+andallow the peopleto celebrate theemergenceofanew power.”
+There is no need to balance that now, is there? Elalude finishes his words with a small
+smile. He stares down viciously at the surrounding crowd to see if anyone dares to oppose the
+proposition.
+Thisman woulddoanythingforhisdaughterElen.
+“Daddy…Asexpectedfromthesly andcunning nobleman, so cunning…”
+Elenexpressesheropinionsthatseemtobebothpraiseandcriticism…Anyhow,Ifeelpity
+forElalude.
+Theroomfell quiet againbeforewe continue ourexplanation:
+“Additionally,itwouldbenefitmeinotherwaysaswell. Itis,ofcourse,importanttoavoid
+causing panic among the humans, but it may also mislead the demon lords who have been on
+guardagainstmethat theonly threathereis Veldora.”
+Inthat way,my operationswouldno longer be restrained.
+WhenIachievedcompletevictoryagainstFarmus,DemonLordClaymanmusthaveraised
+high alert against me. Once I’ve released the news that states all of those things were works of
+Veldora,Clayman’sguard againstmewoulddefinitely lower.
+Gazel alsohopes to buildtheimage ofmynation as a friendly kingdom.
+I, on the other hand, wish to give a good impression to the Western Nations. In addition, I
+hope to lower the guard of whoever stands to antagonize us by letting them underestimate our
+abilities.
+Rightnowourconclusionistohaveothers,ratherthanraisetheirguard,it’sbettertomake
+themlookdown onme. Itwillonlyworkin ourfavor.
+“Moreover, once we’ve released the rumor that we’ve established ties with Veldora, the
+number of counties who would dare mess with us would also decrease. Even if the Western
+Holy Church came out to say something about it, the other countries would unlikely to follow
+throughtheirorder.”
+3
+ThejokehereisthattheJapanesepronunciationforCatastrophe(天災)andGenius(天才)arethesame(Tensai),
+that’swhyVeldorathoughtGazelwaspraisinghim.
+62
+
+Page 63
+
+Thatis probably thebiggestbenefit.
+If I don’t accept Gazel’s proposal now, there will eventually be a day that we make public
+of Veldora’s existence. Since it’s going to happen one way or the other, we’d rather go public
+withitatthe besttiming possible.
+We plan to deal with Clayman next, so we wouldn’t be stupid enough to actively make an
+enemyoftheWesternHolyChurch.
+Itwouldalsodistractourownattentionifwesplitourforcesintotwo,sowemustavoidit.
+We have to try to lower outsiders’ guard against me as low as possible while having them
+raiseithighagainstthe TempestFederation itself.
+This is the perfect draft of plan made by ‘Wisdom King Raphael’ on the basis of Gazel’s
+roughsketch.
+Gazel,Elalude andme.
+This is a situation that unite us three with common interests and that which can be utilized
+inthefuture.
+Sasuga ‘Wisdom King Raphael’ sama, its strategizing skill also seems to have improved
+afterevolvingto an UltimateSkil.
+“I see. Thatwouldmeanyoufound areasonableexplanation for taking care of me.”
+Veldoralooks allsatisfiedwhilenodding hishead towards me.
+Oioi,thisguyonly seemstointerpret things interms of benefiting himself…
+—Idon’texactlymeanthat,butnever mind.
+Afterall, he’sassistingusinthisact.
+PuttingVeldoraaside, mysubordinatesalso givesome positive responses.
+“That makes a lot of sense. In that way, we may continue to communicate with others just
+likebefore.”
+Rigurd nods hard and speaks as if he’s reassured. He’s very worried about the economy of
+thecountrybeingaffectedinthefuture,andnowhelooksrelieved. Itwouldseemhewouldbe
+focusingondevelopment ofeconomyfor the futureof the TempestFederation.
+“SasugaRimuru-sama! Thatissuch auniqueway of thinking!”
+“No,it was King Gazelwhostartedit. Ionlycontributed some ideas.”
+I took Shion’s praise lightly and responded. As long as they are willing to accept my pro-
+posal,Iwouldbesatisfied.
+“Thanks for the help, King Gazel. If we do things in that direction, we can start operating
+soonusing Rimuru-sama’sreinforcements.”
+Suphiagivesoffherbravesmileand givesher thanks to Gazel.
+Phobio and Alvisalsoagree. Itseemsthe threeBeastketeers have approved the proposal.
+“Hehehe, I see. That means we would be able to focus everything we’ve got on Clayman.
+IfIstillcan’twin, even withallthis,it would bebecause of my incompetence.”
+Benimaru laughs, the future military confrontation with Clayman is supplying him with a
+lotoffightingspirit.
+What areliable lad,hopefullyhewill gethisstage on the battlefield soon.
+63
+
+Page 64
+
+SoueiandGeld alsoexpressthesame sentimentsof wanting to begin the attack right now.
+I hope they could wait just a little longer. As soon as we finish the meeting, you guys can
+goaheadandravage theplace.
+Irespond in myheart whilelookingat mysubordinates with an ardent look.
+Thestatementsfor goingpublic hasbeenapproved.
+Nowwewill plan on thefuturepoliciesbasedon the second trade meeting.
+First, I mention that both the King of Farmus and the Archbishop of the Western Holy
+Church are in our hand. We’ll discuss about what to do about them in the future, as well as
+initiatingour plan to supportYoumasthenew kingand found a new kingdom.
+Fuzebeginstoponder afterhearingmy plan.
+Heremains silent. He iscompilinghis thoughtsin his heart.
+Gazel is also not making a sound and he has his eyes closed. His companions, however,
+areinmidstofanintenseargumentregardingthetopic. Buttheyareinastalemate,withnoone
+havingreached aconclusion.
+Elaludewon’tsayathingeither. He’sprobablycalmlycalculatingwhat’sbestforSorcerer’s
+DynastySarion.
+Iglancearoundtoseeeveryone’sreaction as Icontinue explaining.
+First, we will release the current king to have him to compensate for the invasion of our
+nation.
+But that is only in name, our real goal is to lead Farmus into civil war through the issue of
+compensation.
+If the King attempts to reunite the nobles to rebel, we can take his life then. After all, he’s
+thekingofthatcountry andIdon’tintend tolet himgo free.
+If he decides to pay the reparations obediently, we won’t have to support Youm in getting
+thethrone. However,‘WisdomKingRaphael’doesn’tthinkhewouldgoforthecompensation.
+It willstill be verydifficulttoexecuteevenif he wishes to compensate.
+TheKingdomofFarmushaslosttwentythousandmen’sworthoflabor. Inordertorestore
+his nation’s power, money would be a necessity. That would require taxation from the nobles,
+whosegreedynobilitywouldnevergive it upwithouta fight.
+He would probably find a bunch of excuses to try to sneak his way through the issue of
+reparations. By that time,Youmwould startthe protest and lead an armed revolution.
+The King may also force the nobles to give in, but once he does that, there most definitely
+willbecivilunrest.
+Whoever survives a failed war would naturally be held responsible. By the time the sur-
+64
+
+Page 65
+
+viving King decides that he won’t carry out his responsibilities and forces the nobles to give
+in…
+TheKing wouldlosehisreputationcompletely.
+Theissue of reparationsisthekey.
+Thatway,therelationshipbetween KingandNobles would break down.
+OnetheKingloseshisinfluence,hisfactionswouldmostdefinitelysplitaswell. I’veheard
+that all of King’s heirs are underage, which makes it easy to imagine them being manipulated
+bythenobles. By thattime,therewillbeastrugglefor the throne.
+Youm could try to rise up during their in-fight, and the people who are tired of the politics
+woulddefinitelystandby thechampion’sside.
+—At the endof the day,thedemiseof theKingdom of Farmus is inevitable.
+Naturally, the Tempest Federation would support the Champion Youm, who has been on
+goodterms withTempestforsometime.
+IfYoumannouncesthefoundingofanewkingdom,wewouldsendforthouracknowledge-
+mentandformanofficialdiplomatictiewith them.
+The nobles, who would then become the power holders, would probably unite and vote
+againstthisnew risingregime. Butwe’vepredicted that as well.
+We’ll retain the people who supported us from the start and exile the rest. If they intend to
+continuetheir disruption,unfortunately,we willhave to “assist” them in disappearing.
+We will be the force that contains the nobles’ influence in order to prevent a direct con-
+frontation between the two parties. During this process, we will determine who is friend, or
+foe.
+Theplanisasfollowed—Itwilltakesometimebeforepassingofpoliciesthataretrustedby
+the citizens, so Youm’sparty should attempt to take down the opposition when their popularity
+isstillhigh.
+It willbe impossible torestorethe nation insuch a short term.
+Atleast twotothree years areneededto bufferit out of the effectspast events.
+The only difference being that Youm would get to shine earlier if the King decides to take
+thewrongmove.
+Theoutline of ourplan isassuch.
+The time to support Youm to the crown would have to depend on the situation. But he’s
+mostlikelygonna becomethenextking.
+“Idon’tplantotorturethepeopleofFarmus. Butsincethey’velettheirrulersdowhatever
+they’ve desired, I don’t exactly see them as innocent either. So I will weaken them to a certain
+extentbeforerestoring theirnation.”
+Ifinishthe explanationformyplanwith these words.
+Everyone’sbeensilentlypondering, whileKingGazel is the first to respond.
+“Pretty good. I don’t object this plan. But Rimuru, it’s another thing to have this man—
+Youm—crowned.”
+Gazel standsupas he finishesandbegins to observe Yoummore closely.
+65
+
+Page 66
+
+What an overwhelming pressure! I could even sense that at some distance. I’ve taken that
+skillhead-onbefore,so I understandhowYoummay feel.
+“—Wuuuu!”
+Youmbiteshis teethhardandgroans, buthe continues to look back at Gazel.
+“Huh,he’sgotquitethespine. Butwhatabouthisnature? Doeshelovehispeople,andhas
+hepreparedhimselfwiththeresolveto carryhis people’sburdens?”
+Thatline madethe roomquiet.
+“Hmph,howthehellshouldIknow? It’snotasifIwantedtobecomeking. But,sinceI’ve
+been given a task from someone I trust, I won’t be worthy to be called a man if I just turn it
+down!”
+“Ho?”
+“I just don’t want to come to the conclusion that I think I’m incompetent and want to give
+up before even trying. Also, I’ve got to play cool before the woman I love, so I have to give it
+everything I’vegot.”
+Youmreplieswithoutanyhesitation. Itsoundsprettymoronicbutit’ssurprisinglyconvinc-
+ing.
+“—Baka…”
+Myuran madea noise.
+“That sure sounds like Youm. Dwarf King, I would personally vouch for him. This guy
+may be an idiot, but he’s not an irresponsible idiot. He will see his job to the end once he takes
+it. I,Grucius, swearto look overhimwell.”
+Beastman Grucius responds with a wry smile. Myuran also nods to him after hearing and
+standsbyYoum. The threestandshoulderto shoulder while facing Gazel.
+“—Is that so? All rightthen. Ifyou runinto anything bad, just come find me for help.”
+Gazel thenbeginsto nodhishead dramaticallyand takes back his imposing attitude.
+ItseemsYoumhaspassedGazel’strialandnowthey’vegotthepowerfulArmedNationof
+Dwargonto backthem up.
+Andafter that—
+Gazel laughs and says: “Now I’ve encountered another interesting man”; “He wants to be
+Kingforhiswoman,hahaha—“Elaludelaughsonhisstomach. Whatfollowedwas“You’vegot
+some balls Grucius! You dare to say those things before us? Are you betraying Karion-sama?”
+asteased by Phobioto Grucius.
+It’saratherentertainingcommotion.
+Aftersome laugh, Gazelbeginstotell Youminaserious tone:
+“Youm, I hope your country would produce more agricultural products. I won’t talk too
+much before this turns into an interference to your national policies but hear me out. Countries
+likeFarmusgetsplentyofprofitfromjustimportinggoodsfromDwargon,butithasbeenproven
+tobe unsustainable—”
+Indeed, Farmus has very high tariffs for imported goods before retailing in order to rip off
+66
+
+Page 67
+
+4
+themiddlemancountries. Thesearenotthe idealtypes of customers for Dwargon.
+Nowadays there are people innovating and forming new trade routes, making Farmus less
+advantageousin their exploits.
+If things turn out like this, the country must develop new types of specialized industries in
+ordertosurvive. Theyshouldavoidcompetingwithothercountries’tradeindustryandinstead
+exploretheundeveloped landsnearits domainin order to better coexist with other nations.
+I’ve heard that there is an issue with the low supply of food in Dwargon, so I understand
+hisintent. Weareinfactinthesamesituation,wehopetonotrelyonthegoodsfromtheforest,
+butinstead import moregrainfromother venues.
+Gazel’sproposalseemslogical.
+“I want to request that as well. Importing grain should be an important subject of discus-
+sion.”
+Ididn’tforgetto push myluckaswellto get acutout of it for myself.
+“Master, you sure are impressive… Please leave it to me! Farmus has been developing its
+agriculture,so hopefullywecanmeetthedemands from both of you.”
+Now Gazel and I have a common interest. Youm also promises us both that he will be
+assistingusin terms of agriculturebythe timehe becomes the king.
+Shuna beginsto serveteaanddessertto everyone for a change of pace.
+Weswitch upthe moodandcontinue themeeting.
+Youmis recognizedand everyonehas approvedthe plan to establishing a new nation.
+That was the biggest challenge of the meeting, now we can address the rest of the meeting
+morecasually.
+“Then, I shall speak while representing the Kingdom of Blumund. After hearing Gazel-
+sama and Rimuru-san’s proposals, I think we may be able to assist the plan. Farmus nobles
+Marquis Müller and Earl Hermann have very close ties to our nation. If we were to negotiate
+and convince them in joining us, won’t it bring much convenience? When Youm-san revolts, I
+plantohavethemto back uptherevolution.”
+Fuzeexpresseshis opinion.
+Butisn’thejustaheadoftheBranch? Doeshereallyhavethatmuchauthority? Fuzegives
+offawrysmile, seeminglysensingmy doubtsandexplain:
+“As I’ve said, I am the representative of the Kingdom of Blumund. So please consider me
+asanappointedpersonnelbythenation. ThosespeechIjustmadewasnotdeliveredasthehead
+oftheFreedomAssociationbranch,butasacivil servant of Blumund.”
+After getting to know more, I found out that the Kingdom of Blumund has already left a
+seatintheintelligencesdepartmentforFuze. Notjustasasimpleintelligencepersonnel,butan
+assistanttothe allocation anddeployment ofallthe intelligence units.
+But even ifthat’sthe case,theimportant decision you just casually made…
+Iwasgoing to speakupmymind, butinstead Fuze explained some unexpected facts.
+4
+This can be observed from the map of Slime world. Farmus was the trade hub between Dwargon and the rest of
+WesternNationsbeforeRimurucameandtook overJuraForest.
+67
+
+Page 68
+
+Whenweweredoingthesecretmeeting,hehasalreadyreportedbackdirectlytotheKingof
+Blumundandrequestedaletterofappointmentwithcompleteauthorityovertheissue. Smaller
+countriesareable to issuethosefast,and Fuzeis atrustworthy guy to many.
+According to himself, he knows several secrets that would ruin the Kingdom of Blumund
+ifleaked.
+How about I just threaten this guy and take these intelligence… I’d better not mention the
+thoughtthatjustpopped intomyhead.
+Fuze seems to be able to actively utilize his circumstances and collect all sorts of informa-
+tion.
+Hehasextractedall possibleinformationbeforewe had announced any of our plans.
+Thisman is verysmartandextremelycapable.
+As for having Marquis Müller and Earl Hermann, they seem to be backed by the King of
+Blumund.
+Marquis Müller is a prominent noble from Farmus, and while he seems distant from the
+King of Blumund, the two are very close in terms of their private friendship. In fact, he is the
+distantrelativeoftheKingofBlumund. Thetwohaveverygoodrelationship. EarlHermannis
+ingreat debttoMarquis Müller,soitisunlikely forEarl Hermann to betray him.
+“Oioi, is itokaytobreakthistypeof news?”
+“Hahah, no problem. Even if I don’t, Gazel-tonosama already knows as well. The secret
+service of the Armed Nation of Dwargon could easily rival the Blumund Ministry of Intelli-
+gences.”
+At least they would be able to keep track of intelligences from neighboring countries—
+That’swhatFuze said.
+Gazel didn’t give much reaction, but he did give off a wink, however. The one reacting is
+notGazel, butthe beautybehind him.
+She’s the head of the secret service Anrietta. She’s a powerhouse that even Souei would
+approveof,so she’sindeedgotafewtricksupher sleeve.
+“Hehehe,youarebeingtoomodest. TheKingdomofBlumundisverygoodinintelligence
+collection. Your country specializes in the trade of intelligences, and as a vital constituent, the
+MinistryofIntelligences musthavemore capable men than us.”
+But nomatter how itseems,thatdoesn’tlookat what her face is trying to say.
+Anriettais being polite.
+“Haha,that’ssharp. Ourcombatcapabilitiesarefarfromyoursecretagents. Butweareno
+smallfriesifwe aretalkingaboutintelligencegathering alone.”
+Fuzewouldn’tback downeasilyeither.
+Since Blumund is a small nation, it tries its best to collect intelligence on all the nations.
+Thesearethemost favorableweaponsto protect theirown nation.
+Since according to what Fuze said, the intelligence can’t be fake. We shall pull those two
+guysintoour camp.
+“Youm,didyoucatch allthat?”
+68
+
+Page 69
+
+“Yep,leave therest tome.”
+Youm’spackagingplanisthuscomplete.
+Hewould puton amagnificent show asachampion returning home with glory.
+The details of the matter couldn’t be decided within the time of the meeting, so I’ll leave
+therestofthe matterto Youm.
+Movingon to thenext topic.
+“Right! So,wewill do thatwithheroYoum’skingdom occupation plan.”
+Withthatsaid,everyonenodsinagreement. Youmaloneistryingtohidehisfaceinembar-
+rassment,but I’lljustpretendtohaveseen nothing.
+Withthat beingsettled,thenexttopic would be—
+When we are just about to enter the next topic of discussion, Elalude who’s been listening
+toourconversation beginstolaughhysterically.
+“Fu-FUHAHAHAHA!Interesting! Youguysaresostraightforward. Allthesepeoplewith
+their national interests on the line gather around here, yet they speak so openly, without any
+suspicion… It would seem that I’ve been looking like a fool for having kept my guards up all
+thewaythrough.”
+Helaughedand says,“Howstupidam I?,”yethis eyes are giving offsharp glows.
+That’s not the dumb dad Elalude, but the real-deal nobleman. The one that can’t speak his
+heartin frontof others, Grand DukeofSorcerer’sDynasty Sarion.
+Hesuddenlychangeshis attitudesand caused immense stress to the crowds.
+Switching his mood likeflippingpages of abookand it caused everyone to quiet down.
+Elalude seems to wanttosaysomething, andeveryone also eagerly awaits his words.
+—The wide meeting room fell in silent with only the noise of pages turning from Veldora
+readinghismanga.
+Eh,Oi! Whatareyoudoing,mister? Ididn’tgiveittoyou,sowheredidyougetitfrom…?
+…Nevermind.
+Ithought thathe wouldn’tcomplyin thefirst place.
+As longas he agrees toremainquiet, I’mfine with it.
+Veldora helped me to relieve some of my nervousness, so now I just need to wait for
+Elalude’sspeech witha morerelaxedmood.
+Elaludeclearshisthroattogeteveryone’sattentionbackontohimandbeginstospeakvery
+seriously. Thismansure becomesbraverthe morefrustrated he gets.
+“—I’m going to ask a question. You there, Fuze right? Rimuru is a monster, do you really
+trusthim?”
+69
+
+Page 70
+
+“What…do youmean?”
+“What’s with this whole ordeal of monsters founding a country by themselves, shouldn’t
+theyatleastgetanofficialrecognition? Besides,shouldn’tyourefrainfromformingdiplomatic
+tieswiththem? Consideringyourposition,you should have been much more careful.”
+“Ehhh, aboutthat…”
+Elalude’s intent isn’t to point out his flaws, but it’s simply asking questions. In that way,
+Fuzebecamespeechless, notknowing howto answer.
+“Inotherwords,mydearfriendhere,ifIamyou,Iwouldonlytradewiththem,meanwhile
+observe the reaction from the Western Holy Church. I’ll also inform the church secretly to
+supply them with full authority to run an investigation on the nature of this country. I would
+enjoythe benefits of it and try to avoid future conflicts. Never would I stand up for them. Isn’t
+thathowasmall countryshould operate diplomatically?”
+Elalude’swordsare sharperthanswords, andit hit home with Fuze.
+Apart fromthat, notonlyElalude,Fuze finds that everyone else is staring at him too.
+“Damnit, why doyou havetopickme—”
+Hemumbledto himself.
+Afterward—
+“Allright,I getit! Ifthat’sthecase,I’ll just beopen with you!”
+Withsomeresolve, Fuzescratches hishead andshouts.
+He’s become the usual arrogant Fuze. He’s not even speaking like a politician even if the
+opponentisGrand DukeElalude.
+“Duke Elalude, I hold the same view as you. I’ve also tried to persuade my superiors, as
+wellasthenobles I know,buttheyallrejected that—”
+Withthat, he beginstoexplainhisexchangewith his superiors.
+That’swhat Fuze said.
+It sounds like what he told his superior is about the same as what Elalude just said, but the
+othersideresponded: “WhatwouldhappenifthereisawarbetweentheKingdomofBlumund
+andTempestFederation?,”thenrejected hisopinion.
+This happened before I visited Blumund, around the time we finished the battle against
+Charybdis.
+With several greater majins’ aid, our country was able to defeat the Orc Lord and Charyb-
+dis. The superior believed that if they were to fight a country like this, their demise would be
+imminent.
+TheKingdomofBlumunddoesn’tbelieveintheLuminassect,sotheWesternHolyChurch
+won’t possibly come in the aid of them. In other words, if the relationship is not handled care-
+fully,their countrymay be destroyed.
+Inconclusion, there isnousetryingto resistus.
+Allright, thenwhat’snext?
+“Wemustobtainthetrustofthemonsters. Weneedbuildupatrustingrelationshipandhave
+common interests and merits. That’s why we’ll do whatever we can to assist them—this was
+70
+
+--- END PRESERVED SOURCE BODY ---

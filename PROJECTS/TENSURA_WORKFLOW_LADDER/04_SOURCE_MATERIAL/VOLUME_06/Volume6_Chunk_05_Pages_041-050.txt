@@ -1,0 +1,444 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 7 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_6/Volume6_Chunk_05_Pages_041-050.txt | Original blob SHA: b1126f34d4b47f877a1263634cb7b8491cd5159d | Original size: 24186 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_06/Volume6_Chunk_06_Pages_051-060.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+AI-READING CHUNK 05
+Original pages: 41-50
+The text below is preserved from the source file. Page boundaries are marked explicitly.
+
+Page 41
+
+ordertogathertherequiredamount. Iftheconjurerisincapableofdoingthat,themagicwould
+notbecast. Inaddition,oncethecastingfailed,theremainedmagiculescouldgooutofcontrol
+andturnthe nearbyareato awasteland.
+Soitmakessensethatwhyveryfewpeopleactivelypracticesuchdangerousspells. Usually,
+only those who’s obtained a rank higher than a magician could use these high-level spells for
+militarypurpose.
+Andyou definitelyshouldn’tcastit inatown like this.
+Yetthat’sexactly whatElaludeisplanning todo.
+What the hellis he doing. Actinglike this outofnowhere.
+Heaccusedmeofkidnappinghisdaughter,butwhatintheworldisthatsupposedtomean?
+AlthoughI still haven’tbeenabletoreact, thereisn’tmuch need to be nervous.
+There is a loudtearingsoundthatgoesSiiiii—on the scene.
+Whatcameatthe sametimewasElen’sshouts.
+“Waiiit,Dad! Whatareyoudoing here?!”
+Shecamehereangrilyandrealizedthesituationimmediately. ShethengaveElaludeachop
+ontheheadwithoutsaying athingtohim.
+Elen’sarrivalfinallygotElalude’ssenses back.
+So,itwouldseemthisElaludeisactuallyElen’sfather. Heisfinallysettlingdownafterhe
+gotscolded byanangry Elen.
+These types of people sure are troublesome for having such short temper. The image of a
+reasonable gentleman he built when he was talking to Gazel was completely toppled with his
+lateractions.
+“Ehh—Ahaha. Sorry,someonetoldmemydaughterhasbeenkidnappedbyademonlord.
+SoIkindapanickedjustnow.”
+Hesays sowhile laughingoutdelightfully.
+But you can’t just cast a Special Greater Explosive Flame spell on the town just like that!
+Youareone daddy-gone-berserk.
+“No, sir. I’vetold youthefactsas theyare. It was your own misunderstanding.”
+“Ofcourse! It’salldad’sfault!”
+A secretary-looking person corrects Elalude calmly and Elen thus continues to blame him
+harshly,causinghimlookhorrible.
+He does look rather pitiful like that, but I can’t sympathize with him. It’s his own doing. I
+hopeElen willblame him moresohecanreflectalittle bit.
+“—Youstill spoilyourdaughterlike always, Elalude.”
+Gazelcomments atElaludeasthe situationgot slightlycalmer.
+ButElalude doesn’tseemtohaveanyregrets and arguesback:
+“I’mnot spoilingher. It’sallbecause Elen-chanis too cute and I can’thelp myself…”
+“That is the dictionary definition of spoiling…Never mind, it won’t help even if I say any-
+thing.”
+Gazelis dumbfounded. Itseemsthat’show Elaludeacted before.
+41
+
+Page 42
+
+There’sprobablyno cureforhim.
+SeeingthatGazelandElaludehavefinishedtheirconversation,Elendecidedtoslipinand
+greetGazel.
+“Longtime nosee, KingGazel.”
+Elensaidassuch. Sheseemstogiveofftheattitudeofanobledespiteheradventureroutfit.
+“Is it really Elen-chan? I didn’t recognize you at first. Hope you are doing fine. It’s really
+beenalong time,you’ve becomeprettier.”
+Gazel greeted back, then Elalude starts to get all noisy and complains: “Are you a pe-
+dophile? Youbetterwatchyourback,Gazel!” Thankfully,Elenimmediatelygavehimasavage
+chop on the head, accompanied by the secretary-looking guy shutting his mouth up with hand
+inorder to prevent him fromfurtherbadmouthing.
+Gazel seemedrather usedtoitandsimply shrugged it offwithout any comment.
+This guy seems to get very heated in the head whenever the topic was related to Elen. He
+usuallyactsgentleandculturedbuthasalargedichotomyattimes. I’llnotethatforprecaution.
+“Rimuru-san, this here is my father, Duke of Sorcerer’s Dynasty Sarion, Elalude
+Grimwald.”
+“Leader of Jura Great Forest, ruler of monster, my daughter Elen has introduced us. My
+nameisElalude Grimwald. Pleasecallme Elalude.”
+Afterthat, Elenintroducedherfather Elaludetome.
+Ididn’texpectthismantobetheheadoftheSarionDuke’sfamily. Itseemsthemessenger
+from Sarion is not an insignificant man. I’ve heard rumors that he is a relative of the Emperor,
+andisinfact,theemperor’suncle. NowonderhegottochatwithGazelsocasually,sinceheis
+indeedqualified.
+To be perfectly clear, he is one of the top three most powerful persons in the Sorcerer’s
+DynastySarion.
+Thatgave mequite theshock.
+Ifthat’sthe case—
+T-thenElenwouldbe a superprominentdaughter of a noble.
+I’veheard of hernoble origin,butsuch prominentorigin is really something else…
+2
+It won’t be too much to address her as Mademoiselle . A noble with such prominence
+decidingtobecome an adventurer…shemay havebeen too liberal.
+Ishouldn’tbe the onlyonethinkingso,but shedoesn’tseem to mind at all.
+Perhapstherearepeoplesecretlyprotectingher. Sheseemedtoalreadyknowwhenshetold
+meaboutthedemonlordawakeningthatherleakingthatinformationwouldhavebeenexposed.
+Kabal and Kido, these two followers must have a hard time accompanying her. I have to
+findachance to compensatethem…
+But, right now—
+“So, did youcomehere justforElen-san?”
+2
+Japanese word isお嬢様 (Ojousama), the daughter of a rich/influential individual/family. The address is often
+usedbyservants tosaid individual.
+42
+
+Page 43
+
+It’sprobably notthatsimple.
+Ithought to myself andlookedtowards Elalude.
+“Hehehe, of course not. I came here to discuss diplomatic relations with your country, as
+wellastoconfirmthingswithmyowneyes. TocheckoutwhothemythicalSlimereallyisand
+why my daughter took such a liking to you. It’s quite unbelievable to witness your menacing
+aura as a leader despite the fact that you are actually a slime. But still, I wanted to test your
+ability.”
+Elalude givesoffanevilsmileafter saying so.
+That’swhyhe casted thatspell,tointentionallytest us as it would seem.
+Benimaru,ShunaandShionareallonholdnexttome. Myofficersalldidnotfringewhile
+facingoffthedanger. Butthatisonlynaturalasthey’veallpredictedthathewon’tcastthespell.
+They’ve grown alot sincetheywouldlikely havelost their temper if it was the old them.
+“I’veanalyzedthespellyouweregoingtocast,butitwasobviousthatyourmagiculecount
+didnot meetthe basicrequirement.”
+Shuna says so.
+It seemshis bluffhas beenseenthrough,Elalude also throws a wry smile to tease.
+“Mymy,now I’ve beenexposedof myincompetency.”
+“No,it’sreallysomethinghowyou’vecontrolledthespeedofyourcastingtomisleadothers
+inbelievingthemagicisgoingtobecasted. It’sveryadmirablehowyouareabletoutilizethat
+homunculusbody of yourssothoroughly.”
+Seeing Elaludemockinghimself,Shuna responds gently.
+“Oh? That’ssurprising. Haveyou foundoutthat this body is artificial?”
+“Yes. Itwouldseemyou’veinsertedyourastralbodyintoit. Thefamoustechnologyofthe
+Sorcerer Dynasty Sarion surely lives up to its fame as the nation with endeavor of magic. Very
+impressive.”
+Hearing Shuna’s words, I also try to run an “Appraisal.” Indeed, out of the entire group,
+only Elalude is using a homunculus body. It would seem that it is part of the effort to protect
+suchafamous noble.
+That’s why I thought he didn’t bring enough guards when he came to meet someone who
+claimsto be demonlord. IfIthinkthat way,dwarfking Gazel is the exception.
+But anyway, the homunculus is so skillfully crafted that it looks realistic enough to be in-
+distinguishable from realpeople.
+Oncewe’ve settled ourbusinesshere,Ineed toask him to teach me the techniques.
+Elaludementionedthathisintentistoassessthediplomacybetweenourcountries. Butthat
+doesn’tseemtobetheonlythingonhismind. Isupposewewillfigureoutlater,there’snoneed
+torushout forananswer.
+PerhapsIshouldinviteElaludetothemeetingaswellforhimtomakefurtherjudgements.
+Ialsowishtohearwhat’shisopiniononthefuturepoliciesourcountrymayadapt,itwillbe
+a great opportunity. But it depends on the result of the meeting. It is possible that even Sarion
+may become hostile to us. However, if things really go down that path, I’ll have to deal with it
+43
+
+Page 44
+
+then.
+Gobtacame to informusthatthepreparationsfor the meeting are completed.
+I was planning to discuss things with my own subordinates, but I don’t seem to have the
+opportunityrightnow.
+Not only so,we are headingstraightto the officialmeeting.
+I was planning to prepare information on the countries beforehand to better inquire them.
+That’showadiplomatwouldoftendotoengagefirst,observeeachother’sinterestsandconflicts
+soastoreacha common ground.
+Since we’ve not done any rehearsal beforehand, everyone will just have to express their
+genuineviews.
+Our future would be dependent on this meeting. If we fail to reach an agreement, it is no
+exaggerationthat itwill leadtowar.
+Iboostmy own spirit andheadtowardsthe meetingroom.
+Assuch,theessentialmeetingthatwoulddecidethefutureoftheJura-TempestFederation
+nowbegins.
+—This meeting would be bestowed with a legendary status, and historically known as the
+Meetingbetween HumanandMonster.
+Ienterthemeeting roomand seeeveryonestanding, awaiting my arrival.
+There are the three Beastketeers, Fuze, King Gazel and Duke Elalude. The VIPs of each
+countryare directed to theirspecialseatsandareseated.
+After they sat, I walked towards the most inner seat while everyone sat down rather unani-
+mously.
+Themeetingis commenced inasolemn environment.
+First off, we need to introduce all the participants of the meeting. After all, there are many
+membershere who came fromstrongnations.
+Someofusknowthem,butinordertoavoidanydisrespect,it’sbesttointroduceeveryone.
+As such,we beginto introduce the guests.
+“Wellthen,weshall introducetheguests.”
+Following mylook, Shunaunderstoodmy orderand begins to announce the names.
+BeastKingdom Eurazania.
+ThespokespersonsconsistedofthethreeBeastketeerswhorepresenttheBeastKing’sarmy.
+Thinking about it, Phobio and Suphia are rather—let’s just say—single-minded. So we
+shouldprobably prioritize Alvis’sopinions.
+Dwarven Kingdom—TheArmedNationofDwargon.
+44
+
+Page 45
+
+Spokesperson is theKinghimself—Gazel Dwargo.
+Hewas justtryingto hidethefactthat Iwipedouta twenty thousand-men sized army.
+Hemaybeplanningsomethingelsethough. SoI’dbetterfactorthatintoaccommodatehis
+op.
+He’smay be doingmealotoffavorthis timeas well.
+Kingdomof Blumund.
+Unfortunately,thisnationdidnotsend anofficialrepresentative.
+Since Fuze is the head of the Freedom Association Branch in Blumund, plus he’s closely
+relatedtoBaronBayettewhoisaministeroftheKingdomofBlumund,heshouldhavethesame
+rankofauthority to him.
+He’s undoubtedly the best representative they can choose. I should really listen to his pre-
+ciousopinions.
+Thenext oneis Sorcerer’sDynasty Sarion.
+They suddenly came to participate, yet the head of the group is the famous noble Duke
+Elalude.
+Elaludeisthedumbfatherwhospoilshisdaughter,butwhononethelesspossessesthecruel
+outlookof anoble.
+Thegoaloftheirtripistoassessmycountry. Heprobablywouldn’tmakeanymisjudgment
+anddoanything stupid duetothelovehe hasforhis daughter.
+Thatguy is somethingelse,andIdefinitely can’toverlook him.
+Apart fromthat…
+Sorcerer’sDynastySarionhasthenationalpowertostandagainstthecouncilstatesbyitself,
+andit’sasuperpowerrivallingtheArmed NationofDwargon.
+Ifeverythinggoessmoothly,wemayeven gettoforgean alliance with them.
+One shouldn’t be too greedy, that’s how the saying goes. That’s why I need to treat it
+carefully.
+Glancing atthesurrounding guests,everyone isaprominent character.
+Ifitisonlymethatisholdingthemeeting,Imaynotbeabletothinksufficientlyobjectively.
+Considering that point, it is truly lucky for me to have the human members participating in the
+meeting.
+What follows is theintroductionofthe membersof the Monster Nation.
+These are somefamiliarfigures,butIshouldstill do an introduction for the officers.
+I look at Rigurd and the Goblin elders. Nowadays, they all look the part with luxurious
+clothingthatcan competeagainst anyothernations’ representative.
+Theyevenlookmore imposedthanme,it makes me feel like I’m able to depend on them.
+The ministers of different departments greet everyone. The moderator of the forest, Dryad
+Treyni-san,alsocame to greetthem.
+Elalude looks rather surprised at the presence of the highest-ranking species to show up
+here,buthe still pretendstobecalmand greetsback.
+Gazel’s initial reaction to the scene was also interesting, they were all quite surprised by
+45
+
+Page 46
+
+thatbefore. Anyway,I shouldn’tbegoing aroundand exposing them like this.
+Atlast Iintroduce the relevantpersonnel fromthe the Kingdom of Farmus.
+EspeciallyYoum’sparty,alongsideMyuranand Grucius.
+Iwasplanning to letthesepeopletobuildup anew nation there.
+However,Idon’tknowwhethertheywillacceptifIraisetheproposalsduringthemeeting…
+Thisproposal may be thedetermining factorto thesuccess of the meeting.
+Inodtonotify ShionandDiablowho werewaiting for orders behind me. Thus, I was able
+toroughlyconcludethe roundofself-introduction from our side.
+Oh,right, I almost forgot.
+“Shuna,what’sthe progressonVeldora’sclothes?”
+“Yes,Veldora-samais—”
+Shuna couldn’t even finish before the delightful laughter of “GA—HAHAHA” arrives. I
+wasworriedthathisoriginaloutfitwouldseemunfitforsuchoccasion,soIrequestedShunato
+helphimmakea randomsetofclothes. It would seem I was able to catch up.
+As the meeting room door is opened, Veldora enters the meeting room as if he’s visiting a
+touristplace. I rise uptointroduce Veldoraanddirect him to rest of the participants.
+Ihopethisone can gosmoothly;Ipray tomyself—
+“Allowmetointroducehimtomyfellowguests. Someofyoumayhaveheardofhisname,
+sopleaseremain calm—”
+Idecidetomake aforecast.
+Mysubordinates are all now aware of his identity, and they all look nervous while gulping
+intension. Thelegendary evildragonisright beforethem,and even they are afraid.
+Ifound thattheatmospherehaschanged,therewas a sudden silence at the scene.
+Andnext—
+“Thisismy ally Veldora.”
+“I’mVeldora! Somepeopleseemtocallme“StormDragon.” Hmm,notalotofpeopleget
+totalkto me in equalterm socountyourselveslucky. And you should feel honored!”
+As soon as I called his name, Veldora immediately proceeded with this introduction. He’s
+stillarrogantas always, butitdoessuit him.
+IthoughtItoldhimtostayquietlyduringthemeeting…Heprobablygotboredimmediately
+andcametostir thingsup…
+“I hope you can act as the consultant of our meeting today. I’ll be happy if you just stand
+asideandplay nice. Socouldyouleave now?”
+“Gahahaha,Rimuru, youaresoruthless! Stopbullying me.”
+“Listennow,wearetalkingbusiness here, socould you stop causing a scene here, okay?”
+“Trustme! How couldIcauseascene now?”
+Veldoragavemehisword,soI’llhavetocomply…Ifthatdoesn’twork,I’llthengivehim
+hisbible(manga). I mustpreventhimfromgivingme any trouble.
+Upuntil now,theroomiscompletely silent.
+Everyone is frozen.
+46
+
+Page 47
+
+And…Eh?!
+“Pong-dong”! Fuze,ElenandacouplefewothersjustfaintedonthespotwhileGazelstarts
+shouting: “Pause, pause! I needtotalk toyou NOW,Rimuru!”
+Rigurd and the rest decide to start kneeling and bowing their heads like last time—The
+situationhasgone wild beyondrepair.
+Youcould figureout whythemeeting hasbeen interruptedwith your knees.
+…Orrather,the meetinghasn’tevenstarted yet. But it’sno use saying that now…
+Themeeting room is in amess.
+Thechaoswas greaterthanIexpected. It’sArmageddonin here.
+Veldorasure is ameancharacter.
+People aretrulyafraidofthis“StormDragon.”
+Well,thatis to be expected.
+The sudden appearance of the Catastrophe rank monster would undoubtedly cause such a
+commotion. Tothe world,he ismorehorrifying thandemon lords.
+Thankfully,not everyonethinksthatway.
+Sincetherewill inevitablybechaos,it’sbest if Ijust introduce him to everyone first.
+It wouldseem Ineed to takeVeldorainto consideration for my future planning.
+Theguestsfrom eachnationlooksill withtheir strength all gone.
+EventhoughVeldorahasalreadysuppressedhisaura,itmaystillhaveaffectedthecrowds.
+My companions such as Benimaru or Shion would usually contain their aura, while the
+weakermonsterand humanswhovisitthis town have also gotten used to it.
+The new addition to the crew, Diablo, has the ability to suppress his aura even better than
+me. Heisvery talentedin thataspectandshouldbe considered as a model for everyone.
+The issue lies with Veldora, who is supposed to have special training session with me to
+learnaboutthetechniques tocontrolhisaura.
+But he said in all confidence that this was nothing. I think it’s likely due to his evolved
+UltimateSkil“InvestigationKingFaust.”
+SoIthoughteverythingwouldbefine…was Ibeingtoo naive?
+Afterall,hisaurawasstillleakingoutevenwiththesealapplied,preventingmonsterbelow
+RankBfrom approaching.
+To be safe, I tried to use “Appraisal” to determine the magicules in the room, but I found
+nothingout ofplace.
+Ifthat’sthe case, thereasonwould be—
+“Rimuru, I’ve got something to talk to you about. Let’s pause the meeting and so I can
+47
+
+Page 48
+
+borrowsome of your time.”
+Gazel patsmy shoulderandproposes,with acharming smile on his face.
+Hewas justshouting…hemustbereallyserious. My instinct tells me to not resist him.
+I tell everyone that the meeting would be put on hold for a moment and start to move out
+frommy seat.
+Nooneseems to object.
+It’sno wonder,since someonehasalready fainted.
+Afterleavingthe restofthematters tothe others, we head towards the reception room.
+IfollowedGazel’sordertogetVeldoraawayfromtherestofthemeetingsothatshouldn’t
+bean issueanylonger.
+IncludingthethreeBeastketeers,alotofpeoplewishtolearnaboutVeldora’scurrentstatus.
+Thatmaybuy ussome time.
+………
+……
+…
+Theones entered in theroomareGazel andElalude.
+IrequestedthatShunagomaketeafortherestofthepeopleatthemeetingandtoldBenimaru
+andShiontotakecare of themeetingroom.
+“Just to be clear, her majesty the Emperor has granted me full authority on this issue. So I
+willspeakofmystanceinthenameoftheSorcerer’sDynastySarion. Nowthatyouareinformed
+ofthat, please explainthe situation.”
+Elalude is the firstto talk.
+He is no longer a dumb father at the moment, but a politician, the prominent nobleman of
+Sorcerer’sDynasty Sarion.
+Heisvery imposing.
+DoesSarionwantto sitandwatch quietlyhow this event unfolds?
+They don’t seem to hold any hostility, and by what he proposed, they would be observing
+myeverymovebefore determiningtheirrelationshipwith our country.
+But Elaludewould probablystillneedto cleanup the mess that Elen did…
+AtleastIknowtheyarenotenemies,soitshouldn’tbeaproblemtolooktothemforhelp.
+“I understand. Then I’llsweartotellyou the wholetruth.”
+Sincethe othersidehaslaidouttheircards,Ialso need to be more serious about the issue.
+Withouragreement made,asecretmeeting isthus unfolded.
+Let’shear what Gazelhas tosayfirst.
+“Allright,what do youwishtotalkabout?”
+“Spare methe act. Whatthehellisit with therevival of the ‘Storm Dragon’?”
+Evenmanlike Gazelcouldn’tconcealhis surprise. His shout sounds rather agitated.
+It’sararesight forsomeoneascalmas Gazel. He must have really been shocked.
+Icould have figured outawaytoplaydumb, butit would be meaningless.
+SoIdecide to roughlyexplainthe entirestory.
+48
+
+Page 49
+
+With that being said however, I only mentioned about meeting Veldora in the cave and
+assistinghiminbreaking theseal.
+As soonas I finished theshortaccount, Gazelbegins to have headache and starts to groan.
+“Icouldnothaveanticipatedthingstoturnoutlikethis. It’salreadyamessnowthatyou’ve
+becomeademon lord, butyou’vemade aneven bigger mess…”
+Ehh,noneedtopraisemelikethat—Iwantedtosaythattoeasethemoodbutchosenotto.
+Itmaybe mymisjudgment,butIthinkit would piss Gazeloff.
+“So, Rimuru-dono. Thatlordisreally—”
+SinceElaludeasked, I nodtowardshim.
+Veldora could actually properly conceal his aura like that, which is rather hard for him to
+believe insuch shorttime.
+“—I suppose it’strue, itmusthave beenthe realdeal. No man or monster would be stupid
+enough totryand foolpeoplewiththe nameof thatevil dragon.”
+Itactually makesa lotofsensewithhow hephrases it.
+That’sprobably why ElenandFuze believedthe case immediately after hearing it.
+Notonlymonster,whoareawareoftheimportanceofnames,butevenhumansknowthey
+standto gainnobenefit by pretendingtobe the evildragon.
+Essentially, Gazel has not doubted his identity from the start. I asked him why afterward
+andonlygottheresponsethat“Icouldn’tseehimthrough..” Inotherwords,Gazelhasindirectly
+admitted that he can read minds. That’s really impressive! But that really isn’t the focus of the
+issue.
+“But,whatshould we do…”
+“Right, I’malready in aterriblespottryingto clean up the mess left by my daughter…”
+Gazel andElalude lookateachother.
+The twoseemto be unable togetalong, buttheyare probably very close friends.
+“The realissue wouldbewhetherto gopublicwith this, or to conceal it.”
+“Itshouldbefinetodosointhewesternnations. AsforSorcerer’sDynastySarion,I’lljust
+telltheEmperorwhat I’veheard. Theproblemis—”
+“It’sWesternHolyChurch,right? Youcanneverfoolthem. Amongallthe‘TrueDragons:,’
+the Church hates the ‘Storm Dragon’ the most. They would definitely be on to him as soon as
+he hadbeenrevived.”
+“If we are to hide the truth, we have to act together as if we have no clue. But that likely
+won’tworkandrender usall‘Nemesisof God.”’
+Just like that, the two exchanged their opinions and attempted to figure a solution for my
+situation.
+Whataboutme? My jobissimple. Ijust needto nod and say “Hmm hmm” to them.
+“Are youeven listening,Rimuru?”
+“Yeah, your problem is causing us two headaches. If you don’t take it seriously, we would
+reallybe troubled!”
+Eh, Igotscolded.
+49
+
+Page 50
+
+Isuppose Ishould give inandreflect,and thentalk about my own views.
+“Since there is no way we can keep hiding about Veldora, I’ve planned to make it public.
+There’snowayaroundWesternHolyChurchbutwhatever,sowewouldeventuallyneedfinda
+solution.”
+“Hmm,sinceyou’ve decided,Ihaveno objection.”
+Gazel agreed withoutany argument.
+“AnalliancebetweendemonlordandTrueDragonisnojokingmatter. Honestly,theprob-
+lem at hand is surprisingly difficult to deal with. But on second thought, I’m lucky to be here.
+SincerightnowIgettoparticipateinthismeetingandwasfortunateenoughtogainsuchuseful
+informationtodetermine mynation’sstance—”
+Elalude smirks and expresses his view from a powerful nation’s point of view. That is—If
+boththeDisaster-classdemonlordandtheCatastrophe-classTrueDragonsomehowcoexistsin
+the same nation, it would be foolish to try and mess with them. Gazel agrees to his view as he
+nodsheavily.
+In terms of scale, Tempest Federation is far from more powerful nations such as Dwargon
+andSarion. Butifit’sonlyintermsofmilitary,notonlywouldthesetwonationsbeonthesame
+playfield as ours, they may even be unable to surpass us. They say so because this has been
+acknowledged bybothGazelandElalude in private.
+“Ifaccordingtoyourwords,youwillbothstandonthesamefrontlinewithusifwebecome
+anenemywiththe WesternHolyChurch,am Ionthe right track?”
+As soonas I ask, Gazelrepliesdismally:
+“Do you have to ask this? Rimuru, you’ve got to practice on how to maintain your
+composure—”
+Thenheshowsanannoyedlookandsays,“Thankgodthisisaprivatemeeting…”andbegins
+toexplaintome in details.
+They both have no need to antagonize my nation but at the same time, they can’t let their
+own nations be in danger. Plus, they won’t be responsible for dealing with the Western Holy
+Church.
+Gazel promisesthathe willmaintain aneutral relationship while forginga diplomatic tie.
+As such,there’sonlyElaludeleft…
+We basically don’t even have any diplomatic tie with Sorcerer’s Dynasty Sarion. Even
+undersuchcondition,this manstilldecide togreatly back us up.
+“I’llbereassuredwithGazel’shelp. Andspeakingofwhich,Elalude-san—sama,whyhave
+youbeensoproactive…?”
+As Iask,Elalude respondswithanannoyed lookand answers:
+“—There’s no need for “san” or “sama” when you talk to me. But Rimuru-dono, please
+remembertorefertootherswiththeirappropriatetitlesandoccupationsinpublic. Youare,after
+all,aking,soyoushouldn’tactallgrovelingtowardsforeignguestsinpublic. Ifyouwishedtobe
+vassalized (bring into a condition of subordination), that would be a different matter. Anyhow,
+allowmeto answeryourquestion—”
+50
+
+--- END PRESERVED SOURCE BODY ---

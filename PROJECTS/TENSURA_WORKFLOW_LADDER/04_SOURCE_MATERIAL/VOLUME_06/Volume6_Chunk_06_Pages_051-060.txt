@@ -1,0 +1,377 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 8 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_6/Volume6_Chunk_06_Pages_051-060.txt | Original blob SHA: 59acc942b87856a4814751aa5cc8793228c60117 | Original size: 19316 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_06/Volume6_Chunk_07_Pages_061-070.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+AI-READING CHUNK 06
+Original pages: 51-60
+The text below is preserved from the source file. Page boundaries are marked explicitly.
+
+Page 51
+
+He gave me a special instruction in fear of me embarrassing myself, I suppose he has an
+empatheticsidetoo.
+This thought made me express my appreciation, before I find Elalude is staring at me with
+longsighs. Thenheswitches uphismood andexplain his reasons.
+It allstarted withhis daughterElen.
+It was rumored that Elen has been held responsible due to her sharing of the demon lord
+awakening informationto me.
+In other words, she was an accomplice in catalyzing the birth of a new demon lord. That’s
+whythereis nowaythe nationwouldleave it like this.
+But,Grand Duke Elaludewasable to showhisways during this time.
+He was able to cover up the inquisition and made it so that the emperor was the only one
+awareofthe situations.
+Afterward he spent the time predicting his future moves and wait for the right opportunity
+tostrike.
+Magicalsurveillanceseemstobeadifficulttasktoexecute,yetthroughit,Elaludewasable
+tofindout aboutmy evolutiontodemon lord.
+He can just pretend he knows nothing had I not become one, but there would be no way
+aroundbuttointerveneifthetransformationwassuccessful. Whenhecametovisitme,hehas
+already planned for the worst and recognized there may even be a need to dispatch invasive
+forces.
+“Basedonallthesereasons,Iwentoutmyselfinhopeoflesspeoplefindingoutaboutthis.”
+Elalude concludeslikethat.
+In other words, if he was to confirms I am an evil individual, he would destroy everything
+assoon aspossibleto coverupthetruth.
+“Then, what wouldbeyourjudgement?”
+“As I’ve said, I don’t plan to become your enemy, rather we should build up a friendly
+relationship.”
+Isee,hehasacceptedme. I’mquitehappythatI’vebeenjudgedassomeonewho’snotevil.
+“Hmm,that wouldbe thenaturalchoice.”
+“Of course. Our country practices freedom of religion, which includes more than just the
+Luminassect. Ratherdyingforonereligion,I’d putour national interests in the priority.”
+“Huh. I thought that I couldn’t see you eye to eye, but somehow, we’ve reached some
+common ground now. Elalude, my nation is also not in line with the ideology of Western Holy
+Church. I’veplannedto supportbuildingties withthe TempestFederation from the start.”
+Uponsayingso, GazelandElalude smilesat each other.
+“No, there are still too many questions left. Regarding the Farmus army eliminated by
+Rimuru-dono,evenifwespreadouttheclaimthatthey’vealldiedfromthewar,thedeathcount
+isstilltoo high. Andwithjustthatpoint, mydaughter has suggested—”
+Elalude looks ratherconfused while saying so.
+Could this be hisreal intent?
+51
+
+Page 52
+
+Itwasn’tthefocuswhetherIamevilornot,heisafraidoftherealcasualtynumbersofthe
+warbeingspread in theWesternNations.
+There is no way anyone would think otherwise that a demon lord who murdered twenty-
+thousand people is not evil. The Western Holy Church definitely would have a more justified
+testimony,and Iwouldbe treatedasa“Nemesis ofGod.”
+Right, having diplomatic tie with such an evil person—me, would indeed implicate badly
+onthesenations.
+What to dothen? Ehh—Ibegantoworry.
+Justas Iwas thinking,Gazelgives offagrin andsays:
+“Don’tworry,I’ve gotasolution.”
+Ah,no way!
+IfaccordingtowhatGazeljustsaid,thekingofFarmussuddenlyvanishedfromtheworld!
+“All of the corpses have disappeared without trace. Wouldn’t they suspect that there was
+nosurvivor?”
+“If that’s the case, then you get to alter the story however you want”—Gazel smiles and
+respond.
+—Thetruthmattersverylittletothepeopleandtheothercountries. Aslongasthestoryis
+pleasantto theear,itwouldsufficethe crowds.
+“Oh—That is a wonderful idea. Gazel, surely you would want me to co-write the script
+withyou, right?”
+Elalude alsoswitches tohispolitician eyes.
+They probably arrange narrative in their interests to maintain their innocence. For Elalude
+itisprobably forbothnational interestandforElen…
+ThenIshould makemy resolveas well.
+Afterall,Idecidedtosaveeveryoneatthecostofmassacringtwenty-thousandpeople. My
+faithwon’tshake even ifI hadtobearmore sinthan that.
+“It seems you’ve decided to walk the grey area, Rimuru. That’s right, that’s how it should
+be. It’snoteasybeing aking.”
+There’sno useregretting thingsnow.
+It isanecessaryprocess.
+“I’velongmadeup mymind. Then,how doyou plan to explain to the world, Gazel?”
+“Hehe, let’ssee now.”
+Gazel’sgazebecame abitgentler.
+Afterward wespent anhourtodiscuss andlayout the plan carefully.
+………
+……
+…
+When we returned to themeetingroom, peace hasbeen restored.
+They were finally able to get back to the peaceful atmosphere before and took care of the
+onesfainted.
+52
+
+Page 53
+
+Theunexpectedreactionplungedthemeeting inchaos, but it really couldn’tbe helped.
+Let’sjustletthepaststayinthepastandfocusondealingwiththefuture. ThankfullyIwas
+abletodiscussasolutionwithGazelandElalude. NowthatIthinkbackcarefullythatperiodof
+timewasreallyprecious.
+Fuze,Elenand someothers arestillexhausted and collapsed in the chair.
+“Are youguys allright? Howdoyoufeel now?”
+Iaskoutof care. Butinsteadthey alllook at mewith resentment.
+“…Even I’venot heardofit. Such anIMPORTANTTHING—”
+“Are you kidding me, you big meanie! You even kept me out of the scene… His name is
+Veldora…-san? And he is your goodfriend?! Have you even mentioned that to me?”
+Andallsortsof complaintflewstraight at me.
+Woulditreally help bycomplainingaboutit to me?
+He’s been swallowed by me into my “Stomach”—How could I even say something like
+that. Plus,wouldanyone even believethat?
+“Ehh? I didn’t mention? Did I now…? Never mind, let’s just forget about the past, pretty
+please? There’remoreimportantthings todo,solet’shave a meeting now!”
+Iresponded with adelightfulsmile, butit obviously didn’twork.
+“““DON’T PLAYDUMB!!” ” ”
+Theyallshouted atme.
+“Ha…hahaha. Yes-yes…”
+Itry to calmeveryonedaywithalaugh.
+It’sreallybecausethesepeoplearetoocarefree. Afterall,theydidn’tchangetheirattitudes
+atall,evenafterI became ademonlord…
+Idon’tmindthembeingsocasual tome,andI’mevenhappy forthat…But Ido hopethey
+canbemore polite—
+“Are youeven listening? Gosh,Ihopeyou would genuinely reflect yourself!”
+“Please stop doingthis,master.”
+“That’sright,I’m gettingheartfailure from it…”
+But they don’tseem tofollowbasic courtesy.
+But that’showElenand herpartyact.
+Fuzeisalsothe same.
+“Ah,but—I need to reportthistomysuperior…Eh, but I am the head of the branch!”
+That’showhe acts, always socarefree. He hasaccepted the reality of the situation.
+HisreactionbeforeoffearingVeldoraseemstobefake. ButifIhadn’ttoldhimtovisitthe
+restroom,he wouldprobablyhavealready pissed himself.
+Nicesave! I pathis shoulderandgotstared at instead.
+“You now, don’t act like it’s none of your business…I’m gonna have to report this to my
+superiorfirst. I’llcomeback latertotakethe compensation for my mental damage.”
+My advice saved him, and I’d expected him to thank me. But somehow, he argued back
+andscolded me.
+53
+
+Page 54
+
+Never mind, I will be the bigger man here. I was joking with him anyway. And Fuze got
+backonhisnormal feetquickenough.
+—That’show everyoneacceptedVeldora.
+It isan hour laterbythetimethemeeting restart.
+Nowthemeetingcan be officiallycommenced.
+Wewill discussClayman’sdeclarationof warlater.
+Souei has briefed me on this and he hasn’t been able to find their base yet. I, on the other
+hand, was more concerned about whether Clayman was on the move. So I had Souei keep an
+eyeonthatas well.
+Sinceyou can’texactlyrushthis,I’vedecidedto finish themeeting withthe heads ofeach
+nation.
+Althoughit’srather troublesome,let us revisit thestory once more.
+There were many things that took place in between, so I decided to spare everyone the
+details. Inorderto get everyoneonthe samepage, Istarted to explain the situation.
+It startedfrom myencounterwithVeldora.
+Ialso toldthem myidentityasaotherworlder.
+Sincethere’snoneed to keepinghidingit.
+Since all of my subordinates know of my story, it would make little difference to inform
+GazelandElalude.
+So, what that a demon lord was once a otherworlder? Demon Lord Leon was also a other-
+worlder…
+IalsobrieflyexplainedmybattleagainsttheOrcLordaswelltheconstructionofthetown
+here.
+It isveryimportant to sharetheinformationwith others.
+Giventheirinterpretationfromadifferentpointofview,theymayhaveadifferentreaction
+thanmine.
+Thereweremorethingsthathappenedaftertheconstructionofthetown…AndIproceeded
+totalkabout my journeyto theKingdomof Ingraciato fulfill Shizu-san’swill.
+IdidskipthedetailsofthelifeatthetownandYuuki’srequest,butIalsomentionedabout
+myduelwith Hinata.
+She wasreally strong.
+Ifheropponent wouldn’t’vebeenme, theywould have been killed already.
+Not even Benimaru plusSoueiwould survivethat.
+She may have been as strong as Hakurou, perhaps even stronger. She was also able to cast
+54
+
+Page 55
+
+manyunknownmagics.
+Especially“Holy PurificationBarrier,”that oneis extremely dangerous.
+There may even be a mini-scale one for battle against single enemy. I share my memories
+andknowledgeto everyone using“TelepathyNet.”
+Although I’m unsure whether we would be able to deal with it, we are better off knowing
+ouropponents’abilities whenweencounter them.
+Ineed totrymy besttoleteveryonerealize how terrifying Hinata really is.
+Atleast itwillgivethemabetterchance toescape.
+“Hinata Sakaguchi, right? That woman does look very cruel and gives off the impression
+of a ruthless murderer. But according to our intel, the reality does not check out. For instance,
+she will give aid to whoever seek help from her as well as those who are willing to accept her
+aid. Butifthepeoplearenotwillingtolistentoher,shewouldjuststophelping. Averyrational
+woman—”
+DoesFuzesecretlyknowHinata? He’sbeendefendingherallthetimeduringmyexplana-
+tion.
+Idon’twantto be hostileagainstHinataeither,butshe simply won’tlisten to me…
+It does sound like something she would do to exclude those who refuses to listen to her
+fromtheaidlist.
+After all there are probably a lot of people seeking refuge, you can’t blame her for letting
+goofthose idiots.
+A truerationalist.
+Yuukididmention thatHinataisarealist, soFuze’sreport was not wrong.
+Withthat said,Fuze’ssourceissurprisinglyaccurate.
+Gazel alsonodsalongasmythoughtcontinuesto this point.
+“Hmm, as expected of the Blumund branch head, you are good at manipulating the infor-
+mationnetwork. Theprecisionoftheintelligencesyou’vecollectedcanmatchupagainstthose
+obtainedby ournation’s’secretservice. Icanvouchfor the accuracy of the intelligences.”
+Gazel speaksas if he’splayingalong withFuze.
+But Hinata won’tevenhearmyexplanation…
+“Butthatwomanwon’tevengive meachanceto explain.”
+Indeed,shehastreatedmeasaneyesorefromthestart. Butitseemedthatshehadbeenfed
+withthewronginformation,butthepartof notlistening to reason is just…
+“Well,thatmaybebecauseofthedoctrineofLuminassect“Nonegotiationwithmonsters.””
+Elalude surprisingly answered my confusion. Hinata seems to be rather famous even in
+Sorcerer’s Dynasty Sarion. You can tell then her reputation is widely spread, which surprises
+me.
+—No, perhaps it is the natural things from a nation’s perspective to gather intelligence on
+thestrongestknight in theWesternHoly Church.
+Maybeshebecameacelebritybecauseofherbeauty—Suchathoughflewovermeacouple
+oftimes,butI shouldprobablynotsayit outloud.
+55
+
+Page 56
+
+After hearing the explanation by Fuze and the rest, I now begin to understand who Hinata
+reallyis.
+She is known for her cruelty in actions and words, and it’s said to have never broken the
+doctrinesof herreligion.
+She isthemost ideal modelfortheKnights.
+Inotherwords,Hinataistheguardian oflawandorder.
+But ifthat’sthe case, whyhasn’tshe stoppedthe summoningritual by all the nations?
+It’s a simple summoning ritual and would usually summon children. No matter how you
+lookatit,these all seemtoberecklessactions of individualcountries.
+“Regarding that, there is no way we could know whether she has interfered with the sum-
+moningritualof the nations,right?”
+Fuzespeaksup.
+Isuppose that’srightas well…
+“The summoning magic that would bring otherworlder are not knowledge to the public
+and are secret techniques strictly prohibited by the laws of the Western Council States. So,
+thesenationswon’teasilyadmittheiractions. Noinvestigationcanbeledaslongastheyinsist
+they’ve not used the summoning magic. The Western Holy Church may have access to a wide
+rangeofauthorities,but theycan’tinterferewith domestic policies.”
+Forinstance,theKingdomofFarmushasbeenusingotherworlderasweapons. Theywould
+probably argue that these are just otherworlder they discovered and took in by chance in order
+toavoidregulations.
+Inthisway,there’sindeednodefinitiveevidencetosupportanyclaims. TheWesternHoly
+Churchwouldn’tbe able tointervene.
+Ifthat’strue,itwould beunfairtoblameHinata fornot being more proactive on the issue.
+Right, Yuukialsosaidsomethingelseabouther.
+—He said,“Ican’tfigureherout.”
+PerhapsHinata has actedinherown wayin order to stop the summoning rituals.
+Evenifit is,itwon’tsolveanything by worrying myself with this any longer.
+“Anyway, Hinata is probably gonna be hard to deal with. If she is willing to listen, I may
+findachanceto talkto herandresolveourmisunderstanding…”
+But if the Western Holy Church consider us the “Nemesis of God,” our confrontation with
+Hinatawould then be inevitable.
+Iwouldn’twant to fightherifpossible,butwe’ll see how things develop.
+“Kufufufufu. Should I personally set out to end her life for you? Shouldn’t we get rid of
+thedangerous individuals topreventfurther grievances?”
+Hearingmyownmumblings,Diablo,who’sbeenwaitingfororderbehindme,makessuch
+proposal.
+This guy is surprisingly confident. He’s a newbie, so he seems to be very eager towards
+everypossibleopportunity.
+“Oi oi, even I lost to Hinata—no, even I fought to a draw with her! How could you be so
+56
+
+Page 57
+
+confidentin handling her?”
+Seriously,pleasego throughyourbrain beforeyou speak, okay?
+“That’sright,Diablo. Insteadofsendingcheapshotlikeyou,Ishallgokillthatwoman. So
+Rimuru-sama, pleasegive metheordernow!”
+Yousee. NowDiablo’snonsensehasdrawnoutShion as well!
+“Ho ho, so it’s Shion-san. I am grateful that you’ve taught me the techniques of being a
+secretary,soI’ll putitlightly…It’sashame that you are no match for Hinata.”
+“Oh? Soaccordingtowhatyoujustsaid,doyouthinkyouarestrongerthanme? Interesting,
+howabout we findoutaboutthatrighthererightnow—”
+“SILENCE!”
+Ishout outto stop thesudden confrontation between Diablo and Shion.
+57
+
+Page 58
+
+No text detected
+
+Page 59
+
+I didn’t expect him to be so aggressive despite his calm look. He’s so polite to me yet has
+norespectforhis seniors. Howarrogant is heforanewbie?
+Getting into conflict by provoking the opponent without themselves noticing, these types
+ofpeoplehave such astraightforwardpersonalitylike Shion…
+“Gahahahaha! Does that mean you wish to send me out? Very well, I shall return triumph
+innotime—”
+“You don’t have to go! Unless they decide to take the initiative in offense, we don’t have
+tobe theaggressor. I’llsaythisagain,Idon’twantto antagonize the WesternHoly Church.”
+Havingbeenexcitedbythetwo,Veldorawho’sbeensittingnexttomesuddenlydecidesto
+standup. I giveoffa long sighafterstopping himimmediately after.
+Horrible, these three areallmaladjustedchildren.
+No no no, everyone still has space to grow. I just have to focus on educating them in the
+future.
+Now that I think about it carefully, Benimaru and Souei are a lot more composed. Geld is
+stillverytrustworthysincehe’salwaysbeensensible. Gabilcouldgetcockyattimes,buthehas
+learnedtowatch themood,soit’salotofweight offmy shoulders.
+Rangainsteadisstillstayingquietlyasalistenerinmyshadow,andhe’smorelovablethan
+therestofthe crew.
+Theproblemlies onthesethree,Shion, Diabloand Veldora.
+Thesituationisalwaysdangerouswiththesethreearound. IfeellikeI’mgettingmoreand
+morementalstress.
+I’vegot tobe more cautiousdealing withthem.
+“Anyhow, the topic regarding Hinata and the Western Holy Church ends here. We’ll see
+how they react, and act based on that. Since this may lead to a war, we will have to observe
+carefullyevery step.”
+Iproclaim soand concludedthewholething.
+However,there’sonemorethingIshouldn’tforget. Therearepeoplesecretlymaneuvering
+behindthescene.
+Hinata knewof me.
+She said someone snitched to her, but luckily, I can count on two hands the people who
+knewabout mekilling Shizu-san.
+It won’tbe easyto findtheculprit,buttheones who know me are the most suspicious.
+There is the trio of Kabal, Elen and Kido, alongside Fuze and a couple more people from
+theKingdom of Blumund. ThenitisYuuki. The restwould be my own people from the town.
+Ifthat’sthe case…
+‘WisdomKing Raphael’hasfilteredoutthe listof the suspects.
+Yeah,thisis about right.
+But with thatbeingsaid, itmayhavealso beento the involvement of unknown parties…
+Idon’twantto act on asingleinstinctorsuspect other people without evidence.
+I’ll justhavetoremember tokeepremindingmyself to be extra cautious.
+59
+
+Page 60
+
+Whywould thepersonwantmetoconfrontHinata?
+Doeshe wishme to takeoutHinata?
+Toprevent mefrom returninghomeperhaps?
+Orperhapsto draw out Hinata?
+«—Perhaps allof the above.»
+Noway,that’swaytoo greedy.
+I have no idea of the opponent’s intent. But I’ve got to endure even though it feels bad
+gettingmanipulatedlikethis.
+Anyway,I’llstand byonthismatter.
+Icontinuetorecount theevents.
+I told them that I discovered that our town has been attacked after I returned to the nation
+fromthefight against Hinata.
+TheywereotherworldersentbytheKingdom ofFarmus.
+Inordertosavethosewhosacrificedthemselvesduringthisinvasion,Idecidedtowalkthe
+pathofdemon lord.
+ButbeforeIcouldinformthemofwhatfollowed,Elendecidetobreaksomenewsherself.
+“Shouldn’tdaddyknow aboutthatalready? Aren’tyou here because of that?”
+She looksup to Elaludeandasks.
+Honestly,doingthiskind ofthingisjust cheating. Toocute.
+Withthat, herpoor dumb dadElalude would probably be charmed instantly.
+“Elen…It’sallrightifIknowaboutit,butyoudon’tneedtotellthattotherestofthecountry
+representatives…”
+Elalude sighs helplessly.
+Iunderstand how youfeelcompletely.
+Elendoesnotcarefortheoverallsituationandthat’sherfault. Butluckily,Elaludeseemed
+tohavepredictedhowthingswouldbe.
+“MydaughterElenwoulddefinitelyannouncethatshetaughtotherpeopletobecomedemon
+lords. I’llhavetoforcehertocomebackhome. ButifIdoso,justtohaveherdislikemeinthe
+end,it wouldbe theworst strategy.”
+As such, he said a bunch of things that makes one question whether he is a genius or an
+idiot.
+As itturnsouthis predictionwason point,so Isuppose he’sa genius then…
+Ihave beenfeeling something tobe amiss,so Iexchange looks with Gazel.
+I found him nodding in agreement, so we decide to move on according to the plan we just
+settled.
+“—And that’s how it was. I used the army of Farmus as sacrifice and became a demon
+lord.”
+Justlike that, Iproclaimthetruthofmy evolution to demon lord to everyone.
+60
+
+--- END PRESERVED SOURCE BODY ---

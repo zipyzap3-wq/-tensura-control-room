@@ -1,0 +1,437 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 6 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_6/Volume6_Chunk_04_Pages_031-040.txt | Original blob SHA: d48d555febdb71bc3eefaece08c37e1c9b46eabe | Original size: 23471 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_06/Volume6_Chunk_05_Pages_041-050.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+AI-READING CHUNK 04
+Original pages: 31-40
+The text below is preserved from the source file. Page boundaries are marked explicitly.
+
+Page 31
+
+Weneedto defeatDemon LordClayman.
+That objective is now settled.
+That bastard is still hiding somewhere in the dark We’ve got to take care of him sooner or
+later.
+IfIamtobecomeademonlord,itwouldbeunavoidabletoinvolveotherdemonlordsinthat
+process. Withthatbeing thecase,Clayman would bethe best candidate for my flesh sacrifice.
+Right now I’ve got no idea why Milim provoked Karion, and there doesn’t seem to be a
+wayto persuadeher. I guessI’llbragabout mypower in order to avoid future grievances.
+Besides, Claymanhas crossedthe linethis time.
+Karma willbite back—I’llmakehim payforhisevil deeds.
+Aboutour future plans:
+Youm has gained massive popularity in the Kingdom of Farmus with the title of the cham-
+pion. I’vedecidedtoexploitthatandreleaseourcaptive,theFarmusKing,toengageinpost-war
+negotiations. This wouldfacilitateusin gainingcontrol of Farmus.
+We also need to respond to the Western Holy Church and declare our nation’s stance to
+everycountrywe’ve encountered.
+That wouldbe alot ofbusinesstodiscuss.
+It’lllikelybea ratherbusymeeting afterthis.
+Butlet’shear Souei’sreportfirst.
+It looks like Clayman has been on the move lately, so I need to listen to it in detail again
+and hold a post-war conference. That’s why I’ve brought my subordinates from the Tempest
+Federation alongsidethe threeBeastketeers tothe bigconference room. However…
+My “Universal Perception” has detected a party of around fifty people approaching our
+town.
+Hmm…That wouldprobablybethe headof the Blumundbranch of the Freedom Associa-
+tion,Fuze.
+It didn’t take long before the guards escorted him here. He was quite dramatic in trying to
+breakthroughthe soldiers’defenseline totalk to meabout something.
+“Longtimenosee,Rimuru-san. I’mgladImadeitintime. Accordingtothesecuritypacts
+between the Kingdom of Blumund and the Tempest Federation, I’ve come to your aid. I was
+terrifiedthatwewouldarrivetoolate.”
+Fuzesmiles as he finishes.
+However, he seems rather nervous, and the soldiers following him seem to be nervous as
+well. Everyone’seyesglintedwitharesolveof self-sacrifice.
+31
+
+Page 32
+
+Icantellthatthey’repreparedforwarseeing how they all are armed to the teeth.
+“What’s wrong? The head of the Freedom Association branch comes to meet me himself,
+whatdoyouguys plan to d—”
+“Haha,nownow. I’veleftthedutiestoHigis. Andaboutthemerchants—especiallyMyour-
+miles—haveinformedmeaboutthesituationinthetown. Iheardyouguyshavebeenfighting
+againsttheKingdom of Farmusso…”
+Hmm? Hmmhmmhmm?
+Nowthat Ithink aboutit,it’sbeen tendays since I sent back the guests from Blumund.
+Sodidthe head of the Branchhear thereportand decide to come assist us in battle?
+Ifthat’sthe caseI appreciateit,but…
+“—Evenifit’stoolatetostartdeployingthedefenseline,weshoulddeploysoldiersaround
+the town to fortify our defenses. It seems that the main force of the Farmus Military has yet
+to arrive. We also have no idea when the advanced forces will arrive. After all, we’ve long
+exceededthedeadline theydeclared—”
+Fuzetrieshis hardest toexplain.
+Finally, with what I suspect is the firm look of someone that is ready to embrace death, he
+finisheshis wordsin onego.
+There’snosuspicionanymore. Hereallyhasmadeuphismind. Andhementionedthathe
+hasleftall his dutiesto Higis. Itseems thathe trulywishes to defend this town.
+But,about that—
+The war is alreadyover.
+WithFuze’sexpressinghisviewsallenthusiastically,Icouldn’treallydropthebombonhis
+facerightnow.
+“Do you intend to breach through their frontline? That would be hard though. According
+toourintel,theenemyhasroughlytwentythousandsoldiers. Youdefinitelycan’twinbygoing
+head to head with them. However, I contacted some of my old friends and arranged to have
+three hundred adventurers on hold. These men may be small in number, but we will fight with
+everythingwe’vegot. We’vepreparedtofightaprotractedwarandwillevenconductguerrilla
+warfareusingthe forest’slandscape—”
+Is it really all right to come and assist us like this? That would be unnecessary to ask
+considering how muchFuzeindeedcaresfor us.
+“…And being ableto fightalongsidethe beastmen has really reassured me.”
+Fuzecontinuesto throw outhisartofwar byhimself. Now I am in a difficultspot.
+All of my subordinates wear expressions of shock whereas the Beastketeers have no idea
+howtorespond.
+Thatcan’tbehelpedthough,since everyonehere knows the war is over.
+Imean, Ihonestlydidn’tthinkhewould cometo our aid.
+Eventhoughwe’vemadeapactthataimedtoavoidmilitaryaid,hestillcameasfastashe
+couldwithas manysoldiershecouldgather.
+Thatdoes pleasemea littlebit.
+32
+
+Page 33
+
+Evenso, we’ll putthatasidefornow—
+“—Thistownisamazing. Thestreetlooksbeautifulandisaccompaniedbywell-constructed
+houses. You’ve got stone-paved roads and though I don’t want to admit, this is much more
+majestic than Blumund. I know you don’t want to lead it into a battlefield, but right now we
+mustendureandwaitforthereinforcements! TheBlumundKinghasalreadydecidedtodispatch
+theKnightorder,soallwe needisalittlemore time to prepare—”
+“AH—Fuze-kun. Let’spauseright there.”
+Idecided to interrupthim.
+I’m really sorry for these circumstances, but I won’t be able to improve the situation if I
+don’tinterrupthim.
+“What’swrong Rimuru-san? Haveyou comeup with a battle plan?”
+“Ah,hmm. N-notreallyabattleplan…”
+“Doyoumindsharingitwithus? Inyourdefense,Iknowit’snormalforyoutosuspectus,
+butrightnow Ireally hopeyoucantrust—”
+“NO, NOT LIKE THAT, FUZE-KUN! I’m glad you are worried, but the war has already
+ended!”
+“EH? Ended? Wha? W-Whatdoyoumean?”
+“Hmm—how should Iputit…Insummary,Ijust eliminated them all.”
+“—EHHHH?What didyoueliminate? Eliminate— W-Whatdo you mean by that?”
+Fuzecouldn’tprocesswhathejust heardandbegins to question me back.
+Ican’treallyblame himforhavingthis sortof reaction.
+“No,I mean-Imean thearmyofFarmus. I’vedefeated them all!”
+“Huh…EHHHHHH?!”
+Heshrieksout a weirdnoiseandfreezeson the spot.
+Youmbeginstopat Fuze’sshoulder whileKabalcomes forth to comfort him.
+ElenandKidowhostoodbythemstarttotellhimsomethingalongthelinesof“Thiswhole
+thingisindeedquite unbelievable,““It’sreallyexaggerating.”
+That’sright.
+It’sbeenless than twoweekssince the enemy hasdeclared war on us.
+His prediction was—It will take roughly a week for the main force to arrive, so they will
+spendtwotothreedaystoclearouttheenemiesinthesurroundingareaofthebattlefieldtobuy
+timeand then deploy adefense perimeter around thecity and brace for the worst.
+Inhisviewthewarhasalreadybrokenout,andourlackofdefenseseemstohaveconfused
+Fuze.
+Nowthat he ran into everyoneallgathered inthe same place, he thought we were goingto
+launchanattack altogether.
+TothinkthatthebattlehasalreadyendedinsteadoftheFarmusarmyarrivinglate—Having
+beentoldsomething likethat, anyonewouldhave ahard time accepting it.
+“I’ve sent my humble son Rigur as messenger to Blumund a few days ago. It would seem
+youhavemissedhim. It’sjustaswhatRimuru-sama said, the war is over.”
+33
+
+Page 34
+
+Rigurd comes forth to clarify with Kabal and Elen supplementing the details. Then Fuze
+finallyaccepted the fact.
+Although he still continues to mumble “How is that possible…,” it would take some time
+forhimtodigest the information.
+The fifty soldiers who came along with him are also dumbfounded, so I told my guards to
+havethemrestatourinnsincetheyallseemextremelytiredtothepointwheretheycouldfaint
+anysecondnow.
+Afterall, they musthaverelaxedhaving justbeen told the war is already over.
+InordertoavoidthearmyofFarmus,theychosetomarchthroughtheforestsinsteadofthe
+mainroads. Marching withafullsetofarmorand gear in the forest is surely no easy task.
+Thesoldiersexpressedtheirgratitudeand myguards escorted them away.
+Theonly oneleft is Fuze,whonow hasarather tired expression on his face.
+“Fuze, how aboutyougogetsomerest aswell?”
+“Yeah…You’reright. I’mstillconfusedatthemoment. Ishouldprobablygetsomerest…”
+Fuzenodsinresponseanddecidestoheadtowardstheinn…Yetthetimingwasunfortunate
+assomenewvisitors justarrived.
+“Ah,more visitors, andtheyare—”
+“Morevisitors? What aboutthem?”
+Fuzestops outof curiosityatmywords.
+It isdueto him stopping thathe’slosthis chanceto rest.
+It was the DwarfKinghimself.
+Gazel Dwargo.
+I just discovered something. My skill “Magic Perception” has evolved to “Universal Percep-
+tion.” Theradiusofmydetectionhaslargelyincreased,andithasboostedtheaccuracyaswell.
+IwasabletodetecttheLegionofPegasithat’sstillquitesomedistanceawayfromthetown.
+«Announcement. Thirty pegasus knights have been detected closing in on the perimeter.
+ConfirmedLeadingindividual: GazelDwargo. »
+MyUltimate Skil ‘WisdomKingRaphael’ nonchalantlyreports.
+It would seem that due to the boost it received in accuracy, it can identify individuals I
+encountered in thepast.
+That’saconvenient skillindeed.
+But with thatbeingsaid…
+There is a bittoo muchinformation apartfromthe activities within the town.
+Honestly—Iwas goingtocomplainaboutit.
+34
+
+Page 35
+
+For that reason, I hope you could simplify the content of the report, “Great Sage”… No, I
+shouldcall it Raphael-san.
+Tobe more specific,youcanreportwhoever intendsto approach me in a harmful way.
+«…Understood—»
+It seemsto want to saysomething. Butit’sfine. I just need to pass on all the trouble toit.
+Ihave faithin it. That’showRaphael-sanworks.
+Icompressed my skilltominimumcapacity andwaited quietly for the guests to arrive.
+Sincemyskillalreadyidentifiedthem,whoeverhasarrivedcan’tbeimposters. Theymust
+bethereal deal.
+Ididn’thavetimetoinformFuzebeforethePegasusknightslandedbeforeus. Immediately
+after,Gazelgot offthebackofhispegasusand greetsme with a laugh:
+“Longtimenosee,Rimuru. Iheardrumorsthatyou’vebecomeademonlord. AmIright?”
+Nowonderwhy the kinghimselfcamehere. Of course he’shere to talk about that.
+“I suppose, Gazel. A lot happened, so I decided to become a demon lord. It is quite com-
+plicated,but I’llbe draftingaseriesofplans.”
+Igreethim so, giving himawrysmileand informinghim of our meeting.
+“Perfecttiming. ThenI’lljointheconference too.”
+Gazel proclaimsrathernaturally.
+Fuzestill looks allbatteredup,buthisexpression suddenly changes as he closes in on me.
+“D-demon lord…????? Whatintheworldis going on????”
+He just happened to be around to hear our conversation. He probably thought this type of
+thingjustcan’tbe ignoredand questioned me.
+Ohyeah, I forgottomention thattohim…
+Right now it would only make things messier. But if I remain silent now, Fuze won’t give
+up.
+“Rimuru-san, I can’t just unhear what you just said! I did hear you say something about
+howyou’ve becomea demonlord,riiiight…?”
+Fuzeshiversas he says so.
+Is heholdinghis pee? Goaheadanddoit, don’tbe so polite with me.
+“Do youneed to use therestroom? If so,ourtown’spublic toilet is—”
+“NO!Who saidthatIwanttogotothetoilet?! It’snot about that, it’sabout you becoming
+ademonlord…What in theworldisgoing on!”
+Iintendedtouse thetoilet asanexcuse butfailed to get it through to Fuze.
+Fuzealsois nolonger actingallrespectful andis showing his true colors.
+“Hmm. Oh,youmeanthethingaboutthedemonlord? Iamone,yeah,”Ianswercasually,
+pretendingit’snobig deal.
+It’sclearhewon’tlet meoffthehook so easilythough.
+“Hahaha, that’ssucha badjoke. Idohope you can answer this seriously.”
+Eh…How annoying.
+Doeshewishmetotellhimfromthestart? Dowehavetodoitfromthestart? Well,King
+35
+
+Page 36
+
+Gazelalso seemsintriguedtolearnaboutit…
+Buttalkingwhilestandingisn’treallyconvenient,soIshouldjustmakeanexplanationreal
+quick.
+I roughly recite the story to them. As a result, Fuze starts to talk to the air. It seems he’s
+tryingtoescape realityby goingcatatonic.
+Ohwell, At least it’sbetterthanhavinghim chanting doubts about my story all day.
+Idecidetoleave Fuzetohisowndevicesandtalk to King Gazel again.
+“By theway,Gazel,is itreallyallrightif aking of a nation just departs like this?”
+Thatactuallydoes concern me.
+I am equally guilty of the same crime, but King Gazel seems way too liberal with how he
+visitsothercountries.
+The Dwarven Kingdom—The Armed Nation of Dwargon — is a powerful nation. Its na-
+tionalsavingsalonewouldbedozentimes morethanmy country’s.
+Woulditreally be okayiftheKing just moved outlike this?
+“Huh, no problem. I’vegotabodydouble!”
+Huh? Youseemtobe using yourbody doubleinthe wrong place…
+No,oris it?
+Something doesn’tfeel right,butI supposethat’show it is.
+ThePegasuscommanderDolph-sanas wellas the other companions of the hero king have
+allarrived. That’sone stronggroupofpeople to bring.
+“That’snotimportant,Rimuru. Iswhat Vestareported to me three days ago true?”
+Gazel switches hiseyestobacktothoseunique to a nation’sruler and questions me.
+“It’strue, thosetwentythousand—”
+“Hold on a second, Rimuru. I’ve heard that the Farmus army has vanished for no reason.
+Doyouknowanything aboutthis?”
+“Hmm,vanished?”
+Hmm? Whatis thisnow?
+“Vestareportedtomethatthearmyoftwentythousandmenclosinginonthistownsuddenly
+disappeared. Whatactuallyhappened?”
+Gazel saysslowly.
+A pairof eyeshave beenboringintoVestainthe corner,exerting an unseen pressure.
+Ilooktowards Vestaand seehimshaking hishead in panic.
+“Vesta, I was there during your report as well. You did mention that the Farmus army
+suddenly vanished. We were curious and thus decided to come investigate. Did you find the
+reasonforthat?”
+Pan is the highest commander in chief of the Dwargon army as well as King Gazel’s close
+ally. Healso questionsVestainapressing tone.
+Ah,Igetwhat’sgoing on.
+Gazel is trying to coverupthefact thatImassacred the twenty-thousand-man army.
+“Well,about that, wecouldn’tgettothe bottomof it…”
+36
+
+Page 37
+
+Vestaalsoseemstounderstandwhattheymeanandansweredcarefully. He’sbeenlooking
+atGazelandthe rest’sexpressionsandcleverly coordinated the conversation alongside them.
+Isupposethat’showsmartpeopledothings. Vesta’sreactionsaresuper-fast. Nowthemess
+Ilefthasbeen successfullycoveredup.
+Gazel instead lowers his voice and whispers to me: “Idiot! If you tell the truth now, you
+are making yourself an enemy of the humans!” and similarly: “Don’t bother yourself to make
+anenemywiththe humanseventhoughtheywill definitely fear you.”
+It does makesense whenIthinkaboutit.
+Someonepowerfulenoughtosingle-handedlywipeoutanarmyofmorethanten-thousand
+people. That’smoredeadlyandterrifying thannuclear weapons.
+The less people who know the truth, the better. There really isn’t any need for unrelated
+countriesandcitizens to beinformedaboutthis.
+The army of the Kingdom of Farmus attempted to invade the Monster Kingdom, yet en-
+countered an unknown accident, leading to their disappearance as a whole—We will package
+thisasthetruth andinform therestofthe countriesof it.
+Now I see that Sasuga-King Gazel possesses the ability to deal with crises, a skill that I
+lack.
+Sothe onlyproblem remainingisjust whatI’vesaid.
+Itwouldbetoolatetohideitfromthepeopleinthetown. Butthetruthdoesn’treallymatter
+to them. Everyone probably knows about it, but no one would go around and run their mouth
+aboutthenews.
+Fuzehappens to be thecenterofmyconcern.
+Iglancetowards him. Hehasregainedconsciousness and our eyes happen to meet.
+“Ah,ah—Fuze-kun.”
+“Rimuru-san…”
+Right, whatshouldI donow?
+Just now I broke the breaking news to him that the entire Farmus army has been killed by
+myhands.
+Should I tellhim thatallofthisisjust nonsense?
+WhileI was still worrying,Fuzetakes inabreath and sighs.
+Thenhe raisesboth ofhishandsand respond:
+“Ididn’thearanything. Ofcourse,mymenareallrestingattheinnnow,andtheydefinitely
+won’t remember when they wake up tomorrow morning. We are so tired that they probably
+hallucinatedand forgoteverything.”
+It wouldseem he decidedtopretend hehasn’theard anything.
+Fuzeseemstohavesuddenlyagedalot,tothepointthathisentirebodyseemstobedevoid
+ofstrength. Thereis a certaintragedytothis.
+Afterall, he wasbeingsonicetohave resortedto this in order to resolve the issue.
+“Gufufufufu, ifthat’sthecase,just tobecautious, allow me to confirm it.”
+Themanwho’sinterruptedsuddenlyoutofnowhereisDiablo,whonowstandsbehindme.
+37
+
+Page 38
+
+1
+ThisDiabloisanamazingguy,too. He’slikeDoraemon, andanswerstoyoureveryneed.
+Healso seemsinterestedindoingchores.
+Ialsorecallhearinghimwhisperthathe’s“goodatrewritingmemory.” I’llpretendInever
+heardthat.
+Fuze still seems troubled, but he gave in at last. He won’t intervene as long as his subordi-
+natesarekeptsafeanduninformedoftheknowledge. HemusthavealsoagreedtoKingGazel’s
+viewthattheless peoplewhoknowthis,the better.
+Assoonasnationalinterestisinvolved,hemaydisposeofwhoeverleaksouttheinformation
+in the worst-case scenario. That’s why he believes it is better to just let things slide this time
+with aneyeclosed.
+However—
+“Iwon’tlook furtherin aboutyoursubordinate butdo include me in the meeting.”
+Fuzealso suggestshis ownviewandsaysthere’sno negotiation with his term.
+Heprobablythinkswhateverisinthemeetingcannotbesimplyignored. Youcantellfrom
+thedeterminationin his eyes.
+“All right then. But I hope you all will trust me as well. I don’t have any intention to
+antagonizehumanity. So Iwon’tstopyoufrom attending the meeting.”
+Ishrugafterfinishing thesentenceand agreedtolet Fuze join the meeting.
+RigurdescortsFuze to thelounge.
+Since Gazel’s party also wishes to join the meeting, we have to tide up the meeting hall.
+Becauseof that,I wanttohave Fuzerestfor nowas much as possible.
+Seeing all this,Gazel questionsme.
+“Huh, are yousurethatmanistrustworthy,Rimuru?”
+“Heis, it’sall good here.”
+Fuzeisindeed atrustworthy man. Ianswer withconfidence.
+“Hmm. If that’sthe case,thosepeople would bethe only issue now.”
+Withthat beingsaid, Gazelgazesmenacinglybehind us.
+Eh,are there peoplethere?
+Iturn my back in surpriseanddiscoveragroupof strangers in front of me.
+A gentleman in expensive clothing who is quite handsome. He must have been really pop-
+ularinhisprime.
+Theman has a rather uniquepairoflong andnarrow eyes.
+1
+Closest referencetothesource
+38
+
+Page 39
+
+There are five other people who look like highly ranked military general that stand by the
+twosides of this gentleman.
+Youcan tellthey have receivedgood trainings.
+But Ididn’tevennoticewiththembeingso close…
+Howcould thisbe, my“UniversalPerception” didn’treact at all!
+I’mrather panickedwhenthisthought raisesover me.
+«Answer. Thereis no hostilitydetected from this group of people.»
+Raphael-sama rather unpleasantlyinformsme.
+Ah,right, I see.
+…Ugh, this one is really on me. Just now I was complaining about receiving too much
+information.
+Inotherwords,myrathervaguerequestoflettingRaphaeldistinguishthosewhowishharm
+onmewasquite unreasonable.
+Ican’tblame‘WisdomKingRaphael’for beingmad.
+Sorry! InthefutureIhopeyou’lljustreporteverythingasitis—Iapologizefromthebottom
+ofmy heart.
+It isratherembarrassingtoapologize tomyownskill, but it is the intent that matters.
+NotnoticingwhatI’vebeendoing,Gazelcontinuedtoconversewiththemysteriousgroup.
+“Where didyouall comefrom?”
+“Whata coincidence! Aren’tyou the king that likes to hide and live underground? What a
+surprise. Ineverexpected chickenlikeyou would comein aid of a ‘Demon Lord’…”
+Thatman is ratheratease withhisattitudeeven with Gazel’simposing haki.
+He’sclearlytryingtoprovokeGazel,andthegeneralsaroundhimalsolookquiteirritating
+asiftheyaresaying“I reallycan’tstand this.”
+“The coward would be you. You idiot elven offspring who likes to stay on high ground.
+Haveyoufinallydecidedto visitthemortalrealmfrom the City of God tree?”
+Gazelseemstohaveseenthroughtheactandhencedisarmedhisalert. Instead,helaughed
+smuglyandteased themanback.
+Fromthe looksof it, Gazelandthe manknew each other.
+SoRaphael’sreactionwasrightinthatheholdsnohostility. Maybeit’sjustthatGazeland
+the man can’t get along with each other. However, that may be too much considering the two
+justseemlike friends who lovebad-mouthing eachother.
+“Rimuru-sama,theyseemtobethe messengersfrom Sorcerer’sDynasty Sarion.”
+Theonewho reportedtomeisSouei’ssubordinate Souka.
+I heard he is responsible for leading these guests here. After that guy found out Gazel was
+presenthere too,he then decidedtocome andspice things up.
+“Youjustnever change,Elalude.”
+Thetwoboth give oneanotheranawkward look andgreet each other.
+Thatseems to be theirspecialwayof greeting.
+“Right, sowho is thisyounglady—”
+39
+
+Page 40
+
+“Ah, nice to meet you, I am the leader of this forest, Rimuru. I look forward to our future
+encounter.”
+Thisnarrow eyeman—Elalude haslaid hiseyes on me, so I decided to greet him a bit.
+Ishouldhavewelcomedhiminamoreproperceremonialwayconsideringhe’samessenger
+from Sorcerer’s Dynasty Sarion. Despite that, I’ve got no clue about the customs and elegancy
+ofthesuch a ceremony.
+EventhoughI’ve becomeademonlord, Istillcan’tfind experts in that field.
+Iguess it’sfine, I’ll justhavetofind an experttoenlighten me another time.
+As Igreet him,Elaludesuddenlybecamefidgety.
+Hestarted to shoutwith hiseyesopenedwide.
+“Soitisyou! Youarethedemonlordthatkidnappedmydaughter! Ihopeyou’veprepared
+yourselfforwhat’scoming!”
+As soon as he finished, he began to conjure a Greater Explosive Flame spell and starts the
+chanting.
+Oioi,could yoube anylessreckless,mister?!
+According to my knowledge, Special Greater Explosive Flame spell is one of the most
+difficulttype of magicto conjure.
+Fireisoneofelemental-basedmagicanditsspellsrangefromFireballallthewaytoGiant
+MagicFireball. Itbecomesmoredifficulttocontrolasthespellbecomesmorepowerful. There
+arethenmorepowerfulspellssuchasGiantMagicFlameBarrierorGiantMagicFlameStorm
+thatare very difficultto conjure. Allin all, the difficultyof casting increases naturally with the
+powerand scaleof the spell.
+So,let’sjustanalyze thenameofspell castedby this Mister Elalude…
+Special GreaterExplosiveFlamespell,to putit simply,is a synthesized magic spell.
+ItcontainsFirespellthatcanburnandtheExplosivespellthatcouldblowawaythetarget—
+Bycombiningthetwobranchesofspell,onecansublimatethetwointoahigherlevelofExplo-
+siveFlame Magic.
+Speaking of that, ithappenstobethetype ofmagic wielded by Shizu-san.
+ThedifferenceisthatShizu-sanreliedalsoonthepowerofIfrit. It’squitedifficulttocontrol
+aspiritifyouaren’taconjuringexpertsuchasShizu-san. But,aslongasyouestablishatrusting
+relationshipwiththe spirit,itwillhelpout intimesof need and hence help control the power.
+Soincontrast, whenwetalkaboutSpecial Greater Explosive Flame—
+It isaverydangerous spellwhenonerelieson himself to control the magic.
+Even so, this type of magic is not limited by the magic system itself, so there is a lot of
+freedominits usage.
+The casting speed, accuracy, power, scale, area of effect, duration of effect; one can freely
+distribute the spell’s magnitude in all of these major elements. If he chooses to pursue purely
+power,itwouldbe a pieceofcakeforhim tocause havocon the town.
+But ofcourse, thisalsoincreasesthe risks.
+Conjuringspellsrequiremagicules,aswellassufficientconcentrationofmentalabilitiesin
+40
+
+--- END PRESERVED SOURCE BODY ---

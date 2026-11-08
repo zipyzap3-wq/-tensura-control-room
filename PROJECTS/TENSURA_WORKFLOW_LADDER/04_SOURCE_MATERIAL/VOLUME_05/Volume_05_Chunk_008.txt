@@ -1,0 +1,1579 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 68 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_05_Chunk_008.txt | SHA d6dfe185b39e6675980fcc2a65b0208f45f55af0 | 46426 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_05/Volume_05_Chunk_009.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 4 ===
+
+CHAPTER 4
+
+THE BIRTH OF A DEMON LORD
+
+I headed for the meeting hall, Yohm in tow, once I heard that all my people had quickly gathered there.
+
+As I stepped inside, the entire Tempest government currently in town was waiting for me, strained looks on their faces.
+
+Gabil and Soei were still on standby in the cave, but Soei was connected to me via the Sticky Steel Thread trick, and I figured he was monitoring the audio.
+
+“Sorry I left you guys in the lurch for so long.
+
+We’re here to convene a meeting over resurrecting Shion, Gobzo, and everybody else!”
+
+The declaration made the hall stir.
+
+They were happy to see me back to my old charismatic self, and now they had hope that there was something to be done.
+
+It kindled a flame in each of their eyes.
+
+Not one of them expressed a single doubt.
+
+Shion and Gobzo were coming back, and it was time to move.
+
+“Now, before I give you my own ideas, I would like to hear your opinions about the Kingdom of Farmus and about humans in general.”
+
+I received a great deal of feedback very quickly.
+
+The majority of them were in agreement with me on one key point: There would be no forgiveness for the humans who had played that cowardly trick on us.
+
+They were right to feel that way, no doubt about it.
+
+Some of them, however, also said not to treat all humans the same, that there were a lot of good ones out there as well.
+
+I was happy to hear that.
+
+All this anger, fear, and hatred threatened to drive us away from the goal we needed to seek.
+
+Even after all of this, they still faithfully adhered to the advice I had for them.
+
+These monsters considered
+
+very
+
+seriously the idea of living alongside mankind.
+
+I had to love these guys for it.
+
+They were precious to me, like family.
+
+I never really loved anyone before, so putting it that way sounds kind of fakey to me still, but…
+
+I waited for everyone to settle back down before I continued.
+
+“Right.
+
+Listen to me, all of you.”
+
+I felt all eyes upon me as I began.
+
+“I myself am a former human being.
+
+I was reincarnated, as it were.”
+
+This caused a little commotion, but nobody spoke up.
+
+Shuna, Ranga, and probably Shion already knew, I believed.
+
+I didn’t take great pains to hide it, and I think I might’ve even mentioned it offhand to them at some point.
+
+Judging by the looks of surprise on many of my audience’s faces, though, word must not have gotten around.
+
+“I lived as a human in the same world that the so-called otherworlders come from.
+
+I died over there, and then I was reborn here as a slime.
+
+It was pretty lonely at first and desolate, but even someone like me managed to make friends here.
+
+By ‘friends,’ I mean you.
+
+It’s possible that all of you became closer to human with your evolutions because of my own hopes, for all I know.”
+
+I paused to gauge the response.
+
+Everyone was intently listening to me, nobody expressing any doubts.
+
+I kept going.
+
+“I created that rule not to attack humans for that reason.
+
+I said I liked humans because I used to be one.
+
+And let me assure you, it was not my hope that my rule would cause any of you injury.
+
+I’m a monster, but I thought that my heart was still human.
+
+I wanted to interact with them, and I wound up spending a really long time in human towns and settlements.
+
+If only I could have saved those children and come back here sooner…”
+
+Then, out of nowhere, I ran out of words.
+
+I felt like anything I could say would just sound like a trite excuse.
+
+“No, you’re wrong.
+
+We were too dependent upon you, Sir Rimuru, assuming you would always be there to protect us.
+
+That’s what led to this tragedy,” said Shuna, her beautiful eyes fixed on me.
+
+“It pains me,” Benimaru added, “to have my sister say it before I could.
+
+This has been an excruciating lesson for all of us, Sir Rimuru.
+
+When we lost our Thought Communication with you, that feeling of invincibility we had crumbled.
+
+It made us all feel helpless, deep in our hearts.
+
+We were forced to realize that this state of affairs was brought about by our…well, really,
+
+my
+
+dropping the ball.”
+
+“Wait a moment, Benimaru,” Rigur replied.
+
+“If you put it that way, then I am responsible for the town’s security.
+
+I am the one most at fault!”
+
+It sounded like both Rigur and the rest of them felt an intense responsibility for this.
+
+They all insisted it was their fault, refusing to budge.
+
+I quickly put a stop to it.
+
+“Hang on, people.
+
+I was chilling out, I let my guard down, and that’s what led to this.
+
+Plus, as an ex-human, I put too much priority on my own thoughts.
+
+I was careless about my standing in this world, and then this happened.
+
+I think it’s all my fault.
+
+I’m sorry.”
+
+Everyone fell silent, each of them taking my words in their own way.
+
+There was a moment’s pause before Hakuro finally responded.
+
+“You may have put your own thoughts first, Sir Rimuru, but that is not a problem at all.
+
+As Sir Benimaru and Lady Shuna stated, all of us dropped the ball.
+
+It was our own weaknesses that caused this.
+
+We accepted this nation from you, and we let those brutes pillage it because of our negligence.
+
+Am I wrong, everyone?”
+
+A streak of tension crossed the room.
+
+All of them immediately nodded their agreement to this.
+
+Um.
+
+Hmm.
+
+Wasn’t expecting that.
+
+I was worried that people would brand me a traitor, in the worst case, but they were all ignoring my whole coming out as an ex-human.
+
+Like, I seemed to be the only one to care at all.
+
+I couldn’t help but ask:
+
+“Well, no, I mean… You don’t mind having an ex-human as your leader?”
+
+“Huh?
+
+You are still you, aren’t you, Sir Rimuru?”
+
+“Sir Rimuru, you are my only master.
+
+What you were in your past life seems not to matter much.”
+
+“Yeah.
+
+What we know for sure is that you’re here for us, is all.”
+
+I guess it wasn’t anything like a concern from the start.
+
+“Sir Rimuru,” Rigurd boldly stated, “we all feel the same way about this.
+
+None of us cares a bit, so please, do whatever you like.
+
+We will follow you all the way!”
+
+I nodded.
+
+This really
+
+was
+
+my home.
+
+I felt happy.
+
+As long as you were all of one heart, one mind, you could overcome any wall—even the one separating human from monster.
+
+That much was crystal clear now.
+
+Kaijin, tearing up a bit as he watched this, steered the topic back to our main issue.
+
+“So let me ask, then: How is Tempest going to deal with humans from now on?”
+
+The room fell silent, eyes focused upon me again.
+
+Yeah.
+
+That
+
+was
+
+the problem, wasn’t it?
+
+The monsters were one thing, but to Kaijin, the other dwarves, Yohm, and Kabal and gang, this was the biggest issue on the table.
+
+If I declared myself to be the enemy of all mankind, that’d be a threat to them.
+
+I didn’t want that, of course.
+
+“First,” I said, “before I give you my conclusion, let me give you a quick outline of my thoughts.
+
+In my old world, there are a couple of different beliefs.
+
+There’s one that says humans are inherently ‘good’ by nature and learn how to perform evil deeds as they grow older.
+
+Then there’s another that says humans are selfish and evil by default and learn how to do good over time.
+
+Basically, people can be good or bad, and humans tend to pick the easier of two options when they have the chance, so if that option leads to evil, they can become bad that way.
+
+Just like Farmus did, abandoning all negotiation and throwing around their power.”
+
+I figured I was in the right here.
+
+After all, people could be good individually but lean more toward evil when they assembled together as a nation.
+
+“…However, it would be a mistake to judge all of mankind as evil.
+
+It takes a human to do something as contradictory as working hard to make things easier for themselves.
+
+I was the same way, really.
+
+And I think that as long as you don’t mess up where you’re aiming your efforts at, you can make your existence a lot better for yourself.
+
+That’s why it’s so vital to have an environment you can learn in—and I want to create that environment.
+
+We can educate those who’ll befriend us, and we’ll do away with the barriers between people and monsters.
+
+That makes for better neighbors, after all, when you understand and help out one another.
+
+Doesn’t it?
+
+That’s the potential I want to believe in…”
+
+That was what I thought about humanity.
+
+It wasn’t that I wanted to make mankind my enemy; I wanted us working hand in hand as a result.
+
+But:
+
+“…But that’s just my hope for the future.
+
+If we trust in them unconditionally and run into this kind of situation again, we’re wasting our time.
+
+That’s why I’ve concluded that, for the time being, it’s too early to shake hands with humanity.
+
+The most important thing right now is to put on a show of force and make them recognize our presence.
+
+We need to build a position where they can no longer afford to ignore us.
+
+As it is, we’re probably being downplayed, treated as something they can use and exploit.
+
+We had been dealing with nations like Blumund and the Dwarven Kingdom, decent kingdoms that looked out for us, so we forgot about the darker side of being a nation.
+
+Even if individual people are good, the moment they form a nation, that’s when they expose their cruel fangs to us.
+
+Any nation is basically a bunch of weak people grouping together to become stronger, so I guess you can’t avoid that if you want to keep all the decent ones protected.
+
+That’s exactly why we need a show of force for people like that.
+
+My ruling this land as a demon lord will make them realize that trying to coerce us with military might will accomplish nothing for them.
+
+I can keep the other demon lords in check, too, serving as a shield for the other human nations.
+
+If we can make them think it’s better to be with us than against us, that’s all I could ask for.”
+
+I took a breath and gauged the reaction.
+
+Even the normally clownish Gobta was listening intently instead of napping like he usually did.
+
+It was nice to see what I wanted to say get across to them.
+
+“…If the Western Holy Church has judged us to be evil, then we must be firm in fighting against that.
+
+Not just with force but with words and economic policies.
+
+I want us to act like a mirror for these people—those who bare their fangs against us will themselves be punished; those who extend a hand will be amply rewarded for it.
+
+And then, over a very long time, we’ll try to build friendly relationships.
+
+That’s how I think about this.”
+
+And with that, I wrapped it up.
+
+Kaijin was the first to react.
+
+“I think that’s just too idealistic.”
+
+He sighed.
+
+“Like, what kind of guy trying to become a demon lord talks like
+
+that
+
+?
+
+Come on.
+
+Gotta admit, though, I kinda like it.”
+
+Shuna snickered.
+
+“Nothing wrong with being idealistic.
+
+I think Sir Rimuru has what it takes to build that kind of ideal.”
+
+“Indeed,” Geld said, “there is no need to lose ourselves in thought.
+
+We have decided to follow in Sir Rimuru’s footsteps, and thus we can only believe in him.”
+
+I wasn’t sure I liked that lack of critical thought on his part, but he meant it with the utmost sincerity.
+
+“If you
+
+do
+
+manage to become a demon lord”—Benimaru laughed—
+
+“I hope there is a role for us in it all.”
+
+“I am your faithful shadow, Sir Rimuru,” Soei said—I guess he
+
+was
+
+listening in.
+
+“There is no need to confirm our relationship.
+
+I will move according to your orders.”
+
+“And I, my master,” Ranga added from my shadow, “am your faithful fangs.
+
+The one who will tear apart any foe who stands in your path.”
+
+They all voiced their agreement in their own ways—Rigurd, Rigur, Gobta, Hakuro, and everyone else.
+
+Yohm, too.
+
+“Damn, pal,” he said, scratching his head.
+
+“And you want my crew to build a new nation and turn everyone there to your side?
+
+Well, you don’t need to lay it out for us.
+
+I know how your mind ticks.
+
+You’re a real slave driver to all of us, y’know that?”
+
+“I’m so glad we have an understanding, Yohm.”
+
+“Ah, shove it,” he pouted, his lips smiling.
+
+Mjurran was on his right, Gruecith on his left, and the rest of his followers behind him.
+
+I saw Kazhil, his aide, and Rommel, his main staff officer, among them.
+
+They were all humans, and they, too, voiced their agreement in a variety of ways.
+
+“Hee-hee-hee!
+
+So let’s keep things friendly between us, okay, Rimuru?”
+
+Everyone nodded at Elen.
+
+Her words had weight in my mind.
+
+I was pushing a lot of stupid ideals upon them; I didn’t have any excuse for that.
+
+I lived life the way I wanted to, and I had to take responsibility for my actions.
+
+“Thanks, guys.
+
+Hope you’ll still put up with my selfishness in the future!”
+
+They all shouted their agreement, harmonizing like a choir.
+
+With that out of the way, it was time to switch gears and figure out a strategy against this invasion.
+
+“Um, do we have any details on the enemy force?”
+
+Soei quoted a figure of at least ten thousand men, but I didn’t hear about what types they were yet.
+
+We needed to let the rest of this meeting’s attendees know, too.
+
+“Yes,” Benimaru stepped up to state.
+
+“According to Soei’s investigations…”
+
+…We were being invaded by a tandem force, with soldiers from both Farmus and the Western Holy Church.
+
+The Church force were the Temple Knights, the minor leaguers—about three thousand of them, which consisted of the garrison that was already stationed in Farmus.
+
+In addition to that, essentially there were ten thousand Farmus knights, six thousand mercenary troops, and around a thousand magic-users.
+
+So, around twenty thousand in all.
+
+Pretty big force.
+
+Larger than our country’s entire population.
+
+But if the Church’s Crusader groups and their legendary strength in battle weren’t part of the equation, I didn’t see any major problem.
+
+The sheer numbers were more than expected, but the only implication this had was that I’d have a larger sacrifice to snack on.
+
+I had no intention of offering any of them mercy, after all.
+
+The real question on my mind was how many otherworlders were among them.
+
+“How should we allot our own forces?”
+
+Geld gingerly asked.
+
+“I think,” Benimaru replied, “my force should address the main enemy presence.”
+
+He was ready to go, definitely—apparently, he had formed a group of hobgoblin warriors on the sly, trained by Hakuro and pretty well honed.
+
+Rigur and Gobta were commanding the goblin rider teams, too, and ready to kick up one hell of a lot of dust.
+
+I wasn’t the only one to be enraged by what happened.
+
+But:
+
+“I’m sorry, guys, but I’m gonna be the one to take down these forces.
+
+Or, I mean, I hope you’ll let me.”
+
+“…How do you mean?”
+
+Benimaru asked for the crowd.
+
+My explanation was simple.
+
+“It turns out ten thousand sacrifices are all I really need to become a demon lord.
+
+Presumably, I’ll be evolving into a so-called ‘true demon lord,’ and that’s how the process works.
+
+Luckily, we have double that on our doorstep, so I got more than enough.
+
+After that, I just need to show off my force a bit.
+
+It’s part of the whole ceremony, or process, toward reaching demon lord–hood.
+
+I need to annihilate all the invaders by myself.”
+
+I wasn’t being entirely honest here.
+
+There wasn’t any need to go it alone, according to the Great Sage—as long as the souls were connected to me, no worries.
+
+My own will needed to align with theirs, and that’s all it took.
+
+The exact conditions, however, were allegedly a little hard to engineer—it wasn’t just a matter of killing ten thousand and Bob’s your uncle.
+
+But I didn’t care.
+
+A passing thought struck me that maybe Clayman had been
+
+aiming for this all along—to start a war for the express purpose of collecting ten thousand human beings together for reaping.
+
+Attacking villages singly only got you so far—maybe he aimed for a war that’d let him efficiently harvest those souls and become a true demon lord himself.
+
+He just didn’t know the
+
+exact
+
+conditions needed, so he had to satisfy himself with spreading evil around his domain instead.
+
+It almost seemed to me that he was taking advantage of the other demon lords so he could become a true one, even.
+
+He would’ve been eliminated from the fray sooner or later, I suppose… But right now, the demon lord Clayman was my clear enemy.
+
+Once I took care of things with Farmus, he was coming up next.
+
+So really, I had just one reason for handling this solo.
+
+It was because I had this well of intense anger deep in my chest, and I wanted to release all of it.
+
+I didn’t want to give people the impression that I’d kill at the drop of a hat.
+
+I wanted them to know I was
+
+pissed
+
+.
+
+And if it meant I’d make a mistake and get killed, then that’s just all I was capable of, really.
+
+Plus…you know, I felt like I had to take responsibility for all this.
+
+I couldn’t allow myself to take it easy any longer.
+
+Even if Hinata was among the invaders, I intended to kill all of them by myself.
+
+I’d already seen her skills once.
+
+The same skill never worked twice on me, because the Great Sage always had the perfect remedy for it.
+
+……
+
+It felt like the Sage wanted to say something about that, but that assumption had never let me down before.
+
+Knowledge provides me the biggest advantage there is.
+
+If you use a skill meant to pick someone off on the first view, then you
+
+have
+
+to kill with it—otherwise, the survivors will pull their knowledge together and come up with countermeasures.
+
+It didn’t matter who my foe was—I wouldn’t lose.
+
+I’d never be allowed to.
+
+And, perhaps sensing my resolve, Benimaru grudgingly accepted it with a nod.
+
+“Very well.
+
+We leave this to you, Sir Rimuru…”
+
+I nodded back.
+
+Although, of course, I didn’t intend for him and everyone else to just keep quiet and wait.
+
+“…There is a job I would like to have all of you do for me, though.
+
+Right now, there are magical devices of some sort in all four cardinal directions around town, generating that weakening barrier over us.
+
+Each is being guarded by a company of knights.
+
+I’d guess they’re pretty powerful, but I’d like you to attack them and take them all down simultaneously.”
+
+“Ohhh?”
+
+“I see.
+
+So we
+
+do
+
+have a role in this?”
+
+“Allow me, Rogurd, to accept this mission!”
+
+“Yeah, I’m pretty darn mad right now, too!”
+
+Everyone was raring to go, even before I’d finished my request.
+
+I raised a hand to silence them.
+
+“Hold on.
+
+I’ve already decided on my personnel.
+
+I want to ask as few people as needed to go through the town’s barrier.
+
+First, Benimaru will tackle the east.
+
+Hakuro, Rigur, Gobta, and Geld will handle the west.
+
+The south will be taken by Gabil and his team; the north by Soei and his.
+
+The enemy’s reportedly got teleportation circles in place, so we have to strike them before reinforcements can be sent in!
+
+If they
+
+do
+
+manage to send more troops, call Ranga over immediately, even if you think it won’t be enough to put up a resistance.
+
+Did you hear that, Soei?”
+
+“Not a problem, Sir Rimuru.
+
+I thank you for providing us the opportunity.
+
+Gabil is ready to go as well, and I doubt any of us will fail.”
+
+“Does it look like you can win, from your perspective?”
+
+“It will be simple if we only handle one of the four.”
+
+Great.
+
+Soei’s team consisted of a mere six people—himself, Soka, and four others.
+
+Their skills were honed for assassination missions, and they’d provide a good match even for an entire enemy unit if it wasn’t prepared for them.
+
+Plus, with their movement speed, they’d certainly be able to pull the wool over the enemy’s eyes and flee if needed.
+
+Gabil and his men had grown far stronger during the evolution to dragonewt form.
+
+Each one ranked a good B-plus now, and I doubted they’d lose out to even the most well trained of knights.
+
+They all had ample potion, too, so as long as they weren’t one-shot killed, they could keep up a fight indefinitely.
+
+So north and south were no problem, and to the east, I had Benimaru to count on.
+
+“I have no concern about your chances, Benimaru, but it’ll be you operating solo against nearly a hundred knights.
+
+If you sense any danger—”
+
+“Sir Rimuru, there is no need for worry.
+
+It is a given that I will—”
+
+“You don’t have to go easy on them, keep in mind.”
+
+“Heh.
+
+In that case, victory is assured.”
+
+No worries about him, either.
+
+Among our group, only I was stronger than him, and he had the skills needed to handle large numbers at once.
+
+That just left the west side, which
+
+did
+
+concern me.
+
+“Okay.
+
+So: Hakuro, Rigur, Gobta, and Geld…”
+
+“Sir Rimuru,” Rigur said, “you are safe in our hands.
+
+I have no intention of tasting defeat twice.
+
+But if you are that worried about us, is it because…you feel it’s likely
+
+they
+
+are among their numbers?”
+
+Exactly.
+
+The west side connects to the shortest highway route to the kingdom of Blumund.
+
+If the enemy anticipated that our merchants would flee down that road, then the knights who attacked us earlier were probably stationed to the west so they could strike at our visitors.
+
+“Can you win against them?
+
+There’s a very good chance those otherworlders are among them.”
+
+“Sir Rimuru, we are not as weak as we used to be.
+
+We have the power to fight, not just to be protected by Sir Hakuro.”
+
+“Yeah!
+
+Plus, I gotta get me some revenge for Gobzo!”
+
+“I know we number just four,” Geld said, “but I want you to trust us.
+
+I promise you, Sir Rimuru, I will wield the powers you granted me as an orc king as much as I possibly can!”
+
+Hakuro’s reputation preceded him.
+
+Geld was powerful, if not quite as much as Benimaru.
+
+Rigur, in his role as leader of our security forces, was just as capable in battle as Rigurd.
+
+Gobta… Okay, I
+
+was
+
+a little worried about him, but I figured not even that fool would try anything too rash.
+
+“All right.
+
+Take those magical devices down, make this annoying barrier disappear, and give our people their full strength back!”
+
+“““Yes, my lord!!”””
+
+With them on the job, the barrier was as good as gone.
+
+That just left me to take on the invading forces by myself.
+
+There was one other thing too important to forget.
+
+“Now, Shuna…”
+
+“Yes?”
+
+“Like I just said, Benimaru and everyone will remove the barrier for us.
+
+However, it’s that very barrier, in all likelihood, that is helping keep the souls of Shion and everyone else within reach.
+
+Do you see what I’m getting at?”
+
+“Yes, Sir Rimuru.
+
+You want us to prepare a replacement barrier for you?”
+
+“Exactly.
+
+Can you do that?”
+
+“Oh, that goes without saying, my lord.
+
+I promise it will be done!”
+
+Right now, as we spoke, I was casting a unique sort of great magic.
+
+I was also releasing a vast quantity of magicules into the air, filling it.
+
+That was what it took to maintain the barrier and supplement the magicule supply around here—and I wanted Shuna to make a new reinforcing barrier to help with that.
+
+The rest of the people in town would pitch in, too, of course—whatever it took to boost the chances of bringing them all back alive.
+
+In the laws of magic, just like the laws of physics, there was the concept of going “high to low.”
+
+Basically, if the air was filled with energy, I figured that would help prevent the energy covering all those souls from dissipating.
+
+If they lost this protection, the souls could go right through the barrier and be vaporized.
+
+A soul is a pure, unadulterated collection of energy; there is nothing to fence it in.
+
+And with the astral bodies of monsters made of magicules, if we could keep
+
+this
+
+energy from dissipating, I figured that would pen up the souls well enough.
+
+That was the Great Sage’s take on things, and all I could do was count on that.
+
+(Humans, by the way, could pass through the barrier without resistance, since they had relatively few magicules inside their bodies.
+
+It was totally different from monsters, who were much more directly affected by that energy.)
+
+“I would love to help with that if I could,” Mjurran said.
+
+Great magic, along with barriers, was an apparent specialty of hers.
+
+I appreciated the offer a ton.
+
+“Hey, Shuna…”
+
+“Yes, Sir Rimuru.
+
+Thank you for that, Mjurran.”
+
+“Leave it to me.
+
+I promise I’ll devote my full energy to it.”
+
+So Shuna and Mjurran would be working together to keep my great magic going strong.
+
+Now I could fight with a clear mind.
+
+“Rigurd!
+
+I want everybody left to help keep these two safe in the meantime!”
+
+“Yes, my lord!”
+
+“I—I can do that, too?!”
+
+“You got us here, too, pal!”
+
+“Allow the noble Gruecith to see this through for you!”
+
+“Yeah, my bodyguards and I will do our best!”
+
+“You are in good hands, Rimuru.”
+
+“Yeah, you heard ’em, boss!”
+
+I had Kurobe, Yohm, Gruecith, Rigurd, and the Kabal trio in town.
+
+It couldn’t be a safer place if they were here.
+
+“Right!
+
+I imagine our enemy assumes the final battle’s four days from now, but that doesn’t matter to us.
+
+Right now, from this very moment, it is time to do what must be done and annihilate our foes!”
+
+And with that order, everyone began to move, working to the last man to bring Shion, Gobzo, and everyone else back.
+
+Benimaru’s back was straight, shoulders high, as he strode directly for the magical device installed east of town.
+
+One of the Temple Knights there was the first to spot him.
+
+“Someone approaching ahead!
+
+All troops, prepare for battle!”
+
+It was this company of Temple Knights that established the Prison Field, the barrier weakening the monsters, at Archbishop Reyhiem’s order.
+
+There were a bit over a hundred of them, each ranking a B-plus threat individually.
+
+Three other companies were in each of the other directions, attending to the barrier devices.
+
+They boasted astonishing battle skills, geared more toward tackling monsters than your average knight, and all of them were more than amply trained for the job.
+
+And like any devout member of the Western Holy Church, none of them was complacent.
+
+They had guards on duty, tense and focused, and Benimaru was discovered in short order.
+
+And yet—
+
+“Sorry, man, but you’re gonna help me vent my anger a bit.”
+
+It sounded almost haughty, the way he put it, but nobody was there to complain.
+
+In an instant, they were all dead.
+
+With his sword, encased in jet-black flame, he cut the knights neatly in half—armor and all—as easily as ripping a sheet of paper.
+
+Their fresh blood stained the ground red, like crimson fields of flowers blooming amid the black fire.
+
+One of them held out just long enough to voice his final resentments.
+
+“N-nobody said anything about this…this…monster…”
+
+It was the captain of the knight company, and it was his last act on this world before the black flame consumed him.
+
+That single dance-like motion from Benimaru didn’t even need half a minute to knock them all out—and another offhand swipe of his sword slashed right through the magical device.
+
+“Mission complete,” he whispered.
+
+“Now—are any of my allies pathetic enough to be having trouble with this?”
+
+He sincerely doubted it, but he still set off to check out the scene in the other directions.
+
+Over to the south, Gabil was busy rousing his men.
+
+“Gah-ha-ha-ha!
+
+I’ve finally been given a place in the sun!
+
+I was hoping my successes in putting our potions on the market would’ve merited my appointment to higher government by now… But then we had
+
+this
+
+distraction happen to us.
+
+It is simply outrageous that these minions should get in my way!
+
+Isn’t it?”
+
+“It is exactly as you say, Sir Gabil!”
+
+“Well put.
+
+I was hoping that our efforts would be rewarded by now and that Sir Gabil would be basking in the fruits of his success.
+
+But now…”
+
+“Yes!
+
+Yes, precisely!
+
+But!
+
+If this battle can prove to Sir Rimuru that I can be of aid to him, I am all but guaranteed a lofty role in his hierarchy!
+
+I want to see the full extent of your force in action right now, people!
+
+Show them what a dragonewt riled is capable of!”
+
+“““Raaahhh!!”””
+
+Spirits were high, no doubt, although some of Gabil’s men might have questioned the way he phrased that speech.
+
+They knew Gabil didn’t need some fancy title in the Tempest government—he had already proven himself a capable leader in their eyes.
+
+That was why they had followed him when he was banished from his homeland, after all, and as petty as he could be about it sometimes, they knew he was seriously trying to boost their good name.
+
+“Such words,” one of them whispered, “are exactly why Soka and the others make fun of him, you realize.”
+
+“Shhh!
+
+You want him to hear you?”
+
+“Yeah, well, that’s one of the good things about our general, after all, isn’t it?”
+
+“No doubt.
+
+You said it.”
+
+“Enough idle chitchat,” barked Gabil.
+
+“Put yourselves into this!
+
+Ah, you make life so
+
+difficult
+
+for me!”
+
+“Oh, we do not, General!”
+
+A quick laugh.
+
+“Right!
+
+Forward!!”
+
+They were roused and ready to fight as they took flight from the cave, cutting through the clouds as they went southward and attacking in tandem with the others.
+
+The Temple Knights protecting the south were thrown into chaos upon witnessing the surprise attack from the skies.
+
+The ever-changing breath attacks—fire, ice, air—took out nearly a third of them in short order.
+
+“Retain your positions!”
+
+a senior knight half ordered, half shouted as his men flew into a panic.
+
+“Go into our air-defense formation and prepare for magical impact!”
+
+But he was already too late to avoid Gabil’s second wave of offense.
+
+“Damn it!
+
+These aren’t lizardmen at all, are they?
+
+They don’t have anywhere near
+
+this
+
+level of force—much less wings to fly with!”
+
+“Don’t panic!
+
+These are dragonewts!
+
+They’re not as common, but they’re nothing we can’t handle!”
+
+“Dragonewts?!
+
+I can’t believe it!
+
+Such great numbers, and working as a team…”
+
+Their confusion subsided before the third attack arrived, as they finally began to grasp the situation.
+
+But half of them were already down, and none of the survivors was free of injury.
+
+“Curse them!
+
+Contact our headquarters and call for reinforcements!”
+
+One of the knights prepared to follow his captain’s order.
+
+Then Gabil himself alighted next to him.
+
+“Hngh!”
+
+His spear plunged straight through the knight’s heart.
+
+“May God damn you now!”
+
+the captain shouted as he engaged Gabil.
+
+“Gah-ha-ha-ha!
+
+You captain this force?
+
+My name is Gabil, but there is no need to remember it.
+
+Consider my telling you a final gift before your death!”
+
+“What?
+
+A named monster?!
+
+Very well.
+
+You should prove a worthy opponent for me!”
+
+Gabil was occupying the full attention of the company’s leader and commander, and it threw the rest of the knights into disarray.
+
+This was the moment the other dragonewt warriors were waiting for.
+
+They were an even match, pound for pound, but thanks to the gift of flight, Gabil’s fighters had the advantage.
+
+Even the injured among them had High Potions at the ready, rapidly returning them to the front line.
+
+“God smite them all!
+
+We hit them and hit them, and the bastards keep coming back!”
+
+“Stay strong!
+
+We have the protection of Luminus upon—
+
+Gehhh…
+
+”
+
+Their numbers were few now, and the shock of these monsters working in precise tandem had hardly worn off.
+
+The medicine these foes used to heal their wounds struck fear in their hearts.
+
+Even the most devout of the knights began to tremble—and as they did, the captain they so heavily relied upon was slain by Gabil.
+
+“Gah-ha-ha-ha!
+
+Victory is mine!!”
+
+Now the fate of this battle was sealed.
+
+Without a commander, the rest of the knights were helpless, quickly tasting defeat at the claws of Gabil’s men.
+
+Over to the north, Soei and his platoon were on the move, silently using Shadow Motion to sneak into the encampment.
+
+Out of nowhere, there was a dull
+
+thud
+
+—the sound of someone’s head hitting the ground.
+
+Soei had decapitated the garrison’s commander.
+
+It was a signal to all that the battle was on.
+
+“N-no!
+
+Where did they…?!”
+
+“Grahhh!”
+
+“Aaahhh!!”
+
+The shapeless assassins had successfully thrown the northern encampment into fits of terror.
+
+“…Sir Soei, these troops were weaker than I thought.
+
+I apologize,” Soka said as he took a knee before his leader.
+
+“…Apologizing would be meaningless.
+
+I am the one who shall make the final judgment.
+
+Plus…”
+
+Soei paused a moment to think.
+
+Soka was right.
+
+These were all weaklings.
+
+If this was what they were dealing with, Soei’s team could have easily destroyed the magical devices in all four directions.
+
+Killing all the men as well would pose a challenge, but completing the objectives and escaping alive would have been no sweat.
+
+But the problem wasn’t here on the north side.
+
+“I was hoping
+
+they
+
+would be here…but I suppose it is the west, after all, just as Sir Rimuru surmised.”
+
+“Yes, my lord!
+
+I believe you are right.”
+
+The otherworlders had to be in the west.
+
+By Soei’s estimation, if their team worked alone to strike all four bases at once, it might have failed entirely if Soka and the others ran into those guys.
+
+Soei had already reported back to Rimuru along those lines—and that was why Soka’s apology was pointless.
+
+“…But who can say,” he whispered as a smile crept onto his lips, “who the unlucky ones
+
+really
+
+are here?”
+
+Hakuro was on his mind—the Hakuro he saw just before they all moved out.
+
+The look on his face was nothing short of bloodcurdling.
+
+It made Soei happy he wasn’t the one facing him down.
+
+The otherworlders who struck in town conducted their killing like a pleasure hunt.
+
+Now things were quite different.
+
+They’d be taking on the Sword Ogre himself.
+
+“It appears to be over,” Soka coldly stated.
+
+There were no survivors left among the Temple Knights of the north.
+
+Soei and his team were unhurt.
+
+It was a victory as total and complete as he had predicted.
+
+The magic-producing device installed west of town had been placed atop a hill with a good view of the highway leading out.
+
+Unlike the other positions, the Temple Knights guarding it felt rather relaxed.
+
+Their encampment was the safest of all four, and it was loaded with forces—over two hundred troops in all.
+
+There was, of course, a reason for this.
+
+“Hey.
+
+Hasn’t anyone fled yet?”
+
+“Oh, er, Shogo!
+
+No enemies sighted today, either, sir!”
+
+The soldier who answered Shogo Taguchi’s question seemed terribly ill at ease around him.
+
+“Pfft.
+
+How many days are they gonna waste planning their escape?
+
+Or did the merchants and adventurer bodyguards decide to share their fates with the town?”
+
+“Ha-ha-ha!
+
+Oh, I wouldn’t be so impatient,” Kyoya said to soothe the clearly annoyed Shogo.
+
+“The other positions didn’t have any news, either.
+
+If they’re running, they’ll have to go down this road.
+
+It’s the only option.”
+
+“Huh.
+
+Yeah, I hope,” Shogo resentfully replied.
+
+It had been three whole days, and nobody had fled town.
+
+It made him suspicious.
+
+He was here because of the merchants and adventurers who were supposed to be skipping town.
+
+Kyoya seemed content with just shutting down this highway, as ordered, but Shogo had other ideas.
+
+Razen, the head sorcerer of the Farmus court, had personally told him that he had free rein to massacre anyone on the highway.
+
+Just as Rimuru thought, the Kingdom of Farmus had decided that anyone from Blumund trying to flee the region should be killed.
+
+Shogo was no homicidal maniac, but the order filled him with glee nonetheless.
+
+He had noticed something in this new world, and that was the way his skills could evolve.
+
+Once, during training, he had failed to fine-tune his Berserker unique skill, and the results killed one of the knights.
+
+Somehow, it felt like he was just a bit more powerful after that event.
+
+Maybe killing more enemies with that skill would continue to boost the effect.
+
+He still couldn’t defy the locking curse Razen had put on him, but maybe, if he powered up enough, he could later.
+
+That was Shogo’s thought, but defeating monsters didn’t provide that concrete feeling of strength he craved.
+
+It was a disappointment, but now, with carte blanche to kill the Blumundians who would no doubt be flooding this road shortly, he was doing a little dance in his mind.
+
+But the people he had wanted to see so badly showed no sign of appearing, even after three days.
+
+For someone as quick-tempered as Shogo, it was sorely trying the limits of his patience.
+
+Kyoya tried his best to keep him calm, even as he struggled to contain his own cravings for murder.
+
+The previous attack on the town opened his eyes to just how wonderful slashing up bodies could be.
+
+Especially that one elderly ogre.
+
+Those sword skills were the real thing; Kyoya could tell that much.
+
+Ooh, I’ll never forget that surprised face!
+
+The way it was so confident in its own strength!
+
+It’s irresistible!
+
+It made him lick his lips in anticipation.
+
+And even though his motivations were different from Shogo’s, he was just as ready for the fleeing crowds to appear.
+
+Then they heard a messenger provide a report.
+
+“Enemies up ahead!
+
+They number…four?!”
+
+Tension and nervousness found their way into the western encampment.
+
+The knights immediately cast magic to boost their physical strength, preparing to engage this threat and going into a formation that guaranteed at least three troops could tackle each one.
+
+They might have slept on the job a little, but these were Western Holy Church monster hunters, each one an expert in the field.
+
+There was no panic, no agitation.
+
+They simply did what needed to be done before a battle began.
+
+Hakuro, Rigur, Gobta, and Geld were coming their way.
+
+“Let’s give ’em a show!”
+
+shouted Gobta as he drew his dagger and held its scabbard in his left hand.
+
+The starwolf he was on leaped forward, and then he jumped off his mount’s back, somersaulting once in the air.
+
+Steadying his aim with his scabbard, he launched a Case Cannon strike upon the head of the most important-looking knight in the crowd.
+
+Easily surging past the speed of sound, the two-centimeter-wide iron balls landed a direct hit.
+
+There was a soft
+
+zwing!
+
+sound as the knights behind the targeted captain were bathed in blood…then a
+
+thud
+
+as he collapsed to the ground.
+
+“Nice!
+
+Direct hit!”
+
+The knights began to scream and shout as Gobta admired his efforts.
+
+“Enemy of God!
+
+What sorcery is this?!”
+
+The company fanned out, which was exactly what Gobta and the others were anticipating.
+
+“Well done, Gobta.
+
+Keep diverting their attention, but don’t let them capture you.”
+
+“Roger that, sir!”
+
+“You’re just as nimble as always,” observed Rigur.
+
+“You always
+
+were
+
+good at sniping like that.”
+
+“Heh-heh!
+
+Yeah, wasn’t I?”
+
+“Don’t let it get to your head, you fool.”
+
+It was rare for Rigur to compliment Gobta.
+
+The subsequent warning quickly silenced him.
+
+“Keep your guard up!
+
+We need to work together to shoulder some of Hakuro’s and Geld’s load!”
+
+“Got it!”
+
+Rigur and Gobta climbed onto their starwolves, working to throw the knights’ teamwork out of whack.
+
+Geld was waiting for this.
+
+Even their breathing was fully aligned as he watched them send their wolves into the air—the signal for him to stomp his right foot against the ground.
+
+The impact shook the earth under the knights’ legs like an earth tremor.
+
+It was called Earthshatter Kick, one of the Arts Geld had learned, and it sent a shock wave of aura force below him to further extend its power and range.
+
+“Whoa?!”
+
+“Ngh!”
+
+The quake lasted for just a moment, but that was enough.
+
+By the time Rigur and Gobta reached ground again, they were right in front of several unbalanced, teetering knights.
+
+They were left lethally wide open in the midst of battle, fated with nothing but broken windpipes at the fangs of the starwolves.
+
+“Boy, that sure was something…”
+
+“I can hardly believe it.
+
+We didn’t even practice that in training, but your timing was perfect, Geld…”
+
+Rigur and Gobta looked at each other and grinned.
+
+Then the three of them sprang into action anew, maintaining their impeccable teamwork as they beat the knights at their own game.
+
+Before their overwhelming numbers, the trio couldn’t have looked less concerned.
+
+But now there was a dark-haired young man standing before them.
+
+“Ha-ha-ha-ha!
+
+Nice!
+
+I like it!
+
+But now you gotta take
+
+me
+
+on!”
+
+“Ah, ahhh!
+
+Sir Shogo!”
+
+“Please do something about these monsters!”
+
+The smell of death surrounding Shogo intoxicated him, making his face twist villainously.
+
+He could feel force flowing through him like never before.
+
+Yes!
+
+This is it!
+
+Just as I thought—my power grows as people die around me!
+
+His spirits soared as he began running toward the trio.
+
+“Oh, there he is,” Gobta noted, eyes showing an uncommon (for him) anger as he sized Shogo up.
+
+“But he ain’t fightin’ me!”
+
+It was Shogo who had kicked Gobzo to death back in town as he tried to cover for Shuna.
+
+The memory of the moment he heard the news made Gobta boil with fury at the figure running for him.
+
+But he was fully aware of the difference in strength between them both.
+
+No, Shogo would have to fight Geld, just as they planned originally.
+
+“Do not worry, Sir Gobta,” the orc king declared.
+
+“It’s time to deliver the iron hammer of justice!”
+
+“Hee-hee!
+
+Just Gobta is fine, Geld!”
+
+“Understood.
+
+Allow me to handle the rest, Gobta!”
+
+“I hope you do, Sir Geld,” Rigur said as he nodded.
+
+“Gobzo had his faults, but he was a good man to all of us.”
+
+And in another moment, Geld and Shogo were locked in battle.
+
+Amid this fury, there was another confrontation taking place—between Hakuro and Kyoya.
+
+“Wow, old man, you survived?
+
+If you were lucky enough to live, you should’ve tucked your tail and fled when you could.
+
+It woulda been easy for someone as strong as you to make it out.”
+
+“Ho-ho-ho!
+
+I may not look it, but I happen to be a very sore loser.
+
+Besides, something about some youngster getting a swollen head with me when I haven’t even revealed my
+
+full
+
+strength just doesn’t seem right.”
+
+“Oh?
+
+You aren’t talking about me, are you?”
+
+“Does it not seem that way to you?
+
+Well, my apologies.
+
+I suppose your brain’s just as empty as your morals.”
+
+“Ha-ha!
+
+So getting slashed once didn’t bring the message across, huh?
+
+Or are you growing feeble in the head?”
+
+Just then, a sharp
+
+ting!
+
+echoed across the field.
+
+It was the sound of Hakuro’s hidden sword deflecting the blow Kyoya unleashed in the blink of an eye.
+
+The otherworlder had lunged upon Hakuro in the middle of their chat.
+
+Anticipating the strike, he drew his sword against it as if he had all the time in the world.
+
+“Impatient, I see.
+
+But I suppose we both are.
+
+I can hardly contain my anger any longer.”
+
+Kyoya suddenly felt a chill down his spine.
+
+He took a step back.
+
+Hakuro’s ghastly visage mentally overwhelmed him, as much as he didn’t want to admit it.
+
+“Don’t make me laugh,” he spat back, eyes squinted and blurred with the desire to kill.
+
+“Quit acting like my boss, old man!
+
+You couldn’t do a damn thing against my sword!”
+
+“Not your sword.
+
+Your power, yes.
+
+As Rimuru put it, your force is based on the spatial element.
+
+Not even I had an answer for it—but now that I know the trick, I can avoid it.”
+
+“Yeah?
+
+Well, great.
+
+So let’s have a sword fight, all right?
+
+Fair and square.”
+
+Kyoya brought his sword before his eyes—those eyes blazing with a fearsomely evil light—as a distressing grin crossed his face.
+
+“Very well.
+
+Allow me to show you the true essence of swordplay.”
+
+Hakuro held his own blade down low.
+
+Kyoya’s grin widened.
+
+“You ready?”
+
+The otherworlder lifted his sword higher and then swung it down.
+
+He was far too out of range to hit Hakuro with it, but his aim was elsewhere.
+
+The blade itself launched out, away from the sword’s grip, transforming into millions of tiny shards, each one too small to see but packing lethal force as they hurtled toward Hakuro.
+
+Kyoya’s sword was a fake, a dummy created by his Severer unique skill.
+
+Switching between it and his actual sword allowed him to trick his enemy, stymieing them in battle.
+
+“Ha-ha-ha!
+
+That fool got tricked again!”
+
+Kyoya held his stomach as he laughed—but a cold, penetrating voice stopped him.
+
+“Hmm.
+
+So such tiresome little deceits are part of your arsenal, eh?
+
+It seems I overestimated you.”
+
+“No way?!”
+
+Kyoya looked around, searching for Hakuro’s frigid, lecturing voice.
+
+He found the ogre exactly where he had been standing, completely unhurt.
+
+“What… What did you just
+
+do
+
+, old man?!”
+
+“Hmm.
+
+Interesting.
+
+You weren’t able to see it?
+
+Then I suppose you’re just a second-rate fighter or worse.”
+
+“…What?”
+
+“‘Second-rate or worse’ is what I said.
+
+I can fully keep up with your sword style, and frankly, I couldn’t find it more childish.”
+
+“Don’t mess with me, you senile piece of shit!”
+
+Kyoya lost his cool, eyes wide open.
+
+That was why he couldn’t notice.
+
+His Severer blade, capable of ripping through anything, had been fully deflected by Hakuro—and now, he had to accept that.
+
+He hadn’t even noticed that the
+
+third
+
+eye on Hakuro’s head was now
+
+open.
+
+Aura, all-powerful and overwhelming, flowed from him.
+
+It was enough energy to easily propel him into the A ranks of monsterdom.
+
+“Right.
+
+I said I would show you the true essence of swordplay.
+
+Pay close attention to this!”
+
+“Shut up!
+
+Shitty little monsters, acting all tough and crap…!”
+
+Kyoya, still enraged, created a new blade and slashed at Hakuro.
+
+Hakuro paid it no mind.
+
+He just stood there, quietly transforming the intense rage inside him into power.
+
+Not even the sight of Kyoya bringing down his sword at point-blank range fazed him.
+
+He just kept his third eye open—the extra skill Heavengaze—and dodged his opponent’s unseeable blade by a hairbreadth.
+--- END PRESERVED SOURCE BODY ---

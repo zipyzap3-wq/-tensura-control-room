@@ -1,0 +1,1709 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 67 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_05_Chunk_007.txt | SHA bce25635a6c69d1f77a74980ef1e5b4e3103fe57 | 45165 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_05/Volume_05_Chunk_008.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 3 (continued) ===
+
+He assigned me to spy on this nation, and I used Yohm to gain entry into it.”
+
+She went on in detail.
+
+It sounded like the cold, hard truth to me, no lying or excuses mixed in.
+
+Clayman, it seemed, was the kind of boss who used and abused the crap out of those under him.
+
+Mjurran was the so-called “ring finger” of the group.
+
+She used to enjoy a position of favor, providing essential information to Clayman on a variety of subjects, but now he saw her as used up and not particularly worthy of attention, although he claimed he would free her upon completing this mission.
+
+Milim told me that Clayman loved scheming behind the scenes, attempting to outwit his opponents.
+
+It sounded about right.
+
+I was sure nothing Clayman did would ever bother Milim very much, but to the magic-born who served him, every day must have been a life-and-death tightrope walk.
+
+Magic-born like Mjurran served Clayman for a number of reasons, but most of them were either threatened by or magically bound to him.
+
+Her own mission in life was to complete her research and peer into the deepest depths of magic, and she had taken Clayman’s offer for immortality and an eternally young body.
+
+In exchange, she had lost herself, living purely to follow Clayman’s orders.
+
+“I know it was stupid of me,” she added with a regretful look on her face, “but my heart was taken from me with a secret skill known as Marionette Heart.
+
+I no longer have control over my own destiny, and carrying out his bidding is the only thing I can do.”
+
+So she was just following orders.
+
+Apparently, she learned from Gruecith that Milim had declared war on the Beast Kingdom of Eurazania, and she surmised that Clayman sent her here to keep us from interfering.
+
+Now, though, she realized that a mission like that could be carried out simply by blocking magical communication; there wasn’t any need for this massive (and non-hidable) magic barrier.
+
+He had said that doing this would guarantee her freedom, but she knew the chances of pulling the job off successfully were slim.
+
+She had to do it anyway, though, or else Clayman threatened to strike at Yohm and his team.
+
+So she decided to take him at his word, that this was his last command.
+
+She didn’t really have any intention of surviving, as she put it; her death would ensure that Yohm and friends wouldn’t have to face any consequences.
+
+“Things are starting to grow interesting,” Clayman reportedly said to her in his last message.
+
+“There’s going to be an enormous war!
+
+Certain unexpected events have led to developments I did not anticipate, but who can say how it will turn out?”
+
+Mjurran had thought—erroneously, as it happened—that he meant a war between the demon lords Milim and Carillon.
+
+Now it looked like he was talking about
+
+this
+
+conflict, the one between Tempest and Farmus.
+
+Which sounded right to me.
+
+Clayman’s part in this was to work alongside Farmus’s moves and block any outside contact from Tempest.
+
+It certainly
+
+would
+
+be difficult to avoid war that way—and Mjurran’s great magic pulled one hell of a job on us.
+
+This wasn’t just plain old jamming magic.
+
+It was position-based, and since it was meant to block all contact, it couldn’t be easily undone.
+
+Killing Mjurran at this point wouldn’t release the magic.
+
+It took time to disappear—nearly a week.
+
+Even if we wanted help from other countries, magical communication didn’t work.
+
+It would take time to make contact with Blumund or the Dwarven Kingdom without magic.
+
+There was just too little time to address Farmus, which already had their boots on the ground.
+
+We were behind the eight ball here, for sure.
+
+But ah well.
+
+I can get out from under the barrier, and there’s a communication crystal waiting for me in the cave.
+
+That’s where Clayman’s plan begins to fall apart.
+
+All the same, I didn’t want to get Dwargon or Blumund involved in this.
+
+I just wanted people there to be on our side, so to speak.
+
+Really, if it wasn’t for the Western Holy Church’s involvement, I would’ve had both countries conduct some large-scale battle exercises or something to keep Farmus in check.
+
+With the Church backing them up now, I couldn’t get those nations involved for no reason.
+
+In a war, each side has certain advantages and disadvantages, but each battle is also a test to see how long each side can hold out.
+
+If Farmus didn’t fall back under threat and continued with their military activity, it’d involve Dwargon, Blumund,
+
+and
+
+the Western Holy Church, turning the whole thing irreversibly into a major war.
+
+If the Church declared our allies and us to be their enemies and spread the word across the entire world, I couldn’t deny that it’d be a world war for all of us.
+
+That’s exactly what Clayman would want; he’d naturally use the chaos to carry out some nefarious secret plan of his.
+
+Even if it was Milim against Carillon, I had no way of stopping it.
+
+If only my own nation wasn’t in so much trouble… Although, that’s thanks to Clayman, too.
+
+Throwing me into confusion, mixing things up… I suppose I’ll just have to trust in Milim and put my own priorities first.
+
+It all made me realize, for the first time, that between what Milim and Mjurran told me, this demon lord Clayman was one dangerous enemy.
+
+It was a hunch, but it seemed to be a correct one.
+
+Mjurran told me that Gelmud was one of Clayman’s other agents, too—unlike what Milim said, she claimed that he was being fully controlled by the demon lord.
+
+Any of the other demon lords who worked with Clayman on that endeavor were being tricked.
+
+He had a knack for moving his pawns to the right place at the right time and never leaving any evidence behind.
+
+I couldn’t say how strong he actually was, but he was definitely a master at maneuvering under cover.
+
+Mjurran also suspected that Clayman was behind the battle between Milim and Carillon…but I didn’t have any evidence of that.
+
+Someone as, um, straightforward-thinking as Milim could be easily goaded into something like that, it’s true…but between his misleading words, the careful way he never revealed his true intentions, and the slyness it took to break promises without a second thought, all signs showed that Clayman was a demon lord who could never be trusted.
+
+And if you go even further down this rabbit hole—the Great Sage suggested that Clayman might have planned to leave that communication crystal in the cave the whole time.
+
+You know, just to make me think I outfoxed him and call for reinforcements from my allies.
+
+It wasn’t an unthinkable scenario, so I filed it away in my mind.
+
+With Mjurran’s story all told, I now knew how we all wound up where we were.
+
+Her heart wasn’t given back, of course; she was seen entirely as a throwaway piece—a mere pawn.
+
+Whether I would forgive her or not was another question.
+
+“Look,” Yohm said, “I know you’re angry and everything, but I
+
+really
+
+hope you can let Mjurran off the hook for this!”
+
+“I have the same request,” Gruecith added, eyes pleading with me.
+
+“There’s just no way she could defy Clayman, that’s all!”
+
+Turning them down would make me look a bit like a villain, wouldn’t it?
+
+Now what do I do?
+
+“I’ll think about your fate once all this is over.
+
+For now, I just want you to stay in your room.
+
+Don’t think about escaping.”
+
+“All right—”
+
+“Rimuru…”
+
+“Sorry, Yohm.
+
+My mind’s all mixed up right now, too.
+
+If you’re worried, you can always stay with your men in their rooms.”
+
+So I saved the question for later and ordered Yohm and his band to remain in their own quarters, asking Rigurd to appoint guards to watch them.
+
+I doubted they were going to betray me at this point, but you could never be too careful.
+
+I was doing this in part because, if they
+
+did
+
+try something funny, that would seal Mjurran’s fate for good.
+
+Yohm, realizing this, agreed to the order and returned to his quarters.
+
+After all that briefing and interviewing, I went back outside.
+
+The visitors from Blumund were milling around, waiting for me.
+
+“We’re ready to go, Sir Rimuru, but what should we do, exactly?”
+
+I had them outfitted with all the extra wagons we had in town, so they finished up quicker than I thought.
+
+I nodded at them and guided them a little ways outside of town, all one hundred or so of them following me in orderly fashion.
+
+“I wanted to provide guards for them,” a repentant-sounding Benimaru said, “but none of us can get past this barrier…”
+
+“Not a problem.
+
+Now’s not the time to be stingy with my magic.
+
+It’s gonna take a lot of energy, but I’ll figure it out.”
+
+So I left my monster cohorts within the barrier and guided the human visitors past it.
+
+“We will hurry back home as quickly as we possibly can, Sir Rimuru.”
+
+I raised a hand in response.
+
+“Before that, Mjöllmile… Can I have everybody here promise to keep what I’m about to do a secret?”
+
+“Hmm?”
+
+Mjöllmile raised an eyebrow, already well aware of the kind of nonsense I occasionally pull off (much to my chagrin).
+
+“What are you planning to do
+
+this
+
+time…?”
+
+“This time?
+
+You’re always expecting the worst from me, aren’t you?”
+
+“Ha-ha-ha!
+
+No, no, you’ve provided me with so much, Sir Rimuru!”
+
+“Heh.
+
+You said it.”
+
+Mjöllmile and I slapped each other on the shoulder.
+
+“I hope you will keep yourself safe.”
+
+“Ah, I’ll be fine.
+
+I’m not a fan of fighting battles I can’t win.”
+
+Then I activated Spatial Motion, deploying it across a wide swath of land.
+
+Everyone looked on in shock.
+
+Benimaru and Geld watched from within the barrier, both surprised and exasperated.
+
+“The outskirts of Blumund’s about the best I can do for you all.
+
+It won’t last long, so hurry up and hop in there.”
+
+The visitors nodded at me, faces still frozen in disbelief, as they filed on ahead.
+
+None of them asked any more questions, which I appreciated.
+
+Magic exists in this world—everyone knows that—so it takes more than a little pixie dust to really alarm these guys.
+
+I made them promise to spread the word and provide as much support for our cause as they could.
+
+But would it have much effect?
+
+We were already at war.
+
+We couldn’t make any really brash moves—not against the Western Holy Church.
+
+They’d have to provide military support if I asked for it, as our pacts with them stipulated… But I didn’t want that, and there wasn’t much else they could do as a nation, I don’t think.
+
+Better not expect much…and there’s no need to, really.
+
+This was our nation’s problem, and I intended to make the Kingdom of Farmus pay amply for it—by my own hand.
+
+If I didn’t, I knew, I’d never have a chance to make up for the anguish all those dead felt.
+
+I watched our visitors go as I mentally pored over my situation.
+
+I had been delayed a bit longer than I thought, but now I decided to help out Shuna with the wounded.
+
+Rigurd mentioned an errand or something he wanted done, but I figured he could handle that without me.
+
+Heading over to the building that served as our hospital, I found two people laid up in beds, Shuna providing nursing care and Kurobe helping her out.
+
+“How are they looking?”
+
+“Oh, Sir Rimuru!”
+
+“Sir Rimuru, I don’t know what I can say to you…”
+
+Shuna looked tired, and Kurobe was a lot more hesitant than usual.
+
+I told them to relax a bit as I examined the patients.
+
+These were Hakuro and Gobta, both sporting large and bloodied wounds.
+
+“Whoa, these are some serious slash wounds!
+
+Why don’t we just use these…”
+
+I whipped some potion out of my pocket and sprinkled it on both of them.
+
+Nothing in particular happened in the healing department.
+
+“I apologize,” Rigurd said, lowering his head.
+
+“We have already made the attempt.
+
+I’m afraid we will have to rely on Shuna’s care…”
+
+As leader of our nation, I had to decide on our future direction.
+
+I was also responsible for handling the remaining resident visitors from other countries.
+
+That’s why Rigurd didn’t want to worry me further.
+
+Hakuro, despite looking like he stepped off a horror movie set, still gave me a smile.
+
+“Nh… Do not concern yourself about me, Sir Rimuru.
+
+I am fine.
+
+This injury was likely brought about by a skill invoked by the attackers.
+
+In time, the skill’s effects will fade, and I will heal up then.
+
+Gobta is a well-trained apprentice of mine; he won’t die like a dog over something like this.”
+
+I should’ve expected nothing less from him.
+
+It almost made me cry, but I held it back and returned the smile.
+
+No way the master of all these monsters could show tears to anyone.
+
+“Ha-ha!
+
+Well, glad to see your spirits are high, at least.
+
+Let me see this wound.
+
+Maybe I can do something about it.”
+
+I checked over his body.
+
+“Sir Rimuru,” Shuna said, “the wound is caused by an air-type attack.
+
+We need to keep him stable and full of stamina until it heals naturally over time.”
+
+She had already used her Parser skill to figure out what was up with him.
+
+I was of the same opinion as her; it sounded like the right thing.
+
+Air type, though?
+
+That sounded like something I might be able to harness for myself.
+
+I’ve already analyzed a high-level spirit.
+
+Let’s see if this works…
+
+Understood.
+
+The effects of the air element have been confirmed.
+
+Use Glutton to acquire this effect?
+
+Yes
+
+No
+
+The Great Sage followed through more than I expected.
+
+I thought
+
+YES
+
+and sprinkled some more potion on Hakuro’s wound.
+
+“Oh… Ohhh!
+
+Amazing, Sir Rimuru…”
+
+I left Hakuro to marvel by himself as I attended to Gobta.
+
+“I should have known,” Shuna said with a light smile—one with just a twinge of gloominess to it.
+
+A sort of
+
+hmm?
+
+level of doubt.
+
+And that reminded me…
+
+…Or it would have if Gobta didn’t choose that moment to leap right out of bed.
+
+“Gobzo!
+
+You all right?!”
+
+“Hey!
+
+Gobta!”
+
+It took Rigurd yelling at him to make him realize where he was.
+
+He blinked once or twice.
+
+“Oh wow, so…am I good?”
+
+I scoped him out as I decided to ask Shuna about the thing that bothered me just now.
+
+Someone I expected to be here with her wasn’t present.
+
+If she was, I’m sure she would’ve been carrying on about me to no end.
+
+“Hey, where’s Shion, by the way?
+
+I haven’t seen her lately…”
+
+The question made everybody in the room—Rigurd, Shuna, Benimaru, even Hakuro—freeze.
+
+What’s with that reaction?
+
+Whoa, whoa, there’s no way…
+
+“Don’t tell me,” I said, “that idiot’s gone to get revenge all by herself?”
+
+“Oh man!”
+
+Gobta nodded warily at me.
+
+“And maybe Gobzo, too?
+
+He’s so absentminded; he’s probably running full-speed without realizing how badly outmatched he is…”
+
+“N-no, it’s not that… Um…”
+
+Huh?
+
+This was getting weird.
+
+Nobody was looking me in the eye.
+
+“Okay, so where’d she go?”
+
+No answer.
+
+I looked up to find Shuna turning her face away from me, eyes growing watery.
+
+I had a bad feeling.
+
+Gobta looked just as concerned.
+
+No way
+
+, I said to myself.
+
+That could never happen.
+
+“…All right.
+
+I’m not going to be angry, so can you tell me where she is…?”
+
+“…Very well,” Benimaru finally replied.
+
+“Over here.
+
+Follow me.”
+
+I nodded, and we began to move…
+
+Our destination was the central plaza.
+
+And there she was, lying right in the middle of the neatly made rows.
+
+There was a white cloth covering her, ensuring she wouldn’t be easily spotted—by me or anyone else.
+
+Ha-ha.
+
+As if I’d just never wonder about where she went… It wasn’t funny.
+
+Open your eyes—
+
+I couldn’t believe it.
+
+Open your eyes for me—
+
+I didn’t want to believe it.
+
+Why?
+
+Why did it turn out like this…?
+
+Next to me, I could hear Gobta sobbing and shouting, “Gobzooooooooo?!”
+
+as loudly as he could.
+
+I paid him no mind as my ears turned toward the voice providing what sounded like a faraway explanation.
+
+Shion had been protecting a child targeted by one of the attackers.
+
+With her own body, weakened by the plummeting magicule level.
+
+She couldn’t move, and then an attacker came…
+
+Gobzo had been trying to protect Lady Shuna.
+
+He didn’t have anywhere near the strength for the job.
+
+The attacker just laughed at him as he swung…
+
+The words were meant for me, but I didn’t want to hear them.
+
+Each syllable gouged its way into my brain.
+
+Open your eyes, Shion…
+
+I wanted to cry, but I couldn’t.
+
+My heart felt like it was going to burst, but this body didn’t feel any need to shed tears.
+
+Yeah
+
+, I thought.
+
+I guess I really am a monster.
+
+Somehow, it seemed so incredibly convincing now.
+
+“I’m sorry.
+
+Leave me alone for a little while…”
+
+Silence enveloped the plaza.
+
+I could feel everyone edging away from me.
+
+Shuna was the only one to give me a tearful hug before she joined them alongside Gobta, Hakuro placing a hand around his shoulders.
+
+Sorry, Gobta.
+
+I know you just want to say good-bye to Gobzo, but…
+
+…Yeah.
+
+I wanted to be alone.
+
+I no longer had a grip on myself.
+
+I felt like I was going insane, but my mind was sharp as a tack.
+
+There were tempestuous levels of sadness, regret, and anger, all crashing against one another in a mad contest to find an exit.
+
+—Why did all of this happen?
+
+Report.
+
+Cannot calculate, comprehend, or reply.
+
+—What would’ve been the right thing to do?
+
+Report.
+
+Cannot calculate, comprehend, or reply.
+
+—Was getting involved with human beings a mistake?
+
+Report.
+
+Cannot calculate, comprehend, or reply.
+
+—Come on… Was I wrong?
+
+Report.
+
+Cannot calculate, comprehend, or reply.
+
+That’s right.
+
+Even with the untold powers of the Great Sage, there were some problems that just didn’t have an answer.
+
+—Goddamn it.
+
+If this wasn’t our town… If it wasn’t our town, I could’ve just flown into a rage, mowing down everything in my path.
+
+Goddamn it all.
+
+Taking so many people dear to me…
+
+Looking back, this was the first time I was there to see someone close to me die.
+
+I had never gone through a loss like that, and now I understood the sadness involved.
+
+I felt it vividly, with a pain more intense than being slashed ear to ear.
+
+Cancel Pain wasn’t cutting it for this one—not against the all-too-strong currents of magic and emotion within me.
+
+It was maybe too much for my new mask.
+
+A crack appeared on it, almost looking like a tear of sadness.
+
+I couldn’t cry, so it seemed like the mask was weeping for me.
+
+Somewhere down the line, night fell.
+
+I gazed at the moon.
+
+What should I do?
+
+There was no answer.
+
+My mind was clear, but I couldn’t come up with a single thought.
+
+I looked up at the moon and kept asking myself, over and over, for an eternity.
+
+Even though I knew there was no way to find an answer.
+
+But I couldn’t stop.
+
+It was so foolish, but I couldn’t stop.
+
+And I never noticed the small light, the reflection from the moon, that was upon me.
+
+Three days passed.
+
+Shion didn’t wake up.
+
+She’s sleeping in
+
+way
+
+too late.
+
+I wish she’d knock that off.
+
+…………
+
+No, I know.
+
+I understood that she’d never open those eyes again.
+
+But I didn’t want to admit it.
+
+I wanted her back to her usual stupid antics, making her terrible meals.
+
+Gobzo, too.
+
+I didn’t know him well.
+
+We exchanged a few words on the way to the Dwarven Kingdom.
+
+But Gobta loved him as a valued sentry.
+
+He was his friend.
+
+All the monsters who lay here had valuable relationships in their lives.
+
+No—it wasn’t like these monsters lacked any kinds of feelings.
+
+They were my most cherished companions.
+
+My family.
+
+I wanted to enjoy life with them again…but it just wasn’t going to happen.
+
+There’s no way to resurrect the dead.
+
+What do we do?
+
+Do monsters not count as people?
+
+Does that mean we’ll be forced into subjugation without a passing thought as to our own feelings?
+
+—That better mean they’re prepared to be subjugated, too.
+
+Dark emotions began to get the better of me.
+
+And just then:
+
+Report.
+
+Analysis and Assessment of the compound barrier and Great Magic: Anti-Magic Area covering it is completed.
+
+Removing the compound barrier will be difficult, but the great magic can be canceled.
+
+Execute?
+
+Yes
+
+No
+
+No, we don’t need to yet.
+
+The Great Sage must’ve just wrapped up that request for me.
+
+As it did, I realized that Thought Communication messages had been coming in through the Sticky Steel Thread wrapped around my neck for a while now.
+
+I had been contacted almost constantly for the past three days.
+
+I made Soei worry for me, which I regretted.
+
+“…Sorry.
+
+I didn’t notice.”
+
+“Ah…!
+
+You are safe?
+
+I am so relieved.”
+
+It was clear from Soei’s tone of voice.
+
+It also made me realize that everyone else must have been just as worried.
+
+I could whine and plead to myself later.
+
+We had a time limit, and I had things to do.
+
+So I asked Soei how things were.
+
+Our enemies had set up battle encampments in the four cardinal directions around town, each one holding a company’s worth of knights.
+
+The magical machinations
+
+protecting each one were apparently projecting the same type of barrier that had weakened our townspeople.
+
+Sadly, the power of
+
+Soei and his team alone wouldn’t be enough to take down even one of these camps.
+
+He had also detected transportation magic at work; if we wasted time, they might call for reinforcements.
+
+“All right.
+
+Don’t stretch yourself too thin.
+
+Join up with Gabil and rest.”
+
+“But…”
+
+“That’s an order.
+
+Rest.”
+
+“…Yes, my lord.”
+
+I wasn’t accepting any other reply.
+
+I couldn’t make Soei’s team do something reckless and get them killed as a result.
+
+I just couldn’t.
+
+So, about that barrier.
+
+Simply canceling out the magic wouldn’t do anything for us.
+
+What I really wanted to do was address the weakening effect it had somehow.
+
+Being a “compound barrier” or whatever it was made it a much thornier issue than I had expected.
+
+But that could wait.
+
+What about the other search I had going?
+
+Report.
+
+No search results found.
+
+Failed to find any magic related to complete resurrection of the dead.
+
+…Ah.
+
+No, I suppose not.
+
+Nothing
+
+that
+
+handy can be found too easily.
+
+It makes sense.
+
+You never know for sure, though, until you check.
+
+As pointless as I thought it was, as useless a struggle as it must have looked, I couldn’t stop myself.
+
+Shion didn’t open her eyes.
+
+Neither did Gobzo nor the rest of them.
+
+Of course they wouldn’t.
+
+They weren’t sleeping.
+
+But I still put all my skills in motion to find some kind of measure I could take.
+
+All the bodies here, Shion’s included, were being preserved by my magical force—to keep them from decomposing, from reverting back into piles of magicules and disappearing.
+
+I knew it was pointless, but I was still betting on the possibility.
+
+But nothing.
+
+There were no resurrection spells in the magic books I scanned through back at that library.
+
+I guess there wouldn’t be.
+
+I had to stop grieving like this.
+
+Let’s just give them the rest they deserve in my body, as I pray they’ll wake up someday.
+
+With that decided, I prepared to absorb them all—and that’s when my Magic Sense told me about several figures approaching.
+
+It was the trio of Kabal and his friends.
+
+It made sense.
+
+With the order I gave, it’d have to be someone from out of town if anyone was coming near me right now.
+
+I guess they had been traveling night and day on the wagon I gave them to come here.
+
+“…I’m sorry we’re late, boss.”
+
+“Rimuru, um, I gotta admit I really don’t know what to say here…”
+
+Kabal and Gido no doubt wanted to say,
+
+Hang on, you’ll get over this
+
+, that kind of thing.
+
+Elen stopped them before they could.
+
+“Rimuru, I… I can’t say this has much of a chance of succeeding…
+
+or, like,
+
+any
+
+, really…but there are several fairy tales about coming back from the dead…”
+
+Now was no time to be depressed.
+
+The statement made all the diverging thought processes in my mind snap back into place.
+
+“Can you tell me more about them, Elen?”
+
+I turned toward her.
+
+If there was any chance, I wasn’t about to refrain from betting on it.
+
+She nodded and began to speak.
+
+………
+
+……
+
+…
+
+A story about a girl and her pet dragon.
+
+Through assorted events, the girl’s dragon was killed.
+
+She grieved over the loss of her only friend, and with her head full of anger, she destroyed the country that had carried out the killing—along with several hundred thousand people who lived there.
+
+The girl evolved into a demon lord, and then a miracle occurred—the
+
+dragon connected to the girl evolved right alongside her, regardless of its death.
+
+But that was the end of the miracle.
+
+The dragon had lost its soul at the moment it died, and as a result, it revived in the form of a chaos dragon.
+
+It still followed its master’s orders but now brought nothing but death and destruction to everyone else.
+
+Thus, no longer driven by anger, the demon lord shed tears for her pet, her best friend, as she sealed away the chaos dragon herself.
+
+That’s where the story ends.
+
+Elen’s story was a fairy tale, but it had a suspicious amount of detail to it.
+
+There were also stories about vampires using a spell called Bloodraise, as well as necromancers using Raise Dead on the dead to make them their servants.
+
+The Great Sage picked up on those, too, but it wasn’t what I was looking for.
+
+It changed the target too much, making them into a different person from when they were alive.
+
+In the realm of holy magic, there
+
+was
+
+something called Resurrection, the so-called miracle of the gods…but there were tons of restrictions on it.
+
+It was no panacea.
+
+And what’s more, all these magics (except for Bloodraise, which was species specific) were treated as “forbidden spells,” passed on strictly orally and never written into a book.
+
+But that didn’t matter.
+
+The issue was that “evolve” thing.
+
+Monsters evolved all the time here, for reasons that were beyond me.
+
+Just giving them a name was a huge deal to them.
+
+Maybe there was some potential there?
+
+Maybe if
+
+I
+
+could just become a demon lord myself…
+
+…just as that girl’s pet evolved and revived itself…
+
+But I didn’t want creepy, soulless minions on my hands.
+
+And not even the Great Sage could use its analysis tools to determine whether their souls were still there or not.
+
+But…hang on?
+
+Right now, this town was completely covered by a barrier that no monsters can go through.
+
+Maybe that’s keeping their souls in here, too, preventing them from flying to the four winds.
+
+Understood.
+
+The chances of the souls of the individual Shion and the rest of the monsters being preserved within this space is
+
+…
+
+3.14 percent.
+
+Whoa!
+
+It’s pi!
+
+Well, okay, maybe not quite.
+
+It felt like a low number to me, but I had to think about it the other way around.
+
+It needed to feel like a big one.
+
+I mean, over a 3 percent chance of literally being able to resurrect someone.
+
+Plus, there’s no way someone as tenacious as Shion or as dopey as Gobzo could die.
+
+I couldn’t let it happen.
+
+They had to be doggedly clinging to this world, waiting for my help.
+
+Now I had some hope.
+
+Next, I just had to carry it out.
+
+Of course, that assumed I could even become a demon lord, of course…
+
+Understood.
+
+You currently satisfy the requirements for evolving into the demon lord type.
+
+In order to carry out evolution into a “true demon lord,” the process must be nourished with the sacrifices of at least ten thousand humans.
+
+Oh, that’s it?
+
+Well, easy, then.
+
+Demon lord?
+
+Oh, I’m
+
+totally
+
+becoming a demon lord.
+
+Way
+
+simpler process than I thought.
+
+Hopefully all those garbage troops around the outskirts of town number at least ten thousand.
+
+But hell, if there aren’t enough, I’ll just add some more.
+
+If it brings Shion and everyone else back, I have absolutely no reason to waver.
+
+Then I came back to my senses.
+
+“Thanks for telling me about that, Elen.
+
+Are you sure about what you’re saying, though?
+
+I mean, you’re basically telling me to become a demon lord.”
+
+I looked at her.
+
+She stared down at the ground silently, but just for a moment as she made up her mind.
+
+She returned my gaze, face resolute.
+
+“Well, you know, I come from the Sorcerous Dynasty of Thalion, and… You know, I really looked up to adventurers and the freedom they had.
+
+But you know what?
+
+I’m done.
+
+I want to help out Shion, too, besides.
+
+I can’t let Farmus and the Western Holy Church get away with what they’ve done.
+
+I hate people who think monsters are evil just because they’re monsters.
+
+I know that telling you about this isn’t something I can ever go back on, buuut… I don’t know.
+
+It’s just terrible, I think, leaving things like this.”
+
+And with that, she went on to explain that continuing to be adventurers would put undue strain on the Free Guild, so she wanted to change her band’s “home” to our nation.
+
+Live here, even, if possible.
+
+Elen’s real name was Ellwyn, apparently, and she came from a noble family in Thalion.
+
+After being trained at the royal academy, she left the country in search of an adventuring career.
+
+The confession made Kabal shake his head silently and Gido turn upward toward the sky, eyes closed.
+
+“Ah well,” Kabal said.
+
+“If that’s what the lady wants, you’ll see no complaints from me as her bodyguard.”
+
+“Me neither.
+
+Guess it’ll be ‘Lady Elen’ from now on, huh?”
+
+The other two, it turned out, weren’t exactly standard adventurers, either.
+
+Upon further questioning, Kabal and Gido revealed that they had followed Elen out of Thalion to serve as her personal guards.
+
+They were also good friends, obviously, given how they trusted her without question just now.
+
+Talk about a great trio.
+
+I was a little jealous of them.
+
+“So, um, probably, when you become a demon lord, Rimuru, it’s gonna be totally obvious pretty quickly that I tipped you off.
+
+Thalion’s spy agency already knows that I’m involved with you, so it won’t take long for them to connect the dots.
+
+So…you know.
+
+Until then, I want to help you out as much as I can here.
+
+I want to see how it all works out in the end.”
+
+She knew she wouldn’t be living a life of adventuring freedom for much longer.
+
+And she wanted to spend that last bit of freedom here.
+
+All three of them looked at me, faces stern.
+
+If I allowed them to live here, it might force me to tangle with Thalion in the future.
+
+I didn’t know what kind of impact their reaction would have on us, but they couldn’t just ignore one of their nobility in the custody of a foreign nation.
+
+It didn’t seem like she was in any real danger, though, and all she wanted right now was to be around for this battle… I wasn’t exactly sure what I thought about it, but it was a question we could safely save for later.
+
+“All right.
+
+Well, let’s leave that for the future.
+
+I’d kind of like to avoid making any more enemies than I need to…”
+
+“Oh?
+
+Aw, but it’s all right if I stick around long enough to see if you can save Shion, isn’t it?”
+
+“All right.
+
+You’re the one who tipped me off.
+
+You can stick around until it’s over.
+
+But you realize that my becoming a demon lord might change me.
+
+I may even wind up attacking you guys.
+
+I can’t take responsibility for it if I do, but are you okay with that?”
+
+“Hmm… I wouldn’t like that too much, no, but a little too late to worry about that now!
+
+I’ll just have to believe in you, Rimuru!”
+
+“Whoa!
+
+Is
+
+that
+
+how much we’re involved now?
+
+Hoo boy.
+
+A little too late, indeed!”
+
+“That’s right, Gido.
+
+A little too late for that.
+
+That’s Lady Elen for you, isn’t it?
+
+It’s always like this with her.”
+
+The two bodyguards sighed.
+
+It didn’t seem to harm their loyalty at all, though.
+
+Thanks to all this, I finally had a plan.
+
+I could save Shion, and Gobzo, and all the rest!
+
+And if it meant becoming a demon lord, then I was all in.
+
+The enemy forces were attacking in four days.
+
+I had a firm grasp of the situation.
+
+Now it was time to take action.
+
+With the decision made, things could proceed faster now.
+
+Step one was keeping all these monsters’ souls from dissipating.
+
+For that, I adjusted the great magic I’d acquired with Analyze and Assess and used it to strengthen the barrier around town.
+
+It wasn’t clear exactly how much longer Mjurran’s magic would last, and I was afraid it’d flip off like a light switch and send their souls flying.
+
+It cost me a surprisingly vast among of magicules, but it was nothing I couldn’t deal with now.
+
+If anything, compared to the utter despair up until yesterday, I was practically elated.
+
+Good thing I thought to analyze that barrier, even though I didn’t see much of a point.
+
+That connected everything together really well, opening up our big chance to get Shion and the rest back.
+
+My casting that great magic sent Benimaru and the others running toward me in shock, of course.
+
+“Sir Rimuru, what have you…?”
+
+“Benimaru, get everybody together here!
+
+I’m gonna hold a conference to outline our future plans!”
+
+“Wha…?!
+
+Yes, my lord!”
+
+They ran right back off, my orders putting a spring in their step.
+
+“Elen, Kabal, Gido… I’m sorry I made you guys worry.
+
+I’m a lot better now.”
+
+“Rimuru…”
+
+I smiled at Elen as I placed my cracked mask back in my pocket.
+
+The show seemed to relieve them a little, too.
+
+“If there’s anything we can do to help,” Elen said, “just say it!”
+
+“Heh-heh!
+
+Yeah, you’ve been a big help to us.
+
+Now it’s our turn to step up!”
+
+“You said it, Kabal!”
+
+It made me happy, hearing that.
+
+I appreciated it, but I didn’t want the trio actively participating in the war for me.
+
+I’d have them explain the situation one more time at the conference, though.
+
+I wanted all of us, not just me, working together.
+
+“All right,” I said before leaving them.
+
+“Would you guys mind joining me in the conference, then?
+
+I’ve got something to handle in the meantime.”
+
+I then walked directly toward the quarters being used by Yohm and his team.
+
+Yohm looked flustered to see me as I walked in the door.
+
+“R-Rimuru?!”
+
+“I’ve decided upon Mjurran’s punishment, Yohm.
+
+Where is she?”
+
+“Um, resting upstairs, but…”
+
+The word
+
+punishment
+
+disquieted him even further.
+
+I felt bad about it, but what I had in mind just wasn’t something I could tell him.
+
+Not yet.
+
+The moment I was up the stairs, I faced Mjurran and spoke.
+
+“Mjurran, you’re going to die for me.”
+
+“Hey?!”
+
+I heard Yohm yelp.
+
+I ignored him.
+
+Mjurran looked at me, eyes full of surprise, but gave me a resigned nod.
+
+She was prepared for this eventuality.
+
+“Sir Rimuru, that—”
+
+Gruecith tried to cut me off, but I wasn’t about to let him.
+
+Then Yohm stood between her and me.
+
+“Well, I’m sorry, pal, but I’m here to protect her!”
+
+He knew he had no chance at all, but he still tried to resist me.
+
+He’s such a nice guy that way.
+
+I mean it.
+
+So I bound both him and Gruecith in Sticky Steel Thread.
+
+“Rimuru,
+
+please
+
+!!”
+
+Mjurran gave them a light smile.
+
+“I loved you, Yohm.
+
+You’re the first person I’ve fallen for in all my life.
+
+If there’s such a thing as reincarnation, I hope I can live together with you in my next life, so… Good-bye, then.
+
+Try not to fall for a bad woman next time, all right?”
+
+Another smile, and then she closed her eyes.
+
+I love that resolve.
+
+You don’t see women as good as her too often.
+
+To be honest, this act was making me feel tremendously guilty… But hey.
+
+So, without hesitation, I plunged my hand right through Mjurran’s
+
+chest in a chopping motion.
+
+Her head lurched forward, powerless, as Yohm and Gruecith screamed their heads off.
+
+Then—with a look of utter confusion and puzzlement on her face—she opened her eyes again.
+
+“Um… I’m not dying.
+
+That didn’t even hurt.”
+
+Well, yeah.
+
+I know I said she’d die for me, but I wasn’t planning on killing her.
+
+You hear stories about people dying and coming back to life all the time, don’t you?
+
+I had a bunch of people I needed alive again, Shion included, and I figured I’d try my luck at padding the probabilities a little here.
+
+“Oh, um, yeah.
+
+You
+
+were
+
+dead, for maybe, oh, three seconds?”
+
+“…Huh?”
+
+“Wha—?”
+
+“What does that mean?”
+
+Report.
+
+The individual Mjurran’s “pseudo-heart” has begun regular operation.
+
+Nice.
+
+Came off without a hitch.
+
+With the Sage’s confirmation, I removed my hand from Mjurran’s chest.
+
+“Well, the operation’s a success, I guess, so let me explain what I did.
+
+You don’t have to look at me like
+
+that
+
+, guys.
+
+Have a seat and kick back if you want.”
+
+“Whoa, pal, what kinda crazy talk are you giving me?”
+
+“There better be a good explanation for this,” Gruecith grumbled.
+
+Look at them!
+
+Crying just a moment ago and now whining and complaining.
+
+Mjurran, meanwhile, was just as calm as always.
+
+“Shut
+
+up
+
+, guys!
+
+Mjurran’s gonna laugh at you if you keep carrying on like that.
+
+So the deal is, the temporary heart inside Mjurran was being used so Clayman could listen in on her.
+
+It’s a form of encrypted communication that runs on electric signals and natural magnetism, so it doesn’t use up any magicules at all.”
+
+In essence, alongside providing a pulse and electrical signals for
+
+the body, her heart also emitted encrypted signals that ran across
+
+the Earth and made it all the way to Clayman.
+
+He was forcing her to file detailed reports with him anyway, just to make sure she never noticed.
+
+It was an underhanded trick worthy of a demon lord.
+
+Those rumors about how he treated his staff were true.
+
+But you had to hand it to him, too.
+
+If he was pulling something similar with all his people, that’s a vast amount of encoded information he was receiving and unraveling in his head.
+
+No wonder they called him the Marionette Master.
+
+It’s that huge network of data he collected that served as the invisible “strings” on his puppets.
+
+Funny coincidence that I managed to notice that.
+
+Or maybe not so much actually.
+
+You could call it proof that Shion’s still helping me out.
+
+When I cast that great magic to prevent all those souls from fading out, the Great Sage discovered an all-electronic signal that the barrier reacted to.
+
+It was easy for it to decipher the coded message, so I figured I could just use that device to fool Clayman into thinking I killed Mjurran.
+
+“…And so it was all just a prank on my part!
+
+Sorry!”
+
+“Just a prank?!
+
+God
+
+damn
+
+, pal!!”
+
+“Whoa, Yohm!
+
+It wasn’t something he could deal with
+
+that
+
+easily!
+
+I mean, that’s the whole secret behind the demon lord Clayman’s power!
+
+Something nobody else knows about!”
+
+And now they’re carrying on again.
+
+What a pain.
+
+“But let’s not sweat the details, all right, guys?
+
+…So!
+
+Mjurran!
+
+Guess there
+
+is
+
+such a thing as reincarnation, huh?”
+
+“…What?”
+
+It was at that moment that Mjurran finally realized the curse upon her life had been lifted.
+
+“You’re a free woman now, Mjurran.
+
+Well, sort of.
+
+Before that, I have one favor to ask.”
+
+She turned toward me, still not fully cognizant of what was going on.
+
+“Say anything.
+
+If you wish me to swear my loyalty, I will, gladly.”
+
+“Nah, that’s fine.
+
+Actually, it turns out there’s a possibility that we can resurrect Shion and all the others—just like how you died and came back, you see?
+
+And I want you to help me pull that off.”
+
+“Huh?”
+
+“Resurrect?”
+
+“How?”
+
+Gruecith asked.
+
+“Raising the dead isn’t even possible for high-level magic-born like me.”
+
+“It’s just a hypothetical for now.
+
+But I’m gonna make it happen.”
+
+Yep.
+
+Just a chance.
+
+But I couldn’t ever allow myself to mess it up.
+
+I’d do everything I could to boost my chances, and to do that, I needed Mjurran.
+
+“But,” I said, “if I
+
+do
+
+pull that off, what’ll you do after that?”
+
+“Well… I may be free, but if I’m limited to an all-too-short human life from now on…maybe I don’t mind being a little confined after all.”
+
+She gave Yohm a look that made him blush in the most darling fashion.
+
+Her own cheeks reddened a bit.
+
+I had to feel bad for Gruecith, though.
+
+He had been turned down, pure and simple.
+
+“C’mon, cheer up!”
+
+“Don’t give me that smile of yours!”
+
+he protested.
+
+“Besides, Yohm’s human, so he’ll live
+
+maybe
+
+a hundred years.
+
+After that, it’s my turn!”
+
+“What the hell’re you talking about?
+
+Was
+
+that
+
+the dirty kinda crap you were thinking of, you deranged wolf man?!”
+
+“Shut up!
+
+If you don’t like it, just try to outlive me!”
+
+“You dog turd!
+
+You can howl all ya want, but would your master Carillon even allow that?!”
+
+“Ha!
+
+Lord Carillon’s a generous leader.
+
+He’s asked me to broaden my horizons here.
+
+My loyalties are with him, but it’s not like I’m forced to stay in the Beast Kingdom, y’know!”
+
+“How is something like
+
+that
+
+okay?!”
+
+“Shut
+
+up
+
+!”
+
+“…Actually, I take back what I said.
+
+I just lost my head for a moment there.”
+
+“Oh, come
+
+on
+
+, Mjurran!”
+
+It was a pretty chaotic scene, but it did make the smile return to my face a little, too.
+
+I’d offer more of a celebration if it was any other time, but right now wasn’t it.
+
+I braced myself and returned to my other main priority.
+
+“By the way, Yohm, I’ve got a favor to ask of you, too…”
+
+“Say it!
+
+I’ll do whatever you want, pal!”
+
+Good.
+
+I figured he’d say that.
+
+I was kind of counting on it, and that was why I helped out Mjurran.
+
+I wasn’t usually as calculating as this, but ah well.
+
+I couldn’t afford to make any mistakes here.
+
+So:
+
+“I need you to be a king for me.”
+
+Yohm gave the offhand remark a puzzled look as I explained.
+
+Basically, it was like this: We were going to kill the entire army attacking us.
+
+That was a must, and I wasn’t going to compromise on that.
+
+That led to the next question—what to do with Farmus.
+
+Should we kill all the people in that country?
+
+No, there was no reason for that.
+
+I mean, I wouldn’t hesitate to if I didn’t have enough sacrifices to become a demon lord yet, but let’s just concentrate on their military first.
+
+Soei had reported that their total number likely did exceed ten thousand.
+
+That, honestly, was a huge relief.
+
+Kind of funny to be thanking the enemy for providing such a huge force.
+
+If it was a given that we’d kill ’em all, there was no reason to go easy on them.
+
+That made things simpler for me.
+
+I didn’t want to hurt any civilians, as much as I could, so having a nice big crowd of career soldiers to work with served my needs well.
+
+So what would happen once this army was annihilated and I was a demon lord?
+
+That was the problem.
+
+If Farmus kept attacking me, I would have to kill them, but if possible, I would like to arrange an armistice somewhere along the line.
+
+Everyone in the Kingdom of Farmus’s executive levels of government would die, though.
+
+They had to take responsibility.
+
+Of course, that meant the central core of government would be wiped out—and that’d put the people in a bind.
+
+“You see?
+
+And that’s where
+
+you
+
+come in.”
+
+I gave Yohm a domineering look.
+
+His role, in essence, would be to clean up the rotten government.
+
+I’d kill anyone who came out of the country, and he’d take care of the garbage left inside it.
+
+He’d also lead the people and take on a role as the new king—and then we’d build formal relations with each other.
+
+“Heh.
+
+You make it sound so easy.
+
+I mean, me, a king?”
+
+“It
+
+is
+
+easy.
+
+I mean, hell,
+
+I’m
+
+a king.
+
+You oughtta try it out, too.”
+
+King, demon lord, same thing.
+
+“Yohm, Sir…Rimuru believes you can do it.
+
+I promise you’ll have my full backup, so why don’t you inject a little excitement in your life?”
+
+Mjurran apparently wasn’t a fan of boring men.
+
+Her words pushed Yohm forward.
+
+“I’ll help out, too, Yohm.”
+
+“Uh, weren’t you busy waiting for me to die a moment ago, Gruecith?”
+
+“Ha-ha!
+
+What’re you talkin’ about?
+
+Like I said, just outlive me and you’ll be fine.”
+
+“Pfft.
+
+All right.
+
+You got me.
+
+I’m signin’ on to this thing!”
+
+He nodded firmly at me as we shook hands over it.
+
+Something told me we were gonna get along just fine.
+
+We could work out the details once this was all over.
+
+First, I had to become a demon lord.
+
+I had to get Shion and the others back alive.
+
+When a life’s lost, it never comes back, but
+
+they
+
+weren’t lost yet.
+
+There was a chance.
+
+I’m an atheist.
+
+I don’t think there’s a God, or a god, out there.
+
+Right now, though, I was willing to pray.
+
+Pray to the figure that controlled all miracles.
+
+Before, I’d probably laugh at senseless stuff like that.
+
+And maybe it
+
+was
+
+senseless.
+
+But, you know, while I’m praying, I feel like I can believe in it.
+
+I can believe that Shion is all right.
+
+That glint of moonlight illuminated me, flickering faintly in seeming approval of my prayer.
+--- END PRESERVED SOURCE BODY ---

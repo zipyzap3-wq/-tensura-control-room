@@ -1,0 +1,343 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 44 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_03_Chunk_014.txt | SHA 4c2569c8af3862dd659e48cdaf7cc80d0fc99547 | 24519 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_03/Volume_03_Chunk_015.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 5 (continued) ===
+
+Despite being a long distance away, Milim had still picked up on Charybdis’s thought waves, using her Dragon’s Eye to accurately discover its identity. Its analytical abilities were ahead of even the Great Sage’s, but I should have expected nothing less from her, I guess.
+
+I suppose you’re right. And here I was keeping you idle because I thought this was our guest to handle.
+
+Ooh, does that mean I can tackle it, maybe?!
+
+she excitedly asked, not bothering to wait for my full explanation.
+
+Just as I expected, she pounced on the offer. Nice. I knew she was champing at the bit for this from the start, but still. Gotta hand it to her; I’m impressed she had the patience to wait for so long.
+
+Okay. You take my place. Sorry I got between you and your friend here, I guess.
+
+I made sure to emphasize that. This was Milim’s guest, not mine. Now I could take Charybdis, this unfathomably hideous calamity of a monster, and palm it off on Milim.
+
+Oh, and one more thing:
+
+Also, uh, Phobio was working for Carillon, wasn’t he? You think you could maybe spit him out of that thing while you take the monster out? I’d like to rescue him alive, if possible…
+
+This was important. I knew it was a pretty crazy thing to ask, faced with a monster like Charybdis and all, but I had a feeling Milim was up to the task. Plus, if she killed a servant of the demon lord Carillon, that’d just create new problems for us. I had another motivation, too, but that one was so pie in the sky—I could save it for later. For now, I just wanted Phobio safe.
+
+Wah-ha-ha-ha-ha! You got it! That’ll be a cinch for me. I’ve learned how to hold back my power a little lately, too. Lemme show you how good I’ve gotten at it!
+
+Milim gladly accepted, relishing the chance to boast about herself. She’d learned how to hold back, though…? Like she had any idea what that meant. For some reason, that made me a bit concerned. I opted not to voice that concern, though, as I let her take care of the rest.
+
+And now that that was squared away, the rest would happen pretty quickly.
+
+“Okay, guys! Retreat from the area immediately!”
+
+“What are you talking about, Sir Rimuru? We have hardly given up yet.”
+
+“Please, just do what I say! Believe in me! You all have to get out of here!”
+
+My shouting was enough to make Dolph, captain of the Pegasus Knights, call out the order to retreat, albeit grudgingly. We were in a state of total exhaustion, it was true. Things would gradually get worse for us like this. Perhaps he figured my strategy was to wait for the remaining knight corps to show up before reengaging.
+
+“It’s all yours now! Good luck!” And with that, Dolph sent his cavalry back. My own friends didn’t voice any such objections, of course; they had picked up on enough of my Thought Communication to get the picture.
+
+And so, once I was sure everyone except me was gone, I sent the signal.
+
+Okay, Milim! All set here!
+
+“You got it!”
+
+She had already flown into the air, not bothering to wait for the signal. Her dragon wings were stretched high behind her, a self-contented smile on her face. In another moment, she was next to me.
+
+“Gnh. Grrrhhhhh! Mili— Milimmmmm!!”
+
+Noticing her presence, Charybdis arched its body and glared straight at us. It was already too late.
+
+“Well, here we go! Here’s what ‘holding back’ looks like for me! Drago Buster!!”
+
+A fantastic stream of bluish-white light rushed from Milim’s outstretched arms.
+
+It was a light of destruction that made everything disappear.
+
+…?! Cannot analyze. Collecting data… Failed.
+
+The Great Sage within me sounded a bit surprised. Maybe I was just imagining it, but still. It failed to identify the exact nature of Milim’s attack, but the results were pretty obvious.
+
+The sight before me was forcing me to rethink the meaning of the term holding back. Several streams of the white light had pooled together, crashing right through Charybdis’s body. It began to eat away at it, giving the dragon no time for Ultraspeed Regeneration to work. The 150-foot-long frame was no match for it, and in the blink of an eye, it disappeared.
+
+All I can say is, thank heavens this was an airborne target. If it was on land, it would’ve reshaped the entire geography of this forest. That was the sheer enormity of the attack. We had spent the past
+
+X
+
+number of hours gradually whittling away at it, taking out 30 percent of its energy, and now it was destroyed beyond repair in the space of several seconds.
+
+Truly, Milim’s strength could only be described as beyond imagination.
+
+Charybdis was gone, and a little piece of its body fell to the ground. Or not a piece, actually—this was Phobio, that magic-born it was built around. Milim kept her promise. She called it holding back; I would call it a masterpiece of work.
+
+I flew over to the magic-born, grabbing him before he smashed against the ground. He was alive, if barely, which meant I got what I wanted. I decided to get to work immediately, preferring if nobody else had to see this.
+
+Analyzing Phobio’s status, I found that he and Charybdis were 90 percent fused with each other. Without quick action, the beast would just resurrect itself again. That’s why I needed to do this.
+
+“What are you doing with him?”
+
+“Just watch,” I said, dodging the question as I began. “We can’t let Phobio go free, right? I figured we better take care of him right now. Fully.”
+
+The task at hand involved fully separating Phobio from Charybdis. My Deviant unique skill allowed me to synthesize and separate things, and it’d be the latter that I’d use for this job. However, just doing that alone would cause Charybdis, a spiritual life-form, to float away out of my hands. That’s where my other unique skill, Glutton, would come in.
+
+Even with my Sage and all, I wasn’t able to fully combine unique skills together. Under its control, however, I could run them in parallel to one another. It would be a delicate sequence, a bit like performing surgery, but I was capable of it. If I screwed it up, I’d have to take Phobio’s life as well, so this could have repercussions on my relationship with Carillon. I really wanted this to work, if I could help it.
+
+I focused on the job, devoting all my strength to it. First, I separated a little; then I consumed the bit I took off. The Sage took care of controlling the two disparate skills for me, so I had to do the actual job all by myself.
+
+The battle against Charybdis was starting to seem like someone else’s problem by now—and I knew the reason why. It was Milim. She had dozens of times more magical energy than I did; a demon lord with untold amounts of power. Having her around meant I wasn’t nervous at all about facing Charybdis. I knew in my mind that we were all in mortal danger, but in one corner of my brain, I was spoiled by the fact that I could always call on Milim for help. There was no real sense of danger to me.
+
+This, on the other hand, was different. I couldn’t leave this job to anyone else. Mess it up, and it could be the spark that touched off a whole other crisis. That was why I didn’t want anyone else watching—I wanted to take full responsibility for whatever happened.
+
+Of course, I had Milim right next to me, curiously taking in the proceedings, but…
+
+Report. The magical core of the individual Charybdis has successfully been separated from the individual Phobio. Consuming the magical core of the individual Charybdis… Successful. Analyzing core… Partially failed. Isolating and continuing to analyze. The following skills have been obtained—
+
+Success. It felt like that took forever, but I had completed it before everyone who evacuated out for Milim’s attack had come back.
+
+A torrent of information streamed into my head. I didn’t like the “partially failed” bit of the Sage’s report, but now that everyone was back, I filed that concern away for later. Given that it was isolated or whatever, I was pretty sure there was nothing dangerous about it.
+
+All I had left to do was give some healing potion to the weakened Phobio before I forgot. I gave him a swig of my very own, handmade Full Potion, quickly stabilizing his physical condition.
+
+Now to wait for him to awaken.
+
+Thus Charybdis, the threat that landed on our doorstep, was fully slain.
+
+“Would you be able to explain to us what happened?”
+
+That was the first thing knight captain Dolph said when he saw me.
+
+Hmm. Yeah. I guess you’d want an explanation, wouldn’t you?
+
+“Well, um… You know. This girl here, she’s actually the demon lord Milim, so…”
+
+“Ha-ha-ha, you certainly enjoy your jokes, Sir Rimuru.”
+
+His eyes weren’t laughing.
+
+“But if you had a magical weapon capable of outputting so much force, I wish you could have informed us of that in advance! We’ll be expecting a more official explanation later on.”
+
+He was clearly miffed at me, and I could understand why. I didn’t have much excuse, really.
+
+“Still, whatever you did managed to eliminate Charybdis, a being that could have been a true disaster to all living races. It is a stroke of good luck, indeed. If you will excuse me, then, I need to report to His Majesty.”
+
+He relaxed his scowl a bit and bowed.
+
+“Thanks for all your help. I will provide my own explanation to King Gazel shortly.” I returned the gesture.
+
+I meant that. This was a demon lord–class monster, and the dwarves didn’t hesitate to step up against it. Without their support, I probably wouldn’t have even noticed that Phobio was the magic-born driving its rage. Chances are that I would’ve asked Milim to kill it anyway, but then she wouldn’t have “held back”—she would’ve atomized it all the way, and I wouldn’t have lifted a finger to stop her, no doubt.
+
+It was that small sliver of extra time that helped us notice the ever-so-slight discrepancy between Phobio and Charybdis.
+
+“Provide your thanks to His Majesty, not to me. Also, if I may speak only for myself…” Dolph came a bit closer, lowering his voice. “If you are going to report to the king, could I ask you to travel to Dwargon to make the report personally? His Majesty is still rather distressed about how your last visit turned out. The exile and refusal of board he sentenced you to has already been lifted, so…”
+
+This was probably less Dolph’s personal invitation and more his interpretation of Gazel’s feelings, I imagined.
+
+“All right. In that case, tell King Gazel that I would love to be extended an official invitation. I look forward to visiting again and giving my report.”
+
+“Excellent! I am sure His Majesty will be overjoyed. Kaijin, Garm, and the rest are also welcome to return at any time. They could join you, if they chose to.”
+
+Dolph was already excited about the idea. I’m sure Kaijin and the gang would like to visit home sometime. Taking them along could be nice, and I’m sure that’s the whole reason Dolph brought this up with me. He might have that gruff military veneer, but I guess he really looked out for others, too.
+
+After that and a few other small pleasantries, the Pegasus Knights were busily hurrying their way back home. I felt truly grateful, from the bottom of my heart, that none were hurt.
+
+With the danger past, I went back into slime form. But just as we were about to head home…
+
+“Ngh… Where—where am I? What happened to me…?”
+
+I heard confused muttering.
+
+Phobio had awoken. It put Benimaru and Shion on their guard, but Phobio wouldn’t have had any energy to fight right now. His wounds were fully healed, but his magic power was exhausted. Plus, with Charybdis fully extracted and eliminated from him, he was back to “merely” being a high-level magic-born—nobody we couldn’t take, if it came to that.
+
+“Hey there. You up? Do you remember what you did?”
+
+I spoke slowly to the bleary-eyed Phobio, who was gradually regaining consciousness at the sound of my words. Then he jumped up and, incredibly suddenly, prostrated himself before me and Milim. Guess he remembered.
+
+“I—I am sorry! I mean, I deeply apologize to you! I’ve done something horrible to you, Lady Milim…and I’ve put so much trouble upon all of you a second time!”
+
+The pallid magic-born before me was a lot more impulsive with his emotions than I had thought. It seemed unnatural, in a way, someone like that causing so much chaos.
+
+I was just about to ask what drove him to do all this when Treyni asked an even more pointed question.
+
+“How…did you know where Charybdis was sealed away? Because I highly doubt you merely stumbled upon it.”
+
+That was a good point. This was a proud magic-born; if revenge against Milim was what he wanted, I bet he figured he could do that by his own hand. But pursuing revenge to the point that he instilled Charybdis into his own body? That seemed quite unusual, and I had been wondering about that for a while.
+
+“Well…”
+
+To his credit, he didn’t hide any of it and fully explained what happened to him—the request he made to the two masked agents of the Moderate Jesters.
+
+“A pair of strange-looking masked clowns? But that location is secret—only we knew where it was, and it was the hero herself who told us. A formidable foe, indeed, if they were able to track it down… And masked, you say?”
+
+This seemed to trouble Treyni in particular. She seemed to know them.
+
+“Was one of the masks asymmetrical, perhaps? Drawn to look like they were making fun of you?”
+
+“N-no. There was a girl whose mask made it look like she was crying, and then a fat man with an angry mask. They called themselves Teare and Footman.”
+
+Not the guy Treyni knew, then. But…wow, mysterious masked magic-born, huh?
+
+…Wait a sec.
+
+“Hey, I think Benimaru said there was one there during the attack on their homeland…”
+
+“Yes. I just thought of that myself. A rotund magic-born wearing a mask of anger. That was one of the people controlling the orcs!”
+
+So that was it. The figure who pitted me against Benimaru and the other ogres in the first place.
+
+“Indeed. One of the orc generals working away from my command was accompanied by a high-level magic-born bodyguard, hired by Gelmud. That man’s name was Footman,” Geld added.
+
+Then—
+
+“And come to think of it, when Sir Laplace rescued me, he said he was in Gelmud’s employ as well… He said he was the vice president of the Moderate Jesters, which he described as a jacks-of-all-trades group. And the mask he had on… It was just as Treyni described. Asymmetrical—and with an arrogant expression on it!”
+
+Gabil dropped the bombshell.
+
+Events from across the land were suddenly being connected together.
+
+“…I see. The man was called Laplace, you say?”
+
+“And…Footman? I will be certain to remember that.”
+
+Treyni’s eyes were filled with a dangerous light, and Benimaru wore a defiant smile.
+
+I was surprised to hear that Treyni had made contact with these guys as well. Given her penchant for popping in and out of existence all over the place, they must have crossed paths somewhere. And while Footman had not personally interacted with the ogres back there, he was certainly a major factor behind the destruction of their homeland. They were not fully our enemies, perhaps, but they certainly had something against us all.
+
+The Moderate Jesters. A mysterious band of jacks-of-all-trades. They sounded like trouble, so I decided to ask Milim if she knew anything.
+
+“Mmm? I’ve never heard of that group before, no. Nobody said anything about using guys like those to cause strife among races or anything. How interesting! I wish I could’ve gotten to meet them.”
+
+Milim, at least, had heard nothing from her demon lord cohorts. She didn’t know many details about the whole orc lord operation, I suppose. Gelmud was the main man behind all that, apparently—Milim just got the outlines of it, not the little details like hiring a bunch of jokers to help push things along.
+
+“Maybe it was Clayman scheming behind the scenes with this, not Gelmud. He had the connections for that,” she indifferently continued.
+
+“Clayman? Who’s that?”
+
+“Mm? One of the demon lords. He just loves dirty little schemes like that.”
+
+Geez. She was exposing him like it was no big deal, but what the heck? The guy was still just a suspect; we didn’t know if he was the real criminal here yet—but as Milim put it, Clayman was the kind of guy who’d arrange something like that. Not because Gelmud wasn’t up to the task, but because Clayman was always trying to set it up so he’d have an advantage over the other demon lords.
+
+The orc lord operation was devised by three of those lords, who assigned the job to Gelmud in order to keep things balanced among themselves. If any of them was gonna try to game the system, as Milim described it, it was definitely Clayman. I didn’t have much to comment about on that point, so I filed the fact away in the back of my mind.
+
+I had thought this whole affair was over, but there were still plainly some issues left to tackle.
+
+“Something does bother me. This Laplace… He said he was not among the monster tribes.” After Milim was done speaking, Treyni offered another observation.
+
+In this world, a monster tribe could still be defined as pretty much anyone who was hostile against the human races. Saying you weren’t a monster was another way of saying you were allied with humans and so on. Assuming you weren’t lying. But if they had no quarrel with the human race, that seemed feasible enough to me—there were bound to be other magic-born who took my approach.
+
+Or… Hang on.
+
+“He said he wasn’t magic?” I asked Treyni.
+
+“Yes, Sir Rimuru. He might have supporters in human society.”
+
+Aha. Yeah, this was rough. A major issue, in fact. But I had no way of confirming it. Without any evidence, debating over it was useless. So I resolved to keep an eye out for this weird group and wrapped up my interrogation of Phobio.
+
+We now had a fairly ample amount of info to work with. Putting it all together, one truth became clear about this incident: These Moderate Jester guys liked approaching their targets with claims of offering help. It allowed the Jesters to achieve their goals without dirtying their own hands.
+
+With the orc lord, they attempted to set off a war among monster races. This time, they wanted to have Charybdis fight us—or Milim, at least. It sounded to me like Phobio had simply been taken advantage of. The real mastermind was someone else.
+
+“Sounds like they used and abused you, huh? Try to be a bit more careful about taking fishy offers like this in the future, all right?”
+
+Phobio wasn’t exactly free of fault here, but given that the real culprit was elsewhere, it didn’t seem right to punish him. I didn’t want to stir up added trouble, besides. If he swore he wouldn’t bother us anymore, I was glad to let him go free.
+
+“…Huh?”
+
+He was still prostrate before us.
+
+“I, er, I don’t deserve to be forgiven. I accepted this offer at my own discretion. It had nothing to do with Lord Carillon, so please, allow me to pay for this with my life…”
+
+It was weird, seeing him act so bold and brave while bent over in front of us.
+
+“N-no, really, I have no reason to kill you. Right, Milim?”
+
+“Mm-hmm! Of course! I wanted to give you a wallop, sure, but I’m all grown-up now. I’m not angry at all, so consider yourself forgiven!”
+
+A wallop, huh…? Doesn’t sound all that grown-up to me. But oh well.
+
+“See? And if she forgives you, I wouldn’t worry about any of us.”
+
+“…But I let my anger take control of me…”
+
+“Mm-hmm. And probably… That guy with the angry mask? He was probably using those emotions of yours.”
+
+Phobio looked up at my observation. “Come to think of it…that bastard said he was attracted to me by my feelings of anger and disgust…”
+
+His face was astonished as it dawned on him. I was just giving him a bit of a lecture, but maybe I was more on target than I thought.
+
+“Yeah. See? So don’t worry about it.”
+
+“He’s right. And you’re fine with that, too, aren’t you, Carillon?”
+
+Huh? Carillon?
+
+As if to answer my question, a man appeared from the underbrush. He had an attractively rough, unpolished look, sporting a well-tailored but well-worn outfit. His short blond hair stood on end, his sharp eyes only adding to the intense atmosphere he presented.
+
+“Heh. You noticed, huh, Milim?”
+
+“Of course.”
+
+“Yeah, of course,” he replied.
+
+Between the name Carillon and the obvious friendliness they shared, I could guess the identity of this wild-looking man projecting his inner strength in the quiet. He was nowhere near as large as Charybdis, but he presented exactly that sort of overpowering aura—if not more of one, like he’d blow you away with a thought.
+
+So this is Carillon the demon lord, huh?
+
+“Hey. The name’s Carillon. Thanks for helpin’ this guy out without killing him.”
+
+Thus the demon lord Carillon greeted me, looking me straight in the eye.
+
+The air grew suddenly tense.
+
+I had no words to overcome the daunting aura of strength that overwhelmed me. Once again, I recalled how the term demon lord wasn’t just for show. But as the leader of this land, I couldn’t let myself be cowed like this.
+
+“I wasn’t expecting the man himself to show up. My name is Rimuru Tempest, the leader of Tempest, our nation of monsters here in the forest,” I declared, summoning all the courage I could.
+
+“Pfft! A single magic-born person, establishing a new nation? Perhaps I woulda believed it in the past, but in this world, you’d have to be suicidal. I was told the orc lord killed our mystery magic-born, but I guess that report wasn’t too true, huh? You’re the masked magic-born that killed Gelmud, aren’t you?”
+
+You look at this slime, and that’s the conclusion you reach?
+
+That was the only thing I could think. But Milim was here, and maybe he got to witness the battle against Charybdis as well.
+
+“Yep. You’re right.” I transformed into a human. “So are you here to get back at me for that, or…?”
+
+I doubted it, but I asked anyway. Carillon grinned at the question.
+
+“Ha-ha-ha-ha! Funny. No wonder Milim likes you.”
+
+The laughter instantly dispelled all the tension. But once he was done guffawing to himself, Carillon’s face stiffened. Then, he did something none of us was expecting. He admitted he was wrong.
+
+“Well, sorry one of my men went berserk on you. Guess I neglected to supervise him well enough, and I hope you’ll forgive me for that.”
+
+He didn’t bow his head or anything, but he did apologize in the only way he could. Plus:
+
+“You could say I owe you one now, I s’pose. Lemme know if you have anything I can help ya with.”
+
+Really, he couldn’t have been more sincere with us. Carillon, this demon lord who was far more powerful than myself, was acting in good faith with someone like me. I suppose it just proves how incredibly, deeply broad-minded he was.
+
+He owes me one, huh? If that’s how he sees it, I can think of something…
+
+“In that case, it’d be nice if you could sign a nonaggression treaty with us.”
+
+“…Is that all you need? All right. By my name as demon lord—or should I say, as the Beast Master Carillon of the Beast Kingdom of Eurazania—I swear I’ll never turn our blades on any of you. That assumes, of course, you promise the same to us.”
+
+He accepted it easily—another sign of his incredible capabilities. I found it quite admirable.
+
+Since we were already flustered enough, we agreed to send envoys later on to work out the details.
+
+I didn’t know how much I could trust in this pact; given how impulsive Phobio turned out to be, could his master Carillon be much the same way? It should mean that he wouldn’t butt in on our affairs for a while, at least.
+
+If I could learn more about Eurazania, maybe we could open diplomatic relations with them, too. That’d be the best thing.
+
+And that pretty much wrapped up the day. Carillon let his fists do the talking with Phobio, putting him near the brink of death once more, but we all have our funny traits like that, I suppose. He lent his limp subordinate a shoulder as the two of them shuffled away and teleported themselves back home.
+
+It was time for us to return home, too. The day had its ups and downs, but things were finally starting to settle down a bit.
+--- END PRESERVED SOURCE BODY ---

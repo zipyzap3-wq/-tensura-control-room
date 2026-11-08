@@ -1,0 +1,299 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 42 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_03_Chunk_012.txt | SHA 302fb976a433e8a97481281b545f28bbb346261f | 22199 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_03/Volume_03_Chunk_013.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 4 (continued) ===
+
+She had made friends with Shuna while I wasn’t paying attention, and the sight of her stealing—er, sampling—tastes of food in the kitchen became a regular occurrence. Shuna was fond of her, too, and sometimes I wondered if anyone saw her as a demon lord any longer. But hey, having friends isn’t a bad thing.
+
+We were also training apprentice cooks for Shuna’s operations. From both genders, too. Shuna didn’t have the analysis and assessment abilities that my unique skills provided; she had to rely on her five senses to make the food she did. The new cooks stuck to Shuna’s advice along those lines, working hard to keep bellies full across town.
+
+With all the different races coming in, our population was starting to swell. This naturally meant we needed to employ a large number of people to cover our food needs, along with keeping the peace, cleaning the rest houses, and doing the laundry. Everyone had their strong and weak points, so we had decided to divide the work into six categories: cooking, cleaning, upkeep, sewing, assistance, and miscellaneous. Rigurd was responsible for taking command and providing assignments. He was good at it, and the job he was doing bringing all the town’s monsters together was a wonder to see.
+
+Yohm’s band also had nothing but good things to say about our food. They liked their living quarters, too, along with the town experience in general. If it wasn’t for that, I’m sure they would’ve fled from Hakuro and his demonic training regimen long ago. Judging by the way monsters around town treated them, they must have enjoyed the work well enough. Once we started hosting merchants in here, I was pretty sure it’d work out just fine.
+
+It’d be great if we could all work together and turn this area into a tourist destination. I had certain plans along those lines, but nothing concrete yet. For now, our first priority was convincing everyone else that we weren’t dangerous.
+
+Danger on the roads, though…?
+
+That was probably a good point. It’d be exceedingly rare to run into something as big as a knight spider, but there certainly were a large number of monsters out there. A forest as deep and thickly vegetated as this one was no place for a human being to live—the monsters posed a danger, but so did getting lost and running out of food. Nobody was around to treat you if you hurt yourself, and the threat of illness on the road was also present. It took nearly two weeks to complete a one-way journey between Blumund and here, but you could expect to tack on a few extra days for all sorts of reasons.
+
+Having Shadow Motion and the like on hand made the distance something we could cover immediately, but that wasn’t available to adventurers. Even seasoned travelers like Kabal’s team needed around ten days to cover it, no matter how quickly they went. If they got in a fight and lost their bearings, it was a given in this world that they’d need to expend a few days getting back on track.
+
+I wanted to use the merchants to spread the word about this town for me. That was my plan, but there were still a few stumbling blocks to cover before we brought it to action.
+
+“Hmm… I see. It’d be quicker to build a new road, wouldn’t it?”
+
+“Huh? What do you mean?”
+
+“Um, well, I’m having a crew pave a road between here and the Dwarven Kingdom, but I’ve also got another team handling building construction. Their work’s settled down lately, but I was thinking maybe they could put in a road to Blumund. It’d keep people from getting lost, at least.”
+
+“Wait, really? That’s kind of a big national operation, isn’t it? You’d need a ton of money to—”
+
+“There you go again, Fuzie.”
+
+“Fuzie? Something about you calling me that really creeps me out.”
+
+“Ah, don’t worry about it, Fuzie. If we can build a road and pave it with gravel, that’d open passage to carriages and wagons and such. It’d save a ton of time, plus, it’d be useful for future relations, right? And we’d be happy to undertake this operation. Just one thing…”
+
+“What’s that?”
+
+“I want you to spread the word, like you promised. Just let everyone know that we aren’t a pack of dangerous monsters. And I’d also appreciate it if you could introduce me to an expert in customs and tariffs and stuff. I want to sell some of the goods we produce, so if I could get in contact with people who can help with all that stuff, that’d be great. How about it?”
+
+Right now, the path between here and Blumund was little more than a rough animal trail, capable of accommodating horses but not full carriages. We had started to build a road to Dwargon, but we hadn’t even gotten around to clearing the trees that dotted the path to Blumund. We hesitated to, because we were afraid of calling too much attention to ourselves, but that was before all the battles and such in the forest.
+
+Things were starting to calm down again, and I wanted to have some highways we could leverage to improve our trading activity. I was prepared to leave that issue alone if we were seen as “the enemy,” but if we were building diplomatic relations with other countries, we needed some real roads, fast. And since I ran things in the forest, it was up to us, I felt, to do all the construction work.
+
+I figured now was a good time to plead my case to Fuze about this, even if it sounded a tad patronizing, and have him do his job for me. It had the intended effect. Fuze looked honestly touched.
+
+“Sir Rimuru, you would really do all that for us? In that case, we’ll do our best to provide any kind of support you need!”
+
+Heh. That was easy. Fuze will probably be singing our praises to anyone who listens to him once he returns home.
+
+At the very least, if he didn’t have a narrow, prejudiced view of us, then I’d say I won this battle.
+
+If using some of our idle man power to build a road was enough to earn that much appreciation, it’s a pretty cheap deal for us, I think.
+
+Kabal and his friends were back by the time I had finished cajoling Fuze. Milim came running up to me, a big smile on her face.
+
+“Wah-ha-ha-ha-ha! Another bumper crop today!”
+
+Behind her, Kabal and Gido were both carrying a huge number of monsters on their backs.
+
+“Boy, that Milim sure is something else! She can spot out monsters in the blink of an eye! She made things so much easier for us.” The empty-handed Elen beamed as she trailed behind the demon lord.
+
+There wasn’t a speck of dirt on Milim at all; I guess she had the men in the party handle all the heavy lifting. She was wearing a new dress from Shuna, and I suppose she didn’t want to splash any blood on it.
+
+Not exactly hunting gear, I don’t think…
+
+“Phewww! Finally back!”
+
+“That was a hard day of work, eh? Let’s hit the hot spring and grab a mugful of something.”
+
+“Ooh yeah! The fruit wine here is awesome!”
+
+Kabal and Gido didn’t seem to mind being used and abused, at least, although that probably wasn’t the way they thought about it. The men were spoiling Milim, after all, and it wouldn’t be very nice to gripe about that and stir up conflict. If they had no problem, neither did I.
+
+It did, however, remind me all the more about how, no matter which world you lived in, some men were doomed to have women use them. I, at the very least, could show them a little kindness.
+
+“Hey, good work, guys. Why don’t you get yourselves cleaned up first?”
+
+“Yes, I would hardly want you to remain all dirty like that—”
+
+Shion started to comment, but then—
+
+“Hmm?!”
+
+Suddenly, Milim ran next to me, eyes pointed forward.
+
+“Who’s there?!”
+
+Shion handed me to Milim as she addressed some presence in front of her.
+
+I’m not a piece of baggage, you know. I have no idea why they’re ferrying me back and forth, like I’m some fragile work of art.
+
+Benimaru and Soei took position behind Milim as I grumped about this for a moment, Hakuro standing nearby among the trees. I didn’t spot him arriving—he must have been training just now, but his clothing was still in perfect order. Impressive. And with Ranga bursting out from my shadow, we now had the town’s main force gathered together.
+
+Geld was out working on the road project, so he wasn’t here. He had reported to me a few days back about how he sensed something suspicious nearby, but he never actually saw anything, so he chalked it up to his mind playing tricks on him and kept up the road construction. I had a feeling that I was forgetting about someone else, too, but—hey—with all the guys we did have, I didn’t predict any issues.
+
+Besides, the person facing us was familiar to me.
+
+“It has been quite a long time, my leader.”
+
+It was Traya, a dryad and Treyni’s younger sister.
+
+“Sure has. But why are you looking like that? All like you’re about to kill someone?” I said as she kneeled before me.
+
+The seething rage was something you could detect even from far away, sharp enough to make both Milim and Shion react to it. Her semitranslucent body was a bit hazy in places; perhaps she had taken some damage. It was clear that something happened to her.
+
+“…Well, I am afraid it is an emergency. Charybdis, a calamity-class monster, has revived itself. The power wielded by this great spirit is akin to a demon lord’s. My sisters are keeping it immobile for now, but we are hopelessly outclassed. Plus…it appears the great spirit is seeking out this land. Charybdis is a tyrant of the skies; ground-based forces can do little against it. I came here to advise you that you must solidify your defenses and prepare some aerial war power.”
+
+The fatigue was clear on her face as she explained.
+
+Tension quickly filled the air. Surprisingly, Fuze was the first to react—he was stunned to near silence the moment he saw Traya (“A dryad?!” he had shouted), but the mention of Charybdis’s name got his brain in gear again.
+
+The blood drained from his face as he shouted. “Charybdis?! Oh, man, if it’s really revived, that’s a bigger threat than any demon lord. Unlike those guys, you can’t even reason with this thing. It’s classified as a calamity, but I’d say it’s safe to assume it’s a full-on disaster, if anything…”
+
+As he put it, its strength was demon lord–caliber, but instead of leading an army, it just went around by itself wreaking havoc. A sort of unintelligent monster, to put it another way.
+
+However, thanks to its unique Summon Monster skill, it could call out schools of megalodons, a large, shark-type monster, anytime it wanted. The otherworldly creatures dissipated after a period of time, once the magicules giving its body physical form were exhausted, but even so, they were an A-minus force that couldn’t be ignored. What’s more, Charybdis could summon ten or so at once, making even its servant beasts a formidable presence.
+
+If Fuze was right, then I honestly had to agree with him. This was worse than a demon lord.
+
+“I don’t know why we would be targeted, but if we are, this is great for us. We must choose the best fighters we have and prepare to counter this force.”
+
+Benimaru was certainly excited, but we needed people who could fly…
+
+Oh! Wait! I forgot!
+
+“Right. I forgot Gabil. He’s probably doing research in the cave. Can someone get him for me?”
+
+Soei went off to fetch him. In the meantime, I decided to go back to town and hold a prep meeting.
+
+We were back in the now-familiar meeting hall, Traya using Thought Communication to speak with her sisters.
+
+Soei was back with Gabil, with Vester joining him, so we could make contact with King Gazel if need be. On the question of aerial firepower, the first thing that crossed my mind were his Pegasus Knights—each one of them were A-ranked fighters, so if I could gain their support, I couldn’t ask for anyone better to rely on.
+
+Gabil and his fighters could fly as well, but they were no better than B-plus, and taking on someone ranked higher than you was gravely dangerous. I preferred to think of a way we could guarantee victory for ourselves, with minimum damage.
+
+“Things couldn’t be much worse,” Traya began. “For some reason, the summoned megalodons have incarnated themselves in the corpses of some lesser dragons. They’ve manifested to creatures over sixty feet in length, like nothing we have ever seen before, and there are thirteen of them. My sisters estimate that each one is in A-ranked territory.”
+
+“““…”””
+
+Everyone in the room lost their voice at this. A creature as strong as a demon lord, plus thirteen other A-ranked monsters? I wanted to ask if this was some kind of a joke.
+
+“What will we do, Sir Rimuru?” Benimaru asked.
+
+Ugh, that’s what I want to ask…but I’m the leader of this alliance, and it’s my job to make the decisions.
+
+Plus, no matter how much I hemmed and hawed about it, there was only one answer to give.
+
+“What’ll we do? Well, we’ll kill it, won’t we?” Reluctant though I was, I presented that conclusion to the others.
+
+The moment I said it, everyone in the room took action.
+
+“Heh. I didn’t need to ask. In that case, I will begin to prepare.”
+
+“Indeed, what else could we do?”
+
+“Exactly! This will be no sweat for Sir Rimuru.”
+
+When it came to this sort of thing, they knew exactly what to do. Nobody voiced any disagreement with me; instead, they sought out their roles and sprang into action. The sight made Fuze lose his head a little.
+
+“Whoa! Is that all? Don’t you understand? This is a demon lord–class enemy…”
+
+“But even if we stalled for time, we can’t expect much support from Blumund, can we, Fuzie?”
+
+“Well, no, but…”
+
+“I’m not fighting to lose this, of course, but if it comes to it, I hope you’ll consider taking in some of our residents.”
+
+“Not fighting to lose…? But even the dryads can’t handle this monster! Now’s no time for this kind of easygoing nonsense. It’s a huge problem! One that requires an international response!”
+
+I wasn’t intending to sound easygoing. I was honestly fairly panicked myself. That’s why Benimaru and the other ogre mages were so quick to begin preparations—and Gabil himself was running off to gather his troops. Hakuro was in contact with Gobta to get the goblin riders assembled.
+
+Each of them was a B-plus threat alone, but working together as a coherent unit, he declared that they could easily have one or two of the megalodons for dinner. They even looked forward to the chance to experience battle against a higher-ranked enemy. Crazy.
+
+Meanwhile, Rigurd was bringing the town leaders together, explaining the situation and ordering Rigur to lead the evacuation. Calling attention from the air would make you a target, so I imagine he’d take them all into the forest.
+
+All of this was done in orderly fashion, without anyone getting too worked up about it. Sadly, with the frequency of the crises we’ve been asked to tackle, I suppose we’ve gotten use to things like this.
+
+Fuze, being unaware, must’ve thought I wasn’t sensing the danger enough, and I can’t blame him for that.
+
+Milim, meanwhile, was going with Shion to the bath.
+
+Some enemy coming to attack the town wasn’t any concern of hers. Her devotion to the routine was at least helping keep everyone around her calm.
+
+After everyone sprang into action, the only people left in the meeting hall besides me were Fuze and Kabal’s trio. We took the opportunity to talk over a few things.
+
+“All right, I’m not gonna tell you guys not to worry about anything, but I intend to do everything I can for this. I’m having Vester make contact with King Gazel for me, so we should expect some more support, too. After that, well, I’ll do what I can,” I said.
+
+Fuze looked less than optimistic. He had a lot of questions, doubts, and other thoughts in his mind, and I got the impression he was having trouble forming them into words. I was in no hurry, so I wanted him to calm down a bit.
+
+“…You aren’t going to run?” he finally asked after a moment of thought, clearly worried for all of us. He was gravely serious, and I thought he deserved a serious reply.
+
+“What would running accomplish? I’m the strongest dude in this nation. I’ve told my people to take refuge if I ever lose, but you know, just because I lose one fight doesn’t mean I’m giving up on the battle. If there’s absolutely no chance of winning, then sure, I’ll run away and think up another plan. If not, though, then it’s important that I go right in front of our foe and gauge how strong he is with my own eyes, isn’t it?”
+
+I need to do that if I want to formulate any kind of strategy. Plus, since I am the strongest in the Alliance, nobody’s running as long as I don’t lose.
+
+I thought about saying that, but I found it a little too embarrassing.
+
+It just felt so lame, telling people that it was a leader’s job to take the loss sometimes. That’s why I tried not to lose, if I could. Until I actually did lose, I had to play the strongman role to live up to everyone’s expectations.
+
+And even if I was defeated, I didn’t have much to worry about—not after telling everyone so many times to take refuge in that case.
+
+“…Ah. That’s what being a leader of monsters means, I suppose.”
+
+“Yeah, well, this isn’t the kind of nation that would crumble after losing its king anyway, so…”
+
+Fuze nodded at me. He looked convinced enough. “Still, it strikes me, Sir Rimuru, that you think quite a bit like we humans do. You don’t seem like a monster at all. Plus, it’s just so strange, having a slime be the most powerful being in the realm,” he said with a chuckle.
+
+He might be right. It didn’t seem like anything unusual to me, since I was a former human, but to Fuze, having a monster think and act so human must have thrown him. Plus…
+
+I’d actually been hiding something from Kabal and his friends. I still hadn’t told them what had happened with Shizu in the end. It was kind of a tough subject to bring up, so I intended to stay mum about it until asked. But if I was ever going to come out with it, now seemed like a good time.
+
+“Hmm… Maybe so. You might find this hard to believe, actually, but I used to be a human being, too. You know Shizu, right? I think I’m probably an otherworlder, just like she is. Though, really, it was more like I died in my old world and got reborn as a slime in this one. And while I’m at it—”
+
+I used my Universal Shapeshift extra skill to transform into a human.
+
+“What on—?!”
+
+Fuze’s eyes lit up as Kabal’s crew audibly yelped in surprise. It was Elen who noticed first.
+
+“Umm, looking at you… That’s like a smaller version of Shizu, isn’t it?” she timidly asked.
+
+“Oh, no way, Elen.”
+
+“Yeah, Shizu was an old lady! She wasn’t anywhere near as cute looking as this.”
+
+Kabal and Gido were quick to protest, but Elen held her ground.
+
+“No, there’s no doubt about it. I mean, I saw her! Like, what she looked like under the mask…”
+
+Oh, she did? It was just for an instant, so I didn’t think any of them caught a glimpse, but… This works well for me, though. I was going to tell them now anyway.
+
+I removed the mask from my pocket and put it on the table.
+
+“That’s Shizu’s mask, right?”
+
+They eyed it, then me.
+
+“Yeah. I wasn’t really hiding it or anything, but I didn’t take this form around you guys because I didn’t want you to get the wrong idea. Elen’s right—I inherited this form from Shizu.”
+
+“…Inherited?”
+
+“Yeah. When I ate her.”
+
+The four of them looked surprised, but none seemed angry. They retained their cool as they waited for me to continue. They had chosen to believe in me, luckily enough.
+
+“Shizu and I came from the same country. When she died, she asked me to take over her mission…and as proof that I’ve taken on her will, I picked up the form you see here. So…I can’t go around acting like an ass while I look like Shizu, you know?” I said quietly.
+
+About half of that was my real feelings. The other half, really, was just an excuse I was using to deceive myself.
+
+Guess there’s no helping it if they’re suspicious of me now
+
+, I thought, as I turned my eyes to Fuze.
+
+“…Can you tell us what happened?”
+
+There was not a trace of doubt in his voice. So I spent the next few minutes describing Shizu’s final moments, as well as the circumstances behind my death and rebirth.
+
+“I see… So that’s what it was…,” Fuze whispered.
+
+Perhaps Fuze had been spending so much time in this town because he wanted to ask me about Shizu. Just like me, he had trouble finding the right time to bring it up.
+
+“Well,” Kabal said, “I believe in you, pal.”
+
+“Yeah, me too.”
+
+“And me! And me!” Elen insisted. “But… Wow, Shizu really did everything she could to make her dream come true. And now you’re gonna try to make that happen, Rimuru?”
+
+Elen’s question was more to the point than I had anticipated. But there was no need to tiptoe around answering it.
+
+“I am. I promised her as much. I’m going to free up all the emotions that are binding her heart down. Not that I’ve met the guy or anything yet, but as far as I’m concerned, the demon lord Leon is my prey to catch.”
+
+“Wow… I always knew I could believe in you, Rimuru!”
+
+Elen flashed me a friendly smile. As for the other three men:
+
+“Leon?
+
+Huh?!
+
+”
+
+“You’ve got a death wish, Rimuru. I mean, Charybdis is practically a pushover compared to that guy…”
+
+“Yes! You can’t go around calling someone like that your prey! Don’t blame me if it leads to your death!”
+
+They were, to say the least, a little unnerved. Well, so be it. Wish they could learn a little from Elen, but our little heart-to-heart seemed to have earned me all their trust. They each offered to join in this battle, but I turned them down. If I blew this, as I explained, it’d be up to them to figure out a new plan immediately. They relented pretty quickly.
+
+Charybdis, though, huh…?
+
+Thinking about the battle up ahead was already dampening my spirits.
+--- END PRESERVED SOURCE BODY ---

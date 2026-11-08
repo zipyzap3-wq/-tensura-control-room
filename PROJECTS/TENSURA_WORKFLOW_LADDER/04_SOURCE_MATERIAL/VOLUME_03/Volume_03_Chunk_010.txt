@@ -1,0 +1,155 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.1.0 | FULL LADDER: 00 Project control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 review → 10 ChatGPT match → 11 audit → 12 path evidence → 13 approval → 14 canon promotion → 15 self-evolution.
+> FILE POSITION: Stage 01, source item 40 of 127. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read body, record page/OCR uncertainty; never infer unseen events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/Volume_03_Chunk_010.txt | SHA 338b9e7b031da8d430a4e43806bb9ba9730c4f9b | 17085 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_03/Volume_03_Chunk_011.txt
+> STOP: Preserve body; corrections go in derivatives.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+=== CHAPTER 3 (continued) ===
+
+We were now together, and the whole event was enough to make Fuze forget all about Milim. “In that case, I have no objections about working with you on this, too. However, would you mind if I made absolutely sure, first, that you are on the side of the human race?”
+
+“Mm? Okay. That’s fair enough.”
+
+And now Fuze was with me, too.
+
+Fuze was kind enough to work with a friend of his, the Baron of Veryard, to smooth things over with the king of Blumund. As he did, I worked out the exact sort of rumors we needed to spread around the local nations, adjusting the little details to match with the plotline I came up with. Soon, we were in contact with every Free Guild in the area.
+
+In exchange, I offered Fuze preferential treatment for some of the merchants coming from Blumund. Any merchants affiliated with the Free Guild there would be allowed to stay at Rimuru, capital of the Jura-Tempest Federation. For now, we weren’t charging any tariffs—that could be discussed among us once they trusted us well enough and we opened a bit more formal diplomacy. I had no idea what we should charge anyway. I’m not a politician; I can’t calculate stuff like that. I may have acted all kingly and magnanimous about it, but seriously, I was sweating bullets inside.
+
+This meant that any merchants who work through the Blumund guild would get a pretty damn good deal until I worked all of that out—and part of that consideration would go back to Fuze’s pocket.
+
+How long would it take for Blumund to trust in us as a fellow nation, though? Not very long, perhaps, or maybe never, even after several decades. I was prepared to wait them out, and in the meantime, I could at least prepare to enact some official ties.
+
+We’d need to build that trust first, but at the same time, we’d need to figure out how much of a tax would be appropriate. It’d have to be cheaper than Farmus, of course, and it’d be important to boost our amenities and spread the word on our safety record. We hadn’t finished up our trading roads yet, so any tariffs could probably wait until that was all wrapped up.
+
+There was still a ton of work to do, but at least things were settled between ourselves and Fuze. And Blumund was a small country—the rise of a nation with trade routes and a friendly leader offering them held major meaning. If we could toss guaranteed safety across the entire region into the mix, Blumund could stand to make a major profit from it.
+
+If
+
+they could trust us enough to commit, that is.
+
+Now, to let Fuze bring that offer home and come back with a more detailed report. I couldn’t say how it would turn out, but I had to hope things would go in a more positive direction from now on.
+
+As for Yohm and his band, they would be staying here for a while.
+
+If he was going to be our orc lord–slaying champion, he needed to look the part. Hakuro was probably training him hard right then.
+
+The man had a decent amount of natural talent, but not quite enough strength to become the stuff of legend. Just giving him some big, long weapon to carry turned him into a different man, but we’d need more than that. Instead of just relying on his physical strength and instincts for battle, Hakuro thought, he’d need to have control over some arts as well.
+
+Equipping him wasn’t a problem. We just happened to have raw materials from a recently pummeled knight spider on hand, and I figured we could use those to give him the best weapon and armor he ever saw. Until that was taken care of, his training would focus more on his body and mind.
+
+In battle, there were three things that mattered: speed, offense, and defense. That applied even if you brought magic into the mix—that could always be countered with magic defense—spiritual resistance. The Free Guild based its ranks off the aggregate of those three elements, which meant that simply finding some better weapons and armor would be enough to boost your rating.
+
+In that way of thinking, the materials we used in the completed equipment were top-of-the-line. Knight spiders, at the end of it, were not that terribly fast. It might seem otherwise, given how they could attack with multiple legs at once, but keep your wits about you, and it becomes clear that they aren’t moving too nimbly. That was plain, given how the B-rated Kabal and Gobta more than held their own against it—I was starting to peg Gobta as more of an A-minus, but regardless.
+
+The knight spider earned its own A-minus mainly thanks to its exoskeleton. Its strength came from how incredibly solid that was, as well as its ability to inflict serious damage even by grazing its opponents. Which meant—
+
+“Whoa, Rimuru… You sure yer okay with me havin’ equipment like this, pal?”
+
+Yohm seemed honestly touched as he took in his new exoskeleton-crafted armor. It was a full-plate suit, mottled in three different colors—a dark brown as the base, with a unique pattern of green and red on top. It almost looked like a work of art. I called it the Exo-Armor.
+
+He was surprised all over again when he picked up the chest piece.
+
+“Man. So light, too…”
+
+Of course it was. Compared to regular armor, which took a shirt of chain mail and added metal plating to all the most vulnerable areas, a suit of full-plate armor was ponderously heavy. They defended you well, but at the cost of all mobility, so normally you never saw them in action.
+
+This Exo-Armor, meanwhile, used no metal, making it relatively lighter than steel—the key to its weight advantage. Sticky Steel Thread lined the inside in a mesh formation, keeping the wearer safe against heat or cold. The exoskeleton itself boasted superior defense against magic and physical attack, and with the thread reinforcement, it easily shrugged off your garden-variety magic and melee strikes—something we’d already proven in our experiments.
+
+In a nutshell, it offered more durability than full-plate mail at a third of the weight. I couldn’t say how it felt on a monster whose muscular strength outclassed any human’s, but for Yohm, it was the best armor in the world.
+
+“Yep. Garm put his heart and soul into this. He bragged that it’d fetch a price higher than any Unique piece of gear if we put it on the market.”
+
+“M-more than a Unique?!”
+
+“Like, the kind of thing an adventurer spends ten years or so savin’ up for? How top-end are we talkin’, pal?!”
+
+The news came as a major shock to Yohm.
+
+Just as adventurers were ranked, weapons and armor received their own ratings.
+
+The type of thing you’d find regularly at shops was Normal. If it performed a little better or had magic effects applied, it was rated Special—worth a lot but still relatively accessible to the average consumer. In a world like this, where death was always lurking around the corner, you wanted the best equipment you could afford, so most adventurers hit the road with a full array of Special equipment.
+
+However, even this stuff was still nothing compared to a top-shelf piece of work, crafted by a master forger and priced as such. The kind of broken-stat weapon or armor that boosted the wearer’s rank the moment he or she grabbed it. This kind of first-grade stuff was rated Rare, and amassing a full set of Rare gear was something of a status symbol in adventuring circles. Anyone who managed the feat was revered and respected as a person who could get the job done. The armor Garm crafted was all Rare pieces, and that was why Kabal and his crew were so overjoyed to receive it.
+
+And at the very top, there was a level even above this highest of levels—equipment with world-shattering performance. Exquisite pieces made by old masters from only the best materials, taking no account of matters like production cost and profit. These were called Unique. Weaponsmiths in the larger cities would decorate their shop walls with these for advertising purposes; nobility would store them with tender care as family heirlooms. They were the best of the best, and there weren’t many such pieces around, only adding to their rarity value.
+
+As an example, these sorts of Unique items were equipped by every member of Gazel’s personal friends, along with his Pegasus Knights. The pride of a nation of craftsmen, one could say. Money and materials were no object with their top-caliber equipment, honing an even sharper edge to their world-beating war power.
+
+Hell, no wonder they’re so strong
+
+, I had thought to myself when I learned about it.
+
+Boosting their talents with weapons and armor were one way humans handled monsters, which I had no complaint about. But it had to suck for the monsters felled by such overpowered equipment.
+
+It follows that we wanted to play that same game with our own stuff.
+
+Based on that, again, Yohm’s shock was understandable. The greatsword he wielded was all scratched up, even chipped in places; it was no longer useful. Kurobe had prepared another weapon in its place, and it was another masterpiece.
+
+This was a Dragonslayer, a type of greatsword that could hold its own against large-size magical creatures. It didn’t have a curve to it, unlike the larger battle swords the ogre mages had; it was more of a Western-style dual-edged blade. One edge was sharpened to a shine, dedicated to slicing and dicing, while the other was solidly reinforced, making it more of a crushing weapon.
+
+Given Yohm’s shield-free fighting approach, I figured he’d find that easier to handle than his last weapon. The way he stared at the Dragonslayer in his hands and murmured “Look at this thing…” suggested he was happy with it. Good.
+
+As a Kurobe creation, the Dragonslayer was another Unique piece. With the right technique, it had the power to slice through even a knight spider’s exoskeleton. If you ask me, those two pieces alone just made Yohm’s power zoom up to A-minus rank.
+
+It sounded a bit like cheating, relying on equipment to boost your strength. But I let it slide. You needed technique to make the most of it anyway.
+
+Yohm, to his credit, had grown strong enough to truly be worthy of owning this stuff. I hadn’t given him anything except food and a place to sleep, and he had no complaint about that. I did hear him scream in pain and call Hakuro a demon and all kinds of other colorful things, but nothing about my treatment, at least.
+
+He was under contract to work with me, after all, and I gave him some pretty nifty equipment, so I figured I was fine.
+
+If I can be honest for a moment, I almost hesitated to let him have it all. Unique items were a rarity in this world, and I wasn’t wholly sure I wanted ours to flow into the hands of outsiders. Ultimately, though, I decided that if he had champion-level equipment, that’d make my story all the more convincing.
+
+He was training hard in this town, his talents now noticeably improved. He didn’t look out of place at all in his Exo-Armor. A little bit more work on him, and nobody would ever doubt for a moment that Yohm slew the orc lord.
+
+The days of training continued for Yohm.
+
+His weapon and armor were complete, but I decided that his band had better get equipped, too. I’d need to invest in them a little if I wanted them to help me out later. Hakuro would hammer them all into shape, too, so it should help them ability-wise. Plus, it’d give even more weight to the tale of this great champion and his stalwart band of supporters.
+
+Of course, they were after more than just nice equipment. Apparently, they were enjoying life here in the city as well. I didn’t mind at all. They were working hard for me.
+
+What I had to offer them was scale armor dyed a fresh, bright-green—the completed version of the test piece I gave to Kabal. For the lighter-equipped thieves and the like in their crew, I had a few sets of red-colored hard-leather armor built. Both colors were a nice match for Yohm’s own Exo-Armor.
+
+“You… You’re even giving this amazing armor to
+
+me
+
+?”
+
+This armor didn’t offer much against melee attacks, but it was pretty darn resistant to magic. All I wanted was for Rommel not to look out of place as the champion’s personal sorcerer, but I’m glad he apparently liked it so much. Besides, this was about all I could do for him. Magic isn’t something you can “train” your body for the way Yohm trained with Hakuro; the rest would be up to Rommel himself.
+
+I also handed him a copy of our communication crystal. It’d be a pain if we couldn’t stay in contact, and luckily for us, he just happened to be a magic user. That oughta make things easier.
+
+After preparing and presenting this equipment, I had Rommel go back to Blumund. There, I wanted him to spread the word (and exaggerate a bit) about how the mighty Yohm and his men gave the orc lord a swift and fatal whipping. He said he had no interest in living there again, either—as he put it, being the earl’s magician mainly just meant being assigned all kinds of potentially lethal tasks. Once he received his payment, he pledged to stick with Yohm from now on.
+
+This earl, Nidol Migam, sure didn’t sound like he was much good at all. He put his personal fortunes above those of his people, he was greedy, and he treated his own staff poorly. Considering the high taxes he charged the local peasants, he certainly didn’t devote much of it to territorial security. Given he dealt with issues only after they popped up like that, no wonder his people relied so much on the Free Guild.
+
+“He’s the worst bastard you ever did meet. Eh, not that we’re angels ourselves, but he takes the cake!” Yohm practically spat at me.
+
+The trope of a wicked, greedy nobleman was a familiar one in the stories I read, but when one was actively affecting your real life, nothing could be more depressing.
+
+But if anything, that was good for me. I could have Yohm return home a champion, one who protected all of Migam. He’d go from village to village, allowing the locals to skip all the guild bureaucracy. He wouldn’t work for free, of course—the village would simply submit their completed monster-slaying job papers to the guild, and he could get paid through the earl later. No way would he, nor anyone else, want to serve Nidol for free.
+
+The arrangement would benefit us both, but its biggest merit was boosting Yohm’s reputation as a champion. He’d earn the thanks of whomever he saved, and stories of his strength and sincerity would spread across the land. That, in turn, would boost the rep of the monsters who supported him—i.e., us.
+
+Plying his trade across the villages wouldn’t be easy, but keeping his base of operations here, in Rimuru, would simplify a lot of things. A communication crystal could be activated by any of the shamans that every village had at least one or two of, so I decided to pass a whole bunch of copied crystals around. I could essentially duplicate them for free, thanks to the Great Sage’s backup. That was just a matter of processing the magic stones from monsters and crystallizing them to a high enough purity. I kept that a secret, since word going around seemed like it’d come back to bite me.
+
+These crystals could always be stolen, of course, and there wasn’t much I could do about that. That was each village’s problem, and I didn’t see the need to babysit them that much. It’d be part of their normal lives to tackle, so they could handle it for themselves.
+
+So taking in feedback from Rigurd and the ogre mages, we gradually sorted out the details behind Operation: Make Yohm a Champion. We may have had a contract, but he wasn’t exactly my underling—on the surface, we were working cooperatively with each other. Which was great, because it meant I didn’t have to pay him a salary. Really, we still didn’t have any outside currency, so if anything I oughta be charging him rent.
+
+No point being so miserly, though. That was why I gave him room and board for free.
+
+Another motivation of mine, speaking of this town, was that I wanted to advertise this place. I had heard about how people who have it tough in their local village head for the big city to try to make a living. Why not come here instead? I wasn’t expecting humans and monsters to be arm in arm overnight, but again, I was thinking long-term.
+
+Several weeks later, all of Yohm’s equipment was ready. We finally had his horses and his communication crystals. Rounding up thirty-one wild unicorns was a huge ordeal, though. B-plus magical beasts, every one of them. Strong.
+
+But this wasn’t the outlaw band from before. Hakuro had trained Yohm and his men up to the point where they were almost unrecognizable from a few weeks back. None were going to faint at the sight of a magic creature any longer. You could rely on these guys now—and with their brand-new equipment on, they had the air of brave, battle-proven warriors. More than worthy of accompanying a champion.
+
+“Well, it’s been fun, pal. We’ll see you for now, Rimuru!”
+
+And with that, Yohm set off, promising to use this town as a base for their future activities.
+--- END PRESERVED SOURCE BODY ---

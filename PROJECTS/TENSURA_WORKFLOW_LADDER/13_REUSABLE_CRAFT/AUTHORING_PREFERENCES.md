@@ -3,11 +3,11 @@
 > FILE POSITION: See file-specific stage and next action below. This header must remain first.
 > STOP: Do not skip prerequisites or claim completion without evidence. Drafts are non-canon until explicit user approval.
 **File ID:** TWL-019 | **Stage:** 00, 05-11 | **Status:** USER-PREFERENCE REFERENCE
-**Purpose:** Preserve the author's established writing preferences without importing old story canon.
+**Purpose / WORK ORDER:** Apply the author's established writing preferences during chapter planning, prose and review; distinguish craft preferences from story canon.
 **Prerequisites:** User-approved project instructions; verify these preferences remain applicable if the user changes them.
 **Required actions:** Apply during planning, drafting and review; distinguish style preference from story facts.
 **Completion evidence:** Chapter packet and review reference these preferences.
-**Next destination:** 07_PLANNING/CHAPTER_PLANNING_TEMPLATE.md | **Next action:** Apply preferences to scene and POV plans.
+**Previous file:** 07_PLANNING/CHAPTER_PACKET_TEMPLATE.md | **Next destination:** 07_PLANNING/CHAPTER_PLANNING_TEMPLATE.md | **Next action:** Apply these preferences to scene, dialogue, POV and pacing plans.
 
 # Authoring Preferences
 These are craft preferences, not plot or character canon:

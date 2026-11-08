@@ -16,7 +16,12 @@
 ## Mandatory first block
 The Workflow Ladder block is the first content in every file used for research, planning, drafting, review, continuity, approval or canon management. No title or other content may precede it.
 
-Each header includes: project identity and version; full ladder 00-15; exact file ID/path/type/current stage; purpose; prerequisites; required actions; completion evidence and status (NOT STARTED / IN PROGRESS / BLOCKED / COMPLETE / NEEDS REVIEW); exact next file and action; stop conditions and approval boundary.
+Each header includes: project identity and version; full ladder 00-15; exact file ID/path/type/current stage; purpose/work order written as an instruction inside the description; prerequisites; required actions; completion evidence and status (NOT STARTED / IN PROGRESS / BLOCKED / COMPLETE / NEEDS REVIEW); previous file; exact next file and action; stop conditions and approval boundary.
+
+A header is a living navigation ladder. Update it when status, next task, predecessor or stage changes. The file itself must tell the operator where it sits and where to go next. Synchronize the checkpoint and register after each completed work unit.
+
+## Work-order requirement
+The PURPOSE / WORK ORDER field states the task this file assigns to the operator, not merely its subject. It must be actionable without guessing. Example: Read the next queued source chunk in full, extract its ordered beats and cast, reconcile its boundaries, then update the read log and checkpoint.
 
 ## Source-file integrity
 - Each copied source file receives a prefatory Workflow Ladder banner identifying it as SOURCE MATERIAL, NOT STORY CANON, with source repository/path, original blob SHA, page range and next source chunk.
@@ -24,7 +29,7 @@ Each header includes: project identity and version; full ladder 00-15; exact fil
 - OCR corrections and annotations belong in separate derivative/errata files, never silently in preserved source copies.
 
 ## Navigation
-Every file names the exact next file. Generic directions such as "continue research" are insufficient. Sequence files point to the next item; final items point to the next stage or register. Multi-stage files state their primary stage and re-entry points.
+Every file names the exact next file and concrete next action. Generic directions such as "continue research" are insufficient. Sequence files point to the next item; final items point to the next stage or register. Multi-stage files state their primary stage and re-entry points.
 
 ## Versioning
 MAJOR changes ladder structure/approval architecture; MINOR adds stage/gate/artifact/behavior; PATCH clarifies without changing behavior. Master version changes require updating every in-scope header and the register. Record all changes in CHANGELOG. Version mismatch is a stop condition.

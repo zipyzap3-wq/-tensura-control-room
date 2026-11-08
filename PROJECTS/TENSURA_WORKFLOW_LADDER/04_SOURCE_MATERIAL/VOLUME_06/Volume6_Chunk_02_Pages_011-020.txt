@@ -1,0 +1,393 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 4 of 54. This is SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read this source body as supplied, record page coverage/OCR uncertainties, and do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_6/Volume6_Chunk_02_Pages_011-020.txt | Original blob SHA: 1b94b0e7380e8af86296b00add14c46e4d406457 | Original size: 22348 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_06/Volume6_Chunk_03_Pages_021-030.txt
+> STOP: Do not alter source body. Any OCR corrections belong in a separate derivative. Do not treat this source as approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+AI-READING CHUNK 02
+Original pages: 11-20
+The text below is preserved from the source file. Page boundaries are marked explicitly.
+
+Page 11
+
+wasableto detectthe existenceofsuch intricatemagic.
+That’sa surprise. I didn’tanticipatethereto be mental magic on par with my own here…
+From there on, Laplace became more cautious and proceeded towards the Holy Church
+carefully.
+Laplace had some knowledge about the enemy organization. However, he had little to no
+ideaabouttheconnectionbetweenthisWesternHolyChurchandtheHolyEmpireofLubelius.
+The Western Holy Church worships the monotheistic god Luminas as their deity. It’s the
+samecaseforHolyEmpireofLubelius,anditcanbesaidthatbotharedisciplesinthereligion
+ofLuminism.
+Butinterms of power,theWesternHoly Churchfar outranks Lubelius.
+Thereasonbeing Hinata.
+ThereasonswhytheWesternHolyChurchhavegrowntobecomesuchaneliteorganization
+are all thanks to the achievements of Hinata Sakaguchi, who dispatched knights to branches of
+thechurch inwestern states,organizedgroupeffortsto protect the weak, and more.
+TheWesternHolyChurchwasonceanorganizationthatspreadtheteachingsoftheirGod-
+dessLuminasundertheprotectionoftheHolyEmpireofLubelius. Nowadaysthey’vesuddenly
+become“TheJustProtectorofTheWeak”andlosttheirtiesasaservingorganizationunderthe
+HolyEmpire of Lubelius.
+ThereasonofthistransformationistheHolyKnightOrder,whichHinatapersonallytrained.
+Theyarethe realissue.
+They are the strongest human knights— and the Holy Knight Order consists of many of
+theseholyknights.
+Even Laplace considers them to be difficult to deal with. The Holy Knight Order does not
+follow the Holy Empire of Lubelius but instead follows their one true Goddess, Luminas—In
+other words,theyfollow Hinata’severycommand, asshe herself is a disciple of Luminas.
+ThisisthereasonwhytheWesternHolyChurchwasabletocutitstieswiththeHolyEmpire
+ofLubelius,thus becomingaforceofits own.
+Butthere wasanother problem.
+TheHolyEmpireofLubelius’militaryisnotexclusivelymadeupoftheHolyKnightOrder.
+ThereisalsotheregulararmyoftheHolyEmpireofLubelius,namelytheImperialGuards
+which serve under the Pope’s direct command. This regiment serving the Pope is another diffi-
+cultorganizationto dealwith.
+They preach the saying “in God’s name, all men are born equal,” which allowed them to
+garneravarietyof talents toserveinthe Order.
+Theconditionsforjoiningareverystraightforward: beafaithfulfollowerofLuminasand
+havecombat capabilityaboverankA.
+The conditions seem simple on paper but are more difficult to achieve in practice, which
+is why the number of knights in the regiment is so small. However, they are all exceptional
+fighters or mages who are allowed to recruit their own subordinates. This is why the Imperial
+Guardsare not aforce to be trifledwith.
+11
+
+Page 12
+
+Even within such a powerful organization, Hinata is still said to be head and shoulders
+aboveeveryoneelseasthetopknight. Moreover,thearchon(leader/highestrankingofficer)of
+the Pope’s ministry, Nicolaus Speltus is an admirer of Hinata. With all that in consideration, it
+canbesaidthathalf of the WesternHolyChurch is firmly under Hinata’scontrol.
+ThebiggestplayerinbothorganizationsaroundthePope,Hinata,refusestopledgeherself
+to said Pope. Due to people such as Hinata, the relationship between the Western Holy Church
+andtheHolyEmpire of Lubeliusappears severelytwisted nowadays.
+Whatadifficult womantodealwith…
+Havingsummarizedallthatinformation, Laplace sighs with disdain.
+The holy church is filled with the power of spirits, calling forth the grand holy-element
+spirits.
+Such a strong aura of holiness greatly affected the majin Laplace. His senses seemed to
+havebecomereduced, andhefeltthedesire toretreatas soon as possible.
+Laplacetriedto encourage himselfto moveon whilethinking over his next move.
+He decided to head over to the top of the Spirit Mountain. It holds the “Inner Sanctum”
+whichseemsto be the placeusedforcommunicating with the Goddess.
+Whileinfiltratingtheholychurch,Laplace’sinstinctstoldhimthatthereweresomesecrets
+hiddenthere.
+“Allright,what shouldIdonext…”
+Laplace considered what he should do for a moment and then headed towards the “Inner
+sanctum”across theholy church.
+Laplace had been concerned about the amount of time spent investigating, since Hinata
+would be returning at any moment. But since she wasn’t there yet, he needed to seize the op-
+portunity to have a sneak peek at the teachings of the Western Church—The identity of their
+deity.
+I’ll justtake alook.
+Hemadeup hismind andbegantoclimb upthe mountainroads.
+However,thatwas a mistake.
+Well, in terms of results it was the right decision as it provided incredibly valuable infor-
+mation, but at the same time, it put his life in jeopardy and gave him an unnecessary arduous
+task.
+Usingthenarrowstonestepsthatledupthemountain,Laplacewasabletoreachthesanctum
+atitssummit.
+The sanctum was rather small compared to the Holy Church, yet the two were similar in
+termsofaesthetics. Thissmall sanctummusthave been the real residence of the God.
+Thesurroundingsweredevoidofanysound.
+Theholyauratherewasmuchmoreintense,anditpressedagainstLaplace’sbodyandheart.
+Yettherewas arather familiarmagicalaura hesensed in such a holy environment.
+—Howcouldthisbe,Isn’tthisaholyland?! Whyisthereapresenceofmagicules? Thisis
+strange,it’sreallygivingmethechills…
+12
+
+Page 13
+
+Thebiggest obstacle,Hinata,wasindeednot there.
+And if there were any other people around (though he would not take them lightly either
+way)theywouldnotbedangerousenoughtoposeathreat—Laplacereachedsuchaconclusion.
+But,was itreallythe rightjudgement?
+Withhowthingsweredeveloping,uneasewormeditswayintoLaplace’sheartashedoubted
+hisdecision.
+I’moverthinkingit. Icouldjustgoinwithfullstealthandrunawayagainstanyoverbearing
+opponents.
+Laplacethought sotoencourage himselfand decidedto give it a go.
+He carefully enabled his “Deception Technique” and was about to go sneaking into the
+sanctum.
+Yetinan instant—
+He“seems”tohavewitnessedalightshiningthroughhisbody. Immediately,thepanicked
+Laplacemadehis rushedescapetotheoutside of thesanctum.
+“Useless fool. Atrashlikeyoudarestoprofane the residence of ‘God.”’
+Anincredibly powerfulpersonemergedfrom the sanctum.
+Under his dashingclothes,Laplace could vaguelysee a strong, muscular body.
+Theshort,energeticblonde haironhis headdisplayed his temperament.
+Thestyle of aking.
+Thetwocanineteeth thatjuttedoutofhis mouthwere the most eye-catching.
+“How could this…AVampire!”
+“Silence, trash. I shall punish you myself. You should feel honored to be killed by my
+hands!”
+What followed rightafterwerestrafesof red beams, all aimed at Laplace.
+Withnowhereto run andnoplansofescape, Laplacewas beaten to a pulp.
+13
+
+Page 14
+
+No text detected
+
+Page 15
+
+………
+……
+…
+Laplaceshiversas he recountshis experience.
+“That guysurewas strong. Ireally thoughtIwould die there.”
+“Orrather…why haven’tyoudied yet?”
+Theyoungman teases uponhearingLaplace’smumbling.
+Kazalim jests,astonished: “Meh,you probablycan’tkill this guy even if you wanted to.”
+“It’sreallyannoying;shouldn’tensuringanescaperouteandone’sownsafetybecommon
+sense? But I feel as though I’ve been getting beat-downs all the time lately. So it’s about time
+formetoact coolforonce andshowoffwhatIam madeof a little.”
+“Yeah,yeah. Butyourroleistobeaspy,so I’dadvise you to not try anything crazy.”
+“Yeah,Laplace. Thegoalistheimportant thing,playing cool is irrelevant, no?”
+“Sure, you are both right. I’ll just allow them to beat me more. I may even become a
+masochistoneday.”
+“Why doesthatmatter? Itmakesno differenceif you lose.”
+“Yeah,justtoliveon andwinatthe lastmoment is enough. Speaking of which—”
+Kazalim’sexpression becomesserious uponreaching this point in the conversation.
+Laplacealsonodsin response:
+“Yes, yes, the more important issue is that he was able to beat the crap out of me, meaning
+thatguyisdefinitelystrong. Thequestionhereis,whoreallyisthisguy? Logically,thequestion
+ishowcouldsuchastrongmajinappearinaholyplacelikethat? That’sdefinitelythebreaking
+point. Could this revelation develop into an issue to shake the foundation of the Western Holy
+Church?”
+“Majin…TheWesternHolyChurchhasconnectionswithevenmajin,andontopofthat,a
+high-rankingVampire…”
+Laplace,as ifin sync with theother’sthoughts, pushes towards the core issue.
+The young man nods in agreement. However, he is unable to hide the shock on his face at
+suchan unexpected turnofevents.
+“Now this may be an issue. The man who beat Laplace, according to my available knowl-
+edge,can’tbe justa simplemajin.”
+“Indeed. I agree.”
+“Hmm,howso?”
+Theyoungman responds dubiously,despite what Kazalim and Laplace believe.
+“I’mnottryingtobraghere,butIamstrong. Forinstance,againstthatDryadbackthen,had
+I fought her earnestly, she wouldn’t have stood a chance. I just thought it was disadvantageous
+tofightintheforest,plusitwouldgetrealannoyingrealfastifshecalledforbackup. That’swhy
+Idecidedtorun. Therewasn’treallyanypointinfightingher. However,thatguywasdifferent.
+Hisstrengthcould rival ademon lord. That’swhy runningaway was my only option.”
+In the forest, the Dryads are particularly powerful. Due to their racial attributes, they can
+15
+
+Page 16
+
+teleporttoanywherewithintheforestinstantaneouslythroughthetouchofanyvegetationwithin
+their domain. Not only that, they are able to “share” all their information among members of
+their own race. That’s why under such circumstances, their companions would surely come to
+heraid.
+Dryads are a difficult race to deal with, and it’s for this Laplace had decided to flee. If it
+wereonlyone Dryad,Laplacewouldbeconfidentin his victory.
+However,it’sdifferentthistime.
+“That guywas a monster. Definitely strongerthan me.”
+Laplaceassertswithconfidence.
+Theair in theroom suddenlygrows heavier.
+“I see, aDemonLord…Kazalim, whatdo youthink?”
+Kazalim sighs.
+“As I said—we may be in trouble. To my knowledge, there’s only one person that fits the
+description.”
+“Oh? Andwhowouldthatbe?”
+Theyoungman asks uponseeingthatKazalim isbeating around the bush.
+“—Demon Lord Valentine. One of the ancient demon lords whose strength rivaled mine
+whenIwasin myprime.”
+“Yeah, no wonder. If he can fight the president on even footing, fleeing was definitely the
+rightcall. I’m glad Ifollowedmyinstincts.”
+Laplaceshrugsas heresponds.
+He went through all the trouble of infiltrating the Church when Hinata was away yet en-
+countering ademon lord?—Hisexpressiontells thewhole story.
+“…Hmm—ThedemonlordresideswithintheWesternHolyChurch. Coulditbe—thatthe
+Popeisinfact DemonLordValentine?”
+“Who knows? It’s strange that a demon lord would seek help from the humans. President,
+whatisthisValentineguy like?”
+Upon receiving the attention of both the young man and Laplace, Kazalim begins to recall
+thepast.
+He begins to knock his temple elegantly with his slim fingers, closing his eyes as he looks
+backonaseriesof events inthepast.
+“Despite how I look right now, I’ve survived three of the great wars that have plagued the
+lands every five hundred years. This certified me as one of the ancient demon lords. However,
+whenIformally became ademon lord,there were already six others—”
+Starting with that, Kazalimbeginsto tellthestory.
+DemonLordValentinehimselfhasfarmoreexperienceasademonlordcomparedtoKaza-
+lim. With immense amounts of power, the title of King of the Undead Vampires is not a title
+justforshow.
+The Demon Lord Valentine, who himself is the symbol of the undead, has always alarmed
+Kazalimwho hadevolved fromthelong-livingelvenrace to the undead race.
+16
+
+Page 17
+
+“—Asamatteroffact,I’vefoughtagainstValentineseveraltimes. Butneverdiditamount
+to anything. When beings like us start fighting, even if we ourselves remain unharmed, our
+surroundings sustain heavy damages. That’s why we began sitting down and talking things
+over—this later developed into a system which decides on issues based on majority of votes—
+theWalpurgisBanquet. Andthereasonwhyanydecisionwouldbepassedwiththreevotesisa
+traditioninherited fromthetimewherethere were only seven demon lords.”
+Or perhaps it’s because everyone was too lazy to change it—Kazalim laughs elegantly.
+Kazalim’s voice fluctuates between masculine and feminine, and while it is creepy, the owner
+ofsaidvoicedoesn’tseemtonotice.
+Kazalim’ssmile giveswaytoasternlookas the storycontinues:
+“I’dsay,assomeonewhohasfoughtagainstValentine,heonlyeverseeshumansanddemi-
+humans as tools. There is absolutely no way that man would go and become a guardian of
+humanity.”
+Laplacenodsin agreement.
+Theyoungman alsobeginstomull over Kazalim’swords.
+“Right, thenshouldwemakeadeal withhim?”
+“Come on Laplace. Remember, a deal is something that all parties involved have to agree
+to.”
+“Oh yeah…”
+Knowingthatheisnotequaltotheotherparty,Laplaceimmediatelybanishesthatthought.
+“In addition, someone as stubborn as Hinata would never collaborate with a demon lord.
+Which means the Vampire Laplace encountered must have just been some insignificant majin
+insteadofthe realdemon lord, right?”
+Theyoungmanclaims,seeminglyinagreementwithLaplace. However,Kazalimdisagrees.
+“No, I’m sure that was Valentine. I’ve heard of the swaths of red beams attack before, and
+there’s no mistaking it. Valentine’s title was ‘Overlord of Fresh Blood,’ and he’s specialized in
+theability‘Blood FlashShockwave,’which turnsblood into beams of magical particles.”
+It issaidthatthe “BloodFlashShockwave” isadiffusingparticle beam.
+Itturnsone’sbloodintomagicalparticlesandthrustsitoutasaviolentbarrage—Theonly
+personwhohasthemagiculereservestopullthisoffis,withoutadoubt,DemonLordValentine,
+concludesKazalim.
+Ifthat’sthe case…
+“Inotherwords,theVampirewhoLaplacefoughtismostdefinitelyDemonLordValentine.
+However, he would never collaborate with humans. If that’s true, the only conclusion we can
+drawisthatthe Pope mustbeDemonLord Valentine,right?”
+“It’s possible…and the most logical conclusion to make. But it’s still confusing as to how
+he’sabletokeep Hinata in thedarkabout allthis.”
+Seeing theother twohum inagreement,Kazalim also expresses his own agreement.
+“Indeed, that would be the most reasonable explanation. Although I still have my doubts,
+there are things that just don’t add up… But right now our focus should be the location that
+17
+
+Page 18
+
+Valentineresides,where onlythePopecould enter.”
+Hesaysas helists out thefactsobtained sofar.
+“Letmeconfirm thisagain,heisarealdemon lord, right?”
+“Most likely. His appearance is rather identical to my recollection. On top of that, Demon
+Lord Valentine’spridewouldneverallowhimto work for anyone but himself…”
+“That’s right, there aren’t many majin who are stronger than I am. If that kind of monster
+exists inthat place,any investigationsinthe futuremay very well be in jeopardy.”
+Since Kazalim and Laplace hold the same view, the young man also begins to accept the
+hypothesis thatthePopecouldverywellbeDemon Lord Valentine.
+“Anyhow,thisinformationishighlyvaluable. You’veoutdoneyourselfthistime,Laplace.”
+The young man is definitely elated to have obtained such a trump card to bring down the
+Western Holy Church. He shows no sign of concern despite learning that the enemy is backed
+byapowerful demon lord.
+Based on the newly obtained information, the young man now begins to plan out his next
+move. As such,he enjoystheschemingof the comingevents…
+“Myreportends there. Bytheway,howare things progressing on Clayman’sside?”
+Laplaceasksas hesuddenly recalls that uponfinishing his report.
+Theyoungmanshowsanannoyedexpressionofdispleasureatthequestion. Hebrushesup
+hisshiningdark hairandreplieswithacomplaining tone.
+“Wellaboutthat…hemessedup.”
+“Didhe fail?”
+“Yeah. It was all smooth sailing until we had Hinata duel that slime you mentioned. How-
+ever,thingssomehow didn’tgoaccording toplan afterwards…”
+Theyoungman says as hebeginstobriefly explain the turn of events.
+At the start, Clayman was successful in bringing Demon Lord Milim to his side thanks to
+thesecretjewelrythe youngmangifted him—allthanks to the dominating orb’smagic.
+In order to examine its effectiveness, he’d have to confirm the extent of influence the orb
+hadonMilim.
+“AndsowedecidedtohaveMilimfightanappropriatelypowerfulindividualtotestouther
+strength. Demonlordsareallcunningandunfathomablypowerfulbeings,sowedecidedtouse
+theleastintelligent-lookingKarionasthe testsubject.”
+Kazalim alsojoinsthe explanation afterthe young man.
+“And to top it off, the capital of Eurazania could be taken down in the process. There are
+many ex-human slaves that reside there, and their souls could be used to awaken Clayman as a
+18
+
+Page 19
+
+truedemonlord.”
+As theysay so,the youngmanand Kazalimlooks at each other and sigh simultaneously.
+“Touse them forClayman’sawakening…talk about killing two birds with one stone.”
+“ButthenMilimwent outofcontrolanddecided to give a war declaration by herself.”
+Intheend,Karionandhismengotanextraweektopreparethemselves,whichallowedthe
+peopleresidingwithin the capitaltoseekrefugeelsewhere.
+“As expected, manipulating demon lords with magic items is no simple task. We need to
+makesure to givemore detailedcommandsnext timebefore we try anything else.”
+“Yougottahaveabitoffaithinme. I’mexceptionallygoodwithmindmanipulationmagic,
+you know! My title ‘Cursed King’ isn’t just for show. I made that domination orb myself; it is
+an incredible piece of magical equipment. The only reason our plan got messed up is because
+ofthatincompetentbastard Clayman.”
+“It’sallwaterunderthebridgeatthispointnow. Anyway,thesoulcollectionplanatBeast
+Kingdomfailed so wesetoursightsonthe Kingdomof Farmus.”
+“TheKingdomof Farmus?”
+“Yeah, that country where they performed the summoning rituals in-house and gathered a
+numberofOtherworlders. Andbecauseofthat,Ithoughtitwasabouttimetoreducetheirinflu-
+enceabit. Isecretlyfound someone toleak someinformation regarding the Monster Kingdom
+andcaught the interestof thatgreedykingandhissubordinates.”
+“And given how greedytheyare,they tookthe bait really hard.”
+TheoriginalplanofcreatinganewdemonlordoutoftheOrcLordfailedspectacularly,so
+based on Laplace’s report they decided on another plan—Instigate the Kingdom of Farmus to
+invadethe Jura-TempestFederation.
+ThatKingdomhasseveralhighlevelmajinandwegettohavethemkilleachotheragainst
+thoseOtherworldersfrom Farmus.
+It just so perfectly happens that Rimuru, the leader of that nation, was acting alone outside
+hiscountry whenClayman’ssubordinate infiltratedit.
+Rimuru was the ideal bait to draw Hinata out for a fight; the plan is truly killing two birds
+withonestone. However—
+“Buttooursurprise,thatslimenamedRimuruwasabletoescapefromHinata! Thisisone
+slimethatwe absolutelycannotaffordto overlook, just like you.”
+“That’sarather sharpjab…”
+“There’sevenworse thingstocome—”
+“In my opinion, Farmus’s victory was all but guaranteed. However, once the leader of the
+monsters gets involved, the situation may very well be turned. But honestly, it makes little
+difference as to who wins. We would just have to negotiate with the side that wins. The real
+objective is to cause enough casualties—and gather souls. And I had thought we’d use those
+soulsto help awaken ourcutelittleClayman, but…”
+It was acomplete failure.
+Thegrandarmyof Farmuswascompletelydecimated by a single slime.
+19
+
+Page 20
+
+“Unbelievable right,but it’sthetruth.”
+“It’s the first time for me to have my plans derailed like this, even with my Unique Skill
+‘Planner.”’
+Theyoungman is verydisappointedandKazalim looks quite upset about it as well.
+“H-hold on! Taken out by a single monster, how is that even possible? Did Farmus really
+underestimate theMonster Kingdomthat much?!”
+Laplaceshoutsinsurpriseuponhearingsuchpreposterousclaims,towhichKazalimmade
+thefollowing response.
+“AsImentioned,theKingdomofFarmuswasratherinterested. Itpreparedahugearmyof
+twenty-thousandsoldiersconsistingofknightsandmages. Yettheentirelegionwaseliminated.
+AsIsaid,therewereno survivors.”
+“Ehhhh! That’sjustmadness…”
+Laplace was completely baffled to discover this series of bizarre events. However, more
+surprisingnewinformation awaits.
+“What’smore,accordingtoClayman’spost-warreconnaissanceofthebattlefield,heclaims
+thatallthecorpseshavedisappeared. Itmeansthatsomeonehasusedthosecorpsesasasacrifice
+tosummon,or create somesortofmonster…”
+“If I could use all those corpses to create a magic golem, god knows how powerful of a
+monster could be created? On top of that, those aren’t your run of the mill normal corpses;
+they’re all highly trained soldiers. The negative emotions on the battlefield have also created
+the perfect environment for casting this type of magic. With all of these conditions combined,
+onecanexpect to summonmonstersthat canat least rival a demon lord.”
+“Is it even possible? The way I see it, it’s our loss that we couldn’t retrieve the souls.
+According to Clayman, he couldn’t even acquire a single soul at the scene, so his awakening
+planisonceagainin shambles.”
+Saysthe youngman as heletsoutasigh.
+The young man laments his losses and reflects that the reason for all of this failure was
+becausehe has been operatingontoomany fronts.
+Over-emphasizing efficiency and neglecting each individual strategy, that’s why they’ve
+beenfailing ateverystep alongtheway.
+PerhapsI ambeing toogreedy—thoughtthe young man.
+“Could itbethatthe slimenamedRimuru wasthe one that harvested all those souls?”
+“What nonsense are you suggesting, Laplace? That’s a feat beyond even a demon lord, so
+howcould asingle majinmanagethat?”
+Kazalim is right.
+The collection of 20000 souls as well controlling them would be a difficult task even for
+someone skilled in the art of magic. If one is to proceed without considering their own limita-
+tions,itwill no doubtresultinlosingcontrolofthe souls.
+Besides, ifsomeonedid pullthatoffsuccessfully—
+“Hahaha, yeah right, Laplace. If this guy takes twenty-thousand souls in one sitting then
+20
+
+--- END PRESERVED SOURCE BODY ---

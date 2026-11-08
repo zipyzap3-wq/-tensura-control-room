@@ -1,0 +1,448 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 13 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_6/Volume6_Chunk_11_Pages_101-110.txt | Original blob SHA: 08aae9e660c0714040a96ddb872f8c2055ece56e | Original size: 25277 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_06/Volume6_Chunk_12_Pages_111-120.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+AI-READING CHUNK 11
+Original pages: 101-110
+The text below is preserved from the source file. Page boundaries are marked explicitly.
+
+Page 101
+
+AsforMilim…I’mworryingaboutherthemost. Shemusthavebeentrickedbysomeone,
+soI’vegotto plan for theworst.
+If we end up in a stalemate for real, I may end up becoming enemies with the eight other
+demon lords. Despite that, even if we are to become enemies with just Milim, we’d better run
+asfar aswecan.
+“Don’tworry,whenthere’sawill,there’saway.”
+Isaid trying to reassureFuze.
+Elalude is also being scummy and wants to stay here for a few days, saying that he hasn’t
+had the chance to chat with Elen for far too long, we didn’t take him to an inn but, instead, to
+our luxury hotel. This facility is the pride of our nation and if we want to impress him, we will
+definitelyhaveour hotel welcometheGrand Duke.
+Speaking of Elalude, his professional and private personas are so different to see. He’s so
+attached to his daughter while Elen instead only wishes to stay away from him. I do pray that
+hewon’tfurther angerElen.
+Gazel also decides to spend the night so we arranged for him to stay at the hotel where
+Elaludeisstaying. Icouldtellfromtheirconversationthatthey’veknowneachotherforalong
+time. Itisrumored thatthey’ve evenfought alongside each other once, and Elalude also seems
+tobe avery powerfulmage.
+It is quite surprising for sure, but since they would also be communicating with our nation
+inthefuture as well,it’sagoodthingtohave theirfriendship strengthened.
+Bythe way,theguestsatthemeetingare all importantfigures.
+Inthe future, theseheads ofnationswould make an incredible impact on the way of lifein
+thehumannations. In retrospect,weare alreadyequal in status.
+Even though our meeting turned into a clown fiesta after that stubborn fairy showed up, it
+wasstillafruitful meeting.
+As such,themeeting wasdismissed.
+Wedidn’tgeta chance to restafterwards.
+Westill have to draft ourplansincase weincur the ire of the other demon lords.
+After we allhad achance tohaveour meals,we gather at the meeting room once again.
+This time theonly guestsaretheBeastketeersand Myuran.
+Youm and Grucius are preparing for their journey to come. Grucius wanted to participate
+too but got rejected by the Beastketeers. The two of them hold a lot of responsibility with their
+comingmission, soPhobiohopesthey couldtrytheir best.
+WewereplanningtohaveMyuranprepareforitaswell,butshe’stheonlyoneherewho’s
+101
+
+Page 102
+
+familiarwith Clayman. Sowedecidedtolet her assistus and attend the meeting.
+Thestrange thingis thatevenDiablodecided tojoin.
+“Kufufufufu, Idon’tneedtodoany preparations.”
+Sincehe’ssoadamant,Ikindofhavetoaccepthisproposition. Buthisparticipationwon’t
+mattertoomuch even ifhejoinssoI’ll just lethim be.
+Ramiris, forsome reason,alsojoined inthemeeting.
+“Ah,it’syou! What’sthisallabout? What isgoing on?”
+As soonas I enteredthemeetingroom, Ramirisflew up to me and complains.
+“What’swhatnow?”
+Iask, as she beginsto complainwithablushonher face.
+Here’swhat she had tosay.
+During thebreak time,shewasbroughtto the canteen.
+Icompletely forgotabouther,butthere werepeople who came to spend time with her.
+Indeed, thosepeopleweretheDryads suchas Treyni-san.
+They all once served under Ramiris when she was the Queen of Spirits and recognized
+Ramirisinstantly. Ramirisreceivedawarm welcome from them.
+“That sounds great.”
+“Yeah! It’ssuperb! That’swhyI’mstaying here too, Rimuru!”
+It seems Ramiris has taken a liking to this town. This demon lord who’s been alone and
+withoutsubordinatesgets allcockyonceshereceives some admiration.
+Anyway,Ramiris wastouringthetown accompanied by others.
+She wasmesmerized byallthesightsand decidedto stay here from now on.
+“Itoldyoutonotmakeanywilddecisionsonyourown! Besides,Treyni-sanandtheother
+Dryads are the moderators of the Great Jura Forest. They live in a different place than us, so
+theycan’tspend their everydayaccompanying you.”
+ThethreeDryadssisterswerelookingreallydelightedwhilewaitingbehindRamirisduring
+theconversation. I sneaka glancetowards themandcontinue to lecture Ramiris.
+But Ramiriswon’tlisten.
+“You meanie! Isn’t it great, no matter what happens, you get to enjoy my assistance! The
+strongest,world dominating,Ramiris-sama!”
+IfIever need your help,itwouldprobably—No, I shouldn’tsay it.
+IfItell hermy honest opinionitwould probably make Ramiris cry.
+“Rimuru-sama,wewill takecareof Ramiris-sama,please view it in a positive light.”
+“““Please consider it!” ” ”
+Not only Ramiris, evenTreyni-sanand hersisters begin asking me for this favor.
+But,nomatterhowyoulookatit,allsheseemstobeisatroublemaker. IfRamirisendsup
+justcasuallyrunningaroundherewhilewegetmorecommunicationwithhumansinthefuture,
+shewilldefinitely becomeaneyesore.
+Hmm—I’ll need to thinkonthisrequestsome more.
+“I understand,I’lltakeitintoconsideration…”
+102
+
+Page 103
+
+“Really! Sasuga Rimuru, suchadoll!”
+I’ll figure out what type of situations we may run into when Ramiris comes to this town
+later.
+Right now I’vegot otherissuesto dealwith.
+WithRamiris quietingdown,wecanfinally commence our military meeting.
+“Wellthen,Iknoweveryonemustbeexhaustedfromthelongmeetings,butIhopeyouwill
+all endure it for a just a bit more. Right now we have two subjects to discuss. First being the
+‘Battle against Clayman’ and the other is the ‘Walpurgis Banquet.’ Thanks to the information
+providedby Ramiris-chanhere,Iknowwe’vebeen targeted. Let’sfirsthear Souei’sreportand
+draftan attack plan. Souei,pleasetellusabout Clayman’sarmy.”
+“Yessir!”
+Aftermy openingspeech, Soueibegins the report.
+Justas we werehavingthemeeting,Clayman’sarmy seemed to be on the move.
+They’vebeenrestinginMilim’sterritoryandenteringcombatformation. Apartfromthat—
+“The one leading the army doesn’t seem to be Clayman himself. The commander has
+broughtseveralmajinswithanunusualamountofmagicules,buttheyareaboutthesamelevel
+astheBeastketeers. Itis tooweaktobe DemonLord Clayman.”
+Soueiconcludes.
+But thatguysureis arrogant…
+“If we are talking about Clayman’s subordinates that can rival the Beastketeers, there are
+threethatcometo my mind—”
+Somany! I seenomatterhowdespicablehe is,he is still a demon lord.
+They are: “Middle Finger” Yamza, “Index finger” Adalmann, and “The thumb” The Nine-
+headedBeast.
+These three seem to be the members of Clayman’s proud organization known as the “Five-
+Fingers.”
+Myuran apparentlywas the“RingFinger.”
+Additionally, there is the “Pinkie Finger” Viola. That guy seems to rarely show up given
+hisrole asanintelligence collector.
+I’m more concerned about the Moderate Jester Association, but Myuran claims to know
+nothingaboutthem.
+“Clayman is the type of demon lord that won’t even trust his subordinates. I won’t be
+surprisedif he hasordered someoneelseto overlookthe operation.”
+Is helike theaudience watchingapuppet show?
+ItmayendupliketheOrcLordincidentwherepeopleareoperatingevenwithouttheknowl-
+edgeofClayman’ssubordinates’involvement. Weneed to be cautious.
+“Aboutthat,Myuran, whoisthecommander?”
+Souei saw a slim majin and reported that he’s the commanding general. “Telepathy Net”
+sureisconvenientfor sharinginformationwitheveryone.
+“HeisYamza. TheMagicFrostSwordsmanYamza. Heisadespicableandcruelscumbag,
+103
+
+Page 104
+
+but nonetheless a powerful individual. I didn’t get along well with him given the fact that he
+voluntarilypledged hisloyaltytowards Clayman.”
+So,thecommander is Yamza.
+FromMyuran’sdescription,heseems tobethe strongest majin within the Five-Fingers.
+Clayman gave him a priceless magic sword possessing the power of freezing, and the infa-
+moustitleof MagicFrost Swordsmanwhich hasspread across the land.
+Inotherwords,his capabilitiesarestillunknown.
+As forClayman’sarmy,itconsistsof thirtythousand majins led by Yamza.
+Eachandevery oneof whichpossessesadifferentability.
+From Souei’s observation, eighty percent of them are of Rank B. The remaining ones are
+almost all A-minus. Some of the higher ranked officers may even reach Rank A or are on par
+withGelmud in termsof power.
+Although they are a lot more powerful in comparison to the Farmus Army I eliminated,
+thereisstilllittleto fear.
+Theproblemlies withthecommander Yamzaorrather,it disappoints me.
+“Aren’ttheya littletoo weak?”
+Onour side, there are more thantwentythousand people who have taken refuge here from
+the Beast Kingdom Eurazania. Half of them are capable of combat, making up roughly ten
+thousand people. They are already Rank B under normal circumstances, and they would even
+evolvetoA-minusaftertheirbeastilization,whichmakesthemanincredibleforcetobereckoned
+with.
+Even the Knight Order from the Kingdom of Farmus averaged out to Rank B with their
+magicfortification. It justgoestoshow howstrong the Beast Kingdom warriors are.
+Not to mentionthe hugegapbetween thebasic abilities of Humans and Beastmen.
+Justthesepeoplealonecanformahugecombatforce. Inaddition,thereareotheravailable
+combatants spread around. After they retreated from the capital, they reunited with Beastmen
+members from the nearby tribes scattered over the land. The veterans from the Beast King
+Armytookcommandoftheseindividualsandrearrangedthemintoacapableforcehidingnear
+thearea. Withthese forcescombined,therewillbe an additional ten thousand soldiers.
+That makes around twenty-thousand Ranked A-minus warriors. That indeed is an impres-
+siveamount ofcombat prowess. Asexpected fromademon lord who dominates his land.
+“This is indeed strange. No matter how strong this majin Yamza is, us Beastketeers will
+not lose to him. And even if we have less men in our army compared to them, we still have an
+overwhelmingadvantagein termsofthe combatabilities of our warriors.”
+“Right. Weare quite confidentinleading soldiersto the war!”
+“DotheythinktheycanlookdownonusbecauseKarion-samahaspassedaway? Noway,
+Claymanisn’tthat stupid…”
+Alvisagrees withmy views.
+Phobio and Suphia also followed up to express their opinions, believing that Clayman’s
+armywon’tbe much of a threat.
+104
+
+Page 105
+
+If that’sthecase—
+Amumble escapes Benimaru’slips:
+“Waitasecond? CoulditbethatClaymannever intended to targetthis town?”
+Yeah,we mayhavebeenmisled.
+This town has constantly been a target, and with Ramiris telling us that we’ve become a
+targetofClayman’s,we mighthavebeen misledinto believing that this town is his target.
+I was planning on initiating a pincer-attack on Clayman’s army when he passes through
+Eurazaniain orderto beathim…
+Butthings aren’tas simple asIexpected.
+“DoeshewanttoattacktheBeastKingdom? Thereareonlyrefugeesplusthetenthousand
+warriorsinthearea. Evenwithahigherqualityofwarriors,theywouldnotbeabletoovercome
+thevast gulfin numbers.”
+It does makesense.
+According to Souei, his army is residing in Milim’s territory for now. However, his army
+hasalreadybegunreorganization. Tomorrow,ifnotthedayafter,hewouldlikelymarchonthe
+BeastKingdom Eurazania.
+Itisunlikelytheywouldtakeanyactiontonight,butIhavetoconsiderthatasapossibility
+aswell.
+“ThismightmeanthatClaymandoesn’tknowaboutusgivenwe’vebeenextracautiousof
+him—”
+Geldcalmlystates,butIwon’tputtoomuchexpectationonit. Wemustplanfortheworst-
+case scenarioin order to remainadaptable tovarioussituations.
+“Ifheisindeedheadingtothistown,Claymanwon’tignorethemanydangerslyingbehind
+him. Sohe would likelyonlycommencethat operation after getting rid of all the threats.”
+Myuran concludes.
+Indeed,that’sexactly how Iwould go aboutit.
+Isthat thecase,eh,gettingridofthreats?
+“Oi, do you mean then…that Clayman plans to kill all of the remaining Beast Kingdom
+warriors?”
+It maybe passableifhe’sonlykilling thewarriors but—
+«Answer. Prediction towards Demon Lord Clayman has updated. The chances of his goal
+beingtoawakenasa“TrueDemonLord”isonehundredpercent. Prediction: Hewouldnotin-
+cludethistowninhisplan. Whilehismethodissloppywithincorrectdeductions,itismostcer-
+tainthathewoulddecimatealllifeforceswithinthebordersoftheBeastKingdomEurazania—»
+Isthat so? Ofcourse heisplanning onkillingeveryone without mercy.
+Imay soundratherhypocriticalsaying this,buthis ruthless methods really appall me.
+Claymanisverycautiouswithhisactions. Hemayevenhavehiseyesonthistownaspart
+of his extended road map. In other words, he would most likely discover any reinforcements I
+send.
+Andeven withoutconsidering that—
+105
+
+Page 106
+
+“Clayman has very strong intelligence gathering capabilities. That’s why he must have
+alreadyknownthattheBeastketeersandKarion’sarmyhaveevacuatedtothistown. Besides,it
+willtakeat least twodays tomovefromhere tothe BeastKingdom…”
+Weareat acomplete disadvantagehere.
+As Alvis said,Claymanhasseenthrough everything.
+Wewon’tmakeitintimeevenifwedeploytheRankBequivalentwarriors’regimentsand
+moveout without anysleeporrest.
+Iwanttohaveallofmysubordinatestakepartinthisfight,butbythetimewearriveatthe
+battlefield,thepeople fromtheBeastKingdom would likely have already been slaughtered…
+WouldClaymanawaken ifeveryoneis massacred?
+«Answer. Despite the lack of efficiency, it will grant him a large amount of souls. Clay-
+man’s rate of success in awakening—Seventy-eight percent. Additionally, his chances of suc-
+cesswouldincreaseifhehasobtainedtherequiredamountofsoulswithinashortertime-span.»
+Thisisbecominga reallydifficultsituation;Imust stop him.
+It’snot even forthe citizensofthe BeastKingdom whom I’ve never met, but for myself.
+I’venevermetthosecitizens,yettheywerewillingtoforgeafriendshipbetweenournations.
+Trustismorevaluablethangold,andkindnessshouldberepaidwithkindness. That’swhy
+Iwon’tgoeasyon myinterventionshere.
+“Benimaru, go andstop them.”
+Iassignedhimanextremelychallengingtask, yet he only responds with a smile.
+“Aye,I’lldo justthat—No,itwouldbe mypleasure to carry out your orders!”
+Benimaru. He is prettyobedientbyheart.
+Heoftengoes back to his originaltone whenever he gets excited.
+But he believes that there is a difference between his professional and private life, so he is
+alwaysveryrespectfultomeinfrontofothers…butyoudon’thavetotreatourcurrentmeeting
+asthatimportant.
+It’sindeedunpleasanttobelookeddownupon,andIunderstandyouaredoingsotoprevent
+thatfromhappening, but…Inthiscountry,Idoubtthere is anyone who looks down on me.
+It’s like, performing better than your senior would probably result in an awkward relation-
+ship.
+People realize thistype ofthingwhen theyenter society.
+That’swhyI decidedtosteelmyheartandgiveBenimaru the order as his superior.
+“Hmm. Assuch,thedefensebattleoftheBeastKingdomEurazaniaisofficiallycommenc-
+ing. Let’stalkabout how towinthebattle withBenimaru acting as the key player.”
+“““Understood!” ” ”
+Everyone bows.
+Eventhe three Beastketeersjoinedin. It seemsIdid sound quite imposing.
+ThisClayman is far morecunning thanIexpected.
+Perhapsthe WalpurgisBanquetthreedayslater is also part of his plan.
+He is probably planning to slaughter the people of the Beast Kingdom before any other
+106
+
+Page 107
+
+demonlordsinterveneand reportitafterward.
+Itwilltakesometimetounitethelocalcombatants,andifthingscontinueasitis,thewarrior
+groupswould be defeatedone byoneeven withonlya futile resistance.
+Andwhatwouldfollowwouldlikelybethemassacreoftheresidentswhoareincapableof
+fightingback…
+Sincewe’ve decidedtostopthis,everyonewaseager to voice their opinions.
+Everyone wantsto gather forcesandhead outimmediately,but no one spoke up.
+Everyone hereknows theimportance ofinformation gathering.
+ThereasonwhyI’veannouncedmyintentionsoftakingdownClaymanbuttooknoimme-
+diate action is because I’ve been waiting for Souei to report back. In addition, our soldiers are
+currentlyswitching gearsandgatheringresources at thetown plaza.
+Kaijin,GarmandDoldareusingtheircraftsmanshiptohelpcreatenewweaponsandarmor
+forthemin preparationfor war.
+Sothereis no need to rush.
+We need to know where our enemies are, the structure of their army, their number, as well
+astheir intent.
+We won’t make much of anything by simply marching in blindly without any knowledge
+onthesematters.
+Ourdiscussionwill soonbeconcludedfor awhile.
+“We’ve confirmed their forces to be there. We will definitely win if we are to make it in
+time. But the problem lies in how we’re going to get there. We have to buy some time, or we
+won’tmakeitas thingsstandrightnow.”
+“How about we first send in the Goblin Riders and Gabil’s forces to distract them for a
+while?”
+“No, it would be pointless. I’ve sent men to investigate the geography of the Beast King-
+dom. Itmostlyconsistsofplainsandsmallhills. It’snotagreatplaceforambushtactics. Itmay
+bemoreeffectivetomakeanaerialassault,butamerehundredsoldierassaultwouldamountto
+nothing.”
+Benimaruregained hiscalmdemeanor.
+If we are to lay an ambush, the orchards near the bank of the big river would be a good
+place. But the many hills there that are beneficial for water drainage make it too eye-catching,
+sothegeography is alsounsuitableforhaving our troops perform an ambush attack.
+Hakurou’s suggestion got rejected. So far Benimaru is making the correct calls. I heard
+Suphia whisper: “What in the world, when did he investigate our nation’s geography…” I’m
+curiousabout thatas well.
+It’s likely that he sent someone to do the investigation when he was acting as the head of
+thediplomaticteam. ShouldIseethisashim beingoverly cautious or reliable in work…
+Suphiadoesn’tseemtobeholdingagrudgeagainstit,soI’lljustpretendIdidn’thearthat.
+“ThereareonlyfourhundredBeastmentroopsthatarespecializedinspeed. Thereareless
+than a hundred of the rare Bird-beast type soldiers. They would be sacrificed in vain if we are
+107
+
+Page 108
+
+tosend themfirst.”
+Alvisis alsoworried.
+It also doesn’t mean that they won’t be tired from flying. And even with Gabil’s troops,
+therearebarely twohundredofthem. Sending themfirst really won’tdo much to help.
+Thelocationhas aclearfieldofview,so thereis no use sending smaller units.
+As aresult, wewentin circleswith ourattackplan.
+Wehave to give itourall.
+Wecanhavethe soldiersalloverthelocation find the residents and help take them refuge.
+OncetheyentertheTempestFederation,Treyni-sanandhercompanionscanactasasupport
+toraisetheirchancesofsurvival. Then,wewillhavethespeed-orientedunitsengageinguerilla
+warfareto facilitate their escape.
+We will then have the slower ground troops to both accept the refugees and fend off Clay-
+man’sarmy.
+Thatis aboutit.
+It’saraceagainst time withmuchluck involved,but we can’tthink of any better ideas.
+That’swhy,inordertopreventthingsfromescalatinginthewrongdirection,we(Tempest)
+willengage withthe enemytoo.
+The fellow executives—Benimaru, Shuna, Souei, Shion, Geld and Ranga—they’ve all
+learned the Extra Skill ‘Spatial Movement’ and can manipulate the “Teleportation Door” that
+connectstwodifferentspatialcoordinates.
+Diabloseemstobealsocapableofthis,buthe’smovingoutwithYoum’sparty,sothereis
+no chance for him to show off this time. If the situation worsens, I would call him back. But I
+wishtoresolvethissituation withthesevenpeople in total including myself.
+EventhoughI couldtakeonthearmy bymyself, showing offin battle is a big taboo.
+Especially since Shuna is not good at face-to-face combat. I’ve sent Hakurou and Gabil to
+protecther.
+“It can’t be helped; this is what we have to do. As long as we are able to buy more time,
+wecanpreventcasualties. Wouldn’titbegreatifIcanjustsomehowuseteleportationmagicto
+transport themthere—”
+Imumbled to myself asajoke.
+Ifwecanusemagictoteleportourtroopsthere,itwouldresolvetheissueimmediately. But
+evenwithmy “DimensionManipulation,” it isimpossible to transport a thousand-man army.
+However—
+«Answer. Teleportation magic can transport goods at relatively low cost. It can directly
+connect different dimensions to the coordinates of the teleportation location. This would in-
+duce a large amount of magicules to surround the area, unsuitable for transportation of organic
+matter. However, by using ‘Barrier’ to protect their bodies, it will mitigate the effects during
+teleportation. This is theprinciple ofteleportationmagic— »
+Hmmm…
+So that’s the difference between teleportation and transference…The key difference is to
+108
+
+Page 109
+
+haveadditionalmagicalprotectionappliedtotheobjectsbeingteleported,soitusesmoremag-
+icules.
+Ehh? Thatwouldmean…
+«—In other words, for majins or monsters who possess resistance towards magicules or
+if they are able to cast “Barrier” on their own, teleportation would become feasible for them.
+Alternatively, one can also cast the complete teleportation technique that invokes protection on
+thetarget»
+That would mean as long as the target possess strength to withstand a large amount of
+magicule exposure, it can then pass through the special transportation dimension. This seems
+to be the same principle as the Extra Skill ‘Spatial Movement.’ I’ve got to keep an eye on this
+matter.
+Tobeclearer,itwouldbepossibletoeventeleportpeopleifthesubjectsbeingteleportedare
+completely protected beforehand. No no no, that would be the actual way to use transportation
+magic,butevenifthat’sthecase,wouldn’titstillcostalotofmagicules? Plusthereisn’tenough
+timeformetomodifyittothepointofbeingabletoaccommodateanarmyofoverten-thousand
+ofsoldiers.
+«Answer: The magic has been developed. Additionally, with the combined use of ‘Spatial
+Manipulation,’its magiculecosthasbeensuccessfully reduced.»
+Wow,thisis really impressive!
+What’swith thissuddengrowthofRaphael-sama?
+It hasalreadydevelopedmagicandskillsfor me even before I requested them.
+Speaking of which, after I awakened as a demon lord, my skills have all evolved dramati-
+cally and I’ve not been able to familiarize myself with them at all. If it were not for ‘Wisdom
+KingRaphael,’I wouldhavebeenwasting awaythe potential of those skills.
+Raphaelwasabletodevelopmagiclikelyduetotheeffectof“AbilityChange.” Regardless,
+it is more than desirable to me. It has even prepared the magic I’ve been dreaming of. Simply
+perfect.
+“Rimuru-sama,using teleportationmagic totransport an army would be too risky—”
+Shuna tries to persuademeasshealso seems tobe aware of its dangers.
+But thatparthas been resolvedjust now.
+“Indeed,Shunais right. Butjustnow,I’ve developed a new magic!”
+I’mbeginning to sympathizewithClayman.
+Had Inot evolved,youlikelywould haveemergedas the victor.
+“Oh…!”
+“W-what?!”
+“…Developed whatnow?”
+Surpriseis written on everyone’sfacesandthey alllook towards me with respect.
+Inod in response,andaskthem:
+“Italldependsonyourresolvesnow. Icouldusethismagicandtransporttheentirearmyto
+theirdestinationinonego. However,itwouldbemyfirsttimecastingsuchmagic,sonothere’s
+109
+
+Page 110
+
+guaranteeofyourpersonalsafety,nordoIhaveanytimeforexperimentation. Ifthat’sthecase,
+wouldyou still be willingto trustme?”
+Ihave faithin ‘WisdomKingRaphael.’
+IfRaphaelsays it’sfine,thenitwon’tbeaproblem.
+ButIdon’tknowwhateveryoneelse thinks.
+Arethey willing to believemelike thisand entrust their lives to me?
+“You don’t have to worry. I’ve sworn loyalty to you. Since I am a servant under Rimuru-
+sama, I shall sacrifice myself even if that’s your desire. Your orders will never trouble us, and
+weareallaware of that.”
+Benimarurespondedwith aferalsmile.
+The veterans all agree with his point of view. Even the new-comer Diablo nods with a
+bizarre,monstrous smile.
+Apart fromthat, theBeastketeersalsofollowed suit—
+“We believe in you. We’ve come to seek your help so there’s no way we’ll doubt you
+Rimuru-sama—”
+“Indeed. I’ve been saved by you once already. My subordinates are all aware of that, and
+theycertainly won’tcomplain.”
+“Araara,itseemslikeIcan’tdisagreewiththis. Mytroophappenstobetheslowest,andI
+dohopeRimuru-samawouldgiveusahelpinghand.”
+Suphiacameto thatconclusion withouthesitation.
+Phobiohashadfaithinmefromthestart,andAlvis,whoinitiallywasdoubtfulandhesitant,
+but nonetheless choseto believe inme intheend.
+Inodded.
+“Then your lives have, here and now, been entrusted to me! This way we can surprise
+Clayman. The restof itwillbeuptoyou, youmustachieve victory!”
+“““Yessir!” ” ”
+Bravesmiles begintoemergeoneveryone’sface.
+Ifourtroopsmovenow,theirvictorywouldbeguaranteed. NomatterhowtightlyClayman
+hasbeensurveillingthe town,hewon’tbeable to discoverthe movements of our army now.
+We’vegot victory in ourgrip.
+Naturally,everyonerediscovers theircalmnessnow.
+Igive the taskof redesigningtheattackplan toBenimaru.
+Meanwhile, Soueihas broughtsome updatesto his report.
+Hesaysthat abouta hundredoftheDragon Worshipershave joined Clayman’sarmy.
+“Ahundred? Ifthat’stheonlypeople joining,it shouldn’tbe a problem…”
+DoesBenimaruknow ofthebackgroundof these Dragon Worshipers?
+“Oh yeah, Souei, whoaretheseDragonWorshipers?”
+I’mnot sure aboutitso Idecideto askdirectly.
+“Toyour question,they worshipdragon, thatis the Dragon Princess Milim-sama.”
+Oh, I see, so they are subordinates of Milim. Wait, but Milim said she doesn’t have any
+110
+
+--- END PRESERVED SOURCE BODY ---

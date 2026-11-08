@@ -1,0 +1,430 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 14 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_6/Volume6_Chunk_12_Pages_111-120.txt | Original blob SHA: 1c2a2aee014a4fdb5b57364ba924ab4f1d16afbe | Original size: 22364 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_06/Volume6_Chunk_13_Pages_121-130.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+AI-READING CHUNK 12
+Original pages: 111-120
+The text below is preserved from the source file. Page boundaries are marked explicitly.
+
+Page 111
+
+subordinates. Theymayactuallybeworshipingher on their own volition.
+Thisorganizationdon’tseemtohaveanamefortheirnation,yettheyhaveatotalpopulation
+ofaroundhundredthousand. Theyprobablyhavebeeninpeacefulco-existencewithnatureand
+leadingaquietlife.
+Clayman seems to also be watching over them by crossing their domain and having them
+accompanying thearmy.
+Soueiwasn’tabletodiganydeeper,sotheDragonWorshipersaretemporarilylistedaspart
+oftheindividuals under observation.
+IorderSoueitoresumethesurveillanceoverClayman’sarmyandfindanappropriateloca-
+tionforthedeployment of ourarmy.
+As such,thesubjectof “BattleagainstClayman” has concluded.
+Allright,nowforthe next topicinline.
+Inregard to the“WalpurgisBanquet”reported by Ramiris.
+TheBeastketeersleftthemeetingroomfirst,havingtoinformtheirsubordinatesaboutour
+decision. They trust me and agreed to using the teleportation magic. So they probably went to
+informtheir soldiers.
+Myuran also followed close after, since the issue at hand now is our problem and doesn’t
+requireher input anylonger.
+Herjobis toassist Youm.
+Nowthat there areonlymyclosecompanionsleft in the room, I got to relax a fair bit.
+Given the circumstances, the atmosphere of the meeting has changed drastically, I’ve de-
+cidedtojustchatabout whatwethinkwithoutany restraint.
+“IfIcould locateClayman’slocation, Icould just use ‘Spatial Movement’ to hop overand
+givehimaroundor twoof beatingtofinishthings up.”
+With his army on the move, there can’t be that much left at his base. So I won’t have to
+worry about the attack. I only need to move with my subordinates, and we may be able to put
+anend tohim.
+On the flip side, if I am to attack some place, we need to make sure we don’t let down the
+defenseofthis town.
+Ineed tospendmore timethinking aboutthis.
+“Apologies. There emerged multiple areas that possessed a high magicule concentration.
+Wedeemed itdangerous, sowedidn’tpass through.”
+Souei started to apologize to me as he reports, but it’s all right. After all even with his
+“Clone”active,hestillhadtoactcautiously. Itwillbebadiftheenemygotholdofourmovement
+111
+
+Page 112
+
+ifwejustend upmoving intoatrap.
+The enemy’s base of operations may be hidden behind this fog bank, so knowing this is
+enough.
+“How about we send out a few people to investigate their base using the weak points in
+enemyforce?”
+“But,wouldn’tClaymanbeattendingWalpurgisBanquet? There’sachancewemightmiss
+him.”
+BenimaruexpresseshisviewthoughShuna rejects it calmly.
+Benimarumadean awkward expressionin response.
+“Itmakessense. Inaddition,ifweunderestimatetheenemyforce,ourvanguardwouldget
+overwhelmedinsteadresultingintheirpullback. Thiswouldrenderoureffortsrathermeaning-
+less. IthinkBenimaru-samashouldfocus onleadingthe army instead.”
+Hakuroudeliveredthefinalblowand endedtheconversation.
+“Are there anyother ideas?”
+Anyhow,let’shear abouteveryoneelse’sideas.
+Yes! Shionbeginsto raise herhandenergeticallywhile looking at me…
+AndI gaveher permissiontospeak up.
+“HowaboutweattackthesiteofWalpurgisBanquetdirectlyandkilloffnotonlyClayman,
+butany otherdemon lords whodaretodisagreewith us?”
+She says with sparklingeyes.
+It’smy fault foraskingforadvicefrom anidiot.
+The annoyance is almost causing veins to emerge on my temple, but I’ve endured it. This
+seemedto havehappenedbefore.
+“Shion, how are you going to do that? I mean, can’t you provide some more practical
+ideas?”
+Killing Clayman alone is tough enough as it is, how are we supposed to fight all the other
+demonlordstogether?
+Attheveryleast we shouldtakethem downindividually—I scolded Shion strictly.
+Withthat beingsaid, shelosesallherspiritand looksvery down.
+There’sreallynohelpingwithher,guessI’ll play along a little.
+SoIwentona tangent(topraiseher), after allIstill adore Shion a fair bit.
+“But,mayberushing inmayactuallybe agoodsuggestion.”
+Shion then raisesherface withexcitement written all over her face.
+What arealistapproach.
+“I’mjust asking,Ramiris,butisitpossible for meto participate?”
+Iasked Ramiriswho’smoreexperienced with it.
+“Eh? Doyouwant to participate,Rimuru?”
+“No,it’sjustforreference. SinceClaymanisgoingtoparticipateinthemeeting,soifItake
+theinitiative, itmightmakethingsmore interesting.”
+SinceI’vealreadybeentargeted,strikingfirst may actually be a good idea.
+112
+
+Page 113
+
+Preemptively striking is tactically basic, but Clayman most definitely would be surprised
+withmeshowingup to wherehewould leastexpectme.
+It mightnotbe a goodideatouseviolencein ameeting, but I’d like to try it first.
+“Hmm—It should be fine. However, you can only bring at most two people as compan-
+ions!”
+Bringingabunchofsubordinateswouldonlycauseunnecessarytrouble,soIcan’ttaketoo
+manyofthem withme.
+I’ve heard story of some newly enrolled demon lord that tried to be imposing and brought
+hundredsof hisclose subordinatestothe meeting.
+Thisaction uncannilyenraged ademonlord who’sbeen mad at (her) territory having been
+9
+wipedoutatthe time.
+Thatdemonlord’sangerprobablycouldhavebeenventedonanyone. Andsoheendedup
+killed.
+Afterthatincident,themeetingforbidsmajinswithinsufficientstrengthtoparticipate. And
+amongthedemon lords, theymayonlytake two companions along.
+But this would also mean that there has been that type of disputes in the past. So it should
+befineforme to goas someonelooking fortrouble.
+Bargingin andaccusing Clayman directly,Ishould seriously consider this idea.
+“Whatdo youthink? Wouldn’tmyparticipation in it be very interesting?”
+“Kufufufufu, thisproposaliswonderful. Wouldyou allow me to accompany you—”
+“Bastard,Diablo! IwillbetheonetoaccompanyRimuru-Sama. Iwon’tletyouhavehim!”
+Andthetwoof them begintoargueagain. (Diablo and Shion)
+Itwouldbesuicidebringingthesetwoalong,butIwasn’tplanningtohavethetwoofthem
+inthesame place.
+Andjust as thisideawasraised—
+“—Since we will eventually fight against all the demon lords anyways, let’s just kill them
+all. After all, shouldn’titbeenoughtojust haveRimuru-sama as the only demon lord?”
+Andeven Diablo beginstospoutoutnonsense.
+Shion agrees completelyandbegins tonod her head excitedly.
+“That’s right! And here I thought you are an idiot. That’s some very profound views from
+anewbie! Ididn’texpectyoutogivevoice to allmythoughts!”
+Should I seethemas sharingatacitrelationship or being on bad term?
+IfIhavetopicksomeone,IthinkShionismorebraindead,but…bothofthemseemequally
+bentonbeatingup theotherdemonlords.
+Howdid thingsenduplikethis?
+Looking around, Ifindseveralpeople at thescene agreeing with their views.
+Some people are being cautious, while some are highly ecstatic, even giving off a killing
+intent.
+9
+Luminas afterVeldorawipedoutherkingdom.
+113
+
+Page 114
+
+Forsomereason,the numberofwarmongersamong us has only increased.
+Andthatmethodiswaytooreckless. SoIhavetointerjectedquicklytobringthediscussion
+backontrack.
+“Wait a second, don’t get ahead yourselves now. We haven’t settled on things yet. And as
+forDiablo,I’veassignedyouonthemissionconcerningtheKingdomofFarmus. Sothere’sno
+wayIcanbringyouwith me.”
+“I-indeed. Understood.”
+It seems Diablo thinks the mission regarding the Kingdom of Farmus is rather simple. He
+seemsconfidentenough,butIhopehewon’tsufferaWaterlooifheunderestimateshisenemies.
+Withsomeregretsandamixofjoyinbeingassignedamissionbyme,Diablomadeamixed
+expression.
+“But,wouldn’titbe too dangerous still?”
+Shuna’stonegivesoffasenseofworry.
+Indeed, thesearethe opinionwehold.
+“That’sright. Moreover,wouldn’titbemoreefficienttotrytoattackClayman’sbasewhen
+he’snot there? Hence there’snoreason toattend theWalpurgis.”
+Geldspeaksupcautiously,seemingly agreeingwith Shuna’sviews.
+It seemsto be the moreviabletactic,avoiding risk and fight winnable battle.
+Geld is also quite eager to fight, but he is not as reckless. It’s very delightful to hear so
+manyopinionsunder muchconsideration.
+But there areotherreasonsastowhy I’mconsidering attending the WalpurgisBanquet.
+Something is concerningme.
+“No, Rimuru-sama is worrying about the intent of Demon Lord Milim-sama. It is unthink-
+ablethatMilim-samawouldbetrayus,soshe’smostlikelybeingmanipulatedbyClayman. Or
+she has some plan of her own, but at the very least she did in fact attack Demon Lord Karion-
+sama. SoattendingtheWalpurgisBanquettofindoutthetruthbehinditwouldn’tbesuchabad
+idea.”
+“Indeed. Milim-sama being one of people who initiated the Banquet is also concerning.
+Hencethere mustbe somesortofconspiracybehind it, right?”
+Surprisingly, Benimaru’s comment aligns perfectly with my thoughts while Souei also
+pointsoutmyconcerns.
+Sasuga Benimaruand Souei. Theyhavethe sameviews as me.
+“Yeah, Milim following Clayman’s every orders, there’s no way that that would have hap-
+penedinthisworld. BecauseMilimis waytoo stubborn!”
+Doyouhaveanyrighttocriticizeher,Ramiris? Thatthoughtpoppedintomyhead,butshe
+andIshared thesame view.
+“Milim-sama would never betray Rimuru-sama. Even though this is just my hunch, but I
+stillpretty surethatI’m right.”
+Shion asserts.
+Right, we don’thave anyproofeither…
+114
+
+Page 115
+
+But Ialsodon’tthinkthatshe’llbetrayus.
+‘Wisdom King Raphael’ also reached the same conclusion even though it couldn’t be
+hundred-percent sure without sufficient information to back up this claim, there’s no way such
+athingwould happen withoutadrastic change insituation. I decided to have faith in Milim.
+But even ifthat’sthe case,Ican’tjust leaveit this way.
+“I also agree with all of your points and I don’t think Milim would betray me. Therefore,
+something must have happened. As Ramiris said, let’s assume Clayman isn’t the culprit here,
+but I still think it is highly likely that he has been the puppet master behind all of these events
+thus far. So I’ll take Benimaru’s advice and participate in the Walpurgis Banquet to investigate
+howthings were there…”
+Something woulddefinitelyhappenin between thesession.
+Inthe worst-case scenario,Milimmay attackusby the end of WalpurgisBanquet.
+That is what concerns me the most, and the reason why I think it’s still dangerous even if
+wejustleaveitas itis.
+Fighting Clayman alone won’t really be a problem, however, the goal is to avoid engage-
+mentwithMilim in anyform ofconfrontation asmuch as possible.
+“See? I told you I’m right! Indeed, indeed, everything has been expected by the famed
+detectiveRamiris. Ifthat’sthecase,we just haveto go and beat the crap out of Clayman!”
+And I thought I was successful in leading the topic and concluded the most dangerous
+conversation—yetnow Ramiris begins shoutingsome bizarre nonsense.
+“Also, what even is the deal here? Why are there so many powerful majins just running
+aroundhere? YoushouldjustletBerettabemyservantsinceyouhavesomanystrongsubordi-
+natesalready!”
+Andshethen dared tosaythat.
+Ramiris sure is being quite outrageous. She’s only gotten bolder after discovering the
+strengthofmycompanions.
+But Ididn’tplanongiving Berettaup.
+But more importantly, we need to consider what Beretta wants in this situation, not just
+whatRamiris wants.
+Moreover,someof my subordinatesseem toshare the same sentiments with Ramiris.
+“I see, thatsounds reasonable. Verywell, Ishallgo kill him. I shall return shortly—”
+“Eh, hold on hold on, calm down now Shion. Let’s prepare first before going, you too,
+Benimaruand Souei!”
+Seriously, the situation turned into something of a mess like this as soon as I decided to
+participate intheWalpurgisBanquet.
+BenimaruhavetoengagewithClayman’sarmy,samegoes for Souei.
+As the military meeting continues, I need to assess cautiously about the candidates as to
+whowillbemy twocompanionstothe Banquet.
+So,thecandidates I’mlookingfor are…
+Isuddenlyfelt thepressurefromasharpstare comingfrom behind my back.
+115
+
+Page 116
+
+Youcan figureitout withyourjoint that it’sShion.
+She would probably go crazy if I didn’t take her with me. It seems that it’s becoming
+increasingly hard for Benimaru to keep her in check, so I guess I’d have to take care of this
+mess.
+What’s more, Shion almost died by Clayman’s ploy—or should I say that she was literally
+killed over it—hence, this may be a great chance for revenge, that’s why I wish to bring her
+along.
+Justlike that, Shionhasbeenselected.
+Theother oneis ratherhardtochoose,but Ranga seems like a good candidate.
+Iwasplanningtohavehimhideinmyshadow,butitwillbeproblematicifthelocationhas
+somespecialbarrier similarto“HolyPurification Barrier.”
+IfoundoutthatRangahasbeenlisteninginallthistimeanticipatingtojoin,soIsupposeI
+shouldtakeRanga too.
+Heisacompetentbodyguardafter all.
+Just like that, I made my decision to bring Shion and Ranga with me. Both of whom have
+the ability of “Spatial Movement” which is one of my reason for bringing them since they can
+easilyescapewith meif anythinghappens.
+Aslongasthey’veexperiencedthenewlymadebarrierinspiredby“HolyPurificationBar-
+rier,”theyshould have agoodchanceofescaping even in the worst-case scenario.
+Thethree of usshouldmoveouttogether andhead straight to the WalpurgisBanquet.
+If Milim is indeed being unfortunately controlled, the next thing being destroyed would
+mostlikelybethistown. Thatisapossibility thatIneed to prevent no matter the cost.
+Iwillnotletthistownsufferonceagain.
+“Let’s participate then. I’ll bring Shion and Ranga along. Ramiris, could you help convey
+themessagethat Iwish to participate?”
+“Hmm,I understand!”
+Ramiris answers withouthesitation.
+And then she seems to have initiated a certain demon lord special communication line to
+informtherest of the demonlordsaboutmy participation.
+Itseemslikesomesortofhigh-levelskillthatcouldcommunicatethroughtheinterference
+ofspace.
+I observe her looking impressed for a while, and at the moment, someone walks towards
+mewhilelaughing loudly.
+It’s Veldora. It seems that he’s finished with his manga and has been listening to our con-
+versation.
+“Gahahahaha! Yes, you are finally taking things seriously! Although you’re not being a
+goodfriend,Rimuru,bringmealongaswell! Youdon’thavetoworryaboutthosedemonlords
+atallwithmycompany!”
+Hemakes such proudstatementinfullconfidence.
+Speaking of that, I’vecompletelyforgottenabout the fact that he’shere.
+116
+
+Page 117
+
+But Idon’tplan to bringVeldoraalong.
+“Oh well, don’t get ahead of yourself now, Veldora. I hope you can stay in the town and
+focusondefense.”
+“Nani! Wasn’t I supposed to be going along too? Take my words, I won’t lose to those
+demonlordsatall!”
+With my words, Veldora received a huge surprise, probably not expecting that I would say
+this.
+Defending this townis alsoanimportant mission, perhaps the most important task.
+We are marching all of our forces to take a final stand against Clayman. There will only
+be the police force led by Rigur present back here, whose numbers are pretty small, as well as
+Shion’ssubordinates.
+Thestrategyis based onthepreconditionthat Veldoraremained here to defend the town.
+If the Western Holy Church is to send out invasion force, Veldora alone should be able to
+handlethem.
+“—That’show itis,soIhopeyou canstay backfor the defense.”
+“Uhh…”
+Heseems unable to acceptit.
+It can’t be helped, I guess I’ll tell him the real reason—I was just about to speak up before
+Ramiris,who finishedthe communication,begins to shout.
+“Hey, Rimuru! They’ve approved your participation, but aren’t you being too mean here?
+It will be okay if I have master to participate as my companion (underling). It’s safer for me as
+well!”
+Well,with thatbeingsaiditdoessound reasonable.
+But from my perspective, Ramiris’ intention is crystal clear. She’s trying to bring Veldora
+andBeretta there to brag.
+Ithink Veldorahas alsoseenthrough her—
+“…Huh,no? I don’twanttogoasyou bodyguard at all.”
+Herejects withouthesitation.
+“AWHREALLY!EHHHHhowcould this… Youare so cruel, master!”
+Imean, what’swith thismasterthing aboutVeldora…
+Ramiris andVeldoraseemedtohave grown afriendshipbecause of manga.
+It’scertainthatthetwohavegoodrelationship,butintermsoftheirpower,itseemsRamiris
+isone-sidedly tryingto getongoodterm withVeldora.
+Doesn’tmatter,it’sa goodthinganyway.
+Ourfocusshouldbe us participatingin the Banquet.
+Forsomeofthedemonlords,theymayfinditmoretroublesometogoaroundhumantowns.
+Butthat’sjustto my advantage.
+“Veldora,we’vebeenintentionallyreleasingfakenewsaboutyou. Youshouldknowabout
+thatfromthe meeting wejustfinished.”
+It could have been a way to have him follow Ramiris as a servant. But honestly, I think it
+117
+
+Page 118
+
+wouldlowertheguardsoftheotherdemonlordstomakethemthinkthatVeldoradidn’tfollow
+along.
+“Hmm,Hmmhmm,of courseIknow.”
+Ah,itseemshe doesn’tknow.
+Andheispretendingthathepaidattentiontothemeeting. Hemusthavegottenaddictedto
+readingmanga.
+However,it’sthen mucheasiernow tomake upstories for him.
+“Besides, Clayman must be thinking that the majin Rimuru is a bluffing scum who relies
+onVeldora’sname—”
+“What! That bastard Clayman,we’ll see aboutit!”
+“He…thisignorant bug,Ishallgomyselfto personally take him out.”
+“Ahhh, calmdown youguys. Rimuru-samais just giving an example.”
+IwashalfwaythroughmysentencebeforeShionandDiablostartedactingallangryinmy
+stead.
+Youguysreallycan’tkeepyourcoolnow,can you?
+Benimaruwas abit madforamoment, butsince the other two spoke first, he got to regain
+hiscomposure.
+“Don’t get riled up now, Benimaru’s right, that was just an example. Anyway, if we bring
+Veldorato the meetingand causethem tobeon alert, wouldn’tit be pointless?”
+“Oh,soit’slikethat.”
+“I understandnow,sasugaRimuru-sama!”
+“Gufufufufu, anyone who dares to insult Rimuru-sama is unforgivable. I wanted to exter-
+minatehimbymy ownhands,butperhapsIshallallow Shion senpai perform the act instead.”
+“Soyouwanttoleadtheopponentintoloweringtheirguardinordertodrivethenegotiation
+inourfavor,right?”
+VeldorawhorealizesmypointnodandsayssowhileShionpraiseswithoutusingherbrain.
+Diablo is again making some dangerous statement, but he does think the best candidate to
+takedown Claymanin thiscaseisShion.
+Benimarulooks quitehappy having readmy thought.
+“But,shouldn’twetrytoavoiddanger?”
+Shuna asks me.
+Hercommentseems tohaveresonated withothers as Geld and Gabil nods in agreement.
+“Even if you are considered by the enemies as an individual to be cautious of, should you
+notperhaps focuson your personalsafety?”
+SaysHakurou to mewith Soueiagreeing.
+Indeed, Ican seewhereeveryone’sworriesarecoming from.
+Withthat beingsaid, I’vealsoassessedthat part.
+“It’s all right. I can use my skill ‘Storm Dragon Summon’ to call out Veldora at any time.
+That wouldn’t count as a companion to the meeting, right? That’s why, since I can seek help at
+anypointIwish,I hope youwilldefendthe townquietly before that happens.”
+118
+
+Page 119
+
+Isaid soproudly withafaceasifsaying “Howaboutthat?”
+Mycompanions allseemedveryimpressed.
+“GA-HAHAHA! SoI amactually theHero forthe finale.”
+Veldorais feelinggoodabouthimself again.
+As longas youdon’tobject,Iwon’tsay athing.
+“That’ssocunning…”
+Ramiris poutsby herself.
+“Baka, Ramiris. Youshould praiseme forbeing so smart.”
+Ramiris is still upsetwhileVeldorawhispers tohimself “So that’sthe case.”
+Itake the chanceto bringuponemorething.
+“Besides,nowyou’vegotanextra spotfor acompanion.”
+Uponhearingthis, theRamiris’eyes alongwiththe rest of my companions begin to glow.
+“Youknowme toowell,Rimuru! Verywell, who are you sending in as my servant?”
+Ramiris seems satisfied with her servant number increased to two. Given how she looks
+now,she’sreallyjusttrying toshowoffto otherdemon lords.
+Anyhow,it’sallrightas longassheaccepts.
+One more spot…
+Irealizethateveryonewhohasn’tbeenselectedhasbeenlookingatmenervously,however,
+thisservant mustbe strongenough.
+If I am being honest, Benimaru is the best choice, but the war can’t be fought while I am
+notpresent,so Benimaruhas tomakeup forit. ThusI have to select someone else.
+—Which wouldmean—
+“Sorry to keep everyonewaiting,Ichoose Haku—”
+“Please holdona second!”
+SomeoneinterruptedmeasIwashalfwaythroughnominatingHakurou. Itwasthewoman
+standingbehind Ramiris—Treyni-san.
+“Rimuru-sama,pleaseallowmetotake this mission no matter what!”
+“Treyni,what a stubbornchild!”
+Ramiris alsolooksdelighted withher eyes soaking in tears.
+It can’tbe helped then,I’llchooseher.
+“Fine. Then wewillgoonwithTreyni-san’said.”
+Iannounce so, agreeingtotheparticipation ofTreyni-san.
+As such,themembersparticipatingthe WalpurgisBanquet are settled.
+Mycompanions areShionandRanga.
+WhileRamiris’ companionsareBeretta andTreyni-san.
+Andourtrump card issummoning Veldora.
+It’smy luck thatthedemon lordshave approvedmy participation.
+Imay evenmeet LeonCromwell,one ofthedemon lords whom I have grudges against.
+But thistime I’llfirstbe checkingoutjust whatkind of a person he really is.
+IstillcarryandamunabletodealwithShizu-san’sdyingwishandIcannotjustleaveitlike
+119
+
+Page 120
+
+that,but thistime mytargetisClayman.
+Theriotcausedby OrcLordisstill freshin mymemory.
+As wellas the ordealwithMyuran.
+Mostimportantly,I amworriedaboutMilim.
+If we aren’t careful, we would end up fighting Milim. I’ve long made up my mind to take
+afinal standagainstClayman,butifit’sMilim, thereis no way we can win…
+I must utilize the opportunity well and have Clayman duel me. It would be even better if I
+cantakecareof himthroughtheWalpurgisBanquet directly.
+Ifthingsdon’tgo as planned,wewill seeabout it later.
+Clayman,you’vetreatedmelikeanenemy.
+Iamnokind-heartedsoultoletpeoplewhoantagonizemetowalkfree. Ifyouwishtokill,
+10
+youmustalsobe prepared todie.
+Youdaredto harm mycompanions, andI’ll have you pay the same price.
+Ah—IfeellikeI’ve beeninfectedby Shion’simpulsiveness.
+Iletout a sigh becauseofthat,butthere isalso asenseof joy that I feel.
+That’sbecause—
+I am finally freed from all the annoyances and am able to go and face my responsibilities
+headon.
+10
+RimuruandNaofumisurewatchesthesame stuff. SeemslikeRimuruhasalsoseenCodeGeass
+120
+
+--- END PRESERVED SOURCE BODY ---

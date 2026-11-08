@@ -1,0 +1,447 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 11 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_6/Volume6_Chunk_09_Pages_081-090.txt | Original blob SHA: a754c890ea779418f83f293af54f53bd0cf12f14 | Original size: 24411 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_06/Volume6_Chunk_10_Pages_091-100.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+AI-READING CHUNK 09
+Original pages: 81-90
+The text below is preserved from the source file. Page boundaries are marked explicitly.
+
+Page 81
+
+Souei has gone to investigate Clayman’s movements. And since the meeting will be going
+onforsometime,I decide tohearhisreport first.
+He’s still investigating their specific number currently. As of right now they are known to
+bestaying inMilim’sterritory.
+Souei’s“Clone”shouldbereturninganytimenow,soI’llbeabletomakeajudgementabout
+thatsoon.
+There’sstillmoretodiscussregardingourwartactics. ButfirstIneedtoconfirmourplans
+fortheKingdom of Farmus.
+After releasing the King, we would be looking for Marquis Müller and Earl Hermann to
+holdtheking responsible.
+We’llseehowtheyreactandthen eventuallyhave Youmstart the revolution, however…
+“Then,theissuewiththewarisourproblem. SoIhopeyouallcanhavefaithinustohandle
+thismatter. IhopeeveryonewouldbewillingtolendahelpinghandbythetimeYoumbecomes
+theKingof thenewage.”
+Withthat beingsaid, theguestsall nod in agreement.
+I’dratherhavethemhandletheissueswithhumansociety,thatwouldprobablyeliminatea
+lotofmistakes.
+Idohope thatthey willhelpuswithit.
+“Firstoff,Fuze-kun, pleasehelpuscontactMarquis Müller and Earl Hermann in secret.”
+“Allright,leave itto me.”
+Fuzeconfidently acceptedmyrequest.
+We’ll discuss more about the moderation of the plan on another day, but right now we’ve
+finishedoutlining theplan.
+We’ll pretend that Youm has rescued the King and have Marquis Müller take the King in
+under his protection so he can act as Youm’s back-up. We will release the three prisoners at a
+laterpoint intime, whichmeans…
+“Right, Shion, are the interrogations of the three captives going well? Have they revealed
+anyuseful information?”
+Since she can do whatever she wants to these people, I’ve sorta forgotten about them after
+leavingthemin Shion’scare.
+“Hehehe, of course, Rimuru-sama!”
+Ohho, Shion’squiteconfident.
+I’vegot anitchy dangerousfeeling fromher.
+Youm and Myuran also accompanied the investigation, I shifted my gaze towards them
+both,butthey seemlike theyareavoiding myeyes out of embarrassment.
+Still averting mygaze, theybegin theirreport.
+“—About that, Master. Investigation? Interrogation? Basically, the captives did reveal
+someinformation.”
+“Yeah, they did… But that wasn’t really an investigation, and calling it an interrogation is
+evenfurther fromthe truth…”
+81
+
+Page 82
+
+Youguyscanstophere now. Ireally don’twant to hear the rest of it.
+Shion must have outdone herself. But since it was me who appointed her to the job, I
+shouldn’tand don’tplanonbeingtheonecomplaining about it.
+Either way, they wouldn’t have any way of stopping the deranged Shion anyway. Since I
+wasinthecavethatwhole time,itdidn’tseemlike they’dbe able to contact me either.
+If someone were to be held responsible, I should be the one as I failed to find the right
+personforthe job. In otherwords,let’spretend Inever found out about this.
+Sorry, my friends from Farmus, but after all, it’s you guys who are at fault for making the
+firstmove.
+Ihopeyouwill all understandthat just surviving in and of itself is quite lucky.
+That’swhyI tookthe threecaptives alive.
+After Shion’s interrogation—I mean investigation (torture), they’ve revealed plenty of in-
+formation.
+“Firstoff,we have Ed…Ednew? Eddie?”
+“—Isn’titKing Edmalis?”
+Seeing Shion’s struggle, Shuna whispers into Shion’s ear and gave her the answer she was
+strugglingto comeupwith. Howreliable.
+Conversely, is Shion really okay? it seems like she’s incapable of even remembering the
+nameofaKing… Well,hisnameispretty weirdso,whatever.
+“ItwouldseemthatsomeMerchantshadapproachedKingEdmalisinthepastandpresented
+the silk product from our country. That led the King to act on his greed. Apart from that, they
+wereafraidthatournationwouldbecomeanimportanttradinghubinthefuture,whichiswhat
+ledtotheincident thistime—”
+Shion continues to explain her findings which are all inline my prediction. If we have to
+getspecifichere,IwouldhavesuspectedthatthismerchantinstigatedEdmalisintocommitting
+thesetreacheries.
+“Didyou findouttheidentityofthis merchant? Could he be an appointed merchant?”
+“Aboutthat…I’m verysorry.”
+Shion looksdejected likealeakingballoon. Iimmediately began to comfort her. That was
+justaquestionI happen to thinkup,soit’snotreally that important to me honestly.
+“That doesn’treallymatter,whataboutthe Church?”
+Idecidedtopursueadifferenttopic;let’sseewhattypeofinformationArchbishopRayhiem
+has.
+“Yes! I’veobtainedinformation about themastermind. His name is—”
+She has forgottenagain…
+“—Themastermindwas Nicolaus Speltus.”
+UponreceivingShion’sdesperategaze, Myuranannounces the name in her stead.
+Shion’s interrogation was going rather well at first, yet it got derailed near the end. She’s
+not very good at memorizing jargon. Next time I should avoid having her doing these types of
+jobs.
+82
+
+Page 83
+
+Thankfully Myuran is here to save the day. Not even Youm is as reliable as her. What a
+trulycompetent assistant.
+Apparently,ournationisanenemytotheirgod,hencetheyplanondeployingtheirarmy—It
+issaidthat this wasNicolaus’stance.
+Planondeploying theirarmy—Thatmeans they arestill in the planning phase.
+“I see. So Archbishop Rayhiem decided to preemptively attack the enemy of god in order
+totaketheglory andreceivecommemoration fromtheir headquarters.”
+Fuzemumbleshis realization,andeveryone seemsto agree with his conclusion as well.
+“Anyhow, there’s still some room for diplomacy. The Western Holy Church hasn’t made
+itsfinaldecisionyet. Ifthat’sthecase,we maybe able to avoid the confrontation.”
+“Then, allowme to negotiate.”
+Fuzedecidesto volunteer.
+He wants to drag the Council States down into this as well with the goal of prompting
+the Council States to announce the Jura-Tempest Federation as a nation and advocate that they
+shouldstandtogether againsttheWesternHolyChurch.
+ThroughpromotionoftheWesternCouncilStates,TempestFederationwouldbegintogain
+recognition around theworld andbecomeanew hub for trading.
+Theonly problem is that all of the residents are monsters. However, they are able to speak
+the human language and treat everyone kindly. With that alone we should be able to blend in
+withthehumans. In fact thathasalready beenproven here.
+Orrather,theirevolutionsareveryunexpected. Tobefrank,thegoalistohavethehumans
+treatourmonstersasdemi-humanliketheydowithDwarvesorElveswhoaresimilartohumans.
+Inordertosupport Fuze’splan,King Gazelwould also take action.
+He would actively increase the trading activities with our nation to raise the reputation of
+TempestFederation.
+The doctrines of the Western Holy Church strictly state that monsters are the enemies of
+humans, so they would likely find it hard to accept us. However, both the Armed Nation of
+Dwargon and the Kingdom of Blumund have already formed diplomatic ties with the Tempest
+Federation.
+Even if the Western Holy Church executed on their authority, it can’t wipe away these
+layered relationships. Furthermore, a kingdom of monsters having a friendly relationship with
+humancountrieswould mostdefinitely drawthe interestof other countries.
+Andduringthistime,theSorceryDynastyofSarionsuddenlyannouncesformaldiplomatic
+tieswithTempestFederation.
+Wewill usethisto continue ourpursuit forsuccess.
+“It’s rather disrespectful for me to say this but forming ties with Tempest Federation is a
+double-edgedsword. Assuchthosewhodoshouldactcautiouslyiftheydon’twanttobebitten
+back.”
+There is no doubt that this is uttered by Fuze. He is right, Blumund kingdom has the most
+difficultstanceamong them.
+83
+
+Page 84
+
+TheArmedNationofDwargonandSorcerer’sDynastySarionbothareuninfluencedbythe
+WesternHolyChurchandhavethepowertopotentiallyrivaltheWesternNationsbythemselves.
+Incomparison,theKingdomofBlumundisasmallkingdomthatcanbegreatlyswayedbythe
+pressuresexerted byitsneighboring countries.
+—But thoseare topicsforanotherday.
+“Hehe, you are Fuze right? Don’t worry, through Tempest Federation, your country can
+communicatewithus,Dwargon. Aslongaswebackupyournation’sstance,theCouncilStates
+won’tunderestimate you.”
+Gazel is right.
+The Armed Nation of Dwargon and Sorcerer’s Dynasty Sarion both have very different
+cultural backgrounds and technologies. The addition of trade with Tempest would spur this
+towntowards quicker development.
+A newera of culture wouldsoonbeupon us.
+Moreover, the Magic-fueled Science Sarion is so proud of and the Spirit Industrialization
+developed by Dwargon are two different branches of technology. Combining the two will no
+doubtcreatea fantasy likeindustrialrevolution.
+AndBlumundgetsto taste thecherryon top.
+Thepotential profitcompared tothe losses definitely won’tbe small.
+As for the changes of the Kingdom of Farmus to come at Youm’s hands, it can become an
+agricultural nation. Wecansatisfyour region’shunger and inspire a new food culture.
+In order to prevent competition with each nations’ specialties, we must share our opportu-
+nitiesforprofits properly—Inregardtothat I’vebeen planning something behind the scene.
+UltimateSkil‘WisdomKingRaphael’hastheprocessingpowertoeasilyoutperformaquan-
+7
+tum computer. It is more economical and precise than the supercomputer “World Simulator” ,
+soit’sapieceof caketo compute complex calculationswith precision.
+IfeellikeamemberoftheIlluminati,manipulatingtheeventsoftheworld…Butit’sokay
+sinceIama demon lordafterall.
+But Ialso understandwhereFuze’sworryiscoming from.
+Blumund is smallandis afraidofbeingexploited by bigger countries.
+To break off from the States’ Council which recognizes the rights of smaller counties is a
+difficultdecision. This is thesourceofFuze’sconcern.
+Nowonder whyhewouldfeelanxiousaboutthe plan.
+Infact,theremayevenbeshort-termbenefitsincontinuingtheirinteractionswiththeCoun-
+cil. If all of the intelligence forces from Blumund are utilized, it may not even be a problem to
+catalyzeatotal warbetweentheWesternHolyChurch and us.
+IfIhadcausedthemtocontacttheChurchfromthemomentwemet,wemighthavealready
+sufferedacrusade.
+But the peopleof Blumunddidn’tchoose that path.
+7
+JapaneseEarthSimulator(ChikyuShimyureta): https://en.wikipedia.org/wiki/Earth_Simulator
+84
+
+Page 85
+
+Theyinsteadchose to believemeandfight alongside us.
+Thisso-called resultwas theproduct of theirfree will after all.
+The Kingdom of Blumund has chosen to align with us, so it wouldn’t be wrong of me to
+givethemsome advicein return.
+—Afterall, coexistenceismydream.
+“Fuze,couldyouhelpmeconveyamessagetotheKingofBlumund. Ihavesomethingthat
+requireshisassistance.”
+“Assistance? Isitsomethingtroublesome again?”
+“Rude much! It would take too long to explain it now, in addition it’s something hard to
+comprehend,soI plan onexplainingit directlytohim myself next time I visit.”
+“Aren’t you the rude one Rimuru-sama! Are you suggesting that my head isn’t good
+enough?”
+“No,I didn’tmean that. Doyouhappento be anexpert of economics?”
+“Ehhhhh… Allright. I’lldeliverthe messageto the King and arrange for your meeting.”
+Yeah,Irespondedwith anod,endingthe conversation.
+The mission of Blumund is to grasp the quantity of transactions in trades. To investigate
+the exports and imports of each country and deliver the right goods to the right place. In short,
+theywillbecomethe firsttradingcompanyto be established in this world.
+Ifthisoperationissuccessful,thesmallcountrywouldnolongerbesmall. Itwouldgather
+immenseinfluence andgive birthtothe conceptofinternational industries.
+Ihopeitwouldone daybecomeatradinghub givenits geographical location.
+But thedetailswill have towaitfor beforeourattack plan is settled.
+Weneed to takedownClayman.
+AndYoumneeds to buildupanew kingdom.
+As for Fuze and the Kingdom of Blumund, they will utilize their expertise in intelligence
+gathering and manipulation to stall the advances of the Western Council and the Western Holy
+Church,at least‘til oursidehasachievedvictoryin the upcoming war.’
+Tous,the WesternHolyChurchisahuge threat.
+Eventhoughthey may nottakeanyimmediate action, stalling them is still necessary.
+The Western Holy Church will not recognize a kingdom of monsters, and neither will the
+HolyEmpire of Lubelius.
+I want to try my best in reducing and delaying possible conflicts and prove to the outside
+worldthat we are ableto helpeveryoneand coexistwith humans.
+If it ever comes to a war, I hope I would be able to settle things peacefully, but…judging
+fromHinata’sreaction,itwon’tbeeasy…
+None of the problems haveasimplesolution.
+Everything will dependonouractionsfrom hereon out.
+85
+
+Page 86
+
+Andthenext thing onour list,let’shave thethree captives—Hmm?
+Wehave KingEdmalis, ArchbishopRayhiem, and who’sthe other guy?
+Ohyeah! It’sthe oneIdidn’tbeattodeath.
+Isit reallyokay to letthesekindsofpeople walk free again?
+“Shion,aren’ttherethreecaptivesintotal? Theonewhosurvivedmyattack,hashebeena
+nuisance to you?”
+“Eh? Ah, yes. Youmeanthemanwho’sstillin shock, right?”
+Still in shock? I seehe’sbarelysurvivingas well. So he wasn’ta big deal then.
+“Oh, you are talking about that man who survived. It sounds like Knight Commander Fol-
+gen. Ishe?”
+Gazel seems to have heard of this guy, does that mean he’s considered a strong general?
+Hmm—If that’sthecase,wouldn’titbe dangerousto release him like this?
+Iturn toDiablo and ask:
+“Whatdo youthinkof him? Shouldn’thebequite strong? Is it okay to let him go?”
+AndDiablo respondswithacarefreesmilestill on his face no less.
+“No,Rimuru-sama. He’sjustanobody(tome). However,intermsofhumanstandards,he
+seems tobequitetalented inconjuringmagic.”
+Amage? Ifthat’sthecase, itcan’tbe the KnightCommander named Folgen.
+“Shion,do youknow hisname?”
+Shion respondsnaturallyasIask.
+“Yes! His name is Ramen!”
+Oh,so he’scalledRamen. Eh,speaking ofwhich, I haven’teaten ramen for years.
+Theinstant ramenI ateduringnightshiftstastedreally good.
+Thenostalgia— Ishould tryrecreating it nexttime.
+Ibegin to recallthingsfrommyprevious life…
+“Ramen? Isthere someonecalled thatin Farmus?”
+“Doesn’t ring a bell. And a magician? Magic? Speaking of magic, there’s a majin called
+Razen from Farmus…”
+“TheHero Razen? Thatmanisquite thecharacter.”
+Fuze,Elalude, andGazelclaimso.
+It’snot onlythemthough.
+“Hero Razen… I’ve heard of him. His name is known even to the Beast Kingdom. That
+manistheguardianof the greatKingdomof Farmus,so called ‘The WiseMage.”’
+“I’ve heard about it too. He is a human, but his magical ability could easily surpass any
+mage. I’ve wantedto have afightwithhim.”
+86
+
+Page 87
+
+“Butwewillprobablyhavetheupperhandinclosequartercombat. Nonetheless,thishuman
+cannotbeunderestimated.”
+It’sasurprisethat eventheBeastketeersknowhim.
+Ican’timaginesomeonelikethatwould stay inFarmus…
+ThemancalledRamenisn’timportant,butinsteadweshouldbecautiousaboutthisRazen
+guy.
+“Shion,are yousurethatguyiscalled Ramen?”
+“Yes, lemme think, probably yeah… But, he’s super young! He’s one of the people who
+attackedthe town,and definitelynotthemagician everyoneis talking about!”
+She did not soundsureaboutthefirst partbut seemsvery certain about the second half.
+Eh,but isn’tthisa bitstrange?
+Diablo also mentionedthathe’samage…
+Itgotmekindofworried,soIdecidetoinquirefromnotonlyDiabloandShion,butevery-
+oneelse.
+The one in captivity is a young man who once attacked this town. There is no doubt he is
+an“OtherworldTraveler.” Itwouldseem it also matches up to everyone’stestimony.
+“Diablo, coulditbethatyouarelying togetpraises from Rimuru-sama?”
+Shion tries to provokehim.
+“What a surprising proposition. He’s just some cheap shot that got beaten by me. Only an
+idiot would hold him in such high regard. I was simply completing my task in order to have
+Rimuru-sama grant metherightstoservehim.”
+Oh yeah, Diablo did once say he wanted to serve me. But he didn’t mention that his oppo-
+nentwasthatstrong, andhe doesn’tseem that bothered about it at all.
+Thiswould mean…
+“—Speaking of which, about that ‘Otherworld Traveler.’ When Geld and I cornered him
+toadesperatespot,therewasaquitepowerfulmagewhointervened. Thatmanisindeedcalled
+Razen. ItwouldseemthathehascomepreparedwithNuclearStrikemagicreadytobeunleashed
+at any time. I thought it would have caused much damage to our side, so I decided to let him
+go—”
+Hakurourecalls and reportstome.
+Soit’snotRamen, butRazen?
+«Report. BycastingasecrettechniqueundertheSpiritMagicseries,onecanreplaceone’s
+body. »
+Ah,so that is whatitis.
+“Ifthat’sthecase,coulditbethatthismagecalledRazenhastransferredhisconsciousness
+intotheyoungman?”
+“Ehh!”
+Shion beginsto paniconce Ipointoutthat possibility.
+Myguess is probably rightthatshewasuncertain about the captives’ names.
+“Kufufufufu. Whateverhisnameis,we should be able to find out soon.”
+87
+
+Page 88
+
+Diablo cuts Shionoff,causingtearsto accumulate around her eyes.
+Inthe end,thatman is indeedRazen.
+ThereisnoRamenguy,getit? SoyoucanstopblamingShionnow. Itcan’tbehelpedafter
+all, Shion is Shion. Basically, it would be a mistake to assign any task involving brain work to
+Shion.
+Apart fromthat—
+“—But,to be able tobeatthecrapout ofthat Razen!”
+“Ireallycan’tbelieveit;he’sbeentheHerothatFarmusreliedonforhundredsofyears…”
+“His power as a mage could even rival mine, and may perhaps even surpass mine, such a
+rareprodigy hasbeen—”
+Everyone is astonishedatthisrevelation.
+Thesourceof their astonishmentisDiablo.
+Thinking back onit,Diablo isindeed amysterious individual.
+Why does he want to serve me? Although since he doesn’t mind providing free service, I
+don’thaveanyreason torefuse.
+Buthetalkssolightlyofthemanthateveryonethinksweshouldbeextracautioustowards.
+Itwould seem he is reallystrongindeed, andthat’sbefore I named him.
+And now he’s even showing off his strength in front of Shion. But it’s due to her own
+actions. That’swhy she canonlygnash herteeth regretfully.
+Anyway, all is well. There shouldn’t be any problems moving forward as long as Shion
+hasn’tconsideredDiablotobeherarchnemesis. OldbutlervsElitebutler,thistypeofrelation-
+shipisprobably thebreeding groundfor jealousy.
+Right, I’vedecided!
+“Youm, about the mission that initially involved you bringing the three captives, bring Di-
+abloalong too.”
+Withthat beingsaid, it’sDiablothis timewho’slooking at me in panic.
+AlthoughI canseeShion’ssmirk,Ididn’tgivethat order for her.
+Thisisthe decision I madeaftermuch thought.
+Wearewagingwar againstClayman soon.
+Veldorawillbeassignedthedutyofprotectingthistown,andIhappentobeworriedabout
+whotoput in placetoassist Youm’sparty.
+This individual must have a clear head and the ability to adapt to various situations. In
+addition,this personneedstobeabletotravelfast.
+Soueiis themost suitablecandidate,but Iwishto see how he performs on the battlefield.
+Benimaruis the leadinggeneralofthearmy.
+Shion is a nogo.
+Hakuroucan’tuse“ShadowStep”and“DimensionTransportation,”makingtransportation
+moretime-consuming.
+As for Geld and Gabil, their appearances are too eye-catching in human society. And con-
+sideringtheir personalities,theydefinitely aren’tthe mostqualified strategists here.
+88
+
+Page 89
+
+Inlieuofallthis,Diabloistheonlypersonabletofulfillalltheseconditions. Heoncesaid
+heiswillingto takedown Farmushimself,so heshouldn’tbe objecting to it.
+And I also want someone to watch over that troubling guy Razen, surely Diablo should be
+abletohandle it.
+“I’ll be countingon you,Diablo!”
+“Yes,Iunderstand, Rimuru-sama!”
+Diablo givesout a joy-filledsmileupon accepting my request.
+Something’s amiss about this, but since he’s agreed to it, it’s no problem. I can picture
+DiablorightnowasthestrongesthereafterVeldoraandme. Heshouldbeabletoactaccordingly
+nomatterwhathappens.
+“Itmighttakeafewyears,soyou’vegottokeepyourcomposure. Whateverhappens,you
+cancontactmewhenever youwishusing“TelepathyNet.””
+“No problem. Itwon’ttakethatlong;Iwill quicklyresolve the issue.”
+Suchaconfidentresponse,we’retalkingabouteliminatinganentirecountryhere. Butitis
+preciselybecause of that, Iamabletoconfidently task him with this mission.
+Now that we have one less problem to deal with. We can now fully focus on waging total
+waragainst theDemonLordClayman.
+As such, our time for making confirmations for the arrangements has come to an end. So
+themeetingwiththe headsofnationsis concludedfor now.
+AttheveryendIwanttoconfirmwhetherthereisanyotherissueanyonewishestoaddress.
+Anditturnsout someonedidraisetheirhand.
+It’sElalude. Helooks atmeasifwantingto saysomething.
+“What’swrong?”
+Hearing this,Elalude beginstospeakup withouthesitation.
+“MynationSorcerer’sDynastySarionisalsoquiteawaysofffromhere—ThatistheTem-
+pestFederation. Thereareveryannoyingforestsandmountainsinbetweenournations. Ifthere
+were a direct path between our nations, it would greatly reduce the time spent in traveling. If
+weareable toopen a roadbetweenus, it would behighly convenient for our exchanges—”
+Hewinks atmeas he finishes.
+Hmmhuh—I knowwhereheisgetting at.
+Since we’ve established ties with the Sorcerer’s Dynasty Sarion, it would be much more
+convenient to have a direct road constructed between each other. Of course our country would
+undertakesuchconstruction.
+Thebenefitisbeingabletodirectlytransportgoodsinsteadoftakingthepreviouslylonger
+detour,thatis why I’veconsidereditaspart ofmy plan from the start.
+But the construction would require a mass-reform of the land, for instance, deforestation,
+diggingoftunnels,aswellaspavingoperationsontheroads. Itwillexpendamassivenational
+budgetin orderto execute alloftheaboveoperations.
+TheSorcerer’sDynastySarionmaybestrong,butthatdoesn’tmeanitcaneasilyprovidea
+budgetonthe scaleof this.
+89
+
+Page 90
+
+Elalude, by his careful consideration from the standpoint of a Duke, would likely push all
+theworkon to us.
+“Elalude, you are being really scummy here. How could Rimuru agree so easily to such a
+substantial request.”
+Gazel decidesto defend me.
+Butholdonasecond,didn’twetakeresponsibilityfortheentireprojectofconstructingthe
+directroads to Dwargon?!
+“Surely you jest, Gazel! It’s perfectly reasonable for Rimuru-dono to reject me, you of all
+peopleshould knowthatyoudon’thave asayin this!”
+Ah,so Elaludeknows aboutthataswell.
+Could we haveavoidedthishadwe rejectedGazel’srequest?
+To be honest, it’s all right if we are to take full responsibility. Constructing roads is just a
+smallinvestment comparedtohavingmore human recognition.
+But with that being said, if I just agree to it like this, it may encourage other countries to
+takeadvantageofusinourfuturediplomaticrelationships. JustlikehowIwastakenadvantage
+ofduringmy tripby Blumund. Humans aretruly cunning creatures.
+SoI’vegot to knockhimdownfromhishighhorse.
+“I understand what Duke Elalude meant. I believe is fine for us to handle the construction
+oftheroad, however—”
+“However?”
+Elalude gulps as he lookstowards me.
+Don’tbe sonervous, I don’tplanon doing anything outrageous.
+“However,wewouldalsobetheonesresponsibleforthesecurityandhotelbusinessonthe
+road. And of course, the cost of construction would eventually be transferred to the road users
+viaacarefullyconsidered toll.”
+Iadd.
+In simpler terms, we will create a charging mechanism like those on highways. Travelers
+will be charged a certain fee per distance away from an alarm outpost. This will turn into long-
+term profits. Despite how it seems to be unprofitable in the short term, it would gradually
+transitionto profitability astimegoeson. Thisis theso called conscienceless national income.
+Additionally,wegettodoanothercountryafavorbytakingthejobofconstructingaroad.
+“—Iunderstandnow,that’sagreatidea. Anditsoundsveryreasonable. But,regardingthe
+tollyoumentioned. I hopewegettorenegotiateit every couple of years.”
+Oh? Elalude is not so simple-minded after all. I see that he has guessed my thoughts
+immediately.
+Noproblem,wewillhavetobuildthistypeofthingonthebasisofconsensus. Thereisno
+pointin pricing thetoll toohigh,hence Iwillaccepthis suggestion.
+“Okay,we should dojustthat!”
+“So casual!”
+Fuzeblurts outin surprise,butIdon’treallymind.
+90
+
+--- END PRESERVED SOURCE BODY ---

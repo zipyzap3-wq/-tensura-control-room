@@ -1,0 +1,200 @@
+> # WORKFLOW LADDER | TENSURA CLEAN-SLATE PROJECT
+> Version 1.0.0 | FULL LADDER: 00 Project control → 01 Source intake/verification → 02 Source chronology → 03 Canon/continuity → 04 Character/time-state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 GitHub draft → 09 First review → 10 matching ChatGPT draft → 11 independent audit → 12 path/evidence verification → 13 user approval → 14 canon promotion only after approval → 15 self-evolution (feedback after 09/11/12).
+> FILE POSITION: Stage 01, source item 35 of 54. SOURCE MATERIAL, NOT STORY CANON.
+> REQUIRED: Verify provenance, read source body as supplied, record page coverage/OCR uncertainties, do not infer unshown events.
+> PROVENANCE: zipyzap3-wq/Gobta-s-tensura-/source_material/volume_6/Volume6_Chunk_33_Pages_321-326.txt | Original blob SHA: 6b2c232ee1c2c19ae03d7b51145673e14a9f1c59 | Original size: 7905 bytes.
+> NEXT DESTINATION: PROJECTS/TENSURA_WORKFLOW_LADDER/04_SOURCE_MATERIAL/VOLUME_07/00_frontmatter_illustrations.txt
+> STOP: Do not alter source body. OCR corrections belong in a separate derivative. This is not approved project canon.
+
+--- BEGIN PRESERVED SOURCE BODY ---
+AI-READING CHUNK 33
+Original pages: 321-326
+The text below is preserved from the source file. Page boundaries are marked explicitly.
+
+Page 321 (OCR)
+
+DO YA
+WANT TO?
+C'MON, AREN'T WE
+PALS!?
+HEY!
+GETH-
+Celebratory Comic Simu-Launch SPECIAL MANGA
+Art: Taiki Kawakami
+I WISH
+AW, MAID OUTFITS
+I COULD
+SURE
+TRY ONE ON
+ARE CUTE!
+TOO!
+LET'S PUT 'EM
+ON TO-
+GETHER,
+RIMURU!
+SHUNA SEWED UP THIS
+ONE I DESIGNED AS A JOKE.
+Look.
+WHAT? YOU
+HAVE
+ONE!?
+...IN A MAID UNIFORM !!
+RIMURU -SAMA
+(FAT)
+
+Page 322 (OCR)
+
+THIS IS STILL PRETTY CUTE TOO
+HEADPIECE
+RIMURU'S GIVEN UR..!
+STRIKE A POSE!
+
+Page 323
+
+Afterword
+Longtimeno see!
+It’s been five months since the last volume, and here I bring you the sixth volume of That
+TimeIGot Reincarnated asaSlime.
+Nowit’safterword timeasusual.
+This time I again confront Editor I-san and had an intense war regarding whether I should
+writethisor not.
+WhenIwaswriting thefirstvolume,I-sanwas very gentle.
+“If youreallydislikewritingtheafterword, it’sokay to skip it!”
+“Is that so? Thanks a lot then! I really don’t know and am not good at writing this, your
+wordsjust saveme!”
+Irecallsuch conversationbackthen.
+HOW-EVER!
+Thistime—
+“I’vetried usingpage number,theafterword isaround eight-page long!”
+“Eh? Eightpages, isn’tthattoomany?”
+Imean, afterwordhas reachedeight pages,isn’tthat a bit much.
+Soofcourse Iwouldhave concernsaboutit.
+“Ohwellitcan’tbehelped. Duetobindingissuewiththebook,ifwearetocutdownblank
+pages,theentireafterword wouldbelost.”
+“Ah, then Ishould justskipit—”
+“Noway,whatdo youmeanbythat? Youhave to write the afterword.”
+And we agreed during volume 1 that it’s not necessary, that kind and gentle Editor I-san is
+gone…
+No, I am quite fond of reading afterword of my novel I like, but whenever it is my turn to
+write,Iam inthe“it’sokaytoskipit”faction.
+Theabilitytothinkflexiblywithaccordancetodifferentpointsofviewisoneofmyspecial
+talent—but it can’tworknow—Itriedto usethis talentto convince I-san, but…
+“I’ll make you write it even if we need to increase pages! What “not writing afterword,”
+that’snot an option foryou!”
+Aftergettinga scoldingfromtheeditor,my road to not writing afterword is blocked.
+Iunderstanditwon’tmatterevenif Istrugglemore,soafter countlessnegotiations Iget to
+323
+
+Page 324
+
+cutdownsomeof the pages.
+Ohwell, however.
+It’stimefor theclichéeverytime—
+“Thistimethere may beafewmore pages…”
+“Don’tworry,justdon’tminditand keepwriting!”
+Evenwiththatlittle interjection,theystill wanted me to write the afterword.
+I’ve always concerned about the increase of pages, and as it turns out the worries were
+unnecessary.
+Thepagesoftheactualstoryhaveincreasedalotandnowthepagesforafterwordneedsto
+increaseas well.
+Editor I-san is trulycrazy.
+Bythe way,when Ihand inmyfirstdraft, here are I-san’sthoughts:
+“XXsceneseems tohave beencut,what happened there?”
+“No,it’sjustthatthe pagesinvolved aretoomany,so I had to cut it out!”
+“No wayyouare seriousaboutthat?! Wehave toleave that scene in!”
+“No,buttherest of thecontentisnoteasilycutto fit it in…”
+“Seriously,don’tworryoverthecuts! Justwriteit. Youcanwriteas muchofSlimeasyou
+want.”
+This isa conversationwehad.
+In the end when I finished the first draft, the content has increased the most since I started
+withanaddition of around tenthousand words.
+Due to the double line typesetting, it’s rumored to be the light novel with the most words
+fromGCseries. And even thepagenumber hasjumped to number one.
+“Now we’ve made anewrecord!”
+Editor I-sansays so.
+How ambitiousis his?
+After all thistrouble,volumesixisfinally out.
+ThevolumehaspackedwithmostcontentinTensuraseries,Ihopeeveryonewouldhavea
+funtimereadingit.
+Now as followedIwouldliketodo somediscussion regarding the content of the volume.
+As I’vementionedin volume2,Ialwaysread afterwords when I read a book.
+That’swhytherewill be obviousspoiler,so you should prepare yourself before reading.
+AsI’vementioned in theafterword ofvolume 5,I’veadded a lot of content this time as well.
+Youcantellfromthecatalogue,Rimurugetsrecognizedinthevolumeandbecomesareal
+324
+
+Page 325
+
+demonlord. It’swrittenuptothebirthof theOctagram.
+Based on the fourth arc “Birth of Demon Lord” from the Web version, I present the full
+storyinvolume 5andvolume6.
+Sincethecontentfromthewebversionof“BirthofDemonLord”isnotenoughforfillthe
+wholeofvolume5, you canimaginethat mostof the contentwas added afterward.
+I’ve also interacted with Editor I-san and so the content is just like what I’ve mentioned in
+theafterwordof volume5.
+I’veworkedhardonthisinordertoavoidbeingcalledthattheeffortinmyworkisallfiller
+50
+likeCalpis dilutedin water.
+That’saboutitregardingthisvolume…
+As usual, there aremanycharacterspresent this time.
+It would probably be easier for web version reader to remember them, but the light novel
+readermay havea hardtime.
+Now that I think about it more carefully, this light novel has twice as many words as most
+standardlight novel,soitshouldn’tbe thatmanycharacters being presented.
+Everyonemustwanttoseetheillustrations,right—Aboutthat,I’llrelyonMitzVahsensei’s
+work!
+TenGreatDemonLords—Eh? Whyarethereelevenpeople? Howstrange—buttheproduct
+isquitecoolwith everyoneinthesame room.
+Speaking of which, Mitz Vah sensei apparently had got into a heated debate with Editor
+I-san regarding the breast size of female characters, I’ve not taken part into that part. As for
+whethertheoutcomeofthedebateisreflected,I’llhaveeveryonewhoreadtheendresultofthe
+illustrationbe the judge.
+Ohoh, I’mgetting offtopic.
+That’showitis,nowwithbeautifulillustrationstheimaginationwiththecharactersbecome
+mucheasier.
+Andnowtoexaminethedifferencefromthewebversion,Icansayperhapsonlytheoutline
+issimilar.
+Bytheway,itispossiblethatcertaincharacter’smotivehascompletelychangedwithsuch
+tweaksin setting,and thereareactually manychangesif we are looking at details alone.
+It’squitehardto findoriginal scene fromthe web version.
+There will be more and more such small changes in the future that would amount to a
+completely differentstory.
+But with that being said, I still intend to retain the outline of the web story. But I’ll only
+know theresult afterI write.
+I hope everyone would continue to support me with the final product of That Time I got
+Reincarnatedas aSlimebythattime.
+50
+CalpisisaJapanesedrink.
+325
+
+Page 326
+
+Andnowit’stime forthe summaryofthe afterword, Iwant to write some words of gratitude.
+ThankstoMitz Vahsenseiwhohasbeen helpingwith the beautiful illustrations.
+Afterreadingthedesigndraftofthecharacters,someofthecharacterdesigneventookthe
+place oftheiroriginalimagesinmyheart.
+What agreatthing to embracesuch thrill!
+Iwould add morenewcharactersinthe future,Ilook forward to the feedback.
+And also many thanks to Taiki Kawakami sensei who’s been in charge of the manga art as
+wellasmange EditorU-san.
+Youguys—responded tomystubborn demands, Itruly appreciate it.
+And this time I also asked for your guys’ assistance and was responded with very straight-
+forward agreement.
+Eh,do you wantme toreducethenumber ofpages of afterword?
+What doesthatmean, Idon’tunderstand.
+Mythanksalsogo outtoEditorI-sanwho discusses with me all the time.
+Youropinionis truly valuabletome.
+Anyworkthatnoteventheeditorwouldapproveislikelynotpossibletoresonatewiththe
+readers either.
+Ihopeyouwill alsobe ashonestasyou arenow with your opinion!
+My thanks go out to all the members who worked on proofreading, design as well as the
+production of thebook.
+Especiallythefellowcoworkersworkingonproofreading,itmustbeveryhardproofreading
+so manywords.
+Thankstoeveryone’seffort!
+And lastly my thanks go out to all the readers who bought the book, I’ll continue to work
+hardtoallow everyonebe abletoenjoyThatTimeIgot Reincarnated as a Slimein the future.
+Well,seeyou allinthenextvolume!
+326
+
+--- END PRESERVED SOURCE BODY ---

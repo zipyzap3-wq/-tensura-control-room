@@ -17,7 +17,7 @@ This is a clean-slate project area inside the Central Control Room repository. I
 
 ## Navigation
 - 06_RESEARCH/CHARACTER_DOSSIERS/README.md\n- 06_RESEARCH/CHARACTER_DOSSIERS/GOBTA_REINCARNATED_PROTAGONIST_MASTER_CHARACTER_SHEET.md\n- 04_SOURCE_MATERIAL/SOURCE_READ_LOG.md
-- 05_PROJECT_AUTHORITY/PROJECT_DIRECTION_AND_AU_INTEGRATION.md
+- 05_PROJECT_AUTHORITY/PROJECT_DIRECTION_AND_AU_INTEGRATION.md\n- 05_PROJECT_AUTHORITY/WORLDBUILDING/README.md\n- 05_PROJECT_AUTHORITY/WORLDBUILDING/POCKET_DIMENSION_WORLD_BIBLE.md
 - 13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md
 - 13_REUSABLE_CRAFT/SOURCE_CHUNK_INTEGRATION_METHOD.md
 - 13_REUSABLE_CRAFT/CHARACTER_INTEGRITY_AND_VOICE_LOCK.md
@@ -38,7 +38,7 @@ This is a clean-slate project area inside the Central Control Room repository. I
 - 11_EXECUTION_CHECKPOINT.md
 - 12_FILE_LADDER_REGISTER.md
 
-## Character information routing (mandatory)\n- Start at 06_RESEARCH/CHARACTER_DOSSIERS/README.md.\n- Gobta's master character sheet is the sole home for his abilities, capability rules, limits, future growth and user-suggested ideas.\n- Arc plans/chapter packets link to the sheet and use ability IDs/time-state; do not duplicate or scatter skill descriptions.\n- Every new user idea is captured in the sheet's Idea Inbox before downstream plans are updated.\n\n## How the living ladder works
+## Worldbuilding routing (mandatory)\n- Start at 05_PROJECT_AUTHORITY/WORLDBUILDING/README.md.\n- The Pocket Dimension World Bible is the sole authority for pocket-world geography, structures, seed/generation, maps, ecology, environment and world rules.\n- Gobta's master character sheet owns his WORLD BUILDER mechanics, XP economy, enchantment exploit and The Yeeter.\n- Arc plans own chapter sequence and source integration; link to the world bible instead of copying setting descriptions.\n\n## Character information routing (mandatory)\n- Start at 06_RESEARCH/CHARACTER_DOSSIERS/README.md.\n- Gobta's master character sheet is the sole home for his abilities, capability rules, limits, future growth and user-suggested ideas.\n- Arc plans/chapter packets link to the sheet and use ability IDs/time-state; do not duplicate or scatter skill descriptions.\n- Every new user idea is captured in the sheet's Idea Inbox before downstream plans are updated.\n\n## How the living ladder works
 The master ladder defines the 00-15 production stages. Every individual file carries its own local ladder: file ID/path, stage, work order in its description, prerequisites, required actions, evidence/status, predecessor and exact next destination/action. The checkpoint is the live resume pointer; the file register is the route index. Update all three after each completed work unit.
 
 Source intake is governed by `13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md`. It requires QUEUED → OPENED → READ IN FULL → EXTRACTED → BOUNDARIES CHECKED → RECONCILED → VERIFIED. The process tracks cross-chunk scenes, event beats, cast responsibilities, page gaps, character knowledge and the next exact source file. Importing a file never counts as reading it.

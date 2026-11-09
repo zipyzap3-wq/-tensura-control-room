@@ -75,3 +75,13 @@ Complete source intake, chronology, canon/continuity examination and time-state 
 07_PLANNING/ARC_PLANS/VOLUME_01_GOBTA_SECOND_LIFE_AU_ARC_PLAN.md
 
 Stage 06 remains blocked until its prerequisites are verified.
+
+## User revision: double naming and second Unique Skill (2026-11-08)
+- Gobta is named twice. Rimuru names him first, genuinely, and this substantially boosts/evolves his already-existing WORLD BUILDER.
+- Veldora then gives Gobta the shared surname **Tempest**, the same surname as Rimuru and Veldora, as a deliberate brotherhood gift. Veldora sees Gobta as the weakest of the three and wants him included as family, not pitied.
+- Veldora's naming awakens Gobta's second Unique Skill, proposed as **FORMULA ARCHITECT**: create original magic by designing formulas, but only to the extent Gobta truly understands the principles. It does not grant missing knowledge automatically.
+- His Minecraft Java modding/coding background, experience designing mechanics/abilities, familiarity with modded magic systems and extensive manga reading make this restrictive skill a personal cheat. Knowledge is a head start, not automatic Tensura mastery.
+- WORLD BUILDER and FORMULA ARCHITECT combine into magical engineering: design magical formulas, construct apparatus, enchant compatible components and configure mechanisms.
+- The Dragon Slayer route remains: Gobta eventually develops his own Dragon Slayer Magic through study and formula creation, later has a Charybdis-related trigger/dragon transformation, and ultimately aims toward True Dragon evolution. All of this is future-volume direction, not Volume 1 accomplishment.
+- Opening structure is revised: Chapter 1/prologue covers human life, interests and death (similar in narrative function to Rimuru's original-life opening, but original in scene/prose); Chapter 2 covers fused Gobta awakening and WORLD BUILDER; Chapter 3 cave meeting and Rimuru's naming/skill boost; Chapter 4 Veldora's Tempest surname gift and FORMULA ARCHITECT awakening. Then source-aligned Volume 1 proceeds; final chapter boundaries wait for source mapping.
+- Full mechanics and design checks are recorded in the Stage 06 plan's dated revision. This is user-defined working direction, not canon approval or source verification.

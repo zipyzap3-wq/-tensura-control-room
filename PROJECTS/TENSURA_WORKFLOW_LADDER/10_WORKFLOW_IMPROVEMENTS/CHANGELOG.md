@@ -34,3 +34,9 @@ Future changes must state version, date/session, files changed, reason, behavior
 - Updated the master Stage 06 route, file register and execution checkpoint to point to the new plan.
 - Stage 06 remains blocked because source intake, chronology and Stages 01–05 are not yet evidenced as complete. The live Stage 01 checkpoint and source-reading next action remain unchanged.
 - No chapter prose, source-original body or approved canon was changed.
+
+
+## 1.1.2 - User revision integrated into Volume 1 TWL
+- Added dated user revision to 07_PLANNING/ARC_PLANS/VOLUME_01_GOBTA_SECOND_LIFE_AU_ARC_PLAN.md: double naming, Tempest shared surname as brotherhood gift, WORLD BUILDER upgrade from Rimuru naming, proposed FORMULA ARCHITECT from Veldora naming, knowledge-gated magic creation, dual-skill magical engineering, Dragon Slayer/True Dragon route, and new opening chapter order.
+- Cross-recorded the user direction in 05_PROJECT_AUTHORITY/PROJECT_DIRECTION_AND_AU_INTEGRATION.md and 11_EXECUTION_CHECKPOINT.md.
+- These are working design decisions/proposals, not source verification or canon promotion. Stage 06 remains blocked by source intake/chronology prerequisites.

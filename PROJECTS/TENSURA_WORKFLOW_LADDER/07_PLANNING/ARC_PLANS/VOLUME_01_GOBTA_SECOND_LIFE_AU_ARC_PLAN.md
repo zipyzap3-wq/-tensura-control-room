@@ -69,111 +69,11 @@
 
 ---
 
-## 3. Unique Skill: WORLD BUILDER
+## 3–7. Protagonist abilities and progression (centralized)
 
-### 3.1 Origin
-- The human dies with intense final wishes centered on Minecraft, building, engineering, exploration, mechanisms, creation and creature taming.
-- As with Rimuru's skill acquisition, the World Language / world-system interpretation of those final wishes produces a Unique Skill.
-- Working name: **Unique Skill: WORLD BUILDER**.
-- The skill expresses his desire to create, construct, experiment, explore and make systems work. It is not simply a wish to become the strongest.
+**SOLE AUTHORITATIVE REFERENCE:** [Gobta Reincarnated Protagonist Master Character Sheet](../../../../06_RESEARCH/CHARACTER_DOSSIERS/GOBTA_REINCARNATED_PROTAGONIST_MASTER_CHARACTER_SHEET.md), AB-01 WORLD BUILDER, AB-02 FORMULA ARCHITECT, AB-03 future Dragon Slayer route, growth phases G0–G8.
 
-### 3.2 Core capabilities
-The skill develops a Minecraft-like construction and engineering framework inside Tensura's magicule and skill system. Planned functions include:
-- **Block Perception:** perceive compatible terrain and materials as structured, manipulable components.
-- **Mining:** break compatible nonliving material into usable resources, subject to material resistance and skill limits.
-- **Placement and Construction:** place blocks and build structures using available materials.
-- **Crafting:** combine resources through learned or discovered recipes.
-- **Inventory / Spatial Storage:** store compatible items and materials in a skill-managed space.
-- **Blueprint Recording:** record designs and construction patterns for later use.
-- **Pocket Dimension:** access a genuine Minecraft-like world of the protagonist's own.
-- **Experience System:** acquire and store experience through qualifying activity.
-- **Enchantment System:** discover, create and apply enchantments.
-- **Mechanism Engineering:** construct and configure redstone-like mechanisms and later magical engineering.
-- **Monster Taming:** tame compatible creatures from the pocket dimension and, as the system develops, monsters from the Tensura world.
-- **Reality Interaction:** impose block-oriented construction and material interaction on the surrounding world, initially with limited control.
-
-### 3.3 Limits and rules
-- WORLD BUILDER is not unrestricted Creative Mode.
-- Resources must exist or be obtained. Construction, crafting and manipulation have material, knowledge, complexity and/or magicule costs as appropriate.
-- Stronger or unusual materials resist manipulation until the skill and protagonist develop sufficiently.
-- Living beings cannot simply be mined, dismantled or converted into blocks as ordinary resources.
-- The skill cannot normally copy souls, Unique Skills or another being's identity through crafting.
-- The protagonist must understand, test and develop mechanisms. Remembering a Minecraft design does not guarantee it functions unchanged under Tensura physics.
-- The skill does not prevent him from learning ordinary Tensura skills, magic, resistances, martial abilities or other compatible powers.
-- Exact numerical costs, material tiers and unlock thresholds remain to be established through source-aware system design. Do not invent arbitrary numbers in chapter prose.
-
----
-
-## 4. Pocket dimension: a Minecraft-like world
-
-- WORLD BUILDER grants access to a genuine pocket dimension, not merely a storage inventory.
-- The dimension is an entire Minecraft-like world with terrain, resources, farms, buildable space and Minecraft-native creatures/mobs.
-- It supports mining, construction, farming, resource gathering, redstone engineering and creature taming.
-- The protagonist can tame creatures native to this dimension and can also develop the ability to tame compatible monsters from the Tensura world.
-- Tamed Minecraft-native creatures brought into Tensura reality appear natural and organic, not cube-shaped.
-- Structures, blocks, mining and terrain manipulation may retain their block-based form. The distinction is between the creatures' natural appearance and the skill's construction/terrain interface.
-- Early in the story, the protagonist has poor control over how WORLD BUILDER affects the external world. Mining, chopping and digging in Tensura reality therefore behave according to Minecraft-like rules: soil may come away in cubes and trees/materials may break in block-like units.
-- As he gains experience and control, he learns to choose how and where the skill imposes its block-oriented physics. This is a mastery progression, not an instant toggle available at full precision.
-- Early farming is mainly conducted inside the pocket dimension. Later, when Tempest develops, he can establish farms and production facilities in the real world.
-- A future ambition is to persuade Rimuru to allocate him a floor or section of the dungeon for industrial farms, monster farms, automated production, experimentation and resource generation. This is a later-volume development, not a Volume 1 event.
-- Possible future operations include creeper farms, gunpowder and TNT production, experience farms, resource farms, automated harvesting and processing. These are engineering projects requiring actual setup and resources.
-- **Unresolved:** pocket-world time progression, initial world size, population/creature spawning rules and whether its geography expands through milestones. Do not silently decide these in Volume 1.
-
----
-
-## 5. Java Edition knowledge, coding and command access
-
-- The inspiration and remembered technical knowledge are specifically from **Minecraft Java Edition**, not Bedrock Edition.
-- The protagonist can use Java-oriented mechanism knowledge and a skill-mediated coding/configuration interface to build advanced systems.
-- The system may expose JavaScript-like configuration or command logic as an interface for designing and operating mechanisms. This is a skill translation, not a claim that the Tensura world literally runs Minecraft's native software.
-- Mechanism-oriented configuration, targeted device functions and command-like adjustments may become available earlier than unrestricted world commands.
-- Unrestricted /give, mass /kill, unlimited item generation, Creative Mode and arbitrary world rewriting are locked behind major progression and remain unavailable at the beginning.
-- Commands must not erase resource costs or bypass the established limits of WORLD BUILDER.
-- The protagonist may eventually program complex devices, including orbital strike and railgun systems, but these are not Volume 1 capabilities.
-
----
-
-## 6. Enchantments
-
-- Enchantments are a flexible magical-property system, not a strict copy of Minecraft's ordinary item restrictions.
-- The protagonist can discover or create enchantments through the enchantment-table function as WORLD BUILDER develops.
-- An enchantment he has legitimately found or created may be applied to objects beyond the ordinary Minecraft item category, including tools, equipment, mechanisms and, at higher mastery, machines or structures.
-- Enchantments interact with Tensura magicules and the world's magical rules. They are not merely numerical game bonuses.
-- Compatibility, enchantment strength, cost, stability and the protagonist's current mastery still matter.
-- Do not impose Minecraft's ordinary item-category restrictions as hard limits when the user's rule explicitly allows broader application.
-
----
-
-## 7. Experience, naming and progression
-
-### 7.1 Experience
-- WORLD BUILDER has a Minecraft-like experience pool.
-- Experience can be earned through qualifying activities such as defeating monsters, farming, gathering, crafting, building and other meaningful skill-linked work.
-- Experience is stored and can be accumulated. The protagonist may eventually create experience bottles or equivalent storage items.
-- The exact reward formula and conversion rates remain unresolved. Do not invent precise values without designing and recording a consistent system.
-
-### 7.2 Personal naming mechanic
-- The protagonist develops a special ability to use stored WORLD BUILDER experience as the resource for naming monsters.
-- This avoids drawing directly on his own magicule reserves in the ordinary way.
-- It is not free or unlimited naming. The target's strength, soul, compatibility, naming requirements and the protagonist's available experience still constrain the process.
-- Naming does not automatically guarantee obedience, loyalty or taming. Those are separate relationship/system outcomes.
-- This is his personal mechanic and must not be incorrectly attributed to ordinary Tensura naming.
-
-### 7.3 Rimuru's naming of Gobta
-- Rimuru names the protagonist early, inside the sealed cave, with Veldora present.
-- This is a real naming and must have meaningful effects on Gobta's magicule capacity, physical evolution and development, consistent with the setting's naming rules.
-- The protagonist's experience-based naming ability does not replace or invalidate Rimuru's naming of him.
-
-### 7.4 Resonant Growth
-- Working mechanic: **Resonant Growth**.
-- Because Rimuru has named Gobta and they share a meaningful soul connection, WORLD BUILDER responds to major Rimuru progression/evolution milestones.
-- Whenever Rimuru undergoes a major power-up or evolution, Gobta receives a corresponding advancement in his own development: WORLD BUILDER growth, body development, magicule capacity or related unlocks.
-- This is not copying Rimuru's skills, resistances or abilities. Gobta develops his own system in resonance with Rimuru's milestones.
-- The effect must be frequent and noticeable at every major Rimuru progression milestone, not a vague or occasional background bonus.
-- Gobta is not physically equal to Rimuru at the beginning. The mechanic supports fast, meaningful growth while preserving the starting power gap.
-- Exact trigger thresholds and the proportional scale of each advancement remain to be formalized. The rule itself is user-established.
-
----
+This arc plan records Volume 1 story beats and scene-local capability states only. Full ability lists, functions, limits, inventory mechanics, skill progression and future growth live in the master character sheet. New user suggestions must be captured there first. Do not duplicate skill descriptions here; the sheet is authoritative if wording differs.
 
 ## 8. Death scene and skill acquisition
 
@@ -372,49 +272,9 @@ The protagonist is named twice, and the two naming events have distinct conseque
 3. The shared **Tempest** surname signifies their brotherhood. The precise verbal order and naming mechanics must be source-checked against Volume 1 before drafting, but the user-established emotional intent is fixed: Rimuru names Gobta first; Veldora's naming grants the shared surname and awakens Gobta's second Unique Skill.
 4. **Veldora's naming awakens Gobta's second Unique Skill.** It is separate from WORLD BUILDER and does not replace it.
 
-## B. Unique Skill 1: WORLD BUILDER, strengthened by Rimuru
-Gobta already possesses WORLD BUILDER when he reincarnates. It is his Minecraft Java Edition-inspired construction, engineering, resource, pocket-world, enchantment and taming skill. Rimuru's naming produces a substantial upgrade to its capabilities, precision and magical compatibility. The exact evolution name/form is intentionally unresolved; do not rename or evolve it arbitrarily before design review.
+## B–E. Ability mechanics centralized
 
-## C. Unique Skill 2 proposal: FORMULA ARCHITECT
-**Working name:** Unique Skill: FORMULA ARCHITECT. **Status:** Proposed design for user review; not yet locked as final skill name.
-
-**Core authority:** Create original magic by designing magical formulas. This is not merely learning or copying existing spells. The skill can help analyze, construct, modify, combine, optimize, store and theoretically test formulas, but it does not supply the knowledge needed to understand a formula.
-
-**Critical limitation:** The user must genuinely understand the principles behind what he is attempting to create. If he lacks the necessary knowledge of physics, magicules, magical theory, energy behavior, interactions or relevant mechanisms, the skill cannot magically fill the gap. In principle this makes the skill nearly useless to most people. In Gobta's hands it becomes a cheat because of his unusual background and interests.
-
-**Why Gobta can exploit it:**
-- His human life included Minecraft Java modding and coding/designing how abilities, mechanics and interactions should behave.
-- He has experience thinking in terms of inputs, outputs, conditions, effects, logic, configuration and system behavior. This is a head start in designing magic, not automatic mastery of Tensura's laws.
-- He played many Minecraft mods and knows diverse modded magic/mechanism concepts.
-- He reads a large amount of manga and has a broad imaginative reference library of magic, elemental abilities, barriers, transformations, attacks and supernatural systems.
-- He can use WORLD BUILDER's pocket dimension, construction tools and experimental facilities to test ideas and build apparatus, while FORMULA ARCHITECT supplies the magical design capability.
-- Familiarity with a fictional ability is inspiration and a design reference, not proof he understands its real magical principles. He must translate, study and test it.
-
-**Proposed functions:**
-- Formula Analysis: inspect and reason about encountered magic where his perception/knowledge permits.
-- Formula Construction: design original magic from understood principles.
-- Formula Modification: alter parameters, conditions, behavior and efficiency of known formulas.
-- Formula Combination: combine compatible effects and principles.
-- Formula Optimization: improve stability, output, efficiency and magicule use without bypassing resource limits.
-- Formula Storage: record successful designs for later use/refinement.
-- Theoretical/Experimental Simulation: detect likely design flaws or test formulas through controlled experimentation, not guarantee perfect results.
-
-**Balance:** FORMULA ARCHITECT is powerful and useful, not an automatic omnipotence button. Understanding, experimentation, available magicules, materials, execution ability, complexity, compatibility and failure risks remain relevant. The cheat factor comes from Gobta's knowledge, creativity and ability to combine the two Unique Skills.
-
-## D. Combined magical engineering
-WORLD BUILDER + FORMULA ARCHITECT form a mutually reinforcing system:
-- FORMULA ARCHITECT designs the magical principle/formula.
-- WORLD BUILDER constructs the apparatus, gathers/uses resources, records blueprints and builds test environments.
-- Enchantments can apply compatible properties to tools, mechanisms and devices.
-- Mechanism engineering can configure triggers, controls, targeting and automation.
-- The result is magical engineering, not merely a second combat spell list.
-
-Example future application (not a Volume 1 completed feat): Gobta designs an energy-conversion formula, builds a cannon with WORLD BUILDER, enchants components for stability, and configures the firing mechanism. The idea requires research, materials, testing and progression.
-
-## E. Dragon Slayer route retained
-The user's earlier Dragon Slayer route remains a long-term direction. Gobta eventually creates/develops his own Dragon Slayer Magic through FORMULA ARCHITECT and his study of dragon nature, magicules, physiology and magical principles. Veldora can be a source of exposure/knowledge, but Dragon Slayer Magic is Gobta's own developed system, not an unexplained gift or copied skill.
-
-The intended later path remains: Dragon Slayer development, a later Charybdis-related battlefield trigger, a dragon-themed transformation (white dragon with black markings as an appearance direction), and a long-term ambition to evolve into a True Dragon. These are future-volume seeds, not Volume 1 achievements or automatic consequences of naming.
+The WORLD BUILDER naming upgrade, FORMULA ARCHITECT proposal, combined engineering system and Dragon Slayer/True Dragon growth route are maintained only in the [master character sheet](../../../../06_RESEARCH/CHARACTER_DOSSIERS/GOBTA_REINCARNATED_PROTAGONIST_MASTER_CHARACTER_SHEET.md), sections AB-01–AB-03 and G2–G8. This plan retains naming/relationship event order and Volume 1 consequences. These future capabilities are not Volume 1 feats.
 
 ## F. Opening structure revised
 The former chapter sequence is superseded for planning purposes by this opening structure:

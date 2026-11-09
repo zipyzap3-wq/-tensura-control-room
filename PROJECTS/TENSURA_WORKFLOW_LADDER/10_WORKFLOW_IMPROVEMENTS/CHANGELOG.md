@@ -64,3 +64,11 @@ Future changes must state version, date/session, files changed, reason, behavior
 - Integrated compaction as a mandatory cross-stage/session-boundary practice in the master ladder and repository architecture.
 - Updated checkpoint, register and changelog; summary must distinguish verified facts, user directions, approved decisions, proposals, unknowns, blockers and evidence.
 - Source reading remains pending; immediate next source-work step is to read TWL-021, then process Volume 1 in order.
+
+
+## 1.1.4 - Pocket-dimension worldbuilding and opening weapon progression (2026-11-08)
+- Created dedicated 05_PROJECT_AUTHORITY/WORLDBUILDING/ directory with TWL-194 index and TWL-195 Pocket Dimension World Bible.
+- Centralized the pocket dimension's unusual starting seed and regional geography: enormous upper-limit exposed Ancient City, large village and nearby-but-not-adjacent Trial Chamber; added map and unresolved-world-decision registers.
+- Revised the opening plan so Chapter One is a long original pocket-world opening (human life/death, fusion, first entry, exploration, enchantment exploit, The Yeeter and XP economy) before Chapter Two reconnects to source events.
+- Added XP creation-cost progression, enchantment compatibility exploit and WPN-001 The Yeeter to Gobta's master character sheet. Added projectile conversion, transferred enchantment properties, kinetic collision damage and staged future enchantment upgrades.
+- Cross-linked project direction, arc plan, character sheet, architecture, project README, dossier index, file register and checkpoint. Existing source files and canon were not modified; source reading remains pending and Stage 06 remains blocked.

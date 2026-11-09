@@ -18,7 +18,7 @@ Project root: PROJECTS/TENSURA_WORKFLOW_LADDER/
 ## Directory plan
 - 04_SOURCE_MATERIAL/VOLUME_01 through VOLUME_07: preserved copied source chunks with provenance banners.
 - 04_SOURCE_MATERIAL/SOURCE_COVERAGE_MATRIX.md, SOURCE_CHRONOLOGY.md, SOURCE_UNCERTAINTY_LOG.md.
-- 05_PROJECT_AUTHORITY: canon authority, decisions, approval register.
+- 05_PROJECT_AUTHORITY: canon authority, decisions, approval register, and WORLDBUILDING/ (dedicated setting/world-bible authorities).
 - 06_RESEARCH/CHARACTER_DOSSIERS: one authoritative master sheet per major AU character (identity, abilities, capability rules, future growth and user idea inbox); dossier index; TIME_STATE_CARDS; knowledge matrix.\n- Character ability/capability descriptions live ONLY in master character sheets. Arc plans and chapter packets link to ability IDs and scene-local state instead of duplicating specs.
 - 07_PLANNING/ARC_PLANS and CHAPTER_PACKETS; chapter planning template.
 - 08_DRAFTS/CHAPTER_###: GitHub draft, first review, second audit, workflow path map.
@@ -28,7 +28,7 @@ Project root: PROJECTS/TENSURA_WORKFLOW_LADDER/
 - 12_EXECUTION: checkpoint, file ladder register and session log.
 - 13_REUSABLE_CRAFT: LSM master protocol, Character Forge and Living Appearance Method.
 
-## Character-data organization (mandatory)\n- Each major AU character has one master character sheet under 06_RESEARCH/CHARACTER_DOSSIERS/.\n- The sheet is sole authority for full ability lists, capability descriptions, costs/limits, unlocks, growth plans, user ideas and open decisions.\n- Capture user ideas in the sheet's idea inbox first, then route them to affected plans.\n- Arc plans describe plot beats, not full power descriptions. Chapter packets use only time-state and link the sheet.\n- Never scatter a capability across files or rely on chat memory.\n\n## Conversation continuity and compaction (mandatory)
+## Worldbuilding-data organization (mandatory)\n- Setting geography, structures, maps, ecology, world-generation, climate, time and environmental rules live in dedicated worldbuilding files under 05_PROJECT_AUTHORITY/WORLDBUILDING/.\n- The pocket dimension has one authoritative world bible. Character sheets describe a character's access/abilities; arc plans describe plot beats; neither duplicates the world's geography.\n- Keep user-directed facts, proposals and unresolved world decisions visibly separate.\n\n## Character-data organization (mandatory)\n- Each major AU character has one master character sheet under 06_RESEARCH/CHARACTER_DOSSIERS/.\n- The sheet is sole authority for full ability lists, capability descriptions, costs/limits, unlocks, growth plans, user ideas and open decisions.\n- Capture user ideas in the sheet's idea inbox first, then route them to affected plans.\n- Arc plans describe plot beats, not full power descriptions. Chapter packets use only time-state and link the sheet.\n- Never scatter a capability across files or rely on chat memory.\n\n## Conversation continuity and compaction (mandatory)
 - `13_REUSABLE_CRAFT/CONVERSATION_COMPACTION_AND_DURABLE_HANDOFF_PROTOCOL.md` governs summaries, session handoffs and context-limit recovery.
 - Durable project rules/decisions/state live in authoritative repository files; `11_EXECUTION_CHECKPOINT.md` holds the live resume pointer; `12_FILE_LADDER_REGISTER.md` routes files.
 - Compaction preserves explicit approval, facts vs proposals, unread/unverified material, blockers, chronology and exact next action. Summaries link to authorities and never replace them.

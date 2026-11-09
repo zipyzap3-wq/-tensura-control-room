@@ -90,3 +90,13 @@ Project structure, Workflow Ladder, source archive, reusable craft methods, plan
 - Compaction must retain user intent/constraints, approval boundaries, authoritative paths, evidence-backed completion, unverified work, blockers, open decisions and exact next action. Summaries link to repository authority files and never substitute for them.
 - Session resume verifies checkpoint, master ladder, repository/branch, approvals and next destination. No completion claim without successful write plus fetch verification.
 - Immediate workflow continuation: read TWL-021 chunk-processing protocol, then Volume 1 source guide/chunks in order. Volume 1 reading remains pending.
+
+
+## User revision: pocket-world opening and worldbuilding organization (2026-11-08)
+- Created dedicated setting authority directory: 05_PROJECT_AUTHORITY/WORLDBUILDING/.
+- Added TWL-194 WORLD-BUILDING INDEX and TWL-195 POCKET DIMENSION MASTER WORLD BIBLE. The world bible owns the pocket dimension's generation premise, starting geography, Ancient City, village, Trial Chamber, environmental systems, map register and unresolved worldbuilding decisions.
+- Updated Gobta's master character sheet with XP creation economy, enchantment exploit rules, WPN-001 The Yeeter and future enchantment upgrade ideas.
+- Updated Volume 1 arc plan with the latest opening override: Chapter One is a long original pocket-world opening, including first entry and The Yeeter; Chapter Two begins the source-connected transition/cave route; later chapter boundaries remain subject to source mapping.
+- Updated project direction, architecture, README, dossier routing, register and changelog. No source-origin files were modified. No canon was approved or promoted.
+- Source reading/chronology status remains unchanged: NOT STARTED. Stage 06 remains BLOCKED by Stages 01–05. Chapter drafting is not authorized by this planning update.
+- Immediate live source-work destination remains 13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md, then 04_SOURCE_MATERIAL/VOLUME_01/00_README_AI_CHUNKS.txt.

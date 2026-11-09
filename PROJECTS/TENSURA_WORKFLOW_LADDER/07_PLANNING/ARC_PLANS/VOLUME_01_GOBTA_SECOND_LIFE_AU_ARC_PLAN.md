@@ -89,63 +89,37 @@ This arc plan records Volume 1 story beats and scene-local capability states onl
 
 ## 9. Volume 1 chapter architecture
 
-This is the intended chapter sequence. It is a working outline and must be checked against the actual Volume 1 chunks before it becomes a verified adaptation map.
+This is the current working opening structure. Chapter One is an extended original pocket-world opening; it is not forced into the source-chunk sequence. Chapter Two is the first source-connected transition. The later Volume 1 chapter boundaries remain provisional until source intake and chronology mapping are complete.
 
-### Chapter 1: A Goblin with an Impossible Skill
-- Show the human's death and transition into the fused Gobta identity.
-- Establish that this is fusion, not possession or replacement.
-- Introduce WORLD BUILDER through discovery and practical tests.
-- Establish the pocket dimension and its early state.
-- Demonstrate Minecraft-like block interaction in the Tensura world, including the protagonist's initial lack of fine control.
-- Establish his personality through choices, experimentation and dialogue.
-- Let him recognize that Veldora's disappearance is approaching in the timeline he remembers.
-- Show him planning to reach the cave before the scout group. His planning and technical mindset should be dramatized rather than buried in exposition.
-- End with the decision and preparation to go to the cave.
+### Chapter 1: A World of His Own
+- Cover the human's life, interests, personality and death, then the permanent fusion with Gobta and his awakening.
+- Gobta enters the pocket dimension for the first time and experiences it as a real, persistent world.
+- Establish the unusual starting seed and the three landmarks: an enormous Ancient City exposed at the world's upper build-limit region, a very large village, and a Trial Chamber within practical travel distance of the village but not directly beside it.
+- Explore the environment and test WORLD BUILDER's block interaction, crafting, inventory and early limitations.
+- Have Gobta discover the enchantment exploit through his own experimentation and create WPN-001, The Yeeter. Full mechanics remain in the master character sheet.
+- Establish the XP creation economy: first skill/ability creation receives a lower introductory cost; later creations become substantially more expensive, with costs scaling by power and complexity. Exact formula remains open.
+- Let Gobta assess the village, Ancient City and Trial Chamber as different long-term assets and dangers.
+- End with a meaningful milestone and a causal decision/preparation that leads toward the sealed cave and Chapter Two. No source event needs to be inserted into the pocket-world exploration merely to force an early canon connection.
 
 ### Chapter 2: The Storm Dragon and the Goblin
-- Gobta enters the sealed cave and meets Rimuru and Veldora.
-- Gobta openly reveals that he reincarnated.
-- Rimuru assumes they came from the same world; Gobta does not immediately correct him.
-- Build a natural conversation between the two reincarnators.
-- Gobta is unafraid of Veldora and teases him in a way that provokes a source-faithful reaction.
-- Gobta deliberately asks Rimuru to name him first, while Veldora is present.
-- Rimuru performs a genuine naming with real consequences.
-- Veldora then names Rimuru, preserving the requested order.
-- Gobta and Rimuru leave the cave together. No second encounter in the forest.
+- Transition from the pocket-world opening toward the sealed cave and the first source-connected Volume 1 events.
+- Gobta meets Rimuru and Veldora in the cave; preserve the established single-encounter rule.
+- Gobta openly reveals reincarnation. Rimuru assumes they came from the same world; Gobta does not immediately correct him.
+- Develop contextual, character-faithful dialogue.
+- Rimuru genuinely names Gobta first, strengthening WORLD BUILDER. Verify naming order and mechanics against source and setting rules before drafting.
+- The exact source chunk/page anchors and cave-scene boundary must be verified before Chapter Two drafting.
 
-### Chapter 3: The Village That Wasn't Ready
-- Rimuru and Gobta arrive at the goblin village together.
-- Gobta's return and the presence of a slime are unusual to the villagers.
-- The direwolf threat arrives in the source-aligned sequence.
-- Gobta uses block-based defenses, traps or terrain mechanisms to contribute tactically.
-- Gobta does not defeat the direwolf leader alone.
-- Rimuru remains decisive and defeats the leader.
-- The surviving pack joins the goblins in the established story direction.
-- Rimuru names the goblins and direwolves. Gobta's earlier naming and evolution must be acknowledged and kept mechanically consistent.
-- The village begins its transformation.
+### Chapter 3: Three Brothers, One Surname
+- Veldora gives Gobta the shared Tempest surname as a deliberate brotherhood gift and names Rimuru/Gobta according to the approved naming order.
+- The naming awakens the proposed second Unique Skill FORMULA ARCHITECT. Its final name and exact functions remain subject to the user decision recorded in the master character sheet.
+- Make the brotherhood meaningful while keeping Veldora proud, theatrical and recognizably himself.
+- Preserve Gobta and Rimuru leaving the cave together. No second cave/forest encounter.
 
-### Chapter 4: The Dwarven Kingdom and the First Workshop
-- Preserve the Dwargon journey and the original destination of the major events.
-- Gobta discovers the limits of his crafting and engineering when compared with experienced dwarven craftsmen.
-- Kaijin and the other craftsmen remain essential. Gobta must not make their expertise redundant.
-- Preserve the Bester incident and the relevant Gazel/Rimuru relationship beats in their source-grounded context.
-- The group returns with the craftsmen as appropriate to the source sequence.
-- Gobta begins a workshop and experiments with Resonance Ore and primitive magical mechanisms.
-
-### Chapter 5: The Conqueror of Flames
-- Kaval's party and Shizue arrive in the source-aligned sequence.
-- Gobta recognizes Shizue as an otherworlder and interacts with her without stealing Rimuru's central role.
-- When Ifrit takes control, Gobta's preparation and engineering can contribute tactically.
-- Rimuru remains decisive in the defeat, using the source's core mechanics and retaining the defining achievement.
-- Shizue's death, final request, inheritance, form and memories remain Rimuru's emotional arc.
-- Gobta must not take Shizue's story, Ifrit's defeat or her inheritance away from Rimuru.
-
-### Final Chapter: The Goblin Who Inherited a World
-- Preserve Rimuru's inheritance of Shizue's form/memories and his promise as the emotional center.
-- Show the brotherly bond between Rimuru and Gobta becoming real through what they have experienced.
-- Continue the developing dynamic between Gobta and Veldora.
-- Show the village's evolution, the craftsmen's presence, Gobta's workshop and a meaningful demonstration of WORLD BUILDER/pocket-dimension development.
-- End at the original Volume 1 destination and preserve its major emotional and narrative outcomes.
+### Remaining Volume 1
+- Continue the source-aligned Volume 1 route already preserved in this plan.
+- Rimuru retains the direwolf leader defeat, defining Dwargon outcomes, decisive Ifrit defeat and Shizue's emotional inheritance arc.
+- Gobta contributes through preparation, engineering, tactical support and his own progression without replacing Rimuru's central achievements.
+- Do not lock later chapter numbers or boundaries until all Volume 1 source chunks are read and mapped.
 
 ---
 

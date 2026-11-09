@@ -63,3 +63,13 @@ Project structure, Workflow Ladder, source archive, reusable craft methods, plan
 - Integrated as a dated amendment in TWL-022 Volume 1 arc plan and cross-recorded in TWL-019 Project Direction.
 - Status: working design, not source-verified and not canon-approved. No drafting begins; source intake/chronology gate remains pending.
 - Immediate next destination unchanged: 13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md, then Volume 1 chunk reader/source intake.
+
+
+## Character-sheet centralization and repository organization (2026-11-08)
+- User authorized complete repository organization and explicitly required the Workflow Ladder to remain and be strengthened.
+- Created 06_RESEARCH/CHARACTER_DOSSIERS/GOBTA_REINCARNATED_PROTAGONIST_MASTER_CHARACTER_SHEET.md as the sole authoritative location for protagonist identity, abilities/capabilities, limits, future growth, suggestions and open mechanics.
+- Created 06_RESEARCH/CHARACTER_DOSSIERS/README.md as dossier navigation/data-routing index.
+- Volume 1 arc plan now references the sheet; full ability descriptions and growth mechanics were removed from the arc plan and centralized.
+- Updated repository architecture, project README navigation, and File Ladder Register (entries 190–191).
+- Existing Workflow Ladder, source archives and prior files retained. No existing story/source files deleted.
+- Source-reading checkpoint remains unchanged: read TWL-021, then Volume 1 chunks in order. Character sheet is working design, not canon.

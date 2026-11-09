@@ -57,3 +57,10 @@ Future changes must state version, date/session, files changed, reason, behavior
 - Established strict source sequence with optional bridge/custom chapters only between one chunk's endpoint and the immediate next chunk's start.
 - Canon dialogue is preserved when still fitting; changed only when AU circumstances, Gobta, knowledge, logic, voice or continuity require it.
 - Updated character dossier index/template, repository architecture, master ladder, file register and execution checkpoint. No story canon was promoted.
+
+
+## 1.1.3 - Conversation compaction and durable handoff added (2026-11-08)
+- Created 13_REUSABLE_CRAFT/CONVERSATION_COMPACTION_AND_DURABLE_HANDOFF_PROTOCOL.md (TWL-193), defining classification labels, priority order, compact handoff template, repository-first persistence, compression rules, resume verification, end-of-session handoff and pass/fail test.
+- Integrated compaction as a mandatory cross-stage/session-boundary practice in the master ladder and repository architecture.
+- Updated checkpoint, register and changelog; summary must distinguish verified facts, user directions, approved decisions, proposals, unknowns, blockers and evidence.
+- Source reading remains pending; immediate next source-work step is to read TWL-021, then process Volume 1 in order.

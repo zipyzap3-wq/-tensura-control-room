@@ -73,3 +73,13 @@ Project structure, Workflow Ladder, source archive, reusable craft methods, plan
 - Updated repository architecture, project README navigation, and File Ladder Register (entries 190–191).
 - Existing Workflow Ladder, source archives and prior files retained. No existing story/source files deleted.
 - Source-reading checkpoint remains unchanged: read TWL-021, then Volume 1 chunks in order. Character sheet is working design, not canon.
+
+
+## Character dossiers, chapter approval updates, and canon bridge routing (2026-11-08)
+- User-directed workflow addition: every recurring/consequential character receives an evolving state dossier (appearance, attitude/voice, current powers and limits, opinions of individuals especially Gobta, knowledge/beliefs, last remembered interaction, relationship stage/history and chapter updates).
+- Created CHARACTER_STATE_DOSSIER_TEMPLATE.md; indexed it and set mandatory approval gate in dossier README.
+- Master Workflow Ladder Stage 04 and Stage 14 now require this system. After explicit approval of each chapter, affected character dossiers, knowledge/relationship/continuity ledgers and indexes are updated as part of approval completion. Draft updates remain provisional.
+- Chapter planning must consult current dossiers to preserve power state, reactions, memories, callbacks and relationship progression.
+- Canon sequence clarified: source chunk/event endpoint → optional custom bridge chapter(s) → immediate next source chunk start. No arbitrary chunk placement or jumping.
+- Dialogue preservation: leave source dialogue intact when it fits; adapt only where AU circumstances, Gobta, character knowledge, causal logic, voice or continuity require it. Do not alter merely for novelty.
+- No chapter approval or dossier update has been fabricated; this is workflow design only.

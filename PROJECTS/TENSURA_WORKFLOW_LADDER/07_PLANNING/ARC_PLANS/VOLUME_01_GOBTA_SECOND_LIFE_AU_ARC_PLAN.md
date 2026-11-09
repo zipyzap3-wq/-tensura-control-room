@@ -359,3 +359,78 @@ These concepts are recorded so they are not lost, but must not be pulled prematu
 **Next task:** Convert this verified arc into Volume 1 chapter packets, one chapter at a time, with source chunk/page anchors, POV, cast, character knowledge, scene goals, dialogue objectives, turns, consequences, continuity checks and ending hooks.
 
 **Immediate live repository task while Stage 06 is blocked:** 13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md, then 04_SOURCE_MATERIAL/VOLUME_01/00_README_AI_CHUNKS.txt. Read and verify Volume 1 source chunks in sequence. Do not skip ahead because this plan already contains a proposed outline.
+
+
+# USER REVISION 2026-11-08: DOUBLE NAMING, SECOND UNIQUE SKILL, AND OPENING STRUCTURE
+**Authority:** Explicit user direction in the current conversation. This amendment supersedes conflicting details elsewhere in this working plan. **Status:** Proposed working design, not source-verified and not canon-approved. No repository source text was altered.
+
+## A. Two naming events and the Tempest brotherhood
+The protagonist is named twice, and the two naming events have distinct consequences:
+
+1. **Rimuru names Gobta first.** This is a genuine naming, not a nickname. Gobta receives the name from Rimuru before Veldora names Rimuru. The act strengthens Gobta and gives his existing Unique Skill, WORLD BUILDER, a major capability boost/evolution. It does not grant him a second Unique Skill.
+2. **Veldora names Rimuru and Gobta with the shared surname Tempest.** Veldora regards the three as brothers. He perceives Gobta as the weakest of the three: Rimuru has not yet developed a meaningful understanding of strength, while Gobta is visibly a goblin and comparatively weak. Veldora's decision to give Gobta the Tempest surname is a deliberate gift and an acknowledgment that Gobta belongs beside Rimuru and Veldora as family. It is not pity or a joke.
+3. The shared **Tempest** surname signifies their brotherhood. The precise verbal order and naming mechanics must be source-checked against Volume 1 before drafting, but the user-established emotional intent is fixed: Rimuru names Gobta first; Veldora's naming grants the shared surname and awakens Gobta's second Unique Skill.
+4. **Veldora's naming awakens Gobta's second Unique Skill.** It is separate from WORLD BUILDER and does not replace it.
+
+## B. Unique Skill 1: WORLD BUILDER, strengthened by Rimuru
+Gobta already possesses WORLD BUILDER when he reincarnates. It is his Minecraft Java Edition-inspired construction, engineering, resource, pocket-world, enchantment and taming skill. Rimuru's naming produces a substantial upgrade to its capabilities, precision and magical compatibility. The exact evolution name/form is intentionally unresolved; do not rename or evolve it arbitrarily before design review.
+
+## C. Unique Skill 2 proposal: FORMULA ARCHITECT
+**Working name:** Unique Skill: FORMULA ARCHITECT. **Status:** Proposed design for user review; not yet locked as final skill name.
+
+**Core authority:** Create original magic by designing magical formulas. This is not merely learning or copying existing spells. The skill can help analyze, construct, modify, combine, optimize, store and theoretically test formulas, but it does not supply the knowledge needed to understand a formula.
+
+**Critical limitation:** The user must genuinely understand the principles behind what he is attempting to create. If he lacks the necessary knowledge of physics, magicules, magical theory, energy behavior, interactions or relevant mechanisms, the skill cannot magically fill the gap. In principle this makes the skill nearly useless to most people. In Gobta's hands it becomes a cheat because of his unusual background and interests.
+
+**Why Gobta can exploit it:**
+- His human life included Minecraft Java modding and coding/designing how abilities, mechanics and interactions should behave.
+- He has experience thinking in terms of inputs, outputs, conditions, effects, logic, configuration and system behavior. This is a head start in designing magic, not automatic mastery of Tensura's laws.
+- He played many Minecraft mods and knows diverse modded magic/mechanism concepts.
+- He reads a large amount of manga and has a broad imaginative reference library of magic, elemental abilities, barriers, transformations, attacks and supernatural systems.
+- He can use WORLD BUILDER's pocket dimension, construction tools and experimental facilities to test ideas and build apparatus, while FORMULA ARCHITECT supplies the magical design capability.
+- Familiarity with a fictional ability is inspiration and a design reference, not proof he understands its real magical principles. He must translate, study and test it.
+
+**Proposed functions:**
+- Formula Analysis: inspect and reason about encountered magic where his perception/knowledge permits.
+- Formula Construction: design original magic from understood principles.
+- Formula Modification: alter parameters, conditions, behavior and efficiency of known formulas.
+- Formula Combination: combine compatible effects and principles.
+- Formula Optimization: improve stability, output, efficiency and magicule use without bypassing resource limits.
+- Formula Storage: record successful designs for later use/refinement.
+- Theoretical/Experimental Simulation: detect likely design flaws or test formulas through controlled experimentation, not guarantee perfect results.
+
+**Balance:** FORMULA ARCHITECT is powerful and useful, not an automatic omnipotence button. Understanding, experimentation, available magicules, materials, execution ability, complexity, compatibility and failure risks remain relevant. The cheat factor comes from Gobta's knowledge, creativity and ability to combine the two Unique Skills.
+
+## D. Combined magical engineering
+WORLD BUILDER + FORMULA ARCHITECT form a mutually reinforcing system:
+- FORMULA ARCHITECT designs the magical principle/formula.
+- WORLD BUILDER constructs the apparatus, gathers/uses resources, records blueprints and builds test environments.
+- Enchantments can apply compatible properties to tools, mechanisms and devices.
+- Mechanism engineering can configure triggers, controls, targeting and automation.
+- The result is magical engineering, not merely a second combat spell list.
+
+Example future application (not a Volume 1 completed feat): Gobta designs an energy-conversion formula, builds a cannon with WORLD BUILDER, enchants components for stability, and configures the firing mechanism. The idea requires research, materials, testing and progression.
+
+## E. Dragon Slayer route retained
+The user's earlier Dragon Slayer route remains a long-term direction. Gobta eventually creates/develops his own Dragon Slayer Magic through FORMULA ARCHITECT and his study of dragon nature, magicules, physiology and magical principles. Veldora can be a source of exposure/knowledge, but Dragon Slayer Magic is Gobta's own developed system, not an unexplained gift or copied skill.
+
+The intended later path remains: Dragon Slayer development, a later Charybdis-related battlefield trigger, a dragon-themed transformation (white dragon with black markings as an appearance direction), and a long-term ambition to evolve into a True Dragon. These are future-volume seeds, not Volume 1 achievements or automatic consequences of naming.
+
+## F. Opening structure revised
+The former chapter sequence is superseded for planning purposes by this opening structure:
+
+- **Prologue / Chapter 1: Human Life and Death.** Show his real life before reincarnation: age sixteen, personality, Minecraft Java Edition and modding/coding interests, manga reading and imaginative ability-design habits. Then show the incident that kills him, with the requested physical immediacy and gruesome/tragic quality if suitable. His final wishes lead into skill acquisition and crossover. The structure should echo the function of Rimuru's original-life opening while remaining original in events, dialogue and prose. Do not rush the human life into a paragraph.
+- **Chapter 2: A Goblin and a World Builder.** Awakening as the permanently fused Gobta, initial discovery of WORLD BUILDER, first pocket-dimension and block-physics tests, early limits, and planning to reach the cave before the scout group.
+- **Chapter 3: The Storm Dragon and the Slime.** Cave meeting with Rimuru and Veldora; Gobta openly reveals reincarnation; Rimuru assumes same-world origin and Gobta does not immediately correct him; contextual, character-faithful dialogue; Rimuru genuinely names Gobta first, strengthening WORLD BUILDER.
+- **Chapter 4: Tempest, Three Brothers.** Veldora names Rimuru and gives Gobta the shared Tempest surname, explicitly treating them as brothers and the surname as a gift to the weakest brother. Gobta awakens FORMULA ARCHITECT. The three's reactions and dialogue must make this emotionally meaningful without turning Veldora sentimental or out of character. Gobta and Rimuru leave the cave together; there is no second meeting.
+- The remaining Volume 1 arc follows the already-preserved source-aligned plan, but chapter boundaries may be adjusted after the full source read and chronology map. Do not force the previous Chapter 3–final chapter numbering to remain unchanged.
+
+## G. Required design checks before chapter planning
+- [ ] Verify naming order and surname mechanics against actual Volume 1 source and the setting's naming rules.
+- [ ] Decide whether Rimuru names Gobta with a personal name already held by Gobta, or whether the fused person receives a changed/recognized name; do not invent a contradictory name mechanic.
+- [ ] Define the concrete, visible WORLD BUILDER upgrade from Rimuru's naming.
+- [ ] Review and finalize FORMULA ARCHITECT name, functions, limitations and awakening presentation with the user.
+- [ ] Define what Veldora's naming specifically does mechanically versus emotionally.
+- [ ] Preserve the user-intended shared surname Tempest and brotherhood beat.
+- [ ] Re-map the opening chapters and Volume 1 source coverage after complete source reading.
+- [ ] Keep Dragon Slayer/True Dragon progression in future-volume planning, not Volume 1.

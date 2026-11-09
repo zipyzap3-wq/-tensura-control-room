@@ -9,7 +9,7 @@
 > NEXT DESTINATION: GOBTA_REINCARNATED_PROTAGONIST_MASTER_CHARACTER_SHEET.md
 > NEXT ACTION: Read the protagonist's complete identity, powers and growth design before planning.
 
-# Character Dossier Index
+# Character Dossier Index\n\n**Setting reference:** Pocket-dimension geography and world rules are not character data. Use [the dedicated World-Building Index](../../05_PROJECT_AUTHORITY/WORLDBUILDING/README.md) and [Pocket Dimension World Bible](../../05_PROJECT_AUTHORITY/WORLDBUILDING/POCKET_DIMENSION_WORLD_BIBLE.md). Gobta's master sheet records only his access and ability mechanics.
 
 | Character | Authoritative file | Scope | Status |
 |---|---|---|---|

@@ -40,3 +40,11 @@ Future changes must state version, date/session, files changed, reason, behavior
 - Added dated user revision to 07_PLANNING/ARC_PLANS/VOLUME_01_GOBTA_SECOND_LIFE_AU_ARC_PLAN.md: double naming, Tempest shared surname as brotherhood gift, WORLD BUILDER upgrade from Rimuru naming, proposed FORMULA ARCHITECT from Veldora naming, knowledge-gated magic creation, dual-skill magical engineering, Dragon Slayer/True Dragon route, and new opening chapter order.
 - Cross-recorded the user direction in 05_PROJECT_AUTHORITY/PROJECT_DIRECTION_AND_AU_INTEGRATION.md and 11_EXECUTION_CHECKPOINT.md.
 - These are working design decisions/proposals, not source verification or canon promotion. Stage 06 remains blocked by source intake/chronology prerequisites.
+
+
+## 2026-11-08 | Character data centralization and repository routing
+- Added the Gobta Reincarnated Protagonist Master Character Sheet under 06_RESEARCH/CHARACTER_DOSSIERS/.
+- Added a character dossier index and mandatory data-routing rules.
+- Centralized complete ability/capability descriptions, constraints, growth phases and user idea inbox in the master sheet; Volume 1 arc plan now links it rather than duplicating skill specifications.
+- Updated repository architecture, project README, File Ladder Register and execution checkpoint.
+- Preserved Workflow Ladder, all source archives and existing files; no destructive cleanup.

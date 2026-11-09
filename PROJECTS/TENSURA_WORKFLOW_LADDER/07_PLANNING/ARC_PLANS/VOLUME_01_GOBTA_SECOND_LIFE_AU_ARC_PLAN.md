@@ -294,3 +294,38 @@ The former chapter sequence is superseded for planning purposes by this opening 
 - [ ] Preserve the user-intended shared surname Tempest and brotherhood beat.
 - [ ] Re-map the opening chapters and Volume 1 source coverage after complete source reading.
 - [ ] Keep Dragon Slayer/True Dragon progression in future-volume planning, not Volume 1.
+
+
+# USER REVISION 2026-11-08: LONG POCKET-WORLD OPENING AND THE YEETER
+**Authority:** Explicit user direction in the current conversation. This revision supersedes the earlier opening arrangement in Section 9 and Revision F wherever they conflict. **Status:** User-directed working design; not source-verified and not canon-approved.
+
+## H. Chapter One is a long, self-contained pocket-world opening
+Chapter One is intentionally much longer than a normal transition chapter. It covers the human-to-Gobta transition and the first substantial experience of entering WORLD BUILDER's pocket dimension. It is not yet following the Tensura source-volume scene/chunk sequence. It must nevertheless end with a clear causal bridge toward Chapter Two and the source-connected story.
+
+**Chapter One working sequence**
+1. **Human life and death:** Preserve the established human-life material: age sixteen, personality, Minecraft Java Edition, modding/coding and mechanism interests, imaginative ability design and manga/magic-system interests. Show the death as a concrete event, then connect his final wishes to skill acquisition. Keep this original rather than reproducing Rimuru's opening.
+2. **Fusion and awakening:** He awakens as the permanently fused Gobta. Neither identity is erased. Establish the initial state and limits of WORLD BUILDER through action and dialogue.
+3. **First entry into the pocket dimension:** He enters the pocket world for the first time and experiences it as a real place. The first impression should establish scale, atmosphere, terrain, sky, distance, sound, danger and the difference between a storage space and a persistent world.
+4. **The unusual starting seed:** He discovers or gradually recognizes the rare regional arrangement recorded in [the Pocket Dimension World Bible](../../05_PROJECT_AUTHORITY/WORLDBUILDING/POCKET_DIMENSION_WORLD_BIBLE.md): an enormous Ancient City exposed at the world's upper build-limit region, a very large village within the same regional area, and a Trial Chamber within practical travel distance of the village but not immediately beside it. The Ancient City is the official structure name; “skull city” is only an informal description.
+5. **Exploration and first systems tests:** Test block interaction, mining/placement, crafting, inventory, movement, environmental rules and the limitations of his control. Do not make him instantly master the world.
+6. **First exploit discovery:** Through his own experimentation, Gobta discovers that the enchantment system can be exploited to apply enchantments to an item that should not normally accept them. He develops his first exploited weapon, **The Yeeter**, using an ordinary stick. Its full mechanics live in the master character sheet, not here.
+7. **Initial survival and development planning:** He assesses the village as a potential food/trading/settlement resource, the Ancient City as a dangerous high-value exploration site, and the Trial Chamber as a later combat/loot challenge. He recognizes the need for reliable food, safety, materials, storage and XP income before attempting larger projects.
+8. **XP economy realization:** He learns that experience is a limited progression currency for skill/magic creation. The first skill/ability creation receives the special low-cost introductory treatment; later creations become substantially more expensive, and cost rises with the strength, scope and complexity of the phenomenon or magic being created. He must save XP and eventually develop sustainable XP farms. The exact formula remains open.
+9. **Chapter ending / bridge:** End after a meaningful first-world milestone and a decision/preparation that naturally leads into Chapter Two's move toward the sealed cave and the source-connected Tensura timeline. Do not force an early source event into Chapter One merely to satisfy the original volume order.
+
+**Chapter One source-rule boundary**
+- Chapter One's pocket-dimension exploration is original AU material and does not need to be artificially divided around source chunks.
+- It still must obey the project's general character, continuity, causal, prose and approval rules.
+- It must not contradict source chronology, establish future canon knowledge without cause, or steal Rimuru's defining Volume 1 achievements.
+- The source integration gate resumes at the first source-connected event in Chapter Two. Before drafting, the source chunks and chronology must still be read and verified in the mandatory order. The fact that Chapter One is original does not waive the repository's Stage 01–05 workflow gate or source research requirement.
+
+## I. Chapter sequence after this revision
+- **Chapter One: A World of His Own** — Human life and death, fusion, first pocket-dimension entry, unusual seed and regional discovery, initial WORLD BUILDER tests, enchantment exploit, The Yeeter, XP economy and preparation for the next step.
+- **Chapter Two: The Storm Dragon and the Goblin** — Transition from the pocket-world opening toward the sealed cave; source-connected meeting with Rimuru and Veldora, reincarnation disclosure, and Rimuru's genuine naming of Gobta first. The exact scene/source anchors must be verified.
+- **Chapter Three: Three Brothers, One Surname** — Veldora's naming gift of the shared Tempest surname and awakening of the proposed second Unique Skill FORMULA ARCHITECT. Preserve Veldora's proud/dramatic voice and make the brotherhood meaningful without sentimentality. The exact naming order/mechanics must be source-checked.
+- **Remaining Volume 1:** Continue the source-aligned arc already preserved in this plan. Do not lock later chapter numbers or boundaries until all Volume 1 source chunks are read and mapped. Preserve Rimuru's defining achievements and Shizue's emotional arc.
+
+## J. Pocket-dimension authority and XP/weapon routing
+- All setting details for the pocket dimension are maintained in [05_PROJECT_AUTHORITY/WORLDBUILDING/POCKET_DIMENSION_WORLD_BIBLE.md](../../05_PROJECT_AUTHORITY/WORLDBUILDING/POCKET_DIMENSION_WORLD_BIBLE.md).
+- All WORLD BUILDER mechanics, XP costs, enchantment exploit rules and The Yeeter's full item/projectile behavior are maintained in [06_RESEARCH/CHARACTER_DOSSIERS/GOBTA_REINCARNATED_PROTAGONIST_MASTER_CHARACTER_SHEET.md](../../06_RESEARCH/CHARACTER_DOSSIERS/GOBTA_REINCARNATED_PROTAGONIST_MASTER_CHARACTER_SHEET.md).
+- This arc plan records only the plot sequence and links to those authorities. Do not copy the full geography or weapon specification here.

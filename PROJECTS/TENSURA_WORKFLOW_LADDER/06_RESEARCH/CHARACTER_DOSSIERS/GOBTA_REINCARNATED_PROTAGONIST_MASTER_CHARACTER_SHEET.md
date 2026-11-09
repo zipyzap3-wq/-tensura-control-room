@@ -157,3 +157,84 @@
 
 ## 8. Change history
 - **2026-11-08:** Centralized identity, ability registry, capability rules, limits, growth roadmap, user ideas and open mechanics; added Instant Creation, cross-world inventory, shulker logistics and Tensura growth route.
+
+
+## 9. XP economy, enchantment exploit and first weapon
+
+### AB-01 / progression rule: XP as a creation resource
+**Status:** USER-DIRECTED core; exact formula OPEN.
+- Minecraft-style experience is a scarce, bankable progression resource, not merely a bar used for ordinary enchantments.
+- Creating skills/abilities and creating original magic through the character's system can consume substantial XP.
+- The first skill/ability creation receives a special introductory low-cost treatment. After that first creation, later skill creations become much more expensive.
+- Costs scale upward according to the created effect's strength, scope, complexity and the depth of the phenomenon or magical principle being manipulated.
+- A simple, narrow effect should cost less than a complex, powerful or broadly applicable ability.
+- The exact formula, minimum/maximum cost, XP rewards, storage interface, loss conditions and whether different creation categories use separate cost curves remain OPEN. Do not invent numeric costs.
+- This economy creates a practical need to save XP and eventually build reliable XP farms. The pocket world's farm locations and environmental rules belong in the [Pocket Dimension World Bible](../../05_PROJECT_AUTHORITY/WORLDBUILDING/POCKET_DIMENSION_WORLD_BIBLE.md).
+- XP scarcity must affect decisions in scenes. Gobta cannot casually spend it on every experiment and still afford major future creations.
+
+### Exploit system: enchantments beyond normal item compatibility
+**Status:** USER-DIRECTED exploit premise; exact compatibility, cost and stability rules OPEN.
+- Gobta discovers the exploit himself through experimentation inside his pocket dimension.
+- The exploit allows enchantments to be applied to items that normally cannot accept them, including an ordinary stick.
+- The exploit can also cause the enchantment's properties to affect the object or entity struck/launched by the enchanted item. This is not ordinary vanilla enchantment behavior.
+- The enchantment system is not automatically omnipotent: the exact effects, compatibility, stacking, XP/magicule cost, durability, stability, target resistance and mastery limits must be established through testing.
+- Do not describe this as a normal vanilla mechanic. It is an exploit of Gobta's WORLD BUILDER enchantment system.
+
+### Weapon registry: WPN-001 | THE YEETER
+**Status:** USER-DIRECTED first exploited weapon; working mechanics.
+**Base item:** One ordinary Minecraft stick.
+
+**Initial enchantments**
+| Enchantment | Level | Intended role |
+|---|---:|---|
+| Knockback | II | Supplies powerful melee-launch force. |
+| Punch | II | Adds a second launch-force contribution under the exploit's custom rules. |
+| Power | V | Transfers enhanced projectile damage to what the stick launches. |
+
+**Core behavior: projectile conversion**
+- When Gobta strikes a valid target with The Yeeter, the exploit converts the struck entity or suitable object/block into a projectile and launches it in the direction of the swing.
+- Valid targets can include living entities, monsters, blocks and other suitable objects. Exact target categories and exceptions remain OPEN.
+- The launched target is treated as projectile ammunition for the attack. It inherits the applicable enchantment properties from The Yeeter under the exploit's rules.
+- Power V enhances the damage dealt by the launched projectile. It does not merely increase the stick's ordinary melee damage.
+- Knockback II and Punch II both contribute to launch force in this custom system. Their combined result is intended to be dramatically greater than either enchantment alone. Do not present a precise block-distance formula as finalized until the exploit's stacking rule and physics are defined.
+- The swing direction determines the launch direction, creating a baseball-like strike: Gobta hits the target and sends it flying.
+- Blocks/objects and living entities may behave differently according to mass, resistance, shape and whether the target can be converted. These differences need testing and consistent rules.
+
+**Impact / collision damage**
+- The launched entity/object carries kinetic energy. A later collision can inflict additional damage beyond the initial enchantment hit.
+- Track damage on both sides of a collision where appropriate: the launched projectile can be damaged, broken or destroyed by the impact, while the struck target/environment also receives impact damage.
+- A living target launched into a wall, floor, another creature or other obstacle can suffer secondary physical damage from deceleration/collision.
+- Impact damage depends on launch velocity, effective mass, collision angle, surface hardness, stopping distance and target durability/resistance. Exact formula OPEN.
+- The Yeeter's attack therefore has at least two distinct damage stages: the initial enchanted strike/launch and subsequent collision damage.
+- Do not assume Strength potion levels increase knockback. Under normal Minecraft-inspired potion behavior, Strength increases melee damage rather than launch distance unless a separate custom rule is deliberately introduced.
+
+**Future enchantment additions / upgrades**
+The enchantment exploit is flexible, so future testing may add properties beyond the initial three. These are possible upgrades, not all present on the first stick:
+- **Sharpness V:** transfers cutting/bonus damage properties to launched projectiles and their impacts; it does not simply make the stick itself sharp.
+- **Fire Aspect II:** adds a burning property to valid launched living targets or compatible projectile payloads.
+- **Flame I:** adds a fiery projectile effect where the custom system permits it.
+- **Smite V / Bane of Arthropods V:** conditional bonus damage against the appropriate target categories.
+- **Density V:** possible enhancement for downward/high-impact attacks; exact transfer behavior OPEN.
+- **Breach IV:** possible armor-penetration property for eligible attacks.
+- **Wind Burst III:** possible secondary wind/knockback burst on impact.
+- Other enchantments may be investigated, but each requires an explicit effect definition and limits. Do not assume incompatible vanilla enchantments stack automatically without cost or consequence.
+
+**Design limits and open questions**
+- What targets can be converted, and which are too massive, anchored, protected or incompatible?
+- Is launch force determined by enchantment levels, mass, swing strength, magicule input or a combination?
+- Can Gobta choose direction precisely, or does body/swing alignment govern it?
+- Does a launched entity retain control, attack or ability use while airborne?
+- What happens if the target is larger/heavier than Gobta?
+- Can a block be launched without breaking, and does it retain its block identity on impact?
+- Can The Yeeter launch an entity carrying another entity or object?
+- What are the XP/magicule, durability and recovery costs?
+- Can Gobta safely use it near allies, villagers or structures?
+- How do projectile collision, fire, armor, resistance and enchantment effects interact?
+
+### Idea inbox additions
+- **IDEA-007 (2026-11-08):** XP is a scarce resource for skill/ability and magic creation; the first creation receives a lower introductory cost, later creations become substantially more expensive, and cost scales with power and complexity. See Section 9.
+- **IDEA-008 (2026-11-08):** Gobta discovers an enchantment compatibility exploit and creates The Yeeter, an ordinary stick with Knockback II, Punch II and Power V; it converts struck entities/objects into launched projectiles, transfers applicable enchantment properties and causes secondary kinetic collision damage. See WPN-001.
+- **IDEA-009 (2026-11-08):** Potential future Yeeter upgrades include Sharpness, Fire Aspect, Flame and other enchantments whose properties transfer to launched projectiles. Keep additions staged and define each effect rather than treating every enchantment as an automatic first-version feature.
+
+## 10. Worldbuilding cross-reference
+The pocket dimension's geography, unusual starting seed, upper-limit exposed Ancient City, large village, nearby Trial Chamber, world-generation rules, ecology, maps and environmental systems are maintained in the [Pocket Dimension World Bible](../../05_PROJECT_AUTHORITY/WORLDBUILDING/POCKET_DIMENSION_WORLD_BIBLE.md). This character sheet owns Gobta's access and skill mechanics; it does not own the world's geography.

@@ -28,7 +28,13 @@ Project root: PROJECTS/TENSURA_WORKFLOW_LADDER/
 - 12_EXECUTION: checkpoint, file ladder register and session log.
 - 13_REUSABLE_CRAFT: LSM master protocol, Character Forge and Living Appearance Method.
 
-## Character-data organization (mandatory)\n- Each major AU character has one master character sheet under 06_RESEARCH/CHARACTER_DOSSIERS/.\n- The sheet is sole authority for full ability lists, capability descriptions, costs/limits, unlocks, growth plans, user ideas and open decisions.\n- Capture user ideas in the sheet's idea inbox first, then route them to affected plans.\n- Arc plans describe plot beats, not full power descriptions. Chapter packets use only time-state and link the sheet.\n- Never scatter a capability across files or rely on chat memory.\n\n## Isolation
+## Character-data organization (mandatory)\n- Each major AU character has one master character sheet under 06_RESEARCH/CHARACTER_DOSSIERS/.\n- The sheet is sole authority for full ability lists, capability descriptions, costs/limits, unlocks, growth plans, user ideas and open decisions.\n- Capture user ideas in the sheet's idea inbox first, then route them to affected plans.\n- Arc plans describe plot beats, not full power descriptions. Chapter packets use only time-state and link the sheet.\n- Never scatter a capability across files or rely on chat memory.\n\n## Conversation continuity and compaction (mandatory)
+- `13_REUSABLE_CRAFT/CONVERSATION_COMPACTION_AND_DURABLE_HANDOFF_PROTOCOL.md` governs summaries, session handoffs and context-limit recovery.
+- Durable project rules/decisions/state live in authoritative repository files; `11_EXECUTION_CHECKPOINT.md` holds the live resume pointer; `12_FILE_LADDER_REGISTER.md` routes files.
+- Compaction preserves explicit approval, facts vs proposals, unread/unverified material, blockers, chronology and exact next action. Summaries link to authorities and never replace them.
+- A repository update is reported as complete only after successful write and fetch verification.
+
+## Isolation
 This is a self-contained workspace. Do not import old story chapters, old Gobta character sheets, old AU state, old continuity or prior draft material as canon. Volumes 1-7 are source references only. Source reading and chronology must cover Volumes 1-7 in order; older volumes establish earlier character states and world events. Reusable craft methodology may be adapted without story-specific assumptions. Do not overwrite parent dashboard/LSM files. Work on existing main branch; no new branch is requested.
 
 

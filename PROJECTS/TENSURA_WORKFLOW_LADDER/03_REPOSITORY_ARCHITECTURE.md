@@ -19,7 +19,7 @@ Project root: PROJECTS/TENSURA_WORKFLOW_LADDER/
 - 04_SOURCE_MATERIAL/VOLUME_01 through VOLUME_07: preserved copied source chunks with provenance banners.
 - 04_SOURCE_MATERIAL/SOURCE_COVERAGE_MATRIX.md, SOURCE_CHRONOLOGY.md, SOURCE_UNCERTAINTY_LOG.md.
 - 05_PROJECT_AUTHORITY: canon authority, decisions, approval register.
-- 06_RESEARCH/CHARACTER_DOSSIERS and TIME_STATE_CARDS; knowledge matrix.
+- 06_RESEARCH/CHARACTER_DOSSIERS: one authoritative master sheet per major AU character (identity, abilities, capability rules, future growth and user idea inbox); dossier index; TIME_STATE_CARDS; knowledge matrix.\n- Character ability/capability descriptions live ONLY in master character sheets. Arc plans and chapter packets link to ability IDs and scene-local state instead of duplicating specs.
 - 07_PLANNING/ARC_PLANS and CHAPTER_PACKETS; chapter planning template.
 - 08_DRAFTS/CHAPTER_###: GitHub draft, first review, second audit, workflow path map.
 - 09_CONTINUITY: timeline, character state, knowledge, relationships and open threads.
@@ -28,5 +28,5 @@ Project root: PROJECTS/TENSURA_WORKFLOW_LADDER/
 - 12_EXECUTION: checkpoint, file ladder register and session log.
 - 13_REUSABLE_CRAFT: LSM master protocol, Character Forge and Living Appearance Method.
 
-## Isolation
+## Character-data organization (mandatory)\n- Each major AU character has one master character sheet under 06_RESEARCH/CHARACTER_DOSSIERS/.\n- The sheet is sole authority for full ability lists, capability descriptions, costs/limits, unlocks, growth plans, user ideas and open decisions.\n- Capture user ideas in the sheet's idea inbox first, then route them to affected plans.\n- Arc plans describe plot beats, not full power descriptions. Chapter packets use only time-state and link the sheet.\n- Never scatter a capability across files or rely on chat memory.\n\n## Isolation
 This is a self-contained workspace. Do not import old story chapters, old Gobta character sheets, old AU state, old continuity or prior draft material as canon. Volumes 1-7 are source references only. Source reading and chronology must cover Volumes 1-7 in order; older volumes establish earlier character states and world events. Reusable craft methodology may be adapted without story-specific assumptions. Do not overwrite parent dashboard/LSM files. Work on existing main branch; no new branch is requested.

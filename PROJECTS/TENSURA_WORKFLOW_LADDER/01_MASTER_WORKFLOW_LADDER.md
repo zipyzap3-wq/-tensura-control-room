@@ -18,6 +18,8 @@ The Workflow Ladder is the project's operating system. Every participating file 
 
 The work order belongs inside the file description/purpose, not only in a separate index. Use PURPOSE / WORK ORDER, PREREQUISITES, REQUIRED ACTIONS, STATUS, COMPLETION EVIDENCE, PREVIOUS FILE, NEXT DESTINATION and NEXT ACTION. Update the status and next pointer as work progresses. The checkpoint is the live resume pointer; the register is the file-route index.
 
+The mandatory conversation compaction/handoff engine is `13_REUSABLE_CRAFT/CONVERSATION_COMPACTION_AND_DURABLE_HANDOFF_PROTOCOL.md` (TWL-193). Use it at context/session boundaries, preserve approved-vs-proposed and verified-vs-unread distinctions, and synchronize the repository checkpoint before handing off. A summary is never a substitute for source/canon/workflow files.
+
 The mandatory source-processing engine is `13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md` (TWL-021). Read it before actual source intake. It governs the seven processing states, per-chunk extraction, boundary carryover, reconciliation, volume closure and exact handoffs. `SOURCE_CHUNK_INTEGRATION_METHOD.md` governs adaptation fidelity; the new protocol governs the mechanical reading and tracking of every chunk. Both are required.
 
 Writing craft is not optional reference material. During planning, drafting and review, actively apply `LIGHT_NOVEL_SERIAL_NARRATIVE_METHOD.md`, `AUTHORING_PREFERENCES.md`, `CHARACTER_INTEGRITY_AND_VOICE_LOCK.md`, `CHARACTER_FORGE.md`, `LIVING_APPEARANCE_METHOD.md` and `LSM_MASTER_PROTOCOL.md` as applicable. Chapter packets must identify which craft rules are relevant; reviews must explicitly test them. Listing a method without applying it is not compliance.
@@ -69,6 +71,7 @@ Stage 01 and Stage 02 now cover source Volumes 1–7, not only 6–7. Read and m
 - After Stage 12: assess process compliance and whether the ladder enabled a bypass.
 - After Stage 14: update canon ledgers only following approval.
 - Stage 15 improves future execution. It never silently changes story canon.
+- Conversation compaction is a cross-stage duty: persist durable rules/decisions in their proper files, keep the checkpoint as the exact resume pointer, and produce a loss-resistant handoff using TWL-193. Do not rely on chat memory alone.
 
 ## Stop conditions
 Stop if a required file is missing, source coverage is uncertain, source and project canon conflict, knowledge state is unclear, drafts differ, workflow version mismatches, approval is absent or protected mutation lacks explicit permission.

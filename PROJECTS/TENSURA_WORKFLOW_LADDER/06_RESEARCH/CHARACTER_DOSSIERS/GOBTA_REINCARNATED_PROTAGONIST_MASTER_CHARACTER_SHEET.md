@@ -197,6 +197,7 @@
 - The launched target is treated as projectile ammunition for the attack. It inherits the applicable enchantment properties from The Yeeter under the exploit's rules.
 - Power V enhances the damage dealt by the launched projectile. It does not merely increase the stick's ordinary melee damage.
 - Knockback II and Punch II both contribute to launch force in this custom system. Their combined result is intended to be dramatically greater than either enchantment alone. Do not present a precise block-distance formula as finalized until the exploit's stacking rule and physics are defined.
+- **Rough design target:** approximately 14.7 blocks of horizontal launch on an ideal, unobstructed hit if the custom rule adds the previously discussed approximate 8-block Punch contribution and 6.7-block Knockback contribution. This is a fictional design target for the exploit, not a claim about verified vanilla enchantment formulas. Actual travel can vary with target mass, resistance, collision and launch conditions.
 - The swing direction determines the launch direction, creating a baseball-like strike: Gobta hits the target and sends it flying.
 - Blocks/objects and living entities may behave differently according to mass, resistance, shape and whether the target can be converted. These differences need testing and consistent rules.
 

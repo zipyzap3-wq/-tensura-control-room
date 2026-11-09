@@ -48,3 +48,12 @@ Future changes must state version, date/session, files changed, reason, behavior
 - Centralized complete ability/capability descriptions, constraints, growth phases and user idea inbox in the master sheet; Volume 1 arc plan now links it rather than duplicating skill specifications.
 - Updated repository architecture, project README, File Ladder Register and execution checkpoint.
 - Preserved Workflow Ladder, all source archives and existing files; no destructive cleanup.
+
+
+## 2026-11-08 | Character state dossier and chapter-approved state progression
+- Added mandatory per-character state dossiers and a reusable template/index routing: appearance, personality/voice, current powers/limits, views of Gobta/others, knowledge/beliefs, last remembered interaction, relationship stage and history.
+- Master Workflow Ladder now requires affected-character dossier updates after each explicitly approved chapter; provisional updates stay provisional before approval.
+- Chapter planning must consult dossiers for power/time-state accuracy, reactions, callbacks, recollections and relationship continuity.
+- Established strict source sequence with optional bridge/custom chapters only between one chunk's endpoint and the immediate next chunk's start.
+- Canon dialogue is preserved when still fitting; changed only when AU circumstances, Gobta, knowledge, logic, voice or continuity require it.
+- Updated character dossier index/template, repository architecture, master ladder, file register and execution checkpoint. No story canon was promoted.

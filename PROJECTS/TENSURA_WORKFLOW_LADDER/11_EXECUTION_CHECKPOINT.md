@@ -56,3 +56,10 @@ Project structure, Workflow Ladder, source archive, reusable craft methods, plan
 - Reason: source reading and chronology mapping remain pending; Stages 01–05 must be evidenced before Stage 06 closes.
 - Immediate next action unchanged: read 13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md in full, then process 04_SOURCE_MATERIAL/VOLUME_01/00_README_AI_CHUNKS.txt and Volume 1 chunks in order.
 - No chapter prose, canon promotion or source-file body modification was performed.
+
+
+## User power-system/opening revision (2026-11-08)
+- User requested integration into TWL: double naming, Tempest shared surname/brotherhood, Rimuru naming boost to WORLD BUILDER, Veldora naming awakening second Unique Skill (FORMULA ARCHITECT proposed), magic-creation knowledge restriction, dual-skill magical engineering, retained Dragon Slayer/True Dragon route and revised opening chapter order.
+- Integrated as a dated amendment in TWL-022 Volume 1 arc plan and cross-recorded in TWL-019 Project Direction.
+- Status: working design, not source-verified and not canon-approved. No drafting begins; source intake/chronology gate remains pending.
+- Immediate next destination unchanged: 13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md, then Volume 1 chunk reader/source intake.

@@ -8,8 +8,8 @@
 **Prerequisites:** Master ladder, file register, source read log and TWL-021 chunk-processing protocol.
 **Required actions:** Update at session start/end and every stage transition.
 **Completion evidence:** Session log and consistent status.
-**NEXT DESTINATION:** 13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md
-**NEXT ACTION:** Read the mandatory chunk-processing protocol before opening the Volume 1 chunk guide.
+**NEXT DESTINATION:** 13_REUSABLE_CRAFT/CONVERSATION_COMPACTION_AND_DURABLE_HANDOFF_PROTOCOL.md
+**NEXT ACTION:** Compaction protocol is now added and verified; use it to preserve this checkpoint. Then read 13_REUSABLE_CRAFT/CHUNK_PROCESSING_AND_HANDOFF_PROTOCOL.md before opening the Volume 1 chunk guide.
 
 # Execution Checkpoint
 - Workflow version: 1.1.0
@@ -83,3 +83,10 @@ Project structure, Workflow Ladder, source archive, reusable craft methods, plan
 - Canon sequence clarified: source chunk/event endpoint → optional custom bridge chapter(s) → immediate next source chunk start. No arbitrary chunk placement or jumping.
 - Dialogue preservation: leave source dialogue intact when it fits; adapt only where AU circumstances, Gobta, character knowledge, causal logic, voice or continuity require it. Do not alter merely for novelty.
 - No chapter approval or dossier update has been fabricated; this is workflow design only.
+
+
+## Conversation compaction protocol integration (2026-11-08)
+- Added TWL-193, mandatory cross-stage conversation compaction and durable handoff protocol.
+- Compaction must retain user intent/constraints, approval boundaries, authoritative paths, evidence-backed completion, unverified work, blockers, open decisions and exact next action. Summaries link to repository authority files and never substitute for them.
+- Session resume verifies checkpoint, master ladder, repository/branch, approvals and next destination. No completion claim without successful write plus fetch verification.
+- Immediate workflow continuation: read TWL-021 chunk-processing protocol, then Volume 1 source guide/chunks in order. Volume 1 reading remains pending.

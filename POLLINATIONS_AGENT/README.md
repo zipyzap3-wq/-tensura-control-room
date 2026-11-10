@@ -33,7 +33,7 @@ Pollinations code agents use one self-contained `agent.ts` at the root of a **pu
 
 The Pollinations code-agent deployment reads the repository's default branch. Therefore, this branch is prepared source code, **not yet a deployed Pollinations model**. To deploy without merging into the existing control-room project, create a separate public agent repository from this branch or copy the root `agent.ts` into a dedicated public repository and register that repository in My Models → Add Agent → Code Agent. Do not merge this branch into `main` merely to deploy.
 
-The agent uses Pollinations' `computer` MCP server for persistent workspace storage. Model and computer-tool calls may consume the caller's Pollen balance according to the live catalog.
+The agent uses Pollinations' `machines` MCP server ID (the catalog's Linux sandbox; displayed as “computer”) for persistent workspace storage. The server ID matters: `mcp.tools()` must receive `machines`, not `computer`. Model and computer-tool calls may consume the caller's Pollen balance according to the live catalog.
 
 ## First test
 

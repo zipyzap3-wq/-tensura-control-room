@@ -92,7 +92,7 @@ export default async function agent({ model, respond, mcp }) {
   return respond({
     model: model("google/gemini-3.8-flash"),
     instructions: INSTRUCTIONS,
-    tools: await mcp.tools("computer"),
+    tools: await mcp.tools("machines"),
     stopWhen: stepCountIs(12),
   });
 }

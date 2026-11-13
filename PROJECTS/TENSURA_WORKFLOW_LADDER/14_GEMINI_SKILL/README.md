@@ -1,19 +1,32 @@
-# The Weakest God — Unified Gemini Skill
-> WORKFLOW LADDER: 00 Control → 01 Source intake → 02 Chronology → 03 Canon/continuity → 04 Character state → 05 AU integration → 06 Arc planning → 07 Chapter planning → 08 Draft → 09 Review → 10 Audit → 11 Presentation → 12 Revision → 13 Approval → 14 Canon promotion → 15 Self-evolution.
-> FILE POSITION: Stage 00. PURPOSE: Single entry point for one integrated Gemini Skill. PREREQUISITES: Read SKILL.md and both governing workflows. REQUIRED ACTIONS: Keep this folder as the sole Skill package; do not split it into separate writing and Tensura skills. STATUS: Package created; Gemini activation not yet verified. COMPLETION EVIDENCE: Package files exist in GitHub. NEXT: SKILL.md.
+# The Weakest God — Unified Pollinations-Enabled Story Production Skill
 
-## Canonical folder
+> WORKFLOW LADDER: 00 Control → 01 Source → 02 Craft → 03 Continuity → 04 Character state → 05 AU → 06 Plan → 07 Chapter plan → 08 Draft → 09 Review → 10 Audit → 11 Presentation → 12 Revision → 13 Approval → 14 Canon → 15 Improvement.
+> FILE POSITION: Stage 00 package index. PURPOSE: Single entry point for one integrated Skill, its Pollinations runtime, and Dropbox database. PREREQUISITES: Read SKILL.md first. REQUIRED ACTIONS: Keep this folder as the sole skill package; do not split into separate writing and Tensura skills. STATUS: Integrated package specification. COMPLETION EVIDENCE: Package files and runtime links. NEXT: SKILL.md.
+
+## Canonical skill folder
 https://github.com/zipyzap3-wq/-tensura-control-room/tree/main/PROJECTS/TENSURA_WORKFLOW_LADDER/14_GEMINI_SKILL
 
-## Files
-- SKILL.md — complete combined skill instructions.
-- WORKFLOW_INTEGRATION.md — reconciliation of both repository workflows.
-- SOURCE_LIBRARY_MAP.md — authoritative source locations and reading rules.
-- KNOWLEDGE_BASE_SCHEMA.md — normalized story knowledge model.
-- GEMINI_SETUP.md — one-skill installation and test instructions.
+## Package files
+- SKILL.md — complete unified instructions combining Pollinations craft research, Tensura writing, both repository workflows, and Dropbox integration.
+- WORKFLOW_INTEGRATION.md — authority reconciliation and task routing.
+- SOURCE_LIBRARY_MAP.md — exact Volume 1 and active story source locations.
+- KNOWLEDGE_BASE_SCHEMA.md — structured database schema and provenance model.
+- POLLINATIONS_AGENT_INTEGRATION.md — runtime architecture, ingestion, deployment, and tool limits.
+- DROPBOX_DATABASE_SPEC.md — proposed Dropbox path, structure, population sequence, and capability boundaries.
+- GEMINI_SETUP.md — installation and first-use verification.
 
-## Governing repositories
-- Control Room: https://github.com/zipyzap3-wq/-tensura-control-room/tree/main/PROJECTS/TENSURA_WORKFLOW_LADDER
-- Gobta story: https://github.com/zipyzap3-wq/Gobta-s-tensura-/tree/gobta-new-story-workflow/NEW_STORY
+## Connected projects
+Control Room:
+https://github.com/zipyzap3-wq/-tensura-control-room/tree/main/PROJECTS/TENSURA_WORKFLOW_LADDER
 
-Source chunks remain in their original repositories. This package links to them; it does not rewrite or duplicate them.
+Active Gobta story:
+https://github.com/zipyzap3-wq/Gobta-s-tensura-/tree/gobta-new-story-workflow/NEW_STORY
+
+Pollinations runtime:
+https://github.com/zipyzap3-wq/tensura-volume1-craft-agent
+
+## Database destination
+Dropbox is the durable user-owned knowledge database. Proposed path and folder structure are recorded in DROPBOX_DATABASE_SPEC.md. The Dropbox folder has not yet been created or populated; do not treat the proposed path as live until verified.
+
+## Governing rule
+This is ONE integrated skill package. The Pollinations runtime is its supporting research engine, not a second skill. The Dropbox database is the user-owned knowledge store, not a skill or canon repository.
